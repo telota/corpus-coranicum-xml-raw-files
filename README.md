@@ -1,4 +1,4 @@
-# Corpus Coranicum XML Files
+# Corpus Coranicum Raw XML Files
 
 ## Licence
 © Berlin-Brandenburgische Akademie der Wissenschaften 2024
