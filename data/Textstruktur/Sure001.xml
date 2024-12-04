@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Quran xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="Textstruktur.xsd">
+    <Sure id="001" translator="Angelika Neuwirth" webtauglich="true">
+        <Hauptteil id="0">
+            <Abschnitt id="0">
+                <Gesaetz n="0">
+                    <Vers n="001">
+                        <Teilvers n="001" reim="2n/m">
+                            <Kolon lang="ar" Einschub="false" n="1">بِسۡمِ ٱللَّهِ ٱلرَّحۡمَٰنِ ٱلرَّحِيمِ</Kolon>
+                            <Kolon lang="de" Einschub="false" n="1">Im Namen Gottes, des barmherzigen Erbarmers!</Kolon>
+                        </Teilvers>
+                    </Vers>
+                </Gesaetz>
+            </Abschnitt>
+        </Hauptteil>
+        <Hauptteil id="1">
+            <Abschnitt id="1">
+                <Gesaetz n="1">
+                    <Vers n="002">
+                        <Teilvers n="002" reim="2n/m">
+                            <Kolon Einschub="false" lang="ar" n="2">ٱلۡحَمۡدُ لِلَّهِ رَبِّ ٱلۡعَٰلَمِينَ </Kolon>
+                            <Kolon Einschub="false" lang="de" n="2">Lob sei Gott, dem Herrn der Welten,</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="003">
+                        <Teilvers n="003" reim="2n/m">
+                            <Kolon Einschub="false" lang="ar" n="3">ٱلرَّحۡمَٰنِ ٱلرَّحِيمِ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="3">dem barmherzigen Erbarmer,</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="004">
+                        <Teilvers n="004" reim="2n/m">
+                            <Kolon Einschub="false" lang="ar" n="4">مَٰلِكِ يَوۡمِ ٱلدِّينِ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="4">dem König des Gerichtstags!</Kolon>
+                        </Teilvers>
+                    </Vers>
+                </Gesaetz>
+                <Gesaetz n="2">
+                    <Vers n="005">
+                        <Teilvers n="005" reim="2n/m">
+                            <Kolon Einschub="false" lang="ar" n="5">إِيَّاكَ نَعۡبُدُ وَإِيَّاكَ نَسۡتَعِينُ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="5">Dir dienen wir und dich rufen wir um Hilfe an!</Kolon>
+                        </Teilvers>
+                    </Vers>
+                </Gesaetz>
+                <Gesaetz n="3">
+                    <Vers n="006">
+                        <Teilvers n="006" reim="2n/m">
+                            <Kolon Einschub="false" lang="ar" n="6">ٱهۡدِنَا ٱلصِّرَٰطَ ٱلۡمُسۡتَقِيمَ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="6">Führe uns den geraden Weg,</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="007">
+                        <Teilvers n="007" reim="2n/m">
+                            <Kolon Einschub="false" lang="ar" n="7">صِرَٰطَ ٱلَّذِينَ أَنۡعَمۡتَ عَلَيۡهِمۡ </Kolon>
+                            <Kolon Einschub="false" lang="de" n="7">den Weg derer, denen du Huld erwiesen hast,</Kolon>
+                            <Kolon Einschub="false" lang="ar" n="8">غَيۡرِ ٱلۡمَغۡضُوبِ عَلَيۡهِم</Kolon>
+                            <Kolon Einschub="false" lang="de" n="8">nicht derer, auf denen dein Zorn lastet,</Kolon>
+                            <Kolon Einschub="false" lang="ar" n="9">وَلَا ٱلضَّآلِّينَ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="9">und nicht derer, die irregehen.</Kolon>
+                        </Teilvers>
+                    </Vers>
+                </Gesaetz>
+            </Abschnitt>
+        </Hauptteil>
+    </Sure>
+</Quran>

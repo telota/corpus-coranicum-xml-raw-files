@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc src="1415_Doha_HC.MS.03149_tei.xml" ms="1415">
+    <pb xml:id="f.1r"/><!-- Page ID: 1415,f. 1r,101:009:001-102:000:004 --><!-- Lines: 5; Valid Lines: 5 -->
+    <l n="1">
+        <note/>
+        <w n="101-009-001">ڢامه</w>
+        <pc> </pc>
+        <w n="101-009-002">هاوية</w>
+        <pc> </pc><!-- Vers Break: '9'-->
+        <w n="000-000-000">۝
+            <supplied reason="omitted-in-original" source="#cairo_rasm">٩</supplied>
+        </w>
+        <pc> </pc>
+    </l>
+    <l n="2">
+        <note/>
+        <w n="101-010-001">وما</w>
+        <pc> </pc>
+        <w n="101-010-002">ادريک</w>
+        <pc> </pc>
+        <w n="101-010-003">ما</w>
+        <pc> </pc>
+    </l>
+    <l n="3">
+        <note/>
+        <w n="101-010-004">هيه</w>
+        <pc> </pc><!-- Vers Break: '10'-->
+        <w n="000-000-000">۝
+            <supplied reason="omitted-in-original" source="#cairo_rasm">١٠</supplied>
+        </w>
+        <pc> </pc>
+        <w n="101-011-001">نار</w>
+        <pc> </pc>
+        <w n="101-011-002">حامية</w>
+        <pc> </pc><!-- Vers Break: '11'-->
+        <w n="000-000-000">۝
+            <supplied reason="omitted-in-original" source="#cairo_rasm">١١</supplied>
+        </w>
+        <pc> </pc>
+    </l>
+    <l n="4">
+        <note/>
+        <w n="102-000-000">
+            <hi rend="4_-_multiple_modification">الٮکاٮر</hi>
+        </w>
+        <pc>
+            <hi rend="4_-_multiple_modification"> </hi>
+        </pc>
+        <w n="102-000-001">
+            <hi rend="4_-_multiple_modification">ٮماں</hi>
+        </w>
+        <pc>
+            <hi rend="4_-_multiple_modification"> </hi>
+        </pc>
+        <w n="102-000-002">
+            <hi rend="4_-_multiple_modification">اىاٮ</hi>
+        </w>
+        <pc>
+            <hi rend="4_-_multiple_modification"> </hi>
+        </pc>
+    </l>
+    <l n="5">
+        <note/>
+        <w n="102-000-003">بسم</w>
+        <pc> </pc>
+        <w n="102-000-004">الل‍ه</w>
+        <pc> </pc>
+        <w n="102-000-005" type="unclear">الرحمن</w>
+        <pc> </pc>
+        <w n="102-000-006" type="unclear">الرحيم</w>
+        <pc> </pc>
+    </l>
+    <pb xml:id="f.1v"/><!-- Page ID: 1415,f. 1v,102:001:001-102:005:001 --><!-- Lines: 5; Valid Lines: 5 -->
+    <l n="1">
+        <note/>
+        <w n="102-001-001">الهىکم</w>
+        <pc> </pc>
+        <w n="102-001-002">التکاثر</w>
+        <pc> </pc><!-- Vers Break: '1'-->
+        <w n="000-000-000">۝
+            <supplied reason="omitted-in-original" source="#cairo_rasm">١</supplied>
+        </w>
+        <pc> </pc>
+    </l>
+    <l n="2">
+        <note/>
+        <w n="102-002-001">حتى</w>
+        <pc> </pc>
+        <w n="102-002-002">زرتم</w>
+        <pc> </pc>
+        <w n="102-002-003">المڧابر</w>
+        <pc> </pc><!-- Vers Break: '2'-->
+        <w n="000-000-000">۝
+            <supplied reason="omitted-in-original" source="#cairo_rasm">٢</supplied>
+        </w>
+        <pc> </pc>
+    </l>
+    <l n="3">
+        <note/>
+        <w n="102-003-001">کلا</w>
+        <pc> </pc>
+        <w n="102-003-002">سوڢ</w>
+        <pc> </pc>
+        <w n="102-003-003">تعلمون</w>
+        <pc> </pc><!-- Vers Break: '3'-->
+        <w n="000-000-000">۝
+            <supplied reason="omitted-in-original" source="#cairo_rasm">٣</supplied>
+        </w>
+        <pc> </pc>
+    </l>
+    <l n="4">
+        <note/>
+        <w n="102-004-001">ثم</w>
+        <pc> </pc>
+        <w n="102-004-002">کلا</w>
+        <pc> </pc>
+        <w n="102-004-003">سوڢ</w>
+        <pc> </pc>
+    </l>
+    <l n="5">
+        <note/>
+        <w n="102-004-004">تعلمون</w>
+        <pc> </pc><!-- Vers Break: '4'-->
+        <w n="000-000-000">۝
+            <supplied reason="omitted-in-original" source="#cairo_rasm">٤</supplied>
+        </w>
+        <pc> </pc>
+        <w n="102-005-001">کلا</w>
+        <pc> </pc>
+    </l>
+</doc>

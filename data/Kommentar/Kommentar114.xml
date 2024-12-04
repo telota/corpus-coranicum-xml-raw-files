@@ -1,0 +1,394 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<korankommentar xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:noNamespaceSchemaLocation="Kommentar.xsd">
+ <sure id="114" webtauglich="true"/>
+ <surentitel>
+  <text versstart="000" versend="006" verfasser="an">
+   <p>Sure 114 — <lang xml:lang="ar-Latn">an-nās</lang> — »Die Menschen«</p>
+  </text>
+ </surentitel>
+ <autorenkurz>
+  <text versstart="000" versend="006" verfasser="tjj">
+   <p>Übersetzt und analysiert von Dirk Hartwig und Angelika Neuwirth</p>
+  </text>
+ </autorenkurz>
+ <datierungkurz>
+  <text versstart="000" versend="006" verfasser="an">
+   <p>Mekka II</p>
+  </text>
+ </datierungkurz>
+ <literarkritikkurz>
+  <text versstart="000" versend="006" verfasser="an">
+   <p/>
+  </text>
+ </literarkritikkurz>
+ <literarkritik>
+  <text versstart="000" versend="006" verfasser="an">
+   <p>Die Sure ist Einheit. Sie enthält keine medinischen Einschübe, wird aber von einigen
+    traditionellen Gelehrten in Gänze für medinisch gehalten, so z.B. Ibn ʿAbbās und Qatāda (siehe
+    dazu <bibl Zotero_Id_1="3RWFQBDU">Nagel 1995:98f.</bibl>).</p>
+   <p>Die Sure spielt als Abschluß des Textcorpus eine Sonderrolle. Die Frage, ob sie auch zur
+    historischen mündlichen Verkündigung gehört hat, wird kontrovers beantwortet. Bekanntlich ist
+    sie in dem vorkanonischen Kodex des Ibn Masʿūd nicht enthalten (siehe
+    <lang xml:lang="ar-Latn">Kitāb al-maṣāḥif</lang> = <bibl Zotero_Id_1="WASUD484">Jeffery, <hi
+      rend="italic">FVQ</hi>, S. 21</bibl>, und vgl. <bibl Zotero_Id_1="NXGPM5Z8">al-Sharfī [Charfi]
+     2016:484</bibl> und <bibl Zotero_Id_1="6I96FAXT">Neuwirth, <hi rend="italic">KTS</hi>, S.
+     192–200</bibl>; <bibl Zotero_Id_1="4WEWN8NZ">Neuwirth, <hi rend="italic">SKMS</hi>, 2. Aufl.,
+     S. 20–24</bibl>). Dasselbe gilt für die ihr vorausgehende <q type="koran" versstart="113:000"
+     versend="113:005">Sure 113</q> und für <q type="koran" versstart="001:000" versend="001:007"
+     >Sure 1</q>
+    <lang xml:lang="ar-Latn">al-fātiha</lang>, die zusammen als ›Rahmenteile des Corpus‹ bezeichnet
+    werden können. Bei <q type="koran" versstart="001:000" versend="001:007">Q 1</q> wurde die
+    <lang xml:lang="fr-Latn">raison d’être</lang> dieser Rahmenteile folgendermaßen begründet (<bibl
+     Zotero_Id_1="R7C4TXP6"><hi rend="italic">HK 2/1</hi>, S. 86</bibl>): »Diese [d.h. <q
+     type="koran" versstart="001:000" versend="001:007">Q 1</q> und <q type="koran"
+     versstart="113:000" versend="113:005">Q 113</q> und <q type="koran" versstart="114:000"
+     versend="114:006">114</q>] im kanonischen Corpus den Rahmen des Koran bildenden Texte, der
+    erste ein Gebet, die beiden letzten apotropäische Sprüche, betonen die zeremoniale Dimension des
+    Schriftcorpus, in dessen Lektüre der Leser mit einem Gebet eintritt und dessen Unberührbarkeit
+    durch Kräfte des Bösen er mit einem Abwehrspruch sichert.« Dies betrifft natürlich nur das
+    Schriftcorpus, <lang xml:lang="ar-Latn">al-muṣḥaf</lang>, mit dem wir in der Literarkritik ja zu
+    tun haben. Betrachten wir die Sure als Teil der noch im Prozeß befindlichen Verkündigung, so
+    haben wir sie aus ihrer Funktion für das Corpus zu lösen und sie auf ihre literarische Gestalt
+    hin zu betrachten. Siehe dazu unten <q type="inhaltstruktur" versstart="114:000"
+     versend="114:006">»Inhalt und Struktur«</q>.</p>
+   <p><hi rend="bold">Versabteilungsdifferenzen</hi>
+   </p>
+   <p>Kūfa, Baṣra und Medina setzen keinen Versschluß nach <q type="koran" versstart="114:003"
+     versend="114:003">V. 3</q> an — offensichtlich wegen der syntaktischen Abhängigkeit von <q
+     type="koran" versstart="114:004" versend="114:004">V. 4</q> vom Vorausgehenden. Die von den
+    Lesern angenommene Versabteilung würde allerdings einen für den Rhythmus der Sure ungewöhnlich
+    langen Vers erzeugen, vor allem würde sie das in der Sure offenbar formative Enjambement-Muster
+    der ersten Verse durchbrechen. Die Sure kann als ein
+    <lang xml:lang="ar-Latn">Hiǧāʾ</lang>-Gedicht gelten, bei dem die Betonung der normalerweise
+    auf ultimabetonten Reim endenden Kola bzw. Verse durch ihren Rhythmus zusätzliche Emphase
+    erzeugt (siehe <bibl Zotero_Id_1="3RYKL7UX">Ullmann 1966:18–24</bibl>); zu
+    <lang xml:lang="ar-Latn">hiǧāʾ</lang> im allgemeinen siehe <bibl Zotero_Id_1="JMIRSPPE">E.
+     Wagner, Bd. 1 (1987:45f.)</bibl>.</p>
+  </text>
+ </literarkritik>
+ <textkritik>
+  <text versstart="000" versend="006" verfasser="an">
+   <p>Die islamische Tradition verzeichnet nur zu <q type="koran" versstart="114:001"
+     versend="114:001">V. 1</q> eine orthographische Lesart, die semantisch keinen Sinn ergibt.</p>
+  </text>
+ </textkritik>
+ <komposition>
+  <text versstart="000" versend="007" verfasser="an">
+   <p>
+    <table rows="4" cols="2">
+     <head/>
+     <row>
+      <cell><hi rend="superscript"><q type="koran" versstart="114:001" versend="114:003"
+        >1–3</q></hi></cell>
+      <cell>Apotropäische Anrufung Gottes unter verschiedenen Attributen</cell>
+     </row>
+     <row>
+      <cell><hi rend="superscript"><q type="koran" versstart="114:004" versend="114:004"
+       >4</q></hi></cell>
+      <cell>Abwehr des gefürchteten Eindringlings</cell>
+     </row>
+     <row>
+      <cell><hi rend="superscript"><q type="koran" versstart="114:005" versend="114:006"
+        >5–6</q></hi></cell>
+      <cell>Spezifikation</cell>
+     </row>
+    </table>
+   </p>
+   <p><hi rend="bold">Proportionen:</hi>
+   </p>
+   <p/>
+   <p>
+    <table rows="1" cols="1">
+     <head/>
+     <row>
+      <cell>3 + 1 + 2</cell>
+     </row>
+    </table>
+   </p>
+  </text>
+ </komposition>
+ <kommentar>
+  <text versstart="001" versend="001" verfasser="an">
+   <p><lem>qul ʾaʿūḏu bi-rabbi n-nās]</lem> Die Sure beginnt mit einer apotropäischen Formel zur
+    Abwehr von Dämonen. Sie ist aus <q type="koran" versstart="023:097" versend="023:098">Q
+     23:97–98</q> abgeleitet:
+    <lang xml:lang="ar-Latn">wa-qul rabbi aʿūḏu bika min hamazāti š-šayāṭīn / wa-aʿūḏu bika rabbi an yaḥḍurūni</lang>,
+    »Und sprich: ›Mein Herr, ich suche Zuflucht bei dir vor den stichelnden Eingebungen der Satane.
+    / Und ich suche meine Zuflucht bei dir, mein Herr, davor, daß sie zu mir kommen!‹«. Zwar wird
+    in <q type="koran" versstart="114:000" versend="114:006">Q 114</q> der Bedränger nicht genannt,
+    sondern durch Attribute umschrieben, noch wird er als Dämon eindeutig erkennbar. Doch geht die
+    Aktualität der Anrufung Gottes gegen die von <lang xml:lang="ar-Latn">aš-šaiṭān</lang> bzw.
+    <lang xml:lang="ar-Latn">aš-šayāṭīn</lang> repräsentierten Dämonen aus der empfohlenen Abwehr
+    in <q type="koran" versstart="023:097" versend="023:098">Q 23:97–98</q> klar hervor. Dämonen
+    sind in spätmittelmekkanischer Zeit ein wichtiger Teil der Debatte. In <q type="koran"
+     versstart="038:077" versend="038:085">Q 38:77–85</q> wie auch schon in <q type="koran"
+     versstart="015:026" versend="015:048">Q 15:26–48</q> und <q type="koran" versstart="020:115"
+     versend="020:127">Q 20:115–127</q> tritt der Widersacher als eine besonders prominente
+    Verkörperung der Dämonenwelt auf, als Akteur, der sogar mit Gott einen Vertrag — nach dem
+    Vorgang des Buches Hiob — abschließt, in welchem ihm die Eingriffnahme in menschliche Geschicke
+    in einem bestimmten Rahmen gestattet wird.</p>
+   <p>Das Gottesattribut <lang xml:lang="ar-Latn">rabbu n-nās</lang>, »Herr der Menschen«, ist neu.
+    Mit der Einführung von <lang xml:lang="ar-Latn">al-ʿālamīn</lang>, »die Welten«, für die
+    Menschen (siehe <bibl Zotero_Id_1="R7C4TXP6"><hi rend="italic">HK 2/1</hi>, S. 90f.</bibl>) war
+    das Wort <lang xml:lang="ar-Latn">nās</lang> längere Zeit in den Hintergrund getreten:
+    Allerdings begegnet <lang xml:lang="ar-Latn">nās</lang> vor <q type="koran" versstart="023:000"
+     versend="023:118">Q 23</q> doch mehrfach: <q type="koran" versstart="054:020" versend="054:020"
+     >Q 54:20</q>; <q type="koran" versstart="020:059" versend="020:059">20:59</q>; <q type="koran"
+     versstart="026:039" versend="026:039">26:39</q>, <q type="koran" versstart="026:183"
+     versend="026:183">183</q>; <q type="koran" versstart="044:011" versend="044:011">44:11</q>; <q
+     type="koran" versstart="038:026" versend="038:026">38:26</q>; <q type="koran"
+     versstart="019:010" versend="019:010">19:10</q>, <q type="koran" versstart="019:021"
+     versend="019:021">21</q>; <q type="koran" versstart="017:060" versend="017:060">17:60</q>, <q
+     type="koran" versstart="017:089" versend="017:089">89</q>, <q type="koran" versstart="017:094"
+     versend="017:094">94</q>, <q type="koran" versend="017:106" versstart="017:106">106</q>; <q
+     type="koran" versstart="043:033" versend="043:033">43:33</q>; <q type="koran"
+     versstart="025:037" versend="025:037">25:37</q>, <q type="koran" versstart="025:050"
+     versend="025:050">50</q>. Die universale Vorstellung von ›den Menschen‹, ungeachtet ihrer
+    Glaubensrichtung, wird mit <q type="koran" versstart="021:001" versend="021:001">Q 21:1</q>:
+    <lang xml:lang="ar-Latn">iqtaraba li-n-nāsi ḥisābuhum 〈…〉</lang>, »Nahe ist den Menschen ihre
+    Abrechnung 〈…〉«, wieder wichtiger Teil der Debatte.</p>
+  </text>
+  <text versstart="002" versend="002" verfasser="an">
+   <p><lem>maliki n-nās]</lem> Das zweite Attribut bringt die in <q type="koran" versstart="023:000"
+     versend="023:118">Q 23</q> und <q type="koran" versstart="067:000" versend="067:030">Q 67</q>
+    in den Vordergrund gestellte Königswürde Gottes zur Geltung. In <q type="koran"
+     versstart="023:116" versend="023:116">Q 23:116</q> heißt es:
+    <lang xml:lang="ar-Latn">fa-taʿālā llāhu l-maliku l-ḥaqqu lā ilāha illā huwa rabbu l-ʿarši l-karīm</lang>,
+    »Hoch erhaben ist Gott, der wahrhaftige König. Kein Gott außer ihm, dem Herrn des edlen
+    Throns«, in <q type="koran" versstart="067:001" versend="067:001">Q 67:1</q>:
+    <lang xml:lang="ar-Latn">tabāraka llaḏī bi-yadihi l-mulku wa-huwa ʿalā kulli šaiʾin qadīr</lang>,
+    »Gepriesen sei der, in dessen Hand die Königsherrschaft ist — er ist aller Dinge mächtig«.</p>
+  </text>
+  <text versstart="003" versend="003" verfasser="an">
+   <p><lem>ʾilāhi n-nās]</lem> Die Steigerung der Würde von <lang xml:lang="ar-Latn">rabb</lang> zu
+    <lang xml:lang="ar-Latn">malik</lang> kulminiert in
+    <lang xml:lang="ar-Latn">ʾilāhi n-nāsi</lang>.</p>
+  </text>
+  <text versstart="004" versend="004" verfasser="an">
+   <p><lem>min šarri l-waswāsi l-ḫannās]</lem> Die verhüllte Identität des
+    <lang xml:lang="ar-Latn">šaiṭān</lang> ist leicht zu enthüllen.
+    <lang xml:lang="ar-Latn">Waswasa</lang>, eine lautmalerische Bezeichnung für »flüstern«, ist
+    sein Erkennungszeichen schon in der Schöpfungsgeschichte, in <q type="koran"
+     versstart="020:120" versend="020:120">Q 20:120</q> heißt es:
+    <lang xml:lang="ar-Latn">fa-waswasa ilaihi š-šaiṭānu qāla yā Ādamu hal adulluka ʿalā šaǧarati l-ḫuldi wa-mulkin lā yablā</lang>,
+    »Da flüsterte ihm Satan zu: ›Adam, soll ich dich zum Baum des ewigen Lebens führen und zu einer
+    Herrschaft, welche nie vergeht?‹« (siehe <bibl Zotero_Id_1="R7C4TXP6"><hi rend="italic">HK
+      2/1</hi>, S. 354–356</bibl>). In <q type="koran" versstart="023:097" versend="023:098">Q
+     23:97–98</q> war dagegen von <lang xml:lang="ar-Latn">hamaza</lang> die Rede (siehe <q
+     type="kommentar" versstart="114:001" versend="114:001">oben zu V. 1</q>).
+    <lang xml:lang="ar-Latn">Hamaza</lang> ist auch die Bezeichnung für »verleumden«, ein offenbar
+    menschliches Laster, dem in frühmekkanischer Zeit eine ganze Sure gewidmet ist:
+    <lang xml:lang="ar-Latn">al-humaza</lang> (<q type="koran" versstart="104:000" versend="104:009"
+     >Q 104</q>). Deren erste Verse lauten:
+    <lang xml:lang="ar-Latn">wailun li-kulli humazatin lumazah / allaḏī ǧamaʿa mālan wa-ʿaddadah</lang>,
+    »Wehe jedwedem Stichler und Nörgler, / der Gut ansammelt und es abzählt« (siehe <bibl
+     Zotero_Id_1="X6J8ZZSZ"><hi rend="italic">HK 1</hi>, S. 147f.</bibl>).</p>
+   <p>Ohne die Nennung des Akteurs kommt <q type="koran" versstart="050:016" versend="050:016">Q
+     50:16</q> aus, wo »die Seele« dem Menschen selbst Böses eingibt, dies offenbar durch die
+    Einwirkung des <lang xml:lang="ar-Latn">šaiṭān</lang>, <q type="koran" versstart="050:016"
+     versend="050:016">Q 50:16</q>:
+    <lang xml:lang="ar-Latn">wa-la-qad ḫalaqnā l-insāna wa-naʿlamu mā tuwaswisu bihi nafsuhu wa-naḥnu aqrabu ilaihi min ḥabli l-warīd</lang>,
+    »Wir erschufen den Menschen; wir wissen, was ihm zuflüstert seine Seele; wir sind ihm näher als
+    seine Halsschlagader« (siehe <bibl Zotero_Id_1="R7C4TXP6"><hi rend="italic">HK 2/1</hi>, S.
+     282f.</bibl>, siehe <q type="kommentar" versstart="114:005" versend="114:005">unten zu V.
+    5</q>). Dort ist explizit von <lang xml:lang="ar-Latn">nafs</lang>, »Seele«, die Rede; dafür
+    kann auch <lang xml:lang="ar-Latn">ṣadr</lang>, »Brust«, bzw.
+    <lang xml:lang="ar-Latn">qalb/fuʾād</lang>, »Herz«, eintreten (siehe <bibl
+     Zotero_Id_1="XJSBMSQE">Seidensticker 1992</bibl>).</p>
+   <p>Die Bezeichnung des <lang xml:lang="ar-Latn">šaiṭān</lang> mit
+    <lang xml:lang="ar-Latn">al-ḫannās</lang> wird von <bibl Zotero_Id_1="89WAAM3P">Ambros
+     (2004:92)</bibl> mit »heimtückisch« übersetzt, bildlich gesprochen geht es um sein
+    Sich-Zurückziehen (im entscheidenden Moment, vergleichbar dem Verhalten der Planeten,
+    <lang xml:lang="ar-Latn">al-ḫunnas</lang>, in <q type="koran" versstart="081:015"
+     versend="081:015">Q 81:15</q>: <lang xml:lang="ar-Latn">fa-lā uqsimu bi-l-ḫunnas</lang>,
+    »Wahrlich, ich schwöre bei den Rückläufigen«).</p>
+  </text>
+  <text versstart="005" versend="005" verfasser="an">
+   <p><lem>allaḏī yuwaswisu fī ṣudūri n-nās]</lem> Die Seele als Ort der Einflüsterung ist seit <q
+     type="koran" versstart="050:016" versend="050:016">Q 50:16</q> bekannt. Zum Verständnis von
+    <lang xml:lang="ar-Latn">ṣadr</lang> siehe <bibl Zotero_Id_1="XJSBMSQE">Seidensticker
+     1992</bibl>.</p>
+  </text>
+  <text versstart="006" versend="006" verfasser="an">
+   <p><lem>mina l-ǧinnati wa-n-nās]</lem>
+    <q type="koran" versstart="114:006" versend="114:006">V. 6</q> hat bei den Übersetzern
+    verschiedene Deutungen gefunden: <bibl Zotero_Id_1="J6TM6UHR">Paret (<hi rend="italic">KÜ</hi>,
+     S. 440)</bibl> versteht: »der in die Brust der Menschen einflüstert, sei er ein Djinn oder ein
+    Mensch«. <bibl Zotero_Id_1="J7GZ5X57">Zirker (2003:387)</bibl> versteht den Schlußvers parallel
+    zu <q type="koran" versstart="114:004" versend="114:004">V. 4</q> und übersetzt: »(ich nehme
+    meine Zuflucht …) vor Djinn und Menschen«, <bibl Zotero_Id_1="Q9EDU63R">Bobzin (2010:595)</bibl>
+    übersetzt unklar: »(der einflüstert in die Herzen der Menschen –) ob Djinne oder Menschen«,
+    wohl bezogen auf die Zielgruppe Menschen. Worum es hier geht, ist die Lokalisierung der
+    Feindseligkeit, die, wie Paret es überzeugend ausdrückt (siehe auch <bibl
+     Zotero_Id_1="X9T7RF7R"><hi rend="italic">KKK</hi>, S. 531</bibl>), nicht exklusiv auf Dämonen,
+    geschweige denn den einen Dämon begrenzt sein sollte, sondern auch von Menschen ausgehen kann.
+    Die gemeinsame Betrachtung von Dämonen und Menschen ist in der großen Schöpfungstheologie-<q
+     type="koran" versstart="055:000" versend="055:078">Sure 55</q> (siehe dazu <bibl
+     Zotero_Id_1="X6J8ZZSZ"><hi rend="italic">HK 1</hi>, S. 586–620</bibl>) begründet. Dort heißt
+    es: <lang xml:lang="ar-Latn">ḫalaqa l-insāna min ṣalṣālin ka-l-faḫḫār</lang>, »Er schuf den
+    Menschen aus feuchter Erde wie Töpferware« (<q type="koran" versstart="055:014"
+     versend="055:014">V. 14</q>),
+    <lang xml:lang="ar-Latn">wa-ḫalaqa ǧ-ǧānna min māriǧin min nār</lang>, »und schuf die Geister
+    aus einem Gemisch von Feuer« (<q type="koran" versstart="055:015" versend="055:015">V. 15</q>).
+    Die beiden Gruppen von Geschöpfen wurden dann in einem Refrain (<q type="koran"
+     versstart="055:013" versend="055:077">V. 13–77</q>) im Dual zusammen angerufen und auf ihre
+    Zustimmung zu dem Theologumenon der göttlichen Güte befragt:
+    <lang xml:lang="ar-Latn">fa-bi-aiyi ālāʾi rabbikumā tukaḏḏibān</lang>, »Welche Zeichen eures
+    Herrn wollt ihr beiden leugnen?«. In <q type="koran" versstart="114:000" versend="114:006">Q
+     114</q> werden nun gefährliche Eigenschaften der Dämonen auf Menschen übertragen.</p>
+  </text>
+ </kommentar>
+ <analysedeutungkurz>
+  <text versstart="000" versend="006" verfasser="an">
+   <p/>
+  </text>
+ </analysedeutungkurz>
+ <analysedeutung>
+  <EntwicklungsgeschichtlicheEinordnungkurz>
+   <text versstart="000" versend="006" verfasser="an">
+    <p/>
+   </text>
+  </EntwicklungsgeschichtlicheEinordnungkurz>
+  <EntwicklungsgeschichtlicheEinordnung>
+   <text versstart="000" versend="006" verfasser="an">
+    <p>Der <q type="koran" versstart="114:000" versend="114:006">Sure 114</q> voraus gingen gewiß <q
+      type="koran" versstart="038:000" versend="038:088">Q 38</q> — Vertrag mit Diabolos/Iblīs, der
+     später als <lang xml:lang="ar-Latn">šaiṭān</lang>, Satan, erscheint —, noch
+     frühmittelmekkanisch, und spätmittelmekkanisch <q type="koran" versstart="023:000"
+      versend="023:118">Sure 23</q>, die die Furcht vor einer Pluralität von Šaiṭānen erkennen
+     läßt.</p>
+    <p>Ǧinnen/Dämonen, sind in Mekka doppelgesichtig. In frühen Suren wird die Verbindung zu Dämonen
+     als die Verbindung zu einer ›falschen‹ Inspirationsquelle verstanden, da Dämonen landläufig als
+     die Anlieferer von übernatürlichem Wissen an privilegierte Menschen gelten.
+     <lang xml:lang="ar-Latn">Maǧnūn</lang>, »von einem Dämon besessen« zu sein, kam also einer
+     Disqualifikation als Prophet gleich – die Abwendung dieser gegnerischen Unterstellung begegnete
+     z.B. in <q type="koran" versstart="069:041" versend="069:043">Q 69:41–43</q> (siehe <bibl
+      Zotero_Id_1="BUUD5PW6"><hi rend="italic">KTS</hi>, S. 685–689</bibl>). Zugleich sind Dämonen
+     Geschöpfe, die in enger Gemeinschaft mit Menschen existieren, sich aber einer feineren
+     Schöpfungsmaterie verdanken; in <q type="koran" versstart="055:000" versend="055:078">Q 55</q>
+     wird diese Beziehung über fast 100 Verse hinweg illustriert. Erst in Spätmittelmekka wird aus
+     dem polemischen Topos <lang xml:lang="ar-Latn">maǧnūn</lang> im Munde der Gegner ein
+     theologisches Problem: Wie ist den Einmischungsversuchen der Dämonen in die
+     Gott-Mensch-Beziehung entgegenzuwirken? Ganz offenbar hat die christliche Vorstellung eines
+     Satans, die sich schon in den späteren koranischen Schöpfungsgeschichten ankündigte (<q
+      type="koran" versstart="020:115" versend="020:119">Q 20:115–119</q>, dazu <bibl
+      Zotero_Id_1="R7C4TXP6"><hi rend="italic">HK 2/1</hi>, S. 352–357</bibl>, und <bibl
+      Zotero_Id_1="BUUD5PW6"><hi rend="italic">KTS</hi>, S. 610-612</bibl>, siehe auch <bibl
+      Zotero_Id_1="CJ2NMD7J">Neuwirth 2001</bibl>), auf das Bild der Dämonen eingewirkt. Angesichts
+     der christlich geprägten Vorstellung von Dämonen ist auch ihre Abwehr von dem christlichen
+     Vorgang beeinflußt: In der christlichen Tradition werden Dämonen durch biblische Verse
+     abgewehrt. Wie der byzantinische Theologe Evagrios (gest. 399), in seinem
+     <lang xml:lang="gr-Latn">Antirrhēticos</lang> dafür bestimmte Bibelverse als angemessen
+     auswählte, so werden auch im Horizont der Gemeinde Schriftverse bei der Abwehr bzw. der Zähmung
+     der Dämonen instrumental; siehe das ›Selbstzeugnis‹ der Dämonen, die durch Koranrezitation auf
+     den rechten Weg geführt wurden, in <q type="koran" versstart="072:000" versend="072:028">Q
+      72</q>. Auch in <q type="koran" versstart="114:000" versend="114:006">Q 114</q> werden
+     Kleinstelemente der Schrift, <lang xml:lang="ar-Latn">rabb an-nās</lang>,
+     <lang xml:lang="ar-Latn">malik an-nās</lang>, zur Abwehr der Dämonen instrumentalisiert.</p>
+    <p>Um die uns wichtige komplexe Hermeneutik klarzumachen, nach welcher der Koran ein Teil nicht
+     nur des altarabischen, sondern auch des spätantiken Kosmos ist und nach der auch auf
+     christliche Erfahrung zurückgegriffen wird, lohnt es sich, zu der Einbettung der Sure <bibl
+      Zotero_Id_1="RF8JH6HZ">Nöldeke/Schwally, <hi rend="italic">GdQ²</hi></bibl>, zu zitieren, die
+     eine Tradition referieren, nach der die Sure zum Zweck einer Wunderheilung offenbart wurde;
+     die Interpretation ist ein typisches Zeugnis ihrer Zeit (<bibl Zotero_Id_1="RF8JH6HZ">S.
+      109f.</bibl>): </p>
+    <p>Man darf dagegen nicht einwenden, daß Muhammed ein so ausgesprochener Aberglaube nicht
+     zuzutrauen wäre. Denn in dieser Beziehung hat er sicher nie aufgehört, die Anschauungen seiner
+     Zeit und seines Volkes zu teilen, wie aus zahlreichen, durchaus glaubwürdigen Zügen der
+     Prophetenbiographie hervorgeht. Indessen sind die beiden Sūren [d.h. <q type="koran"
+      versstart="113:000" versend="113:005">113</q> und <q type="koran" versstart="114:000"
+      versend="114:006">114</q>] ihrem Wortlaute nach ganz allgemein gehalten und nicht auf ein
+     bestimmtes Ereignis zugeschnitten. <hi rend="italic">Weil</hi> [<bibl Zotero_Id_1="E6NRKI7P"
+      >Gustav Weil, <hi rend="italic">Historisch-kritische Einleitung in den Koran</hi>, Bielefeld
+      1844, ²1878</bibl>] hat die Tradition dahin modifiziert, daß der Prophet diese Beschwörungen
+     damals nur gebrauchte, da sie nach ihrer Schreibweise älter sein müßten. Aber diese Ansicht
+     ist nicht weniger anfechtbar. Denn Sprache und Stil, die sonst bei der Zeitbestimmung der
+     Sūren hervorragende Dienste leisten, lassen uns hier im Stich. In der ganzen Welt haben
+     Zaubersprüche eine von dem herrschenden Stile der Zeit und der Individuen abweichende,
+     altertümliche Redeweise. Gesetzt, Muhammed hätte selbst in seinen letzten Lebensjahren eine
+     solche Zauberformel verfaßt, sie würde sich gewiß von dem gewöhnlichen Stil der medīnischen
+     Sūren weit entfernt und mehr an den archaistischen Typus der heidnischen Averruncationssprüche
+     angelehnt haben. Wir dürfen aber noch weiter gehen und die Vermutung aussprechen, daß der
+     Prophet jene Sūren überhaupt nicht frei erfunden, sondern eine altüberlieferte Vorlage nur
+     leise in islāmischem Sinne überarbeitet hat. Die drei letzten Verse — das ist mehr als die
+     Hälfte — der Muʿawwiḏatāni haben ja durchaus heidnisches Gepräge. Die Notwendigkeit einer
+     Überarbeitung kann sich schon früh herausgestellt haben, da der Islām zwar den Glauben an böse
+     menschenfeindliche Geister mit dem Heidentum teilte, aber doch von keinem anderen Gott als
+     dem einzigen Allāh Hilfe erflehen konnte. Wenn es ferner richtig ist, daß einige Sūren, die
+     auf Zauberformeln gegen die Macht des Satans Bezug nehmen (<q type="koran" versstart="023:099"
+      versend="023:099">Sur. 23,99</q>; <q type="koran" versstart="016:100" versend="016:100"
+      >16,100</q>, <q type="koran" versstart="041:036" versend="041:036">41,36</q> = <q
+      type="koran" versstart="007:199" versend="007:199">7,199</q>), der zweiten und dritten
+     mekkanischen Periode angehören, so darf man die Muʿawwiḏatāni mit einer gewissen
+     Wahrscheinlichkeit für älter halten. Ihre Stellung am Ende des Qorānbuches verdanken sie
+     vermutlich demselben Aberglauben, der bis auf den heutigen Tag die Muslime bestimmt, jeden
+     Qorānvortrag mit der Formel »ich nehme Zuflucht zu Allāh vor Satan, dem verfluchten« (<q
+      type="koran" versstart="016:100" versend="016:100">Sur. 16,100</q>) zu beginnen.</p>
+    <p>Nöldeke zieht hier die <lang xml:lang="ar-Latn">muʿauwiḏatān</lang> zusammen — was wir bewußt
+     umgehen, da <q type="koran" versstart="113:000" versend="113:005">Q 113</q> auf Praktiken
+     rekurriert, die nicht notwendig in den spätmittelmekkanischen Horizont gehören. Er hat die
+     noch mekkanische Herkunft und die ›Legitimität‹ der Abwehrformel(n) durchaus erkannt, hält sie
+     aber für ein Proprium des Heidentums. Dies ist aus koranischer Perspektive aber gerade nicht
+     so. Die ›Behandlung‹ der Dämonen, die als solche spätantike Phänomene sind, mit Schriftversen
+     ist eine christliche Praxis. Daraus ergibt sich für uns auch eine neue Funktion für <q
+      type="koran" versstart="114:000" versend="114:006">Q 114</q>: Sie ist eines der von Evagrios
+     angeratenen Mittel, Dämonen zu begegnen. Daß dies später — nachkanonisch — auch für die
+     Situation der Koranlesung als ganzer gefordert wurde, ist weniger Aberglaube als ein Versuch
+     der Ritualisierung des Koranvortrags.</p>
+   </text>
+  </EntwicklungsgeschichtlicheEinordnung>
+  <Inhaltstrukturkurz>
+   <text versstart="000" versend="006" verfasser="an">
+    <p/>
+   </text>
+  </Inhaltstrukturkurz>
+  <Inhaltstruktur>
+   <text versstart="000" versend="006" verfasser="an">
+    <p>Nicht nur das Koran-Corpus erhält durch die Rahmenteile <q type="koran" versstart="001:000"
+      versend="001:007">Q 1</q>, <q type="koran" versstart="113:000" versend="113:005">Q 113</q> und
+      <q type="koran" versstart="114:000" versend="114:006">Q 114</q> einen zeremoniellen Rahmen.
+     Auch im <lang xml:lang="ar-Latn">qurʾān</lang>, der fortschreitenden Verkündigung, zeichnet
+     sich ein Bedürfnis nach formelhaften Sprüchen zur Abwehr von Dämonen ab. Gewiß, die explizite
+     Anweisung, der <lang xml:lang="ar-Latn">qurʾān</lang>-Rezitation eine Abwehrformel
+     vorauszuschicken, stammt erst aus spätmekkanischer Zeit, <q type="koran" versstart="016:098"
+      versend="016:098">Q 16:98</q>:
+     <lang xml:lang="ar-Latn">fa-iḏā qaraʾta l-qurʾāna fa-staʿiḏ bi-llāhi mina š-šaiṭāni l-raǧīm</lang>,
+     »Wenn du nun den Koran vorträgst, dann suche bei Gott Zuflucht vor dem verfluchten Satan«.
+     Ähnliches wird auch für geistige Anfechtungen generell angeraten, <q type="koran"
+      versstart="041:036" versend="041:036">Q 41:36</q>:
+     <lang xml:lang="ar-Latn">wa-immā yanzaġannaka mina š-šaiṭāni nuzġun fa-staʿiḏ bi-llāhi innahu huwa s-samīʿu l-ʿalīm</lang>,
+     »Und wenn du von seiten Satans aufgestachelt wirst, dann suche Zuflucht bei Gott! Er ist der,
+     der hört und weiß«, ähnlich auch <q type="koran" versstart="007:200" versend="007:200">Q
+      7:200</q>:
+     <lang xml:lang="ar-Latn">wa-ʾimmā yanzaġannaka mina š-šaiṭāni nazġun fa-staʿiḏ bi-llāhi ʾinnahū samīʿun ʿalīmun</lang>,
+     »Und wenn du von seiten Satans aufgestachelt wirst, dann suche Zuflucht bei Gott! Er hört und
+     weiß«. Was hier gefordert wird, ist eine <lang xml:lang="ar-Latn">istiʿāḏa</lang>, ein
+     <lang xml:lang="ar-Latn">aʿūdhu</lang>-Ausruf, wie er, ohne im
+     <lang xml:lang="ar-Latn">muṣḥaf</lang> niedergeschrieben zu sein, sich auch für die
+     Vorbereitung einer Koranlesung durchgesetzt hat, wo es heißt:
+     <lang xml:lang="ar-Latn">aʿūḏu bi-llāhi mina š-šaiṭān ar-raǧīm</lang>, »Ich nehme Zuflucht bei
+     Gott vor dem verfluchten Satan«. Doch scheint <q type="koran" versstart="114:000"
+      versend="114:006">Q 114</q> auf das Anliegen in <q type="koran" versstart="023:000"
+      versend="023:118">Q 23</q> zu antworten.</p>
+    <p><hi rend="italic">Zum Formalen:</hi> Die Sure ist einem
+     <lang xml:lang="ar-Latn">Hiǧāʾ</lang>-Gedicht verwandt: stark betonter Reim, hier sogar in
+     fünf von sechs Versen identisches Lexem am Schluß der Verse. Die Sure ist zwar, anders als die
+     frühe <lang xml:lang="ar-Latn">Hiǧāʾ</lang>-Sure <q type="koran" versstart="111:000"
+      versend="111:005">Q 111</q>, nicht satirisch, sie kann aber doch als den Šaiṭān verunglimpfend
+     gelten, der mit zwei Lastern beschrieben wird.</p>
+   </text>
+  </Inhaltstruktur>
+  <situativitätkurz>
+   <text versstart="000" versend="006" verfasser="an">
+    <p/>
+   </text>
+  </situativitätkurz>
+  <Situativität>
+   <text versstart="000" versend="006" verfasser="an">
+    <p>Die gesamte Sure ist eine — durch <lang xml:lang="ar-Latn">qul</lang> markierte —
+     anempfohlene Anrufung Gottes.</p>
+   </text>
+  </Situativität>
+ </analysedeutung>
+</korankommentar>

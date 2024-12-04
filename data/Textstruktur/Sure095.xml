@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Quran xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="Textstruktur.xsd">
+    <Sure id="095" webtauglich="true" translator="Nicolai Sinai">
+        <Hauptteil id="0">
+            <Abschnitt id="0">
+                <Gesaetz n="0">
+                    <Vers n="000">
+                        <Teilvers n="000" reim="2n/m">
+                            <Kolon lang="ar" Einschub="false" n="0">بِسۡمِ ٱللَّهِ ٱلرَّحۡمَٰنِ ٱلرَّحِيمِ</Kolon>
+                            <Kolon lang="de" Einschub="false" n="0">Im Namen Gottes, des barmherzigen Erbarmers!</Kolon>
+                        </Teilvers>
+                    </Vers>
+                </Gesaetz>
+                <Gesaetz n="1">
+                    <Vers n="001">
+                        <Teilvers n="001" reim="2n/m">
+                            <Kolon Einschub="false" lang="ar" n="1">وَٱلتِّينِ وَٱلزَّيۡتُونِ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="1">Beim Feigenbaum und beim Olivenbaum,</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="002">
+                        <Teilvers n="002" reim="2n/m">
+                            <Kolon Einschub="false" lang="ar" n="2">وَطُورِ سِينِينَ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="2">beim Berg Sinai</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="003">
+                        <Teilvers n="003" reim="2n/m">
+                            <Kolon Einschub="false" lang="ar" n="3">وَ هَٰذَا ٱلۡبَلَدِ ٱلۡأَمِينِ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="3">und bei diesem sicheren Ort!</Kolon>
+                        </Teilvers>
+                    </Vers>
+                </Gesaetz>
+                <Gesaetz n="2">
+                    <Vers n="004">
+                        <Teilvers n="004" reim="2n/m">
+                            <Kolon Einschub="false" lang="ar" n="4">لَقَدۡ خَلَقۡنَا ٱلۡإِنسَٰنَ فِیٓ أَحۡسَنِ تَقۡوِيمٍۢ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="4">Wir schaffen den Menschen auf die beste Weise</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="005">
+                        <Teilvers n="005" reim="2n/m">
+                            <Kolon Einschub="false" lang="ar" n="5">ثُمَّ رَدَدۡنَٰهُ أَسۡفَلَ سَٰفِلِينَ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="5">und machen ihn dann zum Allerniedrigsten.</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="006">
+                        <Teilvers n="006" reim="2n/m">
+                            <Kolon Einschub="true" lang="ar" n="6">إِلَّا ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ</Kolon>
+                            <Kolon Einschub="true" lang="de" n="6">Nicht so die, die glauben und gute Werke tun —</Kolon>
+                            <Kolon Einschub="true" lang="ar" n="7">فَلَهُمۡ أَجۡرٌ غَيۡرُ مَمۡنُونٍۢ</Kolon>
+                            <Kolon Einschub="true" lang="de" n="7">ihnen wird ihr Lohn nicht vorenthalten.</Kolon>
+                        </Teilvers>
+                    </Vers>
+                </Gesaetz>
+                <Gesaetz n="3">
+                    <Vers n="007">
+                        <Teilvers n="007" reim="2n/m">
+                            <Kolon Einschub="false" lang="ar" n="8">فَمَا يُكَذِّبُكَ بَعۡدُ بِٱلدِّينِ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="8">Was lässt dich da noch das Gericht leugnen?</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="008">
+                        <Teilvers n="008" reim="2n/m">
+                            <Kolon Einschub="false" lang="ar" n="9">أَلَيۡسَ ٱللَّهُ بِأَحۡكَمِ ٱلۡحَٰكِمِينَ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="9">Ist Gott nicht der weiseste aller Richter?</Kolon>
+                        </Teilvers>
+                    </Vers>
+                </Gesaetz>
+            </Abschnitt>
+        </Hauptteil>
+    </Sure>
+</Quran>

@@ -1,0 +1,415 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<korankommentar xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:noNamespaceSchemaLocation="Kommentar.xsd">
+ <sure id="107" webtauglich="true"/>
+ <surentitel>
+  <text versstart="000" versend="007" verfasser="tjj">
+   <p>Sure 107 — <lang xml:lang="ar-Latn">al-Māʿūn</lang> — »Die Hilfeleistung«</p>
+  </text>
+ </surentitel>
+ <autorenkurz>
+  <text versstart="000" versend="007" verfasser="tjj">
+   <p>Übersetzt und analysiert von Nicolai Sinai</p>
+  </text>
+ </autorenkurz>
+ <datierungkurz>
+  <text versstart="000" versend="007" verfasser="nisi">
+   <p>Mekka I (Gruppe I)</p>
+  </text>
+ </datierungkurz>
+ <datierung>
+  <text versstart="000" versend="007" verfasser="nisi">
+   <p>Die Kürze der Verse (durchschnittliche Länge: 9,9 Silben) spricht für das hohe Alter der Sure,
+    wobei allerdings umstritten ist, ob <q type="koran" versstart="107:004" versend="107:007">V.
+     4–7</q> nicht eine nachträgliche Erweiterung darstellen (s. u., Literarkritik). Auffällig ist
+    daneben, dass die Sure – wie etwa auch <q type="koran" versstart="103:000" versend="103:003">Q
+     103</q> und <q type="koran" versstart="104:000" versend="104:009">104</q> – ihre Anklage
+    religiöser und sozialer Missstände noch nicht in eine antithetische Kontrastierung von Guten und
+    Bösen einbettet, wie sie für spätere Suren charakteristisch ist. Auch dies kann als Indiz für
+    einen frühen Entstehungszeitpunkt gewertet werden, zu dem die später zentrale Dichotomie von
+    Anhängern und Gegnern der koranischen Verkündigung noch nicht ausgeprägt war. Die Sure gehört zu
+    Gruppe I und dort genauer zu den kurzen, nur aus einfachen Versgruppen zusammengesetzten Droh-
+    und Scheltworten <q type="koran" versstart="095:000" versend="095:008">Q 95</q>, <q type="koran"
+     versstart="102:000" versend="102:008">102</q>, <q type="koran" versstart="103:000"
+     versend="103:003">103</q>, <q type="koran" versstart="104:000" versend="104:009">104</q> und <q
+     type="koran" versstart="111:000" versend="111:005">111</q>, die chronologisch wohl nach <q
+     type="koran" versstart="105:000" versend="105:005">Q 105</q> und <q type="koran"
+     versstart="106:000" versend="106:004">Q 106</q> und vor detaillierteren Ausmalungen des
+    Jüngsten Gerichts wie <q type="koran" versstart="100:000" versend="100:011">Q 100</q> und <q
+     type="koran" versstart="101:000" versend="101:011">101</q> anzusetzen sind (vgl. die Einleitung
+    zu <q type="kommentar" versstart="105:000" versend="105:005">Q 105</q>). Vom Aufbau vergleichbar
+    ist dabei insbesondere <q type="koran" versstart="104:000" versend="104:009">Sure 104</q>, die
+    ebenfalls aus einem Wehspruch (mit folgendem Drohwort) und einer daran anschließenden Lehrfrage
+    zusammengesetzt ist; die Struktur von <q type="koran" versstart="107:000" versend="107:007">Q
+     107</q> verhält sich dazu in gewisser Weise invers, insofern hier erst eine rhetorische Frage
+    und dann ein Wehspruch steht.</p>
+  </text>
+ </datierung>
+ <literarkritikkurz>
+  <text versstart="000" versend="007" verfasser="nisi">
+   <p>Keine Einschübe</p>
+  </text>
+ </literarkritikkurz>
+ <literarkritik>
+  <text versstart="000" versend="007" verfasser="nisi">
+   <p>Paret erwägt, <q type="koran" versstart="107:004" versend="107:007">V. 4–7</q> als
+    nachträglichen Zusatz anzusehen: „Denn hier ist von Betern die Rede, die auf ihr Gebet nicht
+    achten und (dabei von den Leuten) gesehen werden wollen. Ein derartiger Typ von Frömmigkeit ist
+    in der Zeit <hi rend="italic">vor</hi> der Hiǧra innerhalb der muslimischen Gemeinde kaum
+    denkbar“ (<bibl Zotero_Id_1="ERCNNCT6">Paret 1961, 242</bibl>). Tatsächlich sind die beiden
+    Abschnitte von <q type="koran" versstart="107:000" versend="107:007">Q 107</q>, anders als in
+    der strukturell verwandten <q type="koran" versstart="104:000" versend="104:009">Sure 104</q>,
+    nicht durch pronominale Rückbezüge oder Wortwiederholungen miteinander verschränkt, was die
+    Frage nach der Einheitlichkeit des Textes nahelegt. Doch auch wenn in medinensischer Zeit eine
+    zu <q type="koran" versstart="107:004" versend="107:007">107:4–7</q> ganz ähnliche Kritik an
+    bestimmten Mitgliedern der koranischen Gemeinde geäußert wird (vgl. <q type="koran"
+     versstart="004:142" versend="004:142">4:142</q>, wo ebenfalls das Verb
+    <lang xml:lang="ar-Latn">rāʾā</lang> auftaucht, und <q type="koran" versstart="009:054"
+     versend="009:054">9:54</q>), so unterscheiden sich diese Stellen von <q type="koran"
+     versstart="107:004" versend="107:007">107:4 ff.</q> doch deutlich in Verslänge und Terminologie
+    (in <q type="koran" versstart="004:142" versend="004:142">4:142</q> und <q type="koran"
+     versstart="009:054" versend="009:054">9:54</q> steht <lang xml:lang="ar-Latn">kusālā</lang>
+    statt wie in <q type="koran" versstart="107:005" versend="107:005">107:5</q>
+    <lang xml:lang="ar-Latn">sāhūn</lang>, und die Kritisierten werden explizit als
+    <lang xml:lang="ar-Latn">munāfiqūn</lang>, „Heuchler“, bezeichnet). Nun gibt es eine
+    frühmekkanische Stelle, die den vorislamischen mekkanischen Opferkult ausdrücklich als ein
+    „Gebet“ bezeichnet: <q type="koran" versstart="108:002" versend="108:002">108:2</q> fordert
+    Muḥammad auf, zu seinem Herrn zu beten und zu opfern
+    (<lang xml:lang="ar-Latn">fa-ṣalli li-rabbika wa-nḥar</lang>; vgl. <bibl Zotero_Id_1="38UV4K5S"
+     >Birkeland, 1958a, 238</bibl>; s. a. allg. zur Sure <bibl Zotero_Id_1="GXC3UG65">Birkeland,
+     1958b</bibl>). Die Ursprünglichkeit von <q type="koran" versstart="107:004" versend="107:007"
+     >107:4–7</q> ist damit zumindest sehr wahrscheinlich: <q type="koran" versstart="107:004"
+     versend="107:004">V. 4</q> meint nicht das islamische Gebet der medinensischen Zeit, sondern
+    den vorislamischen Kaʿba-Kultus, der, wie <q type="koran" versstart="108:002" versend="108:002"
+     >108:2</q> belegt, ebenfalls als „Gebet“ bezeichnet werden konnte; vgl. einen bei <bibl
+     Zotero_Id_1="X9T7RF7R">Paret (Kommentar, ad loc.)</bibl> zitierten Brief von S. D. Goitein:
+    „Bezüglich der ṣalāt der Mekkaner glaube ich, dass dieser Ausdruck schon von Christen und Juden
+    für den sehr oberflächlichen Kultus der Heiden gebraucht worden ist. Muḥammad war empört, dass
+    seine Landsleute ihren eigenen Kult nicht ernst nahmen. Am Anfang seiner Laufbahn glaubte ja M.
+    selbst an das Numen seiner Vaterstadt.“ Dabei muss vorerst offen bleiben, ob diese vorislamische
+    mekkanische <lang xml:lang="ar-Latn">ṣalāh</lang> wirklich einen ausschließlich heidnischen
+    Charakter hatte oder nicht vielleicht auch durch eine Anverwandlung jüdisch-christlichen
+    Traditionsgutes geprägt gewesen sein könnte.</p>
+  </text>
+ </literarkritik>
+ <aufbauinhalt>
+  <text versstart="000" versend="007" verfasser="nisi">
+   <p>Die Sure baut sich aus zwei kurzen Versgruppen auf (polemische Schilderung des Bösen <q
+     type="koran" versstart="107:001" versend="107:003">V. 1–3</q>, Wehspruch <q type="koran"
+     versstart="107:004" versend="107:007">V. 4–7</q>). Dabei steht in <q type="koran"
+     versstart="107:001" versend="107:003">V. 1–3</q> die Leugnung des Jüngsten Gerichts und
+    unsolidarisches Sozialverhalten im Vordergrund; <q type="koran" versstart="107:004"
+     versend="107:007">V. 4–7</q> kritisieren eine nur äußerliche Gebetsteilnahme, schlagen jedoch
+    mit dem Vorwurf verweigerter „Hilfeleistung“ im Schlussvers wieder den Bogen zurück zu dem in <q
+     type="koran" versstart="107:002" versend="107:003">V. 2.3</q> angeprangerten Mangel an
+    gesellschaftlicher Solidarität. Beide Abschnitte verknüpfen insofern jeweils ein
+    religiös-kultisches Vergehen (<q type="koran" versstart="107:001" versend="107:001">V. 1</q>:
+    Leugnen des Gerichts, <q type="koran" versstart="107:004" versend="107:006">V. 4–6</q>:
+    nachlässige und nur auf Äußerlichkeiten bedachte Kultteilnahme) mit Versäumnissen aus der Sphäre
+    zwischenmenschlichen Umgangs (<q type="koran" versstart="107:002" versend="107:003">V. 2.3</q>
+    und <q type="koran" versstart="107:007" versend="107:007">V. 7</q>: unterlassene Hilfeleistung
+    insbesondere gegenüber Waisen und Armen). Die Aufrichtigkeit und Ernsthaftigkeit der
+    Kultteilnahme, so <q type="koran" versstart="107:004" versend="107:007">V. 4–7</q>, bemisst sich
+    damit auch an außerkultischem Handeln. Religionsgeschichtlich ist die damit postulierte
+    Verschränkung von sakraler und profaner Sphäre bzw. von Kultus und Ethos durchaus keine
+    Selbstverständlichkeit. Denn frühe Korantexte wie <q type="koran" versstart="092:000"
+     versend="092:021">Q 92</q>, <q type="koran" versstart="104:000" versend="104:009">Q 104</q> und
+     <q type="koran" versstart="107:000" versend="107:007">Q 107</q> heben sich hierin deutlich von
+    ihrem altarabischen Umfeld ab, in dem Kultaussübung vor allem eine Verrichtung zum Zwecke
+    magischer Zukunftsbeeinflussung oder –erhellung gewesen zu sein scheint; die das
+    gesellschaftliche Miteinander strukturierenden Werte begründeten sich im altarabischen Kontext
+    noch anderweitig.</p>
+   <p>Stilistisch dominieren in der gesamten Sure Relativsätze: In <q type="koran"
+     versstart="107:001" versend="107:001">V. 1</q> wird der Fragegegenstand, die Person des
+    Leugners, relativisch eingeführt, in <q type="koran" versstart="107:002" versend="107:002">V.
+     2</q> und <q type="koran" versstart="107:003" versend="107:003">3</q> fungiert ein zweiteiliger
+    Relativsatz als Prädikat zu <lang xml:lang="ar-Latn">ḏālika</lang>, in <q type="koran"
+     versstart="107:005" versend="107:007">V. 5–7</q> ist der Wehspruch aus <q type="koran"
+     versstart="107:006" versend="107:006">V. 6</q> durch zwei Relativsätze (von denen der zweite
+    wiederum aus zwei Teilsätzen besteht) erweitert. Alle diese Relativsätze zählen negative
+    religiöse oder soziale Eigenschaften auf, so dass die Sure insgesamt den Charakter eines
+    Lasterkatalogs hat, dessen formale Kohärenz sich vor allem den Relativpronomen verdankt
+    (relativisch um einen Lasterkatalog erweiterte Wehsprüche stehen auch in <q type="koran"
+     versstart="083:001" versend="083:003">83:1–3</q> und <q type="koran" versstart="104:001"
+     versend="104:003">104:1–3</q>; ihnen folgen dort jedoch Beschreibungen ihrer eschatologischen
+    Konsequenzen, die in <q type="koran" versstart="107:000" versend="107:007">Q 107</q> nicht zur
+    Sprache kommen).</p>
+  </text>
+ </aufbauinhalt>
+ <ueberblick>
+  <text versstart="000" versend="007" verfasser="tjj">
+   <p>
+    <table cols="2" rend="boxed" rows="2">
+     <head/>
+     <row>
+      <cell>
+       <hi rend="superscript"><q type="koran" versstart="107:001" versend="107:007">1–7</q></hi>
+       <hi rend="italic">2n/m</hi>
+      </cell>
+      <cell>
+       <hi rend="bold">1</hi>
+       <hi rend="superscript"><q type="koran" versstart="107:001" versend="107:003">1–3</q></hi>
+       polemische Schilderung des Bösen (durch <lang xml:lang="ar-Latn">ʾa-raʾaita</lang>
+       eingeleitete Fragen)</cell>
+     </row>
+     <row>
+      <cell/>
+      <cell>
+       <hi rend="bold">2</hi>
+       <hi rend="superscript"><q type="koran" versstart="107:004" versend="107:007">4–7</q></hi>
+       Wehspruch mit Lasterkatalog</cell>
+     </row>
+    </table>
+   </p>
+   <p>Proportionen: 3+4 bzw. 3+3 (<q type="koran" versstart="107:006" versend="107:007">V. 6.7</q>
+    sind evtl. zu einem Vers zusammenzuziehen, wodurch sich für die Sure ein symmetrischer Aufbau
+    aus zweimal drei Versen ergäbe).</p>
+  </text>
+ </ueberblick>
+ <anmerkungen>
+  <text versstart="000" versend="000" verfasser="nisi">
+   <p><lem>bi-smi llāhi r-raḥmāni r-raḥīm]</lem> Zur Basmala s. die entsprechende <q
+     type="anmerkung" versstart="093:000" versend="093:000">Anmerkung zu 93</q>; zum Gottesnamen
+    <lang xml:lang="ar-Latn">raḥmān</lang> s. die <q type="anmerkung" versstart="055:001"
+     versend="055:001">Anmerkung zu 55:1</q>.</p>
+  </text>
+  <text versstart="001" versend="001" verfasser="nisi">
+   <p><lem>ʾa-raʾaita]</lem> Vgl. <q type="koran" versstart="096:009" versend="096:009">96:9</q>.<q
+     type="koran" versstart="096:011" versend="096:011">11</q>.<q type="koran" versstart="096:013"
+     versend="096:013">13</q>
+    (<lang xml:lang="ar-Latn">ʾa-raʾaita llaḏī yanhā / ʿabdan ʾiḏā ṣallā / ʾa-raʾaita ʾin kāna ʿală l-hudā / ʾau ʾamara bi-taqwā / ʾa-raʾaita ʾin kaḏḏaba wa-tawallā</lang>)
+    und <q type="koran" versstart="053:033" versend="053:034">53:33.34</q>
+    (<lang xml:lang="ar-Latn">ʾa-fa-raʾaita llaḏī tawallā / wa-ʾaʿṭā qalīlan wa-ʾakdā</lang>).</p>
+   <p><lem>allaḏī yukaḏḏibu bi-d-dīn]</lem> Zu den verschiedenen Gebrauchsweisen von
+    <lang xml:lang="ar-Latn">kaḏḏaba</lang> vgl. die <q type="anmerkung" versstart="095:007"
+     versend="095:007">Anmerkungen zu 95:7</q>, <q type="anmerkung" versstart="092:016"
+     versend="092:016">92:16</q> und <q type="anmerkung" versstart="073:011" versend="073:011"
+     >73:11</q>. <lang xml:lang="ar-Latn">Ad-dīn</lang> bzw.
+    <lang xml:lang="ar-Latn">yaum ad-dīn</lang> erscheinen frühmekkanisch vor allem als Gegenstand
+    des Glaubens (<lang xml:lang="ar-Latn">ṣaddaqa</lang>) oder Unglaubens
+    (<lang xml:lang="ar-Latn">kaḏḏaba</lang>; vgl. die <q type="anmerkung" versstart="095:007"
+     versend="095:007">Anmerkung zu 95:7</q>), wie die folgenden Stellen dokumentieren (die es auch
+    nahelegen, gegen die von Ibn Masʿūd überlieferte Lesart
+    <lang xml:lang="ar-Latn">allaḏī yukaḏḏibu d-dīna</lang> – vgl. <bibl Zotero_Id_1="KVFTU3XN"
+     >Muʿǧam, ad loc.</bibl> – am <lang xml:lang="lat-Latn">textus receptus</lang> festzuhalten): <q
+     type="koran" versstart="095:007" versend="095:007">95:7</q>
+    (<lang xml:lang="ar-Latn">fa-mā yukaḏḏibuka baʿdu bi-d-dīn</lang>), <q type="koran"
+     versstart="083:011" versend="083:011">83:11</q>
+    (<lang xml:lang="ar-Latn">allaḏīna yukaḏḏibūna bi-yaumi d-dīn</lang>), <q type="koran"
+     versstart="082:009" versend="082:009">82:9</q>
+    (<lang xml:lang="ar-Latn">kallā bal tukaḏḏibūna bi-d-dīn</lang>), <q type="koran"
+     versstart="074:046" versend="074:046">74:46</q>
+    (<lang xml:lang="ar-Latn">wa-kunnā nukaḏḏibu bi-yaumi d-dīn</lang>) und <q type="koran"
+     versstart="070:026" versend="070:026">70:26</q>
+    (<lang xml:lang="ar-Latn">wa-llaḏīna yuṣaddiqūna bi-yaumi d-dīn</lang>).</p>
+   <p>Birkelands Hypothese, <lang xml:lang="ar-Latn">dīn</lang> werde in <q type="koran"
+     versstart="107:001" versend="107:001">107:1</q> nicht in der Bedeutung von „Gericht“ (d. h.
+    äquivalent mit <lang xml:lang="ar-Latn">yaum ad-dīn</lang>) gebraucht, sondern im Sinne von
+    „Religion“, scheitert bereits daran, dass <lang xml:lang="ar-Latn">ad-dīn</lang> und
+    <lang xml:lang="ar-Latn">yaum ad-dīn</lang> als präpositionale Objekte von
+    <lang xml:lang="ar-Latn">kaḏḏaba</lang> offensichtlich synonym sind (vgl. insb. <q type="koran"
+     versstart="082:009" versend="082:009">82:9</q>.<q type="koran" versstart="082:015"
+     versend="082:015">15</q>.<q type="koran" versstart="082:017" versend="082:018">17.18</q>, wo
+    abwechselnd <lang xml:lang="ar-Latn">dīn</lang> und <lang xml:lang="ar-Latn">yaum ad-dīn</lang>
+    stehen; derselbe Wechsel lässt sich in <q type="koran" versstart="051:006" versend="051:006"
+     >51:6</q>.<q type="koran" versstart="051:012" versend="051:012">12</q> beobachten:
+    <lang xml:lang="ar-Latn">wa-ʾinna d-dīna la-wāqiʿ</lang>;
+    <lang xml:lang="ar-Latn">yasʾalūna ʾayyāna yaumu d-dīn</lang>).
+    <lang xml:lang="ar-Latn">Dīn</lang> dürfte deshalb frühmekkanisch generell mit „Gericht“ zu
+    übersetzen sein und nicht, wie Nöldeke und Schwally offenbar annehmen (<bibl
+     Zotero_Id_1="RF8JH6HZ"><hi rend="italic">GdQ</hi>, Bd. 1, 77</bibl>), mit „Religion“. Auch
+    Birkelands Gedanke, dass in <q type="koran" versstart="107:000" versend="107:007">Q 107</q> die
+    Bedeutung „Gericht“ noch nicht sinnvoll sei, weil Muḥammad zu diesem Zeitpunkt (wie <q
+     type="koran" versstart="107:004" versend="107:007">V. 4 ff.</q> implizieren) noch am
+    vorislamischen mekkanischen Gebetsritual teilgenommen habe, ist nicht zwingend: Es ist durchaus
+    denkbar, dass die Kultseparierung zwischen der koranischen Urgemeinde und den heidnischen
+    Mekkanern erst zu einem Zeitpunkt stattgefunden hat, zu dem die Gerichtsthematik bereits fester
+    Bestandteil der Korantexte geworden war.</p>
+   <p>Dennoch bleibt natürlich richtig, dass der Ausdruck <lang xml:lang="ar-Latn">dīn</lang> in
+    späteren Korantexten durchaus „Religion“ bedeutet, vgl. nur <q type="koran" versstart="109:006"
+     versend="109:006">109:6</q>: <lang xml:lang="ar-Latn">lakum dīnukum wa-liya dīn(-i)</lang>. Der
+    Hintergrund für diese Bedeutungsverschiebung ist in der komplexen Etymologie des Wortes zu
+    suchen: Unter dem Einfluss von aram. <lang xml:lang="hbo-Latn">dīnā</lang>, „Gericht“ und
+    insbesondere „Jüngstes Gericht“ (und zwar sowohl in rabbinischem wie in syrisch-christlichem
+    Sprachgebrauch), hat das arabische Verbalsubstantiv <lang xml:lang="ar-Latn">dīn</lang> im Koran
+    zunächst einen eschatologischen Sinn, wie er erstmals in <q type="koran" versstart="095:007"
+     versend="095:007">95:7</q> und <q type="koran" versstart="107:001" versend="107:001">107:1</q>
+    dokumentiert ist; durch Interferenz mit mittelpers. <lang xml:lang="pal-Latn">dēn</lang> nimmt
+    das Wort später jedoch auch die Bedeutung „Religion“ an (<bibl Zotero_Id_1="Z468GCXQ">Jeffery,
+     Foreign Vocabulary, 131–133</bibl>; <bibl Zotero_Id_1="AQXMFXII">Birkeland 1937, 217</bibl>,
+    erwägt eine rein innerarabische Rekonstruktion der Bedeutung von
+    <lang xml:lang="ar-Latn">dīn</lang>, die jedoch wenig überzeugend ist). Der Übergang von einer
+    aramäisch bestimmten Semantik von <lang xml:lang="ar-Latn">dīn</lang> zu einer mittelpersisch
+    bestimmten ist dabei nicht allein linguistisch erklärbar: Denn das koranische Wort
+    <lang xml:lang="ar-Latn">dīn</lang> konnte nach seiner zunächst ausschließlich eschatologischen
+    Verwendung wohl nur deshalb überhaupt in den Sog von mittelpers.
+    <lang xml:lang="pal-Latn">dēn</lang> geraten, weil der zu Beginn der koranischen Verkündigungen
+    so zentrale Gerichtsgedanke nach und nach zugunsten der Ausbildung einer eigenständigen und
+    umfassenden <hi rend="italic">Religion</hi> in den Hintergrund trat. – Ein interessantes
+    Schlaglicht auf die vorkoranische Semantik von <lang xml:lang="ar-Latn">dīn</lang> ergibt sich
+    aus einem wahrscheinlich authentischen Gedicht Umayya b. abī ṣ-Ṣalts (<ref target="#TUK525">TUK,
+     Nr. 525</ref>), welches <lang xml:lang="ar-Latn">dīn</lang> bereits im Sinne von „Religion“
+    verwendet. Es ist deshalb nicht davon auszugehen, dass ein vom Persischen bestimmter Gebrauch
+    des arabischen Wortes <lang xml:lang="ar-Latn">dīn</lang> eine lexikalische Innovation der
+    medinensischen Koransuren darstellt.</p>
+  </text>
+  <text versstart="002" versend="003" verfasser="nisi">
+   <p><lem>fa-ḏālika llaḏī yaduʿʿu l-yatīm / wa-lā yaḥuḍḍu ʿalā ṭaʿāmi l-miskīn]</lem> Vgl. den zu
+     <q type="koran" versstart="107:002" versend="107:003">V.2.3</q> parallelen Teil des
+    Lasterkatalogs in <q type="koran" versstart="089:017" versend="089:018">89:17.18</q>:
+    <lang xml:lang="ar-Latn">kallā bal lā tukrimūna l-yatīm / wa-lā taḥāḍḍūna</lang> (bzw. in einer
+    alternativen Lesart <lang xml:lang="ar-Latn">yaḥuḍḍūna</lang>)
+    <lang xml:lang="ar-Latn">ʿalā ṭaʿāmi l-miskīn</lang>, „Nein! Ihr seid nicht gütig gegen die
+    Waise, / haltet (euch untereinander) nicht zur Speisung des Armen an, / verzehrt die gesamte
+    Erbschaft / und liebt den Besitz innig!“ Die drei Elemente Speisung – Waise – Armer tauchen in
+    früh- und mittelmekkanischer Zeit auch noch in dem Tugendkatalog <q type="koran"
+     versstart="090:013" versend="090:016">90:13–16</q> auf, Waisen und Arme noch in <q type="koran"
+     versstart="089:017" versend="089:018">89:17.18</q>
+    (<lang xml:lang="ar-Latn">kallā bal lā tukrimūna l-yatīm / wa-lā taḥāḍḍūna ʿalā ṭaʿāmi l-miskīn</lang>)
+    und Waisen und Bettler in <q type="koran" versstart="093:009" versend="093:009">93:9</q>
+    (<lang xml:lang="ar-Latn">fa-ʾammă l-yatīma fa-lā taqhar / wa-ʾammă s-sāʾila fa-lā tanhar</lang>);
+    vgl. a. <q type="koran" versstart="069:034" versend="069:034">69:34</q>
+    (<lang xml:lang="ar-Latn">wa-lā yaḥuḍḍu ʿalā ṭaʿāmi l-miskīn</lang>) und <q type="koran"
+     versstart="074:044" versend="074:044">74:44</q>
+    (<lang xml:lang="ar-Latn">wa-lam naku nuṭʿimu l-miskīn</lang>). Es handelt sich dabei also um
+    einen schon früh im Koran auftretenden sozialkritischen Topos. Auf ähnlich stereotype Weise
+    können in der hebräischen Bibel „Witwe und Waise“ (s. <q type="bibel" buch="Ex"
+     versstart="022:021" versend="022:022">Exodus 22:21.22</q>, <q type="bibel" buch="Dtn"
+     versstart="014:029" versend="014:029">Deuteronomium 14:29</q>, <q type="bibel" buch="Mal"
+     versstart="003:005" versend="003:005">Maleachi 3:5</q>) und „arm und elend“
+    (<lang xml:lang="hbo-Latn">ʿonī we-eḇyôn</lang>; z. B. <q type="bibel" buch="Jer"
+     versstart="022:016" versend="022:016">Jeremia 22:16</q>, <q type="bibel" buch="Ez"
+     versstart="018:012" versend="018:012">Ezechiel 18:12</q>, <q type="bibel" buch="Ez"
+     versstart="022:029" versend="022:029">22:29</q>) kombiniert werden. Die Verdienstlichkeit
+    karitativer Taten und insbesondere der Speisung von Armen wird aber auch im Neuen Testament
+    betont, u. a. in der bekannten Passage <q type="bibel" buch="Mt" versstart="025:035"
+     versend="025:040">Matthäus 25:35 ff.</q>, wo sie – wie in der vorliegenden Sure – in einen
+    eschatologischen Zusammenhang gestellt wird: Beim Jüngsten Gericht redet der Menschensohn die
+    Seligen mit den Worten an: „Ich war hungrig, und ihr habt mir zu essen gegeben; ich war durstig
+    und ihr habt mir zu trinken gegeben; ich war fremd und obdachlos, und ihr habt mich aufgenommen;
+    / ich war nackt, und ihr habt mir Kleidung gegeben …“ S. a. die <q type="anmerkung"
+     versstart="093:009" versend="093:009">Anmerkungen zu 93:9</q> und zu <q type="anmerkung"
+     versstart="090:011" versend="090:016">90:11–16</q>. Ebenfalls um einen Topos prophetischer
+    Ethik handelt es sich bei den koranischen Ermahnungen, „volles Maß zu geben“; vgl. die <q
+     type="anmerkung" versstart="083:001" versend="083:004">Anmerkung zu 83:1–4</q>.</p>
+   <p><hi rend="italic">Textkritik</hi>: Statt <lang xml:lang="ar-Latn">yaduʿʿu</lang> wird auch die
+    Lesart <lang xml:lang="ar-Latn">yadaʿu</lang> (von <lang xml:lang="ar-Latn">waḍaʿa</lang>)
+    tradiert (<bibl Zotero_Id_1="KVFTU3XN">Muʿǧam, ad loc.</bibl>). Für die Mehrheitslesung
+    <lang xml:lang="ar-Latn">yaduʿʿu</lang> spricht jedoch, dass das schärfere „wegstoßen“
+    inhaltlich angemessener scheint und auch im folgenden Vers eine geminierte Wurzel
+    (<lang xml:lang="ar-Latn">ḥaḍḍa</lang>) gebraucht wird.</p>
+  </text>
+  <text versstart="004" versend="007" verfasser="nisi">
+   <p>Gegen eine äußerliche Verrichtung des Gebets polemisiert schon <q type="bibel" buch="Mt"
+     versstart="006:005" versend="006:005">Matthäus 6:5</q>: „Wenn ihr betet, macht es nicht wie die
+    Heuchler. Sie stellen sich beim Gebet gern in die Synagogen und an die Straßenecken, damit sie
+    von den Leuten gesehen werden (<lang xml:lang="gr-Grek">ὅπως φανῶσιν τοῖς ἀνθρώποις</lang> =
+    107:6: <lang xml:lang="ar-Latn">allaḏīna hum yurāʾūn</lang>)“ (<bibl Zotero_Id_1="N6AZJ8DR"
+     >Rudolph 1922, 13, 16</bibl>; zu weiteren Literaturangaben s. <ref target="#TUK266">TUK, Nr.
+     266</ref>). Zur Frage der Zusammengehörigkeit von <q type="koran" versstart="107:001"
+     versend="107:003">V. 1–3</q> und <q type="koran" versstart="107:004" versend="107:007">V.
+     4–7</q> die <q type="literarkritik" versstart="107:000" versend="107:007">Anmerkungen zur
+     Literarkritik</q>.</p>
+  </text>
+  <text versstart="004" versend="005" verfasser="nisi">
+   <p><lem>fa-wailun li-l-muṣallīn / allaḏīna hum ʿan ṣalātihim sāhūn]</lem> Zu
+    <lang xml:lang="ar-Latn">ṣallā</lang> und <lang xml:lang="ar-Latn">ṣalāh</lang> vgl. die <q
+     type="koran" versstart="108:002" versend="108:002">Anmerkung zu 108:2</q>. Mit
+    <lang xml:lang="ar-Latn">s-h-w</lang> (<lang xml:lang="ar-Latn">sāhūn</lang>, vgl.
+    frühmekkanisch noch <q type="koran" versstart="051:011" versend="051:011">Q 51:11</q>:
+    <lang xml:lang="ar-Latn">allaḏīna hum fī ġamratin sāhūn</lang>) ist inhaltlich wohl dasselbe wie
+    mit dem später häufigen Begriff der <lang xml:lang="ar-Latn">ġafla</lang> gemeint, der Tor
+    Andrae zufolge der u. a. bei Ephrem verurteilten religiösen Sorglosigkeit und Nachlässigkeit
+    entspricht (<bibl Zotero_Id_1="FPHTTNUA">Andrae 1926, 135 f.</bibl>).</p>
+  </text>
+  <text versstart="006" versend="006" verfasser="nisi">
+   <p><hi rend="italic">Versabteilung</hi>: Die Verszähltraditionen von Damaskus, Mekka und Medina
+    setzen nach <lang xml:lang="ar-Latn">yurāʾūn</lang> keinen Versschluss (<bibl
+     Zotero_Id_1="WCNUUFAC">Spitaler, Verszählung, 73</bibl>); formkritisch ist dies deshalb
+    plausibel, weil auch in dem Wehspruch 83:1–3 auf einen kürzeren Einleitungsvers ein
+    relativischer Lasterkatalog aus zwei längeren Versen folgt (<bibl Zotero_Id_1="4WEWN8NZ"
+     >Neuwirth, Studien, 36</bibl>). Akzeptiert man trotz der allerdings vorhandenen Reimpotenz
+    <lang xml:lang="ar-Latn">yurāʾūn</lang> die Zusammenziehung von <q type="koran"
+     versstart="107:006" versend="107:007">V. 6.7</q>, so ergibt sich für <q type="koran"
+     versstart="107:000" versend="107:007">Sure 107</q> ein symmetrischer Aufbau von zwei
+    Dreiergruppen.</p>
+  </text>
+  <text versstart="007" versend="007" verfasser="nisi">
+   <p><lem>wa-yamnaʿūna l-māʿūn]</lem> Vgl. <q type="koran" versstart="068:012" versend="068:012"
+     >68:12</q> (<lang xml:lang="ar-Latn">mannāʿin li-l-ḫairi muʿtadin ʾaṯīm</lang>) und <q
+     type="koran" versstart="070:021" versend="070:021">70:21</q>
+    (<lang xml:lang="ar-Latn">wa-ʾiḏā massahu l-ḫairu manūʿā</lang>). Geiger leitet den Ausdruck
+    <lang xml:lang="ar-Latn">māʿūn</lang> von hebr. <lang xml:lang="hbo-Latn">māʿôn</lang>,
+    „Wohnung“ und auch „Zuflucht“, her und übersetzt <q type="koran" versstart="107:007"
+     versend="107:007">V. 7</q> entsprechend mit „sie verweigern die Obhut“ bzw. „sie geben keinem
+    Hülfesuchenden ein Obdach“. <bibl Zotero_Id_1="8FV32BC2">Nöldeke (1910, 28)</bibl> akzeptiert
+    Geigers Ableitung, lehnt jedoch die Annahme ab, das arabische Wort müsse notwendigerweise
+    dieselbe Bedeutung wie der etymologisch zugrundeliegende hebräische Ausdruck bewahrt haben. Als
+    Beleg zitiert er einen Vers von al-Aʿšā Maimūn, in dem es über den Gelobten heißt, kein
+    „schäumender Euphratkanal“ sei „verschwenderischer als er mit seinen Wohltaten“,
+    <lang xml:lang="ar-Latn">bi-ʾaǧwada minhu bi-māʿūnihī</lang>; s. <ref target="#TUK180">TUK, Nr.
+     180</ref>). Der ursprünglich aus dem Hebräischen stammende Ausdruck
+    <lang xml:lang="ar-Latn">māʿūn</lang> hatte also offenbar bereits in vorkoranischer Zeit die
+    Bedeutung „Wohltat“, „Spende“ o. Ä. angenommen. Nöldekes Position hat sich auch Rhodokanakis
+    angeschlossen, der die eigenständige Bedeutungsentwicklung von arab.
+    <lang xml:lang="ar-Latn">māʿūn</lang> durch Interferenz mit arab.
+    <lang xml:lang="ar-Latn">maʿūna</lang> (von <lang xml:lang="ar-Latn">ʿ-w-n</lang>) erklären will
+     (<bibl Zotero_Id_1="VGJ2E3R8">Rhodokanakis 1911, 67 f.</bibl>). Gleichwohl ist nicht
+    auszuschließen, daß die koranische Verwendung des Ausdrucks bewußt den Anklang an hebräisch
+    <lang xml:lang="hbo-Latn">māʿôn</lang> sucht.</p>
+  </text>
+ </anmerkungen>
+ <kommentar>
+  <text versstart="001" versend="003" verfasser="nisi">
+   <p>Die Sure etabliert systematisch einen Konnex zwischen religiösen Überzeugungen und kultischen
+    Handlungen einerseits und der moralischen Bewährung des Einzelnen im Alltag. Die erste
+    Versgruppe tut dies in Form einer mit <lang xml:lang="ar-Latn">ʾa-raʾaita</lang> eingeleiteten
+    Frage, die rhetorisch eine Stellungnahme des Hörers zu „denen, die das Gericht leugnen“
+    einfordert; die Sure wendet sich damit vielleicht an Kultteilnehmer, die das in <q type="koran"
+     versstart="107:004" versend="107:005">V. 4 f.</q> dargestellte Verhalten selbst beobachten (zum
+    Sitz im Leben der frühmekkanischen Suren s. allg. <bibl Zotero_Id_1="8BMDDSSC">Neuwirth,
+     „Rezitationstext“</bibl>). Die in <q type="koran" versstart="107:002" versend="107:003">V.
+     2.3</q> gegebene Antwort setzt die Leugner des Gerichts dann mit Menschen gleich, welche „die
+    Waise wegstoßen“ und „nicht zur Speisung des Armen anhalten“. <q type="koran"
+     versstart="107:001" versend="107:003">V. 1–3</q> stellen damit die beständige Gewärtigung des
+    <lang xml:lang="gr-Latn">eschaton</lang> als Voraussetzung gesellschaftlicher Solidarität dar
+    und behandeln damit ein auch in anderen frühmekkanischen Suren zentrales Thema: Derselbe
+    Zusammenhang wird in <q type="koran" versstart="092:005" versend="092:006">Q 92:5.6</q>.<q
+     type="koran" versstart="092:008" versend="092:009">8.9</q> hergestellt, während <q type="koran"
+     versstart="104:001" versend="104:003">104:1–3</q> schildert, wie menschliches Handeln in
+    Ermangelung des geforderten eschatologischen Grundbewusstseins aussieht. Die in diesen Texten
+    geforderte Zukunftsorientierung, welche die Erwartung einer Rechenschaftsablegung am Jüngsten
+    Tag zur Basis innerweltlichen Handelns macht, komplementiert die Vergangenheitsorientierung der
+    früheren <q type="koran" versstart="106:000" versend="106:004">Sure 106</q>, die als Grund für
+    ethisches Handeln in der Gegenwart noch auf göttliche Gnadenerweise in der Vergangenheit
+    verwies.</p>
+  </text>
+  <text versstart="004" versend="007" verfasser="nisi">
+   <p>Wie <q type="koran" versstart="107:001" versend="107:001">V. 1</q> weist auch der
+    Eröffnungsvers der zweiten Versgruppe einen rhetorisch markanten Einsatzpunkt auf, nämlich die
+    einen Lasterkatalog einleitende Interjektion „Wehe …“ (<lang xml:lang="ar-Latn">wail</lang>).
+    Die anschließenden Verse zielen zunächst (<q type="koran" versstart="107:004" versend="107:006"
+     >V. 4–6</q>) auf die kultische Nachlässigkeit der Getadelten ab, doch wirft der Schlussvers
+    diesen zusätzlich noch eine „Verweigerung von Hilfeleistung“ vor: Die am Ende der ersten
+    Versgruppe exemplarisch angeführte Unterlassung der Unterstützung besonders schwacher
+    Gesellschaftsmitglieder (Waisen und Arme, die bereits in der Hebräischen Bibel metonymisch für
+    sozial Schwache insgesamt stehen) wird damit am Surenschluss noch einmal unter einen allgemeinen
+    Oberbegriff gestellt. Inhaltlich korrespondieren insofern <q type="koran" versstart="107:001"
+     versend="107:001">V. 1</q> und <q type="koran" versstart="107:004" versend="107:006">V. 4–6</q>
+    (religiöse Unterlassungen) und <q type="koran" versstart="107:002" versend="107:003">V. 2.3</q>
+    und <q type="koran" versstart="107:007" versend="107:007">V. 7</q> (soziale Unterlassungen),
+    wobei somit insgesamt in der ersten Versgruppe das Augenmerk eher auf sozialen und in der
+    zweiten Versgruppe eher auf religiösen Verfehlungen liegt.</p>
+   <p>Im Schlussvers sticht die kaum zufällige Wurzelähnlichkeit zwischen
+    <lang xml:lang="ar-Latn">māʿūn</lang> und dem Verb <lang xml:lang="ar-Latn">manaʿa</lang>
+    hervor, die zwei unterschiedliche Permutationen desselben Konsonantenbestandes
+    (<lang xml:lang="ar-Latn">m-n-ʿ</lang> / <lang xml:lang="ar-Latn">m-ʿ-n</lang>) enthalten; die
+    Verwendung des <lang xml:lang="gr-Latn">hapax legomenon</lang>
+    <lang xml:lang="ar-Latn">māʿūn</lang> (zur Etymologie s. o.) anstelle eines gängigeren Begriffes
+    ist sicherlich auch durch diese Assonanz motiviert. Der Gegensatz zwischen der eigentlich
+    gebotenen „Hilfeleistung“ und ihrer faktischen „Verwehrung“ wird so durch eine sprachliche
+    Ähnlichkeit der betreffenden Worte hervorgehoben – in der Terminologie späterer Rhetoriker
+    handelt es sich um die Stilfigur des <lang xml:lang="ar-Latn">ǧinās maqlūb</lang>.</p>
+  </text>
+ </kommentar>
+</korankommentar>

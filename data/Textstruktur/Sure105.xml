@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Quran xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="Textstruktur.xsd">
+    <Sure id="105" webtauglich="true" translator="Nicolai Sinai">
+        <Hauptteil id="0">
+            <Abschnitt id="0">
+                <Gesaetz n="0">
+                    <Vers n="000">
+                        <Teilvers n="000" reim="2n/m">
+                            <Kolon lang="ar" Einschub="false" n="0">بِسۡمِ ٱللَّهِ ٱلرَّحۡمَٰنِ ٱلرَّحِيمِ</Kolon>
+                            <Kolon lang="de" Einschub="false" n="0">Im Namen Gottes, des barmherzigen Erbarmers!</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="001">
+                        <Teilvers n="001" reim="3(K)K2l">
+                            <Kolon Einschub="false" lang="ar" n="1">أَلَمۡ تَرَ كَيۡفَ فَعَلَ رَبُّكَ بِأَصۡحَٰبِ ٱلۡفِيلِ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="1">Hast du nicht gesehen, wie dein Herr an den Leuten des Elefanten gehandelt hat?</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="002">
+                        <Teilvers n="002" reim="3(K)K2l">
+                            <Kolon Einschub="false" lang="ar" n="2">أَلَمۡ يَجۡعَلۡ كَيۡدَهُمۡ فِی تَضۡلِيلٍۢ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="2">Hat er ihre Pläne nicht in die Irre geleitet</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="003">
+                        <Teilvers n="003" reim="3(K)K2l">
+                            <Kolon Einschub="false" lang="ar" n="3">وَأَرۡسَلَ عَلَيۡهِمۡ طَيۡرًا أَبَابِيلَ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="3">und Vögelschwärme über sie gesandt,</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="004">
+                        <Teilvers n="004" reim="3(K)K2l">
+                            <Kolon Einschub="false" lang="ar" n="4">تَرۡمِيهِم بِحِجَارَةٍۢ مِّن سِجِّيلٍۢ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="4">die sie mit Steinen aus Lehm bewarfen,</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="005">
+                        <Teilvers n="005" reim="3(K)K2l">
+                            <Kolon Einschub="false" lang="ar" n="5">فَجَعَلَهُمۡ كَعَصۡفٍۢ مَّأۡكُولٍ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="5">und sie so abgefressenem Gras gleichgemacht?</Kolon>
+                        </Teilvers>
+                    </Vers>
+                </Gesaetz>
+            </Abschnitt>
+        </Hauptteil>
+    </Sure>
+</Quran>

@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Quran xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="Textstruktur.xsd">
+    <Sure id="092" webtauglich="true" translator="Nicolai Sinai">
+        <Hauptteil id="0">
+            <Abschnitt id="0">
+                <Gesaetz n="0">
+                    <Vers n="000">
+                        <Teilvers n="000" reim="2n/m">
+                            <Kolon lang="ar" Einschub="false" n="0">بِسۡمِ ٱللَّهِ ٱلرَّحۡمَٰنِ ٱلرَّحِيمِ</Kolon>
+                            <Kolon lang="de" Einschub="false" n="0">Im Namen Gottes, des barmherzigen Erbarmers!</Kolon>
+                        </Teilvers>
+                    </Vers>
+                </Gesaetz>
+                <Gesaetz n="1">
+                    <Vers n="001">
+                        <Teilvers n="001" reim="3(K)Kā">
+                            <Kolon Einschub="false" lang="ar" n="1">وَٱلَّيۡلِ إِذَا يَغۡشَىٰ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="1">Bei der Nacht, wenn sie bedeckt,</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="002">
+                        <Teilvers n="002" reim="3(K)Kā">
+                            <Kolon Einschub="false" lang="ar" n="2">وَٱلنَّهَارِ إِذَا تَجَلَّىٰ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="2">beim Tag, wenn er erglänzt,</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="003">
+                        <Teilvers n="003" reim="3(K)Kā">
+                            <Kolon Einschub="false" lang="ar" n="3">وَمَا خَلَقَ ٱلذَّكَرَ وَٱلۡأُنثَىٰۤ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="3">bei dem, was Männliches und Weibliches erschuf!</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="004">
+                        <Teilvers n="004" reim="3(K)Kā">
+                            <Kolon Einschub="false" lang="ar" n="4">إِنَّ سَعۡيَكُمۡ لَشَتَّىٰ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="4">Euer Mühen ist verschieden.</Kolon>
+                        </Teilvers>
+                    </Vers>
+                </Gesaetz>
+                <Gesaetz n="2">
+                    <Vers n="005">
+                        <Teilvers n="005" reim="3(K)Kā">
+                            <Kolon Einschub="false" lang="ar" n="5">فَأَمَّا مَنۡ أَعۡطَىٰ وَٱتَّقَىٰ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="5">Wer gibt, gottesfürchtig ist</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="006">
+                        <Teilvers n="006" reim="3(K)Kā">
+                            <Kolon Einschub="false" lang="ar" n="6">وَصَدَّقَ بِٱلۡحُسۡنَىٰ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="6">und an die gute Verheißung glaubt,</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="007">
+                        <Teilvers n="007" reim="3(K)Kā">
+                            <Kolon Einschub="false" lang="ar" n="7">فَسَنُيَسِّرُهُۥ لِلۡيُسۡرَىٰ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="7">dem werden wir es leicht machen, zum Leichten zu gelangen.</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="008">
+                        <Teilvers n="008" reim="3(K)Kā">
+                            <Kolon Einschub="false" lang="ar" n="8">وَأَمَّا مَنۢ بَخِلَ وَٱسۡتَغۡنَىٰ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="8">Wer aber geizt, an sich selbst genug hat</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="009">
+                        <Teilvers n="009" reim="3(K)Kā">
+                            <Kolon Einschub="false" lang="ar" n="9">وَكَذَّبَ بِٱلۡحُسۡنَىٰ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="9">und die gute Verheißung leugnet,</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="010">
+                        <Teilvers n="010" reim="3(K)Kā">
+                            <Kolon Einschub="false" lang="ar" n="10">فَسَنُيَسِّرُهُۥ لِلۡعُسۡرَىٰ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="10">dem werden wir es leicht machen, zum Schweren zu gelangen;</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="011">
+                        <Teilvers n="011" reim="3(K)Kā">
+                            <Kolon Einschub="false" lang="ar" n="11">وَمَا يُغۡنِی عَنۡهُ مَالُهُۥٓ إِذَا تَرَدَّىٰۤ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="11">sein Besitz hilft ihm nicht, wenn er zugrunde geht.</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="012">
+                        <Teilvers n="012" reim="3(K)Kā">
+                            <Kolon Einschub="false" lang="ar" n="12">إِنَّ عَلَيۡنَا لَلۡهُدَىٰ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="12">Uns obliegt die Rechtleitung,</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="013">
+                        <Teilvers n="013" reim="3(K)Kā">
+                            <Kolon Einschub="false" lang="ar" n="13">وَإِنَّ لَنَا لَلۡٴَاخِرَةَ وَٱلۡأُولَىٰ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="13">uns gehören Jenseits und Diesseits.</Kolon>
+                        </Teilvers>
+                    </Vers>
+                </Gesaetz>
+                <Gesaetz n="3">
+                    <Vers n="014">
+                        <Teilvers n="014" reim="3(K)Kā">
+                            <Kolon Einschub="false" lang="ar" n="14">فَأَنذَرۡتُكُمۡ نَارًۭا تَلَظَّىٰ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="14">So warne ich euch vor loderndem Feuer,</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="015">
+                        <Teilvers n="015" reim="3(K)Kā">
+                            <Kolon Einschub="false" lang="ar" n="15">لَا يَصۡلَىٰهَآ إِلَّا ٱلۡأَشۡقَى</Kolon>
+                            <Kolon Einschub="false" lang="de" n="15">in dem allein der Unselige schmort,</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="016">
+                        <Teilvers n="016" reim="3(K)Kā">
+                            <Kolon Einschub="false" lang="ar" n="16">ٱلَّذِی كَذَّبَ وَتَوَلَّىٰ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="16">der leugnet und sich abwandt.</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="017">
+                        <Teilvers n="017" reim="3(K)Kā">
+                            <Kolon Einschub="false" lang="ar" n="17">وَسَيُجَنَّبُهَا ٱلۡأَتۡقَى</Kolon>
+                            <Kolon Einschub="false" lang="de" n="17">Davon verschont wird der Gottesfürchtige,</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="018">
+                        <Teilvers n="018" reim="3(K)Kā">
+                            <Kolon Einschub="false" lang="ar" n="18">ٱلَّذِی يُؤۡتِی مَالَهُۥ يَتَزَكَّىٰ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="18">der seinen Besitz hingibt, um sich zu läutern,</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="019">
+                        <Teilvers n="019" reim="3(K)Kā">
+                            <Kolon Einschub="false" lang="ar" n="19">وَمَا لِأَحَدٍ عِندَهُۥ مِن نِّعۡمَةٍۢ تُجۡزَىٰۤ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="19">ohne dass jemand bei ihm Anrecht auf die Vergeltung einer Wohltat hätte,</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="020">
+                        <Teilvers n="020" reim="3(K)Kā">
+                            <Kolon Einschub="false" lang="ar" n="20">إِلَّا ٱبۡتِغَآءَ وَجۡهِ رَبِّهِ ٱلۡأَعۡلَىٰ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="20">sondern nur im Streben nach dem Angesicht seines höchsten Herrn;</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="021">
+                        <Teilvers n="021" reim="3(K)Kā">
+                            <Kolon Einschub="false" lang="ar" n="21">وَلَسَوۡفَ يَرۡضَىٰ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="21">er wird zufrieden sein.</Kolon>
+                        </Teilvers>
+                    </Vers>
+                </Gesaetz>
+            </Abschnitt>
+        </Hauptteil>
+    </Sure>
+</Quran>

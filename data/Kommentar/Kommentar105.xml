@@ -1,0 +1,424 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<korankommentar xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:noNamespaceSchemaLocation="Kommentar.xsd">
+ <sure id="105" webtauglich="true"/>
+ <surentitel>
+  <text versstart="000" versend="005" verfasser="tjj">
+   <p>Sure 105 — <lang xml:lang="ar-Latn">al-Fīl</lang> — »Der Elefant«</p>
+  </text>
+ </surentitel>
+ <autorenkurz>
+  <text versstart="000" versend="005" verfasser="tjj">
+   <p>Übersetzt und analysiert von Nicolai Sinai</p>
+  </text>
+ </autorenkurz>
+ <datierungkurz>
+  <text versstart="000" versend="005" verfasser="nisi">
+   <p>Mekka I (Gruppe I)</p>
+  </text>
+ </datierungkurz>
+ <datierung>
+  <text versstart="000" versend="005" verfasser="nisi">
+   <p>Nöldeke ordnet die Sure ohne weitere Erläuterungen der frühmekkanischen Periode zu (<bibl
+     Zotero_Id_1="MU7I8ZHM" Titel_1="Geschichte des Qorāns: Teil 1 Über den Ursprung des Qorāns"><hi
+      rend="italic">GdQ</hi>, Bd. 1, 93</bibl>). Hierfür sprechen die Kürze der allesamt aus einem
+    einzigen Verbalsatz bestehenden Verse (durchschnittliche Silbenzahl pro Vers: 12), die vor allem
+    für die frühmekkanische Zeit charakteristische Gottesbezeichnung
+    <lang xml:lang="ar-Latn">rabb</lang> + Suffix und das Fehlen jeglicher struktureller
+    Binnendifferenzierung in Gesätze und Gesätzgruppen, wie sie den Aufbau späterer Korantexte
+    bestimmt.</p>
+   <p>Gleichwohl unterscheidet sich <q type="koran" versstart="105:000" versend="105:005">Q 105</q>
+    in verschiedener Hinsicht von den übrigen Texten der frühmekkanischen Periode. Der mekkanische
+    Lokalbezug von <q type="koran" versstart="105:000" versend="105:005">Q 105</q> steht in
+    deutlichem Kontrast zum geweiteten Horizont späterer koranischer Erzählperikopen, in denen
+    entweder biblische Figuren wie Abraham, Noah oder Moses agieren oder zumindest ihnen typologisch
+    entsprechende arabische Warnergestalten wie Šuʿaib. Darüber hinaus fehlt jeder Bezug auf ein
+    endzeitliches Strafgericht – Gottes Vernichtung der
+    <lang xml:lang="ar-Latn">ʾaṣḥāb al-fīl</lang> erscheint primär als ein Akt des Schutzes Mekkas,
+    nicht, wie die in späteren Texten erzählten göttlichen Strafhandlungen, als Vergeltung
+    religiösen oder ethischen Fehlverhaltens. <q type="koran" versstart="105:000" versend="105:005"
+     >Q 105</q> ähnelt darin <q type="koran" versstart="106:000" versend="106:004">Q 106</q>: Auch
+    dort tritt Gott nicht als universaler Schöpfer und Richter auf, sondern als gütiger Schutzherr
+    des mekkanischen Gemeinwesens, und auch dort fehlt jeder Hinweis auf die massive Störung des
+    Gott-Mensch-Verhältnisses, die in anderen frühmekkanischen Texten so prominent ist (vgl. <q
+     type="koran" versstart="100:006" versend="100:008">Q 100:6 ff.</q> oder <q type="koran"
+     versstart="103:001" versend="103:002">Q 103:1.2</q>). Auch das auffällig affirmative Verhältnis
+    zum mekkanischen Gemeinwesen ist beiden Suren gemeinsam: Während Gott in <q type="koran"
+     versstart="105:000" versend="105:005">Q 105</q> als Beschützer Mekkas gegen eine auswärtige
+    Bedrohung agiert, erscheinen die später zumeist als „Ungläubige“
+    (<lang xml:lang="ar-Latn">allaḏīna kafarū</lang>) verunglimpften Mekkaner in <q type="koran"
+     versstart="106:000" versend="106:004">Q 106</q> noch neutral als „die Quraiš“ (s. <bibl
+     Zotero_Id_1="WMQAF468" Titel_1="The Origin of Islam in its Christian environment">Bell 1926,
+     73</bibl>) und werden ohne jeden polemischen Unterton zur Abstattung des Gott gebührenden
+    Dankes aufgerufen. Auf den Kontrast zwischen <q type="koran" versstart="105:000"
+     versend="105:005">Sure 105</q> und <q type="koran" versstart="106:000" versend="106:004"
+     >106</q> einerseits und den meisten anderen frühmekkanischen Texten andererseits hat erstmals
+    Harris Birkeland hingewiesen, der <q type="koran" versstart="105:000" versend="105:005">Q
+     105</q> und <q type="koran" versstart="106:000" versend="106:004">106</q> mit den an den
+    Verkünder gerichteten Trostsuren <q type="koran" versstart="093:000" versend="093:011">Q 93</q>,
+     <q type="koran" versstart="094:000" versend="094:008">94</q> und <q type="koran"
+     versstart="108:000" versend="108:003">108</q> zusammenstellen und in allen fünf Texten ein
+    einheitliches theologisches Profil entdecken will (s. <bibl Zotero_Id_1="JM6WUWTX"
+     Titel_1="The Lord Guideth studies on primitive Islam">Birkeland 1956</bibl>). Zentrales Thema
+    der genannten Suren sei es, so Birkeland, „von der Gnade des Herrn zu berichten“ (<q
+     type="koran" versstart="093:011" versend="093:011">Q 93:11</q>), d. h. Gottes Involviertheit in
+    die Sphäre menschlichen Handelns aufzuzeigen: „The experience which became decisive for
+    Muhammed’s whole future activity must have been the recognition of God’s merciful guidance in
+    the life of himself and his people, that means in <hi rend="italic">history</hi>. Before God
+    could appear as a judge he had to be a reality, and the Surahs treated in this paper reveal a
+    stage in which Muhammed had not yet severed from Arab paganism, but had only experienced the
+    divine power as a historic force, which meant a force active in the historic life of Quraiš and
+    the personal life of Muhammed himself. A divine activity of this kind was unknown to Arab
+    paganism …“ (<bibl Zotero_Id_1="JM6WUWTX" Titel_1="The Lord Guideth studies on primitive Islam"
+     >Birkeland 1956, 5</bibl> ; vgl. <bibl Zotero_Id_1="7ZC7PUWI"
+     Titel_1="Die Barmherzigkeit Gottes Zur Entstehungsgeschichte eines koranischen Symbols"
+     >Gottfried Müller 1988</bibl>).</p>
+   <p>Birkelands Hypothese leistet zweifellos einen wichtigen Beitrag zu der Frage nach dem
+    thematischen Einsatzpunkt der koranischen Verkündigung (vgl. <bibl Zotero_Id_1="J6TM6UHR"
+     Titel_1="Der Koran">Paret 1975, 219–224</bibl>). Tatsächlich wird der „Leitgedanke“ der frühen
+    koranischen Verkündigungen kaum im monotheistischen Bekenntnis, d. h. in der Behauptung der
+    Irrealität aller anderen Gottheiten, bestanden haben; dies legt schon die Tatsache nahe, dass
+    die später so zentralen Begriff <lang xml:lang="ar-Latn">širk</lang>,
+    <lang xml:lang="ar-Latn">ʾašraka</lang>, <lang xml:lang="ar-Latn">šurakāʾ</lang> in den von
+    Nöldeke als frühmekkanisch eingestuften Texten weitgehend fehlen (mit Ausnahme von <q
+     type="koran" versstart="052:043" versend="052:043">52:43</q> und <q type="koran"
+     versstart="068:041" versend="068:041">68:41</q>). Tor Andrae hat deshalb die Ansicht vertreten,
+    der Einsatzpunkt der Korangenese sei im Gedanken des Jüngsten Gerichts zu suchen (vgl. <bibl
+     Zotero_Id_1="FPHTTNUA">Andrae
+    1926</bibl>). Dagegen macht Gottfried Müller im Rückgriff auf Birkeland geltend: „Im Gedanken
+    des drohenden Gerichts den Ausgangspunkt zu sehen, ist insofern problematisch, als der Gott, der
+    sich in der Drohung als Feind erweist, sich zuerst in seiner Zuwendung bekundet haben muss.
+    Bevor der Gott sich entfernt, muss er dagewesen sein, in seiner Anwesenheit erfahren sein, muss
+    er in seiner um den Menschen besorgten Initiative erkannt sein.“ (<bibl Zotero_Id_1="7ZC7PUWI"
+     Titel_1="Die Barmherzigkeit Gottes Zur Entstehungsgeschichte eines koranischen Symbols"
+     >Gottfried Müller 1988, 342</bibl>) Birkeland und Müller zufolge führen die fünf o. g. Dank-
+    und Trostsuren allererst jene umfassende Aktivierung des vorkoranischen Hochgottes
+    <lang xml:lang="ar-Latn">Allāh</lang> (vgl. <bibl Zotero_Id_1="HAWEGFU2"
+     Titel_1="Die Geburt des Islam historische Innovation durch Offenbarung">Ammann 2001</bibl>)
+    durch, die der frühmekkanischen Gerichtsbotschaft logisch und chronologisch vorausgeht.</p>
+   <p>Allerdings erweist sich die Gruppe der von Birkeland behandelten fünf Kurzsuren bei näherer
+    Betrachtung als recht heterogen. Während <q type="koran" versstart="105:000" versend="105:005">Q
+     105</q> und <q type="koran" versstart="106:000" versend="106:004">106</q> das Kollektiv der
+    Quraiš in den Mittelpunkt rücken, steht in <q type="koran" versstart="093:000" versend="093:011"
+     >Q 93</q>, <q type="koran" versstart="094:000" versend="094:008">94</q>, <q type="koran"
+     versstart="108:000" versend="108:003">108</q> der individuelle Zuspruch an die Person des
+    Verkünders im Vordergrund. Tatsächlich stehen die letzteren drei Suren in erheblich größerer
+    Kontinuität zu anderen frühmekkanischen Texten: <q type="koran" versstart="093:004"
+     versend="093:004">93:4</q> spielt auf das Jenseits und damit mittelbar auch auf das Jüngste
+    Gericht an, und Anreden des Verkünders am Surenanfang finden sich auch in <q type="koran"
+     versstart="073:000" versend="073:020">Q 73</q>, <q type="koran" versstart="074:000"
+     versend="074:056">74</q>, <q type="koran" versstart="087:000" versend="087:019">87</q> und <q
+     type="koran" versstart="096:000" versend="096:019">96</q> (wobei es sich dort allerdings nicht
+    um Trostreden, sondern um hymnische Aufrufe zum Gottesdienst o. Ä. handelt). Vor diesem
+    Hintergrund erscheint es naheliegend, Birkelands Vermutung einer chronologischen Vorgängigkeit
+    der von ihm untersuchten fünf Suren auf <q type="koran" versstart="105:000" versend="105:005">Q
+     105</q> und <q type="koran" versstart="106:000" versend="106:004">106</q> einzuschränken, die
+    im Gegensatz zu späteren Korantexten noch eine grundsätzliche affirmative Haltung zum
+    mekkanischen Gemeinwesen einnehmen, und die drei Trostsuren in ein späteres Stadium der
+    frühmekkanischen Periode zu setzen (zu Angelika Neuwirths Übernahme von Birkelands These s. den
+     <q type="datierung" versstart="108:000" versend="108:003">Abschnitt zur Datierung von Q
+    108</q>). Kurze Droh- und Scheltworte wie <q type="koran" versstart="095:000" versend="095:008"
+     >Q 95</q>, <q type="koran" versstart="102:000" versend="102:008">102</q>, <q type="koran"
+     versstart="103:000" versend="103:003">103</q>, <q type="koran" versstart="104:000"
+     versend="104:009">104</q>, <q type="koran" versstart="107:000" versend="107:007">107</q>
+    (vielleicht auch <q type="koran" versstart="111:000" versend="111:005">Q 111</q>), die eine
+    fundamentale Störung des Verhältnisses zwischen Gott und Mensch ansagen und damit erstmals die
+    Kernthematik der frühmekkanischen Periode (die ethisch-religiöse Unzulänglichkeit des Menschen
+    und die Realität des Jüngsten Gerichts) anschneiden, wären dann Ausdruck einer sich an <q
+     type="koran" versstart="105:000" versend="105:005">Q 105</q> und <q type="koran"
+     versstart="106:000" versend="106:004">106</q> anschließenden theologischen Neuorientierung,
+    gleichsam Resultat einer ‚eschatologischen Wende’, die auch einen wesentlich kritischeren Blick
+    auf das mekkanische Gemeinwesen mit sich gebracht haben dürfte (die Bezeichnung Mekkas als
+    „diese sichere Ortschaft“ in <q type="koran" versstart="095:003" versend="095:003">95:3</q>
+    lässt sich dabei noch als Nachhall von <q type="koran" versstart="105:000" versend="105:005">Q
+     105</q> und <q type="koran" versstart="106:000" versend="106:004">106</q> verstehen).</p>
+  </text>
+ </datierung>
+ <literarkritikkurz>
+  <text versstart="000" versend="005" verfasser="nisi">
+   <p>Keine Einschübe</p>
+  </text>
+ </literarkritikkurz>
+ <literarkritik>
+  <text versstart="000" versend="005" verfasser="nisi">
+   <p>S. den <q type="kommentar" versstart="106:001" versend="106:004">Kommentar zu Q 106</q> zu der
+    Hypothese, <q type="koran" versstart="105:000" versend="105:005">Q 105</q> und <q type="koran"
+     versstart="106:000" versend="106:004">106</q> hätten ursprünglich einen einzigen
+    Textzusammenhang gebildet.</p>
+  </text>
+ </literarkritik>
+ <aufbauinhalt>
+  <text versstart="000" versend="005" verfasser="nisi">
+   <p>Die nur aus fünf Versen bestehende Sure vergegenwärtigt in Form zweier Fragen – von denen die
+    zweite mehrgliedrig ist (<q type="koran" versstart="105:002" versend="105:005">V. 2–5</q>) –
+    Gottes Vernichtung der „Leute des Elefanten“, den <lang xml:lang="ar-Latn">ʾaṣḥāb al-fīl</lang>
+     (<q type="koran" versstart="105:001" versend="105:001">V. 1</q>: erste Frage in der 2. P. Sg.,
+    Einführung der <lang xml:lang="ar-Latn">ʾaṣḥāb al-fīl</lang>, <q type="koran"
+     versstart="105:002" versend="105:005">V. 2–5</q>: zweite, mehrgliedrige Frage, Gottes Vorgehen
+    gegen die <lang xml:lang="ar-Latn">ʾaṣḥāb al-fīl</lang>). Der historische Hintergrund der Sure
+    ist wohl tatsächlich in einem Feldzug des südarabischen Herrschers Abraha zu sehen, bei dem
+    Elefanten mitgeführt worden sein sollen (vgl. <bibl Zotero_Id_1="TJNE7TP3"
+     Titel_1="Koranische Untersuchungen">Horovitz, Koranische Untersuchungen, 96–98</bibl>, der auf
+    vom Koran unabhängige Verarbeitungen des Ereignisses in der Dichtung hinweist und daraus
+    schließt, „daß auch bereits in vorkoranischer Zeit in Mekka die Erzählung von dem von einem
+    Elefanten begleiteten Zuge der Abessinier verbreitet war“; zum historischen Hintergrund siehe
+    die Literaturangaben im Anhang). Die zweite, nicht mehr durch
+    <lang xml:lang="ar-Latn">ʾa-lam tara kaifa …</lang> eingeleitete Frage beantwortet indirekt die
+    erste Frage, indem sie das Ergehen der „Leute des Elefanten“ genauer schildert. Der Text reimt
+    auf <hi rend="italic">3K(K)2l</hi> (Variante in <q type="koran" versstart="105:003"
+     versend="105:003">V. 3</q>: <hi rend="italic">āK2l</hi>). Jeder der fünf Verse enthält einen
+    Verbalsatz (in <q type="koran" versstart="105:001" versend="105:001">V. 1</q> ist der Verbalsatz
+    in die Frageform <lang xml:lang="ar-Latn">ʾa-lam tara kaifa …</lang> eingebettet), dessen
+    Subjekt nur in <q type="koran" versstart="105:004" versend="105:004">V. 4</q> nicht Gott ist
+    (sofern hier nicht doch <lang xml:lang="ar-Latn">yarmīhim</lang> zu lesen ist, s. o.); dieser
+    Vers steht als einziger in Hypotaxe. Besonders prominent sind in <q type="koran"
+     versstart="105:000" versend="105:005">Q 105</q> die unspezifischen Verben
+    <lang xml:lang="ar-Latn">faʿala</lang>, „tun“ (<q type="koran" versstart="105:001"
+     versend="105:001">V. 1</q>) und <lang xml:lang="ar-Latn">ǧaʿala</lang>, „machen zu“ (<q
+     type="koran" versstart="105:002" versend="105:002">V. 2</q> und <q type="koran"
+     versstart="105:005" versend="105:005">5</q>).</p>
+  </text>
+ </aufbauinhalt>
+ <ueberblick>
+  <text versstart="000" versend="005" verfasser="tjj">
+   <p>
+    <table cols="2" rend="boxed" rows="2">
+     <head/>
+     <row>
+      <cell>
+       <hi rend="superscript"><q type="koran" versstart="105:001" versend="105:005">1–5</q></hi>
+       <hi rend="italic">3(K)K2l (Variante in V.2:āK2l)</hi>
+      </cell>
+      <cell>
+       <hi rend="bold">1</hi>
+       <hi rend="superscript"><q type="koran" versstart="105:001" versend="105:001">1</q></hi>
+       Lehrfrage (Einführung der <lang xml:lang="ar-Latn">ʾaṣḥāb al-fīl</lang>)</cell>
+     </row>
+     <row>
+      <cell/>
+      <cell>
+       <hi rend="superscript"><q type="koran" versstart="105:002" versend="105:005">2–5</q></hi>
+       zweite, mehrgliedrige Frage mit Erzählung (Vernichtung der
+       <lang xml:lang="ar-Latn">ʾaṣḥāb al-fīl</lang>)</cell>
+     </row>
+    </table>
+   </p>
+  </text>
+ </ueberblick>
+ <anmerkungen>
+  <text versstart="000" versend="000" verfasser="nisi">
+   <p><lem>bi-smi llāhi r-raḥmāni r-raḥīm]</lem> Zur Basmala s. die entsprechende <q
+     type="anmerkung" versstart="093:000" versend="093:000">Anmerkung zu 93</q>; zum Gottesnamen
+    <lang xml:lang="ar-Latn">raḥmān</lang> s. die <q type="anmerkung" versstart="055:001"
+     versend="055:001">Anmerkung zu 55:1</q>.</p>
+  </text>
+  <text versstart="001" versend="001" verfasser="nisi">
+   <p><lem>ʾa-lam tara]</lem> Vgl. dieselbe Formulierung in <q type="koran" versstart="089:006"
+     versend="089:006">89:6</q>
+    (<lang xml:lang="ar-Latn">ʾa-lam tara kaifa faʿala rabbuka bi-ʿād</lang>). Die Frageform
+    <lang xml:lang="ar-Latn">ʾa-lam</lang> wird auch in <q type="koran" versstart="093:006"
+     versend="093:006">93:6</q> und <q type="koran" versstart="094:001" versend="094:001">94:1</q>
+    zur Vergegenwärtigung vergangener göttlicher Wohltaten gebraucht, die dort allerdings die Person
+    des Verkünders und nicht das Kollektiv der Quraiš betreffen.</p>
+   <p><lem>kaifa faʿala rabbuka]</lem> Zum Gottestitel <lang xml:lang="ar-Latn">rabb</lang> s. die
+     <q type="anmerkung" versstart="095:008" versend="095:008">Anmerkung zu 95:8</q>.</p>
+  </text>
+  <text versstart="002" versend="002" verfasser="nisi">
+   <p><lem>ʾa-lam yaǧʿal kaidahum fī taḍlīl]</lem> Die Aussage, dass Gott menschliche Machenschaften
+    zunichte macht, findet sich frühmekkanisch auch in <q type="koran" versstart="052:042"
+     versend="052:042">52:42</q>
+    (<lang xml:lang="ar-Latn">ʾam yurīdūna kaidan fa-llaḏīna kafarū humu l-makīdūn</lang>) und <q
+     type="koran" versstart="086:015" versend="086:015">86:15</q>
+    (<lang xml:lang="ar-Latn">ʾinnahum yakīdūna kaidan</lang>), wo der menschliche
+    <lang xml:lang="ar-Latn">kaid</lang> jeweils durch einen göttlichen
+    <lang xml:lang="ar-Latn">kaid</lang> überboten wird. <lang xml:lang="ar-Latn">Taḍlīl</lang> wird
+    hier wohl aufgrund des Reimes als Ersatz für <lang xml:lang="ar-Latn">ḍalāl</lang>, „irregehen;
+    verschwinden, zu Grunde gehen“ (vgl. <bibl Zotero_Id_1="89WAAM3P"
+     Titel_1="A concise dictionary of Koranic Arabic">Ambros, Dictionary, 170</bibl>) verwendet,
+    das in ähnlichen Konstruktionen bezeugt ist (<bibl Zotero_Id_1="9S76QVVE"
+     Titel_1="Untersuchungen zur Reimprosa im Koran">Friedrun Müller 1969, 46–50</bibl> ; vgl. insb.
+     <q type="koran" versstart="040:025" versend="040:025">40:25</q>:
+    <lang xml:lang="ar-Latn">wa-mā kaidu l-kāfirīna ʾillā fī ḍalāl</lang>, „Die Machenschaften der
+    Ungläubigen gehen in die Irre“).</p>
+  </text>
+  <text versstart="003" versend="003" verfasser="nisi">
+   <p><lem>wa-ʾarsala ʿalaihim ṭairan ʾabābīl]</lem> Zur Wurzel
+    <lang xml:lang="ar-Latn">r-s-l</lang> (<lang xml:lang="ar-Latn">ʾarsala</lang>,
+    <lang xml:lang="ar-Latn">rasūl</lang>) s. die <q type="anmerkung" versstart="091:013"
+     versend="091:013">Anmerkung zu 91:13</q>. <lang xml:lang="ar-Latn">Abābīl</lang> (in Apposition
+    zu <lang xml:lang="ar-Latn">ṭair</lang>, „Vögel“) weist dieselbe Wurzel wie
+    <lang xml:lang="ar-Latn">ʾibl</lang> (f.), <lang xml:lang="ar-Latn">ʾābāl</lang>, „Kamel“, auf;
+    vgl. a. <lang xml:lang="ar-Latn">ʾabila</lang>, was u. a. „sich (wie Kamele) vermehren“ bedeuten
+    kann (<bibl Zotero_Id_1="8WQ6CTDE"
+     Titel_1="An Arabic-English lexicon derived fom the best and the most copious Eastern so">Lane,
+     Bd. 1, 7c</bibl>). Der Ausdruck entspricht der Pluralform
+    <lang xml:lang="ar-Latn">faʿālīl</lang>, die vorwiegend bei vier- oder fünfkonsonantigen Wurzeln
+    auftritt (z. B. <lang xml:lang="ar-Latn">yanābīʿ</lang>, von
+    <lang xml:lang="ar-Latn">yanbūʿ</lang>, „Quelle“, und <lang xml:lang="ar-Latn">šayāṭīn</lang>,
+    „Teufel“), jedoch auch für dreiradikalige Wurzeln belegt ist (<bibl Zotero_Id_1="SZ3IM9DZ"
+     Titel_1="A grammar of the Arabic language">Wright, Bd. 1, 228 f.</bibl>). Die Lexikographen
+    erklären das Wort als Plural von <lang xml:lang="ar-Latn">ʾibāla</lang>, „Schar, Herde“ (<bibl
+     Zotero_Id_1="Z468GCXQ" Titel_1="The foreign vocabulary of the Qurān">Jeffery, Foreign
+     Vocabulary, 43 f.</bibl>). Dass es sich tatsächlich um ein im koranischen Milieu gebräuchliches
+    arabisches Wort handelt, zeigen die von <bibl Zotero_Id_1="XAF5XPNV"
+     Titel_1="Reflections on the relationship of Early Arabic Poetry and the Qurʾān meaning a">Muth
+     2007</bibl> gesammelten Belege für den Gebrauch von <lang xml:lang="ar-Latn">ʾabābīl</lang> in
+    der vorkoranischen Dichtung, wo sich der Ausdruck generell mit „Schwärme“ bzw. (angewandt auf
+    Pferde) „Herden“ übersetzen lässt; die Spekulationen, die koranische Wendung könne auf eine
+    Verlesung von <lang xml:lang="pal-Latn">tīr</lang> (pers., „Pfeile“)
+    <lang xml:lang="pal-Latn">bābīl</lang> zurückgehen, also „babylonische Pfeile“ bedeuten (Carra
+    de Vaux; vgl. <bibl Zotero_Id_1="Z468GCXQ" Titel_1="The foreign vocabulary of the Qurān"
+     >Jeffery, Foreign Vocabulary, 44</bibl>) oder das Wort sei von akk. ʾibbiltu, der Bezeichnung
+    einer nicht näher bekannten Vogelart, abzuleiten (<bibl Zotero_Id_1="N3VRZDE5"
+     Titel_1="Sur quelques noms arabes anciens d’oiseaux (et le secret dévoilé de leur étymolo">Viré
+     1986</bibl>), dürften sich von daher erübrigen. Obwohl der Ausdruck folglich in einer für <q
+     type="koran" versstart="105:003" versend="105:003">105:3</q> passenden Bedeutung auch im
+    vorkoranischen Arabisch gebräuchlich ist, plädiert Muth dennoch für eine Ableitung von syr.
+    <lang xml:lang="syc-Latn">ebāltā</lang>. Diese müsste dann jedoch bereits in vorkoranischer Zeit
+    stattgefunden haben und ist insofern für die Interpretation des Koranverses nur bedingt
+    relevant. Zu fragen wäre auch, ob nicht gerade bei einem mit der Kamelzucht, einer nomadischen
+    Wirtschaftsdomäne, assoziierten Begriff eher ein umgekehrtes Entlehnungsverhältnis denkbar
+    ist.</p>
+  </text>
+  <text versstart="004" versend="004" verfasser="nisi">
+   <p><lem>tarmīhim bi-ḥiǧāratin min siǧǧīl]</lem> Überliefert wird auch die Lesung
+    <lang xml:lang="ar-Latn">yarmīhim</lang>, wodurch Gott zum Subjekt des Werfens würde (<bibl
+     Zotero_Id_1="KVFTU3XN" Titel_1="Muʿǧam al-qirāʾāt">Muʿǧam, ad loc.</bibl>). – Eine ähnliche
+    Wendung findet sich in <q type="koran" versstart="011:082" versend="011:083">11:82.83</q>
+    (<lang xml:lang="ar-Latn">… wa-ʾamṭarnā ʿalaihim ḥiǧāratan min siǧǧīlin manḍūḍ / musawwamatan ʿinda rabbika …</lang>)
+    und ähnlich in <q type="koran" versstart="015:074" versend="015:074">15:74</q>. In enger
+    Entsprechung zu <q type="koran" versstart="011:082" versend="011:083">11:82–83</q> spricht <q
+     type="koran" versstart="051:033" versend="051:033">51:33</q> von
+    <lang xml:lang="ar-Latn">ḥiǧāra min ṭīn</lang>. Da der narrative Kontext in allen genannten
+    Stellen derselbe ist, scheint <lang xml:lang="ar-Latn">siǧǧīl</lang> im koranischen Gebrauch
+    mehr oder weniger synonym mit <lang xml:lang="ar-Latn">ṭīn</lang>, „Lehm“, zu sein, auf alle
+    Fälle aber den Stoff zu bezeichnen, aus dem die Steine bestehen (<bibl Zotero_Id_1="5BPUBXI7"
+     Titel_1="Ḥijaratun min sijjīl">de Blois 1999</bibl>). Traditionell wird diese Deutung mit einer
+    Ableitung von <lang xml:lang="ar-Latn">siǧǧīl</lang> aus pers.
+    <lang xml:lang="pal-Latn">sang</lang>, „Stein“, und <lang xml:lang="pal-Latn">gil</lang>, „Ton“
+    begründet, die de Blois jedoch in Frage stellt. Vor dem Hintergrund von <q type="bibel"
+     buch="Gen" versstart="019:024" versend="019:024">Genesis 19:24</q>, einer <q type="koran"
+     versstart="105:003" versend="105:003">105:3</q> strukturell verwandten Beschreibung der
+    Vernichtung von Sodom und Gomorrha („Und Gott ließ auf Sodom und Gomorrha Schwefel und Feuer vom
+    Herrn vom Himmel
+    herabregnen“,<lang xml:lang="hbo-Hebr">וַֽיהוָ֗ה הִמְטִ֧יר עַל־סְדֹ֛ם וְעַל־עֲמֹרָ֖ה גָּפְרִ֣ית וָאֵ֑שׁ מֵאֵ֥ת יְהוָ֖ה מִן־הַשָּׁמָֽיִם</lang>),
+    argumentiert er dafür, der Ausdruck <lang xml:lang="ar-Latn">min siǧǧīl</lang> sei ursprünglich
+    Bestandteil einer vorkoranischen arabischen Nacherzählung der Zerstörung von Sodom und Gomorrha
+    gewesen und habe hier als Pendant zu <lang xml:lang="hbo-Latn">meʾet yahweh</lang> fungiert;
+    <lang xml:lang="ar-Latn">siǧǧīl</lang> habe eine Art Racheengel bezeichnet, der die von Gott
+    verhängte Strafe ausgeführt habe und den de Blois hypothetisch mit einer in Taymāʾ und Hatra
+    bezeugten Gottheit š-n-g-l-ʾ identifiziert. Dieser ursprüngliche Sinn von
+    <lang xml:lang="ar-Latn">siǧǧīl</lang> sei aber in koranischer Zeit bereits in Vergessenheit
+    geraten; die sekundäre Bedeutung von <lang xml:lang="ar-Latn">siǧǧīl</lang> im Koran als
+    Materialbezeichnung habe sich möglicherweise unter dem Einfluss von arab.
+    <lang xml:lang="ar-Latn">siǧill</lang> (lat. <lang xml:lang="lat-Latn">sigillum</lang>, gr.
+    <lang xml:lang="gr-Latn">sigillion</lang>), „(Ton-)Siegel“, entwickelt. Wenn in <q type="koran"
+     versstart="051:033" versend="051:033">51:33</q>
+    <lang xml:lang="ar-Latn">siǧǧīl</lang> durch <lang xml:lang="ar-Latn">ṭīn</lang> ersetzt wird,
+    so werde hier in der aus vorkoranischer Zeit überlieferten Wendung
+    <lang xml:lang="ar-Latn">ḥiǧāra min siǧǧīl</lang> ein für die Adressaten des Textes
+    verständlicherer Ausdruck eingesetzt. – Eine alternative Deutung schlägt <bibl
+     Zotero_Id_1="VSKQFKM2" Titel_1="Qurānic siǧǧīl and Aramaic SGYL">Leemhuis 1982</bibl> vor; vgl.
+    hierzu die Kritik von <bibl Zotero_Id_1="WHMUJ9D7"
+     Titel_1="Ist koranisches siġġīl aus Hatra-aramäisch sg(y)l entlehnt?">Sima 1998</bibl>.</p>
+  </text>
+  <text versstart="005" versend="005" verfasser="nisi">
+   <p><lem>fa-ǧaʿalahum ka-ʿaṣfin maʾkūl]</lem> Neuwirth verweist als Parallele auf <q type="bibel"
+     buch="Ps" versstart="037:001" versend="037:002">Psalm 37:1–2</q> („Errege dich nicht über die
+    Bösen / wegen der Übeltäter ereifere dich nicht! // Denn sie verwelken schnell wie das Gras, /
+    wie grünes Kraut verdorren sie“) und <q type="bibel" buch="Ps" versstart="058:008"
+     versend="058:008">58:8</q> („Sie sollen vergehen wie verrinnendes Wasser, / wie Gras, das
+    verwelkt auf dem Weg“) und stellt fest: „Die Episode … wird somit biblisch eingefärbt.“ (<bibl
+     Zotero_Id_1="X6J8ZZSZ" Titel_1="Frühmekkanische Suren poetische Prophetie">Neuwirth,
+     Frühmekkanische Suren, 115</bibl>.</p>
+  </text>
+ </anmerkungen>
+ <kommentar>
+  <text versstart="001" versend="005" verfasser="nisi">
+   <p>Horovitz bezeichnet die Sure als das „früheste Beispiel einer Straflegende“ (<bibl
+     Zotero_Id_1="TJNE7TP3" Titel_1="Koranische Untersuchungen">Horovitz, Koranische Untersuchungen,
+     10 f.</bibl>), doch unterscheidet sich ihre Akzentsetzung deutlich von der späterer
+    Koranpassagen, in denen Gott den Unglauben der Zeitgenossen früherer Propheten ahndet. Zwar
+    könnte die Beschreibung des Vorgehens der <lang xml:lang="ar-Latn">ʾaṣḥāb al-fīl</lang> als
+    <lang xml:lang="ar-Latn">kaid</lang> (<q type="koran" versstart="105:002" versend="105:002">V.
+     2</q>) eine moralische Wertung ihres Vorgehens konnotieren, so dass Birkelands Feststellung
+    „[n]ot a word is said of any punishment“ (<bibl Zotero_Id_1="JM6WUWTX"
+     Titel_1="The Lord Guideth studies on primitive Islam">Birkeland 1956, 101</bibl>) zu
+    kategorisch erscheint (vgl. <bibl Zotero_Id_1="N66RQJNB"
+     Titel_1="God Muhammad and the Unbelivers a Qurānic study">Marshall 1999, 41</bibl>); da jedoch
+    ein expliziter Vorwurf des „Leugnens“ oder der „Aufsässigkeit“ fehlt, wie er in späteren
+    Straflegenden stereotyp wiederholt wird (vgl. die vielleicht früheste genuine Straflegende <q
+     type="koran" versstart="091:011" versend="091:015">91:11–15</q>, insb. <q type="koran"
+     versstart="091:011" versend="091:011">V. 11</q>,
+    <lang xml:lang="ar-Latn">kaḏḏabat ṯamūdu bi-ṭaġwāhā</lang>, und <q type="koran"
+     versstart="091:014" versend="091:014">V. 14</q>, <lang xml:lang="ar-Latn">fa-kaḏḏabū …</lang>),
+    steht im Mittelpunkt der vorliegenden Sure ganz offenkundig nicht das von den
+    <lang xml:lang="ar-Latn">ʾaṣḥāb al-fīl</lang> begangene Unrecht, sondern vor allem die sich in
+    der Abwehr ihres Angriffs erweisende göttliche Macht. Primäres Interesse des vorliegenden Textes
+    ist es deshalb nicht, die fatalen Konsequenzen einer Zurückweisung von Gottes Gesandten zu
+    exemplifizieren, sondern den besonderen göttlichen Schutz zu belegen, unter dem das mekkanische
+    Heiligtum steht – es geht weniger um „Strafe“ als um „Rettung“ (ich verdanke diese erhellende
+    Formulierung Arno Schmitt), wobei die Sure auf eine in Mekka gängige Legende anspielen dürfte
+    (s. den <q type="kommentar" versstart="106:000" versend="106:004">Kommentar zu Sure 106</q>).
+    Die Tatsache, dass spätere koranische Straferzählungen sich in der Wortwahl an <q type="koran"
+     versstart="105:000" versend="105:005">Sure 105</q> anlehnen (s. die <q type="anmerkung"
+     versstart="105:001" versend="105:001">Anmerkungen zu V. 1</q> und <q type="anmerkung"
+     versstart="105:004" versend="105:004">V. 4</q>), lässt allerdings vermuten, dass die Sure eine
+    prototypische Rolle bei der Herausbildung des koranischen Genres der Straflegende gespielt
+    hat.</p>
+   <p>Wie <q type="koran" versstart="106:000" versend="106:004">Q 106</q> macht der Text die – in
+    der altarabischen Dichtung weitgehend von Kontingenz bestimmte – Sphäre menschlichen Tuns und
+    Ergehens als Stätte göttlichen Wirkens lesbar: Beide Suren insistieren, dass Gott in die Sphäre
+    menschlichen Tuns und insbesondere in das Schicksal des mekkanischen Gemeinwesens eingreift –
+    und dass folglich bestimmte irdische Geschehnisse nicht als Auswirkungen innerweltlicher
+    Kausalzusammenhänge, sondern als Taten Gottes zu deuten sind. Zwar wurde Allāh bereits in
+    vorkoranischer Zeit in besonderer Weise mit dem mekkanischen Heiligtum assoziiert (vgl. <bibl
+     Zotero_Id_1="VKIT2JX6" Titel_1="Reste arabischen Heidentums">Wellhausen 1897, 74 f.</bibl>),
+    doch eignete ihm der Charakter eines weitgehend inaktiven Hochgotts (s. hierzu <bibl
+     Zotero_Id_1="HAWEGFU2" Titel_1="Die Geburt des Islam historische Innovation durch Offenbarung"
+     >Ammann 2001</bibl>). Wenn <q type="koran" versstart="105:000" versend="105:005">Q 105</q>
+    deshalb die Vernichtung der „Leute des Elefanten“ als unmittelbare Tätigkeit Allāhs selbst
+    deutet, so ist dies keineswegs eine Trivialität. Denn bevor Gott wie in späteren Koransuren
+    moralische Normen einfordern und über ihre Verletzung richten kann, muss zunächst einmal seine
+    prinzipielle Wirkmächtigkeit erwiesen sein: „Bevor der Gott sich entfernt, muss er dagewesen
+    sein, in seiner Anwesenheit erfahren sein, muss er in seiner um den Menschen besorgten
+    Initiative erkannt sein.“ (<bibl Zotero_Id_1="7ZC7PUWI"
+     Titel_1="Die Barmherzigkeit Gottes Zur Entstehungsgeschichte eines koranischen Symbols"
+     >Gottfried Müller 1988, 342</bibl>). <q type="koran" versstart="105:000" versend="105:005">Q
+     105</q> betont diese innerweltliche Aktivität Gottes durch die Verwendung der Verben
+    <lang xml:lang="ar-Latn">faʿala</lang> und <lang xml:lang="ar-Latn">ǧaʿala</lang> und durch die
+    hypotaktische Unterordnung von <q type="koran" versstart="105:004" versend="105:004">V. 4</q>
+    unter <q type="koran" versstart="105:003" versend="105:003">V. 3</q>, die das Werfen der Vögel
+    von einer scheinbar selbständigen Handlung zur Konsequenz einer vorgängigen Initiative Gottes
+    macht.</p>
+   <p/>
+   <p><hi rend="bold">Anhang: Weitere Literatur zum Feldzug Abrahas:</hi>
+    <bibl Zotero_Id_1="S965K4EI" Titel_1="Finanzgeschichte der Spätantike">Altheim, Franz, und Ruth
+     Stiehl, Finanzgeschichte der Spätantike, Frankfurt 1957, 145–148</bibl>; <bibl
+     Zotero_Id_1="95VWI6CF" Titel_1="Notes on the Muraighān Inscription">Beeston, A. F. L., „Notes
+     on the Muraighān Inscription“, BSOAS 16 (1954), 289–292</bibl>; <bibl Zotero_Id_1="CSU5R96A"
+     Titel_1="Abraha and Muḥammad Some Observations Apropos of Chronology and Literary topoi"
+     >Conrad, Lawrence, „Abraha and Muḥammad: Some Observations Apropos of Chronology and Literary
+     Topoi in the Early Arabic Historical Tradition“, BSOAS 50 (1987), 225–240</bibl>; <bibl
+     Zotero_Id_1="7PEIF7TM" Titel_1="Abraha">EI2, „Abraha“</bibl>; <bibl Zotero_Id_1="RDXP5SJQ"
+     Titel_1="Studies in Jāhiliyya and early Islam">Kister, M. J., „The Campaign of Ḥulubān: a New
+     Light on the Expedition of Abraha“, Le Muséon 78 (1965), 427–428</bibl>; <bibl
+     Zotero_Id_1="RDXP5SJQ" Titel_1="Studies in Jāhiliyya and early Islam">Kister, M. J., „Some
+     Reports Concerning Mecca from Jāhiliyya to Islam“, in Journal of the Economic and Social
+     History of the Orient 15 (1972), 61–93 (zu Abraha S. 63 ff.)</bibl>, Nachdruck in <bibl
+     Zotero_Id_1="RDXP5SJQ" Titel_1="Studies in Jāhiliyya and early Islam">M. J. Kister, Studies in
+     Jāhiliyya and Early Islam, London 1980</bibl>; <bibl Zotero_Id_1="TJ32G5U6"
+     Titel_1="Geschichte der Perser und Araber zur Zeit der Sasaniden">Nöldeke, Theodor, Geschichte
+     der Perser und Araber zur Zeit der Sasaniden, Leiden 1879, 204–219</bibl>; <bibl
+     Zotero_Id_1="9IPQTE9W" Titel_1="Introduction">Peters, F. E. „Introduction“, in F. E. Peters
+     (Hg.), The Arabs and Arabia on the Eve of Islam, Aldershot 1999 (S. lii ff. zu Abraha)</bibl>;
+     <bibl Zotero_Id_1="PG465MJF"
+     Titel_1="«Il voulut détruire le temple». Lattaque de la Kaba par les rois yéménites ava"
+     >Prémare, Alfred-Louis de, „’Il voulut détruire le temple’: L’attaque de la Kaʿba par les rois
+     yéménites avant l’Islam, aḫbār et histoire“, Journal Asiatique 288/2 (2000), 261–367</bibl>;
+     <bibl Zotero_Id_1="NBN2GF3F" Titel_1="Inscriptions sud-arabes (dixième série)">Ryckmans,
+     Gonzague, „Inscriptions sud-arabes“, mit einem Kommentar von Jacques Ryckmans, Le Muséon 66
+     (1953), 267–317, 326–342</bibl>.</p>
+  </text>
+ </kommentar>
+</korankommentar>

@@ -1,0 +1,529 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/standards/mets/mets.xsd" xmlns:dc="http://purl.org/dc/elements/1.1/">
+   <mets:metsHdr CREATEDATE="2024-07-01T12:00:00">
+      <mets:agent ROLE="CREATOR" TYPE="INDIVIDUAL">
+         <mets:name>Claus Franke</mets:name>
+      </mets:agent>
+   </mets:metsHdr>
+   
+   <!-- {{ Schleife durch jedes Manuskript im Array -->
+   <!--foreach($data as $manuscript)-->
+   <mets:dmdSec ID="dmdSec_2" >
+      <mets:mdWrap MDTYPE="DC">
+         <mets:xmlData>
+            <dc:title> Meknes, Private library of Sherif ʿAbdarraḥmān b. Zīdān, [no call number known]</dc:title>
+            <dc:creator>Michael Marx</dc:creator>
+            <dc:publisher>Corpus Coranicum</dc:publisher>
+            <dc:identifier>Manuscript ID: 2</dc:identifier>
+            <dc:format>image</dc:format>
+            <dc:type>manuscript</dc:type>
+            <dc:rights>not clear</dc:rights>
+            <dc:description>
+               380 parchment folios; no shelfmark known; Qurʾānic Text: Q 2 - Q 108 (the text of fol. 2r, presumably Q 2:1-6, is hardly recognizable); Lines per page: 17; Script style: kūfī (type C.I); Dimensions: 210 x 285 mm; Estimated date of production: 750-900.
+            </dc:description>
+            <dc:source>Repository: Private library of Sherif ʿAbdarraḥmān b. Zīdān</dc:source>
+         </mets:xmlData>
+      </mets:mdWrap>
+   </mets:dmdSec>
+   
+   <mets:fileSec>
+      <mets:fileGrp USE="archive">
+         <mets:file ID="FILE125" MIMETYPE="image">
+            <mets:FLocat LOCTYPE="URL" xlink:href="manuscript/2/7fe96d1a-4039-443c-b129-94d6817020d3/manuscript-2-page-165-image-125.jpg"/>
+         </mets:file>
+         
+         <mets:file ID="FILE126" MIMETYPE="image">
+            <mets:FLocat LOCTYPE="URL" xlink:href="manuscript/2/a84083dd-9c4a-4a19-bd90-b3eaab622666/manuscript-2-page-165-image-126.jpg"/>
+         </mets:file>
+         
+         <mets:file ID="FILE41822" MIMETYPE="image/jpeg">
+            <mets:FLocat LOCTYPE="URL" xlink:href="manuscript/2/f252afc0-b129-46b2-a215-acf77c12a494/manuscript-2-page-165-image-41822.jpg"/>
+         </mets:file>
+         
+         <mets:file ID="FILE368" MIMETYPE="image">
+            <mets:FLocat LOCTYPE="URL" xlink:href= "manuscript/2/2c3ad9a7-994d-4a1f-9774-b06b05361b18/manuscript-2-page-425-image-368.jpg" />
+         </mets:file>
+         
+         <mets:file ID="FILE41655" MIMETYPE="image">
+            <mets:FLocat LOCTYPE="URL" xlink:href= "manuscript/2/658b3ca2-b7fc-45da-8d3c-4a3e72a10229/manuscript-2-page-124-image-41655.jpg" />
+         </mets:file>
+         
+         <mets:file ID="FILE41656" MIMETYPE="image">
+            <mets:FLocat LOCTYPE="URL" xlink:href= "manuscript/2/658b3ca2-b7fc-45da-8d3c-4a3e72a10229/manuscript-2-page-124-image-41656.jpg" />
+         </mets:file>
+         
+         <mets:file ID="FILE41657" MIMETYPE="image">
+            <mets:FLocat LOCTYPE="URL" xlink:href= "manuscript/2/459961ed-f75b-4a31-b76c-9c1d7513cc64/manuscript-2-page-52915-image-41657.jpg" />
+         </mets:file>
+         
+         <mets:file ID="FILE41658" MIMETYPE="image">
+            <mets:FLocat LOCTYPE="URL" xlink:href= "manuscript/2/36506bd7-76e9-471a-a230-94c9d0668f1a/manuscript-2-page-52915-image-41658.jpg" />
+         </mets:file>
+         
+         <mets:file ID="FILE41659" MIMETYPE="image">
+            <mets:FLocat LOCTYPE="URL" xlink:href= "manuscript/2/3aa49f1d-7416-457e-939b-9cf7f8eb24c6/manuscript-2-page-52916-image-41659.jpg" />
+         </mets:file>
+         
+         <mets:file ID="FILE41660" MIMETYPE="image">
+            <mets:FLocat LOCTYPE="URL" xlink:href= "manuscript/2/dce20e93-3872-450d-85c3-e0dadf556178/manuscript-2-page-52916-image-41660.jpg" />
+         </mets:file>
+         
+         <mets:file ID="FILE41661" MIMETYPE="image">
+            <mets:FLocat LOCTYPE="URL" xlink:href= "manuscript/2/ee528528-a42c-48a8-8222-e0947e1873e6/manuscript-2-page-125-image-41661.jp" />
+         </mets:file>
+         
+         <mets:file ID="FILE41662" MIMETYPE="image">
+            <mets:FLocat LOCTYPE="URL" xlink:href= "manuscript/2/a6cb4b01-ba25-4458-8cd9-fac8de8b456f/manuscript-2-page-125-image-41662.jpg" />
+         </mets:file>
+         
+         <mets:file ID="FILE41663" MIMETYPE="image">
+            <mets:FLocat LOCTYPE="URL" xlink:href= "manuscript/2/91c6e399-19dd-427c-aed4-815e03adb87b/manuscript-2-page-52917-image-41663.jpg" />
+         </mets:file>
+         
+         <mets:file ID="FILE41664" MIMETYPE="image">
+            <mets:FLocat LOCTYPE="URL" xlink:href= "manuscript/2/8e9dd7de-64ca-4557-bb25-367794e6e95c/manuscript-2-page-52917-image-41664.jpg" />
+         </mets:file>
+         
+         <mets:file ID="FILE41665" MIMETYPE="image">
+            <mets:FLocat LOCTYPE="URL" xlink:href= "manuscript/2/09f1a70e-389b-4cd0-bef3-4d7932b3998c/manuscript-2-page-126-image-41665.jpg" />
+         </mets:file>
+         
+         <mets:file ID="FILE41666" MIMETYPE="image">
+            <mets:FLocat LOCTYPE="URL" xlink:href= "manuscript/2/b5319fb4-b71f-4537-a199-4519551b8849/manuscript-2-page-126-image-41666.jpg" />
+         </mets:file>
+         
+         <mets:file ID="FILE41667" MIMETYPE="image">
+            <mets:FLocat LOCTYPE="URL" xlink:href= "manuscript/2/a738c054-8b4b-4a8c-b59d-6b10dc78e564/manuscript-2-page-52918-image-41667.jpg" />
+         </mets:file>
+         
+         <mets:file ID="FILE41668" MIMETYPE="image">
+            <mets:FLocat LOCTYPE="URL" xlink:href= "manuscript/2/e6e8b8d2-f3d4-4c15-b0a4-9be36bf16ab0/manuscript-2-page-52918-image-41668.jpg" />
+         </mets:file>
+         
+         <mets:file ID="FILE41670" MIMETYPE="image">
+            <mets:FLocat LOCTYPE="URL" xlink:href= "manuscript/2/113a2d6b-f831-4cbd-b240-55dfdad6c885/manuscript-2-page-127-image-41670.jpg" />
+         </mets:file>
+         
+         <mets:file ID="FILE41669" MIMETYPE="image">
+            <mets:FLocat LOCTYPE="URL" xlink:href= "manuscript/2/f623202b-6f65-412c-a097-837fab2165fd/manuscript-2-page-127-image-41669.jpg" />
+         </mets:file>
+         
+         <mets:file ID="FILE41671" MIMETYPE="image">
+            <mets:FLocat LOCTYPE="URL" xlink:href= "manuscript/2/2d7fe919-1ee7-40de-bf80-5a1d943b46c8/manuscript-2-page-52919-image-41671.jpg" />
+         </mets:file>
+         <mets:file ID="FILE41672" MIMETYPE="image">
+            <mets:FLocat LOCTYPE="URL" xlink:href= "manuscript/2/e3a388b3-ebab-4dec-8c95-f91412d80617/manuscript-2-page-52919-image-41672.jpg" />
+         </mets:file>
+         
+         <mets:file ID="FILE41674" MIMETYPE="image">
+            <mets:FLocat LOCTYPE="URL" xlink:href= "manuscript/2/6d357baa-646c-4e0f-b9ff-9e1b2840a1ca/manuscript-2-page-128-image-41674.jpg" />
+         </mets:file>
+         <mets:file ID="FILE41673" MIMETYPE="image">
+            <mets:FLocat LOCTYPE="URL" xlink:href= "manuscript/2/6df57e17-e4a8-4656-81d9-e7e92a5f7313/manuscript-2-page-128-image-41673.jpg" />
+         </mets:file>
+         
+         
+         <mets:file ID="FILE41675" MIMETYPE="image">
+            <mets:FLocat LOCTYPE="URL" xlink:href= "manuscript/2/23ecf519-3de6-465a-8c3e-71fe19490b8b/manuscript-2-page-52920-image-41675.jpg" />
+         </mets:file>
+         <mets:file ID="FILE41676" MIMETYPE="image">
+            <mets:FLocat LOCTYPE="URL" xlink:href= "manuscript/2/fc23feb5-3f13-429c-aa52-e3619f7f6339/manuscript-2-page-52920-image-41676.jpg" />
+         </mets:file>
+         
+         <mets:file ID="FILE41677" MIMETYPE="image">
+            <mets:FLocat LOCTYPE="URL" xlink:href= "manuscript/2/09cf1d48-5601-457e-88c7-88bc75726ee1/manuscript-2-page-129-image-41677.jpg" />
+         </mets:file>
+         <mets:file ID="FILE41678" MIMETYPE="image">
+            <mets:FLocat LOCTYPE="URL" xlink:href= "manuscript/2/fc71ffbe-861b-4d03-b65d-a7497c20b894/manuscript-2-page-129-image-41678.jpg" />
+         </mets:file>
+         
+         <mets:file ID="FILE41679" MIMETYPE="image">
+            <mets:FLocat LOCTYPE="URL" xlink:href= "manuscript/2/dd39f0f2-4cca-410d-9002-45a20d4dc82d/manuscript-2-page-52921-image-41679.jpg" />
+         </mets:file>
+         <mets:file ID="FILE41680" MIMETYPE="image">
+            <mets:FLocat LOCTYPE="URL" xlink:href= "manuscript/2/b8a38fb5-a548-4fb1-8432-e9a92ca084d7/manuscript-2-page-52921-image-41680.jpg" />
+         </mets:file>
+         
+         <mets:file ID="FILE41681" MIMETYPE="image">
+            <mets:FLocat LOCTYPE="URL" xlink:href= "manuscript/2/aba0eaee-f4d4-4240-8931-bf2240119df6/manuscript-2-page-130-image-41681.jpg" />
+         </mets:file>
+         <mets:file ID="FILE41682" MIMETYPE="image">
+            <mets:FLocat LOCTYPE="URL" xlink:href= "manuscript/2/b79ea7e3-f938-4345-a32f-32ffed8107f3/manuscript-2-page-130-image-41682.jpg" />
+         </mets:file>
+         
+         <mets:file ID="FILE41683" MIMETYPE="image">
+            <mets:FLocat LOCTYPE="URL" xlink:href= "manuscript/2/150f4711-8397-40a5-947f-830d33a83726/manuscript-2-page-52922-image-41683.jpg" />
+         </mets:file>
+         <mets:file ID="FILE41684" MIMETYPE="image">
+            <mets:FLocat LOCTYPE="URL" xlink:href= "manuscript/2/10a085a8-268c-415c-84ae-dc8f4f8b4105/manuscript-2-page-52922-image-41684.jpg" />
+         </mets:file>
+         
+         <mets:file ID="FILE41685" MIMETYPE="image">
+            <mets:FLocat LOCTYPE="URL" xlink:href= "manuscript/2/005a6107-9cf3-4327-a372-02b7bd78b719/manuscript-2-page-131-image-41685.jpg" />
+         </mets:file>
+         <mets:file ID="FILE41686" MIMETYPE="image">
+            <mets:FLocat LOCTYPE="URL" xlink:href= "manuscript/2/c9a78907-3089-4cb1-a7ab-e4f14b65b9e8/manuscript-2-page-131-image-41686.jpg" />
+         </mets:file>
+         
+         <mets:file ID="FILE41687" MIMETYPE="image">
+            <mets:FLocat LOCTYPE="URL" xlink:href= "manuscript/2/dc4ffa17-8785-4fc7-91dc-3763d1ff8728/manuscript-2-page-52923-image-41687.jpg" />
+         </mets:file>
+         <mets:file ID="FILE41688" MIMETYPE="image">
+            <mets:FLocat LOCTYPE="URL" xlink:href= "manuscript/2/4a2e1cde-39c7-4490-b904-e1ce5ec08e16/manuscript-2-page-52923-image-41688.jpg" />
+         </mets:file>
+         
+         <mets:file ID="FILE41689" MIMETYPE="image">
+            <mets:FLocat LOCTYPE="URL" xlink:href= "manuscript/2/503070b4-9181-47da-a798-c08cb782c76e/manuscript-2-page-132-image-41689.jpg" />
+         </mets:file>
+         <mets:file ID="FILE41690" MIMETYPE="image">
+            <mets:FLocat LOCTYPE="URL" xlink:href= "manuscript/2/39bf5725-8052-48c2-adb9-89347ae4db9a/manuscript-2-page-132-image-41690.jpg" />
+         </mets:file>
+         
+         <mets:file ID="FILE41691" MIMETYPE="image">
+            <mets:FLocat LOCTYPE="URL" xlink:href= "manuscript/2/3914eb00-8d83-4ec3-8ec1-be12083c1ac7/manuscript-2-page-52924-image-41691.jpg" />
+         </mets:file>
+         <mets:file ID="FILE41692" MIMETYPE="image">
+            <mets:FLocat LOCTYPE="URL" xlink:href= "manuscript/2/74e5ace9-b688-4695-ac02-191f151eb0da/manuscript-2-page-52924-image-41692.jpg" />
+         </mets:file>
+         
+         <mets:file ID="FILE41693" MIMETYPE="image">
+            <mets:FLocat LOCTYPE="URL" xlink:href= "manuscript/2/452ec55b-4956-416a-bb12-a984b9d54b46/manuscript-2-page-133-image-41693.jpg" />
+         </mets:file>
+         <mets:file ID="FILE41694" MIMETYPE="image">
+            <mets:FLocat LOCTYPE="URL" xlink:href= "manuscript/2/a857b559-b5d2-4f0d-9d21-b2c0ff9ac77c/manuscript-2-page-133-image-41694.jpg" />
+         </mets:file>
+         
+         <mets:file ID="FILE41695" MIMETYPE="image">
+            <mets:FLocat LOCTYPE="URL" xlink:href= "manuscript/2/7d008d90-4503-479b-80e0-16f3106c7914/manuscript-2-page-52925-image-41695.jpg" />
+         </mets:file>
+         <mets:file ID="FILE41696" MIMETYPE="image">
+            <mets:FLocat LOCTYPE="URL" xlink:href= "manuscript/2/1e5eaba0-8fc6-487f-8f25-2d33d8fb9378/manuscript-2-page-52925-image-41696.jpg" />
+         </mets:file>
+         
+         
+         <mets:file ID="FILE41697" MIMETYPE="image">
+            <mets:FLocat LOCTYPE="URL" xlink:href= "manuscript/2/2f838834-26a2-49d7-beb9-a48839c8e068/manuscript-2-page-67-image-41697.jpg" />
+         </mets:file>
+         <mets:file ID="FILE41698" MIMETYPE="image">
+            <mets:FLocat LOCTYPE="URL" xlink:href= "manuscript/2/6ad876b7-647d-4617-9f32-daf76139738f/manuscript-2-page-67-image-41698.jpg" />
+         </mets:file>
+         
+         <mets:file ID="FILE41699" MIMETYPE="image">
+            <mets:FLocat LOCTYPE="URL" xlink:href= "manuscript/2/3db7576c-53f1-4448-96a7-2430637e30c6/manuscript-2-page-52926-image-41699.jpg" />
+         </mets:file>
+         <mets:file ID="FILE41700" MIMETYPE="image">
+            <mets:FLocat LOCTYPE="URL" xlink:href= "manuscript/2/003634d2-16bc-4207-9515-9e40aeac4812/manuscript-2-page-52926-image-41700.jpg" />
+         </mets:file>
+         
+         <mets:file ID="FILE41701" MIMETYPE="image">
+            <mets:FLocat LOCTYPE="URL" xlink:href= "manuscript/2/2966f436-b69f-46e9-a60c-1e7daa26f027/manuscript-2-page-134-image-41701.jpg" />
+         </mets:file>
+         <mets:file ID="FILE41702" MIMETYPE="image">
+            <mets:FLocat LOCTYPE="URL" xlink:href= "manuscript/2/ba49bce2-e88d-4a4c-9cfe-57069ce584c5/manuscript-2-page-134-image-41702.jpg" />
+         </mets:file>
+         
+         <mets:file ID="FILE41703" MIMETYPE="image">
+            <mets:FLocat LOCTYPE="URL" xlink:href= "manuscript/2/2e4f246a-bcab-4f5f-8cd4-c3203d33ce32/manuscript-2-page-52927-image-41703.jpg" />
+         </mets:file>
+         <mets:file ID="FILE41704" MIMETYPE="image">
+            <mets:FLocat LOCTYPE="URL" xlink:href= "manuscript/2/c76e1843-2018-4445-a9fb-17e11bc09acb/manuscript-2-page-52927-image-41704.jpg" />
+         </mets:file>
+         
+         <mets:file ID="FILE41705" MIMETYPE="image">
+            <mets:FLocat LOCTYPE="URL" xlink:href= "manuscript/2/dc03d1ed-41d6-4d4a-a029-eae61dfa8980/manuscript-2-page-135-image-41705.jpg" />
+         </mets:file>
+         <mets:file ID="FILE41706" MIMETYPE="image">
+            <mets:FLocat LOCTYPE="URL" xlink:href= "manuscript/2/8f5ad2e0-ee43-43a1-bc46-10c7555fb7c9/manuscript-2-page-135-image-41706.jpg" />
+         </mets:file>
+         
+      </mets:fileGrp>
+   </mets:fileSec>
+  
+   
+   <!-- Strukturelle Map der Manuskripte -->
+   <mets:structMap>
+      <mets:div TYPE="Manuscript" DMDID="dmdSec_2">
+         <mets:div TYPE="Page" ID="PAGE165" ORDER="1" LABEL="folio 121v">
+            <mets:fptr FILEID="FILE125"/>
+            <mets:fptr FILEID="FILE126"/>
+            <mets:fptr FILEID="FILE41822"/>
+            
+            <mets:div TYPE="Sura" ID="Sura009_page_121v" LABEL="Sura 009">
+               <mets:div TYPE="Verse" ID="Verse124_Sura009_page_121v" LABEL="Verse 124">
+                  <mets:div TYPE="Word" ID="Word015_Verse124_Sura009_page_121v" LABEL="Word 015"/>
+               </mets:div>
+            </mets:div>
+         </mets:div>
+         
+         <mets:div TYPE="Page" ID="PAGE425" ORDER="2" LABEL="folio 360r">
+            <mets:fptr FILEID="FILE368"/>
+            <mets:div TYPE="Sura" ID="Sura108_page_360r" LABEL="Sura 108">
+               <mets:div TYPE="Verse" ID="Verse000_Sura108_page_360r" LABEL="Verse 000">
+                  <mets:div TYPE="Word" ID="Word00_Sura108_page_360r" LABEL="Word 00"/>
+               </mets:div>
+            </mets:div>
+         </mets:div>
+     
+            <mets:div TYPE="Page" ID="PAGE124" ORDER="1" LABEL="folio 82v">
+               <mets:fptr FILEID="FILE41655"/>
+                <mets:fptr FILEID="FILE41656"/>      
+               <mets:div TYPE="Sura" ID="Sura006_page_82v" LABEL="Sura 006">
+                  <mets:div TYPE="Verse" ID="Verse088_Sura006_page_82v" LABEL="Verse 088">
+                     <mets:div TYPE="Word" ID="Word007_Verse088_Sura006_page_82v" LABEL="Word 007"/>
+                    </mets:div>
+               </mets:div>
+            </mets:div>
+         
+         <mets:div TYPE="Page" ID="PAGE52915" ORDER="2" LABEL="folio 82r">
+            <mets:fptr FILEID="FILE41657"/>
+            <mets:fptr FILEID="FILE41658"/>
+            <mets:div TYPE="Sura" ID="Sura006_page_82r" LABEL="Sura 006">
+               <mets:div TYPE="Verse" ID="Verse080_Sura006_page_82r" LABEL="Verse 080">
+                  <mets:div TYPE="Word" ID="Word022_Verse080_Sura006_page_82r" LABEL="Word 022"/>
+               </mets:div>
+            </mets:div>
+         </mets:div>
+         
+         <mets:div TYPE="Page" ID="PAGE52916" ORDER="2" LABEL="folio 83r">
+            <mets:fptr FILEID="FILE41659"/>
+            <mets:fptr FILEID="FILE41660"/>
+            <mets:div TYPE="Sura" ID="Sura006_page83r" LABEL="Sura 006">
+               <mets:div TYPE="Verse" ID="Verse093_Sura006_page83r" LABEL="Verse 093">
+                  <mets:div TYPE="Word" ID="Word005_Verse093_Sura006_page83r" LABEL="Word 005"/>
+               </mets:div>
+            </mets:div>
+         </mets:div>
+         
+         <mets:div TYPE="Page" ID="PAGE125" ORDER="2" LABEL="folio 83v">
+            <mets:fptr FILEID="FILE41661"/>
+            <mets:fptr FILEID="FILE41662"/>
+            <mets:div TYPE="Sura" ID="Sura006_page83v" LABEL="Sura 006">
+               <mets:div TYPE="Verse" ID="Verse097_Sura006_page83v" LABEL="Verse 097">
+                  <mets:div TYPE="Word" ID="Word005_Verse097_Sura006_page83v" LABEL="Word 005"/>
+               </mets:div>
+            </mets:div>
+         </mets:div>
+         
+         <mets:div TYPE="Page" ID="PAGE52917" ORDER="1" LABEL="folio 84r">
+            <mets:fptr FILEID="FILE41663"/>
+            <mets:fptr FILEID="FILE41664"/>
+            <mets:div TYPE="Sura" ID="Sura006_page84r" LABEL="Sura 006">
+               <mets:div TYPE="Verse" ID="Verse102_Sura006_page84r" LABEL="Verse 102">
+                  <mets:div TYPE="Word" ID="Word015_Verse102_Sura006_page84r" LABEL="Word 015"/>
+               </mets:div>
+            </mets:div>
+         </mets:div>
+         
+         <mets:div TYPE="Page" ID="PAGE126" ORDER="1" LABEL="folio 84v">
+            <mets:fptr FILEID="FILE41665"/>
+            <mets:fptr FILEID="FILE41666"/>
+            <mets:div TYPE="Sura" ID="Sura006_page84v" LABEL="Sura 006">
+               <mets:div TYPE="Verse" ID="Verse110_Sura006_page84v" LABEL="Verse 110">
+                  <mets:div TYPE="Word" ID="Word010_Verse102_Sura006_page84v  " LABEL="Word 010"/>
+               </mets:div>
+            </mets:div>
+         </mets:div>
+         
+         <mets:div TYPE="Page" ID="PAGE52918" ORDER="1" LABEL="folio 85r">
+            <mets:fptr FILEID="FILE41667"/>
+            <mets:fptr FILEID="FILE41668"/>
+            <mets:div TYPE="Sura" ID="Sura006_page85r" LABEL="Sura 006">
+               <mets:div TYPE="Verse" ID="Verse116_Sura006_page85r" LABEL="Verse 116">
+                  <mets:div TYPE="Word" ID="Word011_Verse116_Sura006_page85r" LABEL="Word 011"/>
+               </mets:div>
+            </mets:div>
+         </mets:div>
+         
+         <mets:div TYPE="Page" ID="PAGE127" ORDER="1" LABEL="folio 85v">
+            <mets:fptr FILEID="FILE41670"/>
+            <mets:fptr FILEID="FILE41669"/>
+            <mets:div TYPE="Sura" ID="Sura006_page85v" LABEL="Sura 006">
+               <mets:div TYPE="Verse" ID="Verse122_Sura006_page85v" LABEL="Verse 122">
+                  <mets:div TYPE="Word" ID="Word024_Verse122_Sura006_page85v" LABEL="Word 024"/>
+               </mets:div>
+            </mets:div>
+         </mets:div>
+         
+         <mets:div TYPE="Page" ID="PAGE52919" ORDER="1" LABEL="folio 86r">
+            <mets:fptr FILEID="FILE41671"/>
+            <mets:fptr FILEID="FILE41672"/>
+            <mets:div TYPE="Sura" ID="Sura006_page86r" LABEL="Sura 006">
+               <mets:div TYPE="Verse" ID="Verse128_Sura006_page86r" LABEL="Verse 128">
+                  <mets:div TYPE="Word" ID="Word019_Verse128_Sura006_page86r" LABEL="Word 019"/>
+               </mets:div>
+            </mets:div>
+         </mets:div>
+         
+         <mets:div TYPE="Page" ID="PAGE128" ORDER="1" LABEL="folio 86v">
+            <mets:fptr FILEID="FILE41673"/>
+            <mets:fptr FILEID="FILE41674"/>
+            <mets:div TYPE="Sura" ID="Sura006_page86v" LABEL="Sura 006">
+               <mets:div TYPE="Verse" ID="Verse135_Sura006_page86v" LABEL="Verse 135">
+                  <mets:div TYPE="Word" ID="Word013_Verse135_Sura006_page86v" LABEL="Word 013"/>
+               </mets:div>
+            </mets:div>
+         </mets:div>
+         
+         <mets:div TYPE="Page" ID="PAGE52920" ORDER="1" LABEL="folio 87r">
+            <mets:fptr FILEID="FILE41675"/>
+            <mets:fptr FILEID="FILE41676"/>
+            <mets:div TYPE="Sura" ID="Sura006_page87r" LABEL="Sura 006">
+               <mets:div TYPE="Verse" ID="Verse140_Sura006_page87r" LABEL="Verse 140">
+                  <mets:div TYPE="Word" ID="Word003_Verse140_Sura006_page87r" LABEL="Word 003"/>
+               </mets:div>
+            </mets:div>
+         </mets:div>
+         
+         <mets:div TYPE="Page" ID="PAGE129" ORDER="1" LABEL="folio 87v">
+            <mets:fptr FILEID="FILE41678"/>
+            <mets:fptr FILEID="FILE41677"/>
+            <mets:div TYPE="Sura" ID="Sura006_page87v" LABEL="Sura 006">
+               <mets:div TYPE="Verse" ID="Verse144_Sura006_page87v" LABEL="Verse 144">
+                  <mets:div TYPE="Word" ID="Word017_Sura006_page87v" LABEL="Word 017"/>
+               </mets:div>
+            </mets:div>
+         </mets:div>
+         
+         <mets:div TYPE="Page" ID="PAGE52921" ORDER="1" LABEL="folio 88r">
+            <mets:fptr FILEID="FILE41679"/>
+            <mets:fptr FILEID="FILE41680"/>
+            <mets:div TYPE="Sura" ID="Sura006_page88r" LABEL="Sura 006">
+               <mets:div TYPE="Verse" ID="Verse148_Sura006_page88r" LABEL="Verse 148">
+                  <mets:div TYPE="Word" ID="Word014_Sura006_page88r" LABEL="Word 014"/>
+               </mets:div>
+            </mets:div>
+         </mets:div>
+         
+         <mets:div TYPE="Page" ID="PAGE130" ORDER="1" LABEL="folio 88v">
+            <mets:fptr FILEID="FILE41681"/>
+            <mets:fptr FILEID="FILE41682"/>
+            <mets:div TYPE="Sura" ID="Sura006_page88v" LABEL="Sura 006">
+               <mets:div TYPE="Verse" ID="Verse152_Sura006_page88v" LABEL="Verse 152">
+                  <mets:div TYPE="Word" ID="Word012_Verse152_Sura006_page88v" LABEL="Word 012"/>
+               </mets:div>
+            </mets:div>
+         </mets:div>
+         
+         <mets:div TYPE="Page" ID="PAGE52922" ORDER="1" LABEL="folio 89r">
+            <mets:fptr FILEID="FILE41684"/>
+            <mets:fptr FILEID="FILE41683"/>
+            <mets:div TYPE="Sura" ID="Sura006_page89r" LABEL="Sura 006">
+               <mets:div TYPE="Verse" ID="Verse157_Sura006_page89r" LABEL="Verse 157">
+                  <mets:div TYPE="Word" ID="Word028_Verse157_Sura006_page89r" LABEL="Word 028"/>
+               </mets:div>
+            </mets:div>
+         </mets:div>
+         
+         <mets:div TYPE="Page" ID="PAGE131" ORDER="1" LABEL="folio 89v">
+            <mets:fptr FILEID="FILE41685"/>
+            <mets:fptr FILEID="FILE41686"/>
+            <mets:div TYPE="Sura" ID="Sura006_page89v" LABEL="Sura 006">
+               <mets:div TYPE="Verse" ID="Verse164_Sura006_page89v" LABEL="Verse 164">
+                  <mets:div TYPE="Word" ID="Word012_Verse164_Sura006_page89v" LABEL="Word 012"/>
+               </mets:div>
+            </mets:div>
+         </mets:div>
+         
+         <mets:div TYPE="Page" ID="PAGE52923" ORDER="1" LABEL="folio 90r">
+            <mets:fptr FILEID="FILE41687"/>
+            <mets:fptr FILEID="FILE41688"/>
+            <mets:div TYPE="Sura" ID="Sura007_page90r" LABEL="Sura 007">
+               <mets:div TYPE="Verse" ID="Verse008_Sura007_page90r" LABEL="Verse 008">
+                  <mets:div TYPE="Word" ID="Word003_Verse008_Sura007_page90r" LABEL="Word 003"/>
+               </mets:div>
+            </mets:div>
+         </mets:div>
+                  
+         <mets:div TYPE="Page" ID="PAGE132" ORDER="1" LABEL="folio 90v">
+            <mets:fptr FILEID="FILE41690"/>
+            <mets:fptr FILEID="FILE41689"/>
+            <mets:div TYPE="Sura" ID="Sura007_page90v" LABEL="Sura 007">
+               <mets:div TYPE="Verse" ID="Verse018_Sura007_page90v" LABEL="Verse 018">
+                  <mets:div TYPE="Word" ID="Word009_Verse018_Sura007_page90v" LABEL="Word 009"/>
+               </mets:div>
+            </mets:div>
+         </mets:div>
+         
+         <mets:div TYPE="Page" ID="PAGE52924" ORDER="1" LABEL="folio 91r">
+            <mets:fptr FILEID="FILE41691"/>
+            <mets:fptr FILEID="FILE41692"/>
+            <mets:div TYPE="Sura" ID="Sura007_page91r" LABEL="Sura 007">
+               <mets:div TYPE="Verse" ID="Verse026_Sura007_page91r" LABEL="Verse 026">
+                  <mets:div TYPE="Word" ID="Word006_Verse026_Sura007_page91r" LABEL="Word 006"/>
+               </mets:div>
+            </mets:div>
+         </mets:div>
+         
+         <mets:div TYPE="Page" ID="PAGE133" ORDER="1" LABEL="folio 91v">
+            <mets:fptr FILEID="FILE41694"/>
+            <mets:fptr FILEID="FILE41693"/>
+            <mets:div TYPE="Sura" ID="Sura007_page91v" LABEL="Sura 007">
+               <mets:div TYPE="Verse" ID="Verse031_Sura007_page91v" LABEL="Verse 031">
+                  <mets:div TYPE="Word" ID="Word009_Verse031_Sura007_page91v" LABEL="Word 009"/>
+               </mets:div>
+            </mets:div>
+         </mets:div>
+         
+         <mets:div TYPE="Page" ID="PAGE52925" ORDER="1" LABEL="folio 7v">
+            <mets:fptr FILEID="FILE41695"/>
+            <mets:fptr FILEID="FILE41696"/>
+            <mets:div TYPE="Sura" ID="Sura002_page7v" LABEL="Sura 002">
+               <mets:div TYPE="Verse" ID="Verse083_Sura002_page7v" LABEL="Verse 083">
+                  <mets:div TYPE="Word" ID="Word016_Verse083_Sura002_page7v" LABEL="Word 016"/>
+               </mets:div>
+            </mets:div>
+         </mets:div>
+        
+         <mets:div TYPE="Page" ID="PAGE67" ORDER="1" LABEL="folio 8r">
+            <mets:fptr FILEID="FILE41697"/>
+            <mets:fptr FILEID="FILE41698"/>
+            <mets:div TYPE="Sura" ID="Sura002_page8r" LABEL="Sura 002">
+               <mets:div TYPE="Verse" ID="Verse087_SSura002_page8r" LABEL="Verse 087">
+                  <mets:div TYPE="Word" ID="Word006_Verse087_SSura002_page8r" LABEL="Word 006"/>
+               </mets:div>
+            </mets:div>
+         </mets:div>
+         
+         <mets:div TYPE="Page" ID="PAGE52926" ORDER="1" LABEL="folio 92r">
+            <mets:fptr FILEID="FILE41700"/>
+            <mets:fptr FILEID="FILE41699"/>
+            <mets:div TYPE="Sura" ID="Sura007_page92r" LABEL="Sura 007">
+               <mets:div TYPE="Verse" ID="Verse037_Sura007_page92r" LABEL="Verse 037">
+                  <mets:div TYPE="Word" ID="Word011_Sura007_page92r" LABEL="Word 011"/>
+               </mets:div>
+            </mets:div>
+         </mets:div>
+         
+         <mets:div TYPE="Page" ID="PAGE134" ORDER="1" LABEL="folio 92v">
+            <mets:fptr FILEID="FILE41701"/>
+            <mets:fptr FILEID="FILE41702"/>
+            <mets:div TYPE="Sura" ID="Sura007_page92v" LABEL="Sura 007">
+               <mets:div TYPE="Verse" ID="Verse041_Sura007_page92v" LABEL="Verse 041">
+                  <mets:div TYPE="Word" ID="Word005_Verse041_Sura007_page92v" LABEL="Word 005"/>
+               </mets:div>
+            </mets:div>
+         </mets:div>
+         
+         <mets:div TYPE="Page" ID="PAGE52927" ORDER="1" LABEL="folio 93r">
+            <mets:fptr FILEID="FILE41703"/>
+            <mets:fptr FILEID="FILE41704"/>
+            <mets:div TYPE="Sura" ID="Sura007_page93r" LABEL="Sura 007">
+               <mets:div TYPE="Verse" ID="Verse046_Sura007_page93r" LABEL="Verse 046">
+                  <mets:div TYPE="Word" ID="Word015_Verse046_Sura007_page93r" LABEL="Word 015"/>
+               </mets:div>
+            </mets:div>
+         </mets:div>
+         
+         <mets:div TYPE="Page" ID="PAGE135" ORDER="1" LABEL="folio 93v">
+            <mets:fptr FILEID="FILE41706"/>
+            <mets:fptr FILEID="FILE41705"/>
+            <mets:div TYPE="Sura" ID="Sura007_page93v" LABEL="Sura 007">
+               <mets:div TYPE="Verse" ID="Verse053_Sura007_page93v" LABEL="Verse 053">
+                  <mets:div TYPE="Word" ID="Word004_Verse053_Sura007_page93v" LABEL="Word 053"/>
+               </mets:div>
+            </mets:div>
+         </mets:div>
+         
+         </mets:div>
+   </mets:structMap>
+</mets:mets>

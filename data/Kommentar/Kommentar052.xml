@@ -1,0 +1,917 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<korankommentar xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="Kommentar.xsd">
+  <sure id="052" webtauglich="true"/>
+  <surentitel>
+    <text versstart="000" versend="049" verfasser="tjj">
+      <p>Sure 52 — <lang xml:lang="ar-Latn">aṭ-Ṭūr</lang> — »Der Berg«</p>
+    </text>
+  </surentitel>
+  <autorenkurz>
+    <text versstart="000" versend="049" verfasser="tjj">
+      <p>Übersetzt und analysiert von Nicolai Sinai</p>
+    </text>
+  </autorenkurz>
+  <datierungkurz>
+    <text versstart="000" versend="049" verfasser="nisi">
+      <p>Mekka I (Gruppe IIIb)</p>
+    </text>
+  </datierungkurz>
+  <datierung>
+    <text versstart="000" versend="049" verfasser="nisi">
+      <p>Die Sure, in der bereits zweigliedrige Verse vorherrschen, gehört nach durchschnittlicher
+        Verslänge (15,8 Silben) und Gesamtlänge in Gruppe IIIb. Diese Einordnung wird auch dadurch
+        bestätigt, dass der Text zahlreiche terminologischer Überschneidungen mit den ebenfalls zu
+        IIIb zählenden <q type="koran" versstart="051:000" versend="051:060">Suren 51</q>, <q
+          type="koran" versstart="055:000" versend="055:078">55</q>, <q type="koran"
+          versstart="056:000" versend="056:096">56</q>, <q type="koran" versstart="068:000"
+          versend="068:052">68</q> und <q type="koran" versstart="069:000" versend="069:052">69</q>
+        aufweist (s. die <q type="anmerkung" versstart="052:005" versend="052:005">Anmerkungen zu
+          den Versen 5</q>, <q type="anmerkung" versstart="052:007" versend="052:008">7 f.</q>, <q
+          type="anmerkung" versstart="052:014" versend="052:015">14 f.</q>, <q type="anmerkung"
+          versstart="052:017" versend="052:017">17</q>, <q type="anmerkung" versstart="052:020"
+          versend="052:020">20</q>, <q type="anmerkung" versstart="052:022" versend="052:024"
+          >22–24</q>, <q type="anmerkung" versstart="052:031" versend="052:031">31</q>, <q
+          type="anmerkung" versstart="052:033" versend="052:033">33</q>, <q type="anmerkung"
+          versstart="052:038" versend="052:039">38 f.</q> und <q type="anmerkung"
+          versstart="052:041" versend="052:041">41</q>). *Vom Aufbau her ist die Sure insbesondere
+        mit <q type="koran" versstart="068:000" versend="068:052">Q 68</q> zu vergleichen, die
+        ebenfalls dreiteilig ist und von einem Schwur mit bedrohlicher Schwuraussage eingeleitet
+        wird.</p>
+    </text>
+  </datierung>
+  <literarkritikkurz>
+    <text versstart="000" versend="049" verfasser="nisi">
+      <p>V. 21 Einschub</p>
+    </text>
+  </literarkritikkurz>
+  <literarkritik>
+    <text versstart="000" versend="049" verfasser="nisi">
+      <p><q type="koran" versstart="052:021" versend="052:021">V. 21</q> fällt durch seine Überlänge
+        aus dem Rahmen; überdies wird, wie Neuwirth feststellt, die Frage nach dem jenseitigen
+        Schicksal der „Nachkommen“ (<lang xml:lang="ar-Latn">ḏurriyya</lang>) der Gläubigen sonst
+        nur in spätmekkanischen (<q type="koran" versstart="040:008" versend="040:008">40:8</q>) und
+        medinensischen Texten (<q type="koran" versstart="013:023" versend="013:023">13:23</q>, <q
+          type="koran" versstart="003:170" versend="003:170">3:170</q>) diskutiert (<bibl
+          Zotero_Id_1="4WEWN8NZ" Titel_1="Studien zur Komposition der mekkanischen Suren">Neuwirth,
+          Studien, 22 f.</bibl>). Während Nöldeke und Schwally den gesamten Vers als Einschub
+        ansehen wollen (<bibl Zotero_Id_1="RF8JH6HZ" Titel_1="Geschichte des Qorāns">GdQ, Bd. 1,
+          105</bibl>), plädiert Neuwirth für eine Ausscheidung nur der beiden Kola (von
+        <lang xml:lang="ar-Latn">wa-llaḏīna ʾāmanū</lang> bis
+        <lang xml:lang="ar-Latn">ḏurriyyatahum</lang>) und führt als Beleg hierfür die Tatsache an,
+        dass es sich bei der einzigen koranischen Parallelstelle zur Wendung
+        <lang xml:lang="ar-Latn">kullu mriʾin bi-mā kasaba rahīn</lang> um den frühmekkanischen <q
+          type="koran" versstart="074:038" versend="074:038">Vers 74:38</q>
+        (<lang xml:lang="ar-Latn">kullu nafsin bi-mā kasabat rahīnah</lang>) handelt. Gegen
+        Neuwirths Rekonstruktion spricht allerdings, dass zum dritten Kolon
+        <lang xml:lang="ar-Latn">wa-mā ʾalatnāhum min ʿamalihim min šaiʾin</lang> nur die
+        medinensische Parallelstelle <q type="koran" versstart="049:014" versend="049:014">49:14</q>
+        vorliegt. Zumindest die ersten drei Kola sind also wohl nicht ursprünglich. Was das vierte
+        Kolon <lang xml:lang="ar-Latn">kullu mriʾin bi-mā kasaba rahīn</lang> betrifft, so stellt es
+        zwischen dem zweiten Teil von <q type="koran" versstart="052:020" versend="052:020">V.
+          20</q> (<lang xml:lang="ar-Latn">wa-zawwaǧnāhum</lang>) und dem genau parallel dazu
+        konstruierten Fortgang in <q type="koran" versstart="052:022" versend="052:022">V. 22</q>
+        (<lang xml:lang="ar-Latn">wa-ʾamdadnāhum</lang>) formal einen Fremdkörper dar und ist auch
+        inhaltlich klar auf die ersten drei Kola von <q type="koran" versstart="052:021"
+          versend="052:021">V. 21</q> bezogen: Die Aussage, die Nachkommen gläubiger Vorfahren
+        würden nur dann des Paradieses teilhaftig, wenn sie ihren Vorfahren „im Glauben folgen“,
+        wird mit dem allgemeinen Grundsatz individueller moralischer Verantwortung begründet. Vor
+        diesem Hintergrund ist vermutlich doch der gesamte Vers als Zusatz zu werten, der in seinem
+        Schlussteil wohl bewusst das frühmekkanische Diktum
+        <lang xml:lang="ar-Latn">kullu nafsin bi-mā kasabat rahīnah</lang> aus <q type="koran"
+          versstart="074:038" versend="074:038">74:38</q> zitiert.</p>
+    </text>
+  </literarkritik>
+  <aufbauinhalt>
+    <text versstart="000" versend="049" verfasser="nisi">
+      <p>Die nur im ersten Drittel durch Reimwechsel strukturierte und bereits von zweigliedrigen
+        Versen geprägte Sure ist dreiteilig: Auf eine Schwurserie mit eschatologischer Aussage
+        folgen zwei annähernd gleichlange Teile eschatologischen und polemischen Inhalts. Der Text
+        zeichnet sich durch einen hohen Anteil polemischer Rede und Gegenrede aus: Bereits der
+        zweite, eschatologische Teil enthält mehrere Fälle wörtlicher Rede, und der dritte Teil wird
+        von einer langen Serie polemischer Fragen dominiert. Im Zentrum der Auseinandersetzung
+        stehen dabei nicht mehr nur die in früheren Texten immer wieder bekräftigte Realität des
+        Jüngsten Gerichts und die insbesondere in <q type="koran" versstart="081:000"
+          versend="081:029">Q 81</q> diskutierte Autorität des Verkünders, sondern auch die sich
+        gegen Ende der frühmekkanischen Periode herauskristallisierende Leugnung aller anderen
+        Gottheiten als Allāh. Die Schärfe und Ausführlichkeit der Polemik dokumentiert eine
+        zunehmende Eskalierung der Auseinandersetzungen zwischen koranischer Gemeinde und ihren
+        Gegnern.</p>
+    </text>
+  </aufbauinhalt>
+  <ueberblick>
+    <text versstart="000" versend="049" verfasser="tjj">
+      <p>
+        <table cols="2" rend="boxed" rows="18">
+          <head/>
+          <row>
+            <cell/>
+            <cell>
+              <hi rend="bold">I Schwüre</hi>
+            </cell>
+          </row>
+          <row>
+            <cell><hi rend="superscript"><q type="koran" versstart="052:001" versend="052:006"
+                  >1–6</q></hi>
+              <hi rend="italic">3(K)K2K</hi> mit vorherrschenden Sonoren</cell>
+            <cell>
+              <hi rend="bold">1</hi><hi rend="superscript"><q type="koran" versstart="052:001"
+                  versend="052:006">1–6</q></hi> Schwurserie</cell>
+          </row>
+          <row>
+            <cell><hi rend="superscript"><q type="koran" versstart="052:007" versend="052:008"
+                  >7.8</q></hi>
+              <hi rend="italic">āK3ʿ</hi>
+            </cell>
+            <cell><hi rend="superscript"><q type="koran" versstart="052:007" versend="052:008"
+                  >7.8</q></hi> Warnspruch</cell>
+          </row>
+          <row>
+            <cell/>
+            <cell/>
+          </row>
+          <row>
+            <cell/>
+            <cell>
+              <hi rend="bold">II Eschatologie</hi>
+            </cell>
+          </row>
+          <row>
+            <cell><hi rend="superscript"><q type="koran" versstart="052:009" versend="052:010"
+                  >9.10</q></hi>
+              <hi rend="italic">3Krā</hi>,<hi rend="superscript"><q type="koran" versstart="052:011"
+                  versend="052:012">11.12</q></hi>
+              <hi rend="italic">2n/m</hi>
+            </cell>
+            <cell>
+              <hi rend="bold">2</hi><hi rend="superscript"><q type="koran" versstart="052:009"
+                  versend="052:012">9–12</q></hi> eschatologischer Temporalsatz (<q type="koran"
+                versstart="052:011" versend="052:012">V. 11.12</q> Wehspruch)</cell>
+          </row>
+          <row>
+            <cell><hi rend="superscript"><q type="koran" versstart="052:013" versend="052:013"
+                  >13</q></hi>
+              <hi rend="italic">3GGā</hi>,<hi rend="superscript"><q type="koran" versstart="052:014"
+                  versend="052:016">14–16</q></hi>
+              <hi rend="italic">2n/m</hi>
+            </cell>
+            <cell>
+              <hi rend="bold">3</hi><hi rend="superscript"><q type="koran" versstart="052:013"
+                  versend="052:016">13–16</q></hi> Antithese (Negativteil): eschatologischer
+              Temporalsatz und Anrede der Verdammten mit Rückblende (<q type="koran"
+                versstart="052:014" versend="052:016">V. 14–16</q>)</cell>
+          </row>
+          <row>
+            <cell><hi rend="superscript"><q type="koran" versstart="052:017" versend="052:049"
+                  >17–49</q></hi>
+              <hi rend="italic">2n/m</hi>
+            </cell>
+            <cell>
+              <hi rend="bold">4</hi><hi rend="superscript"><q type="koran" versstart="052:017"
+                  versend="052:028">17–28</q></hi> Antithese (Positivteil): Paradiesbeschreibung mit
+              Tugendkatalog in Rückblende (<q type="koran" versstart="052:026" versend="052:028">V.
+                26–28</q>)</cell>
+          </row>
+          <row>
+            <cell/>
+            <cell>[<hi rend="superscript"><q type="koran" versstart="052:021" versend="052:021"
+                  >21</q></hi> ergänzender Zusatz]</cell>
+          </row>
+          <row>
+            <cell/>
+            <cell/>
+          </row>
+          <row>
+            <cell/>
+            <cell>
+              <hi rend="bold">III Polemik</hi>
+            </cell>
+          </row>
+          <row>
+            <cell/>
+            <cell>
+              <hi rend="bold">5</hi><hi rend="superscript"><q type="koran" versstart="052:029"
+                  versend="052:029">29</q></hi> Aufruf zur Verkündigung, Verkünderprädikation</cell>
+          </row>
+          <row>
+            <cell/>
+            <cell><hi rend="superscript"><q type="koran" versstart="052:030" versend="052:031"
+                  >30.31</q></hi> polemische Frage und
+              <lang xml:lang="ar-Latn">qul</lang>-Anweisung</cell>
+          </row>
+          <row>
+            <cell/>
+            <cell><hi rend="superscript"><q type="koran" versstart="052:032" versend="052:043"
+                  >32–43</q></hi> weitere polemische Fragen mit Scheltworten (in <q type="koran"
+                versstart="052:033" versend="052:036" omitstart="052:034" omitend="052:035">V.
+                33.36</q>) und Drohwort (in <q type="koran" versstart="052:042" versend="052:042">V.
+                42</q>)</cell>
+          </row>
+          <row>
+            <cell/>
+            <cell>
+              <hi rend="bold">6</hi><hi rend="superscript"><q type="koran" versstart="052:044"
+                  versend="052:046">44–46</q></hi> Mahnung zur Abkehr von den Ungläubigen mit
+              vorangestellter Begründung (<q type="koran" versstart="052:044" versend="052:044">V.
+                44</q>) und eschatologischem Temporalsatz (<q type="koran" versstart="052:046"
+                versend="052:046">V. 46</q>)</cell>
+          </row>
+          <row>
+            <cell/>
+            <cell><hi rend="superscript"><q type="koran" versstart="052:047" versend="052:047"
+                  >47</q></hi> Drohwort, Scheltwort</cell>
+          </row>
+          <row>
+            <cell/>
+            <cell><hi rend="superscript"><q type="koran" versstart="052:048" versend="052:048"
+                  >48</q></hi> Mahnung zur Standhaftigkeit, Zuspruch, liturgischer Aufruf</cell>
+          </row>
+          <row>
+            <cell/>
+            <cell><hi rend="superscript"><q type="koran" versstart="052:049" versend="052:049"
+                  >49</q></hi> weiterer liturgischer Aufruf</cell>
+          </row>
+        </table>
+      </p>
+      <p>Proportionen: 8+[4+4+11]+[15+4+2].</p>
+    </text>
+  </ueberblick>
+  <anmerkungen>
+    <text versstart="000" versend="000" verfasser="nisi">
+      <p><lem>bi-smi llāhi r-raḥmāni r-raḥīm]</lem> Zur Basmala s. die entsprechende <q
+          type="anmerkung" versstart="093:000" versend="093:000">Anmerkung zu 93</q>; zum
+        Gottesnamen <lang xml:lang="ar-Latn">raḥmān</lang> s. die <q type="anmerkung"
+          versstart="055:001" versend="055:001">Anmerkung zu 55:1</q>.</p>
+    </text>
+    <text versstart="001" versend="001" verfasser="nisi">
+      <p><lem>wa-ṭ-ṭūr]</lem> Gemeint ist der Berg Sinai, vgl. <q type="koran" versstart="095:002"
+          versend="095:002">95:2</q> (<lang xml:lang="ar-Latn">wa-ṭūri sīnīn</lang>).</p>
+      <p><hi rend="italic">Versabteilung</hi>: Mekka und Medina ziehen die ersten beiden Verse
+        zusammen (<bibl Zotero_Id_1="WCNUUFAC"
+          Titel_1="Die Verszählung des Koran nach islamischer Überlieferung">Spitaler, Verszählung,
+          59</bibl>). Mit <bibl Zotero_Id_1="4WEWN8NZ"
+          Titel_1="Studien zur Komposition der mekkanischen Suren">Neuwirth (Studien, 22)</bibl> ist
+        jedoch an einer Abteilung nach <q type="koran" versstart="052:002" versend="052:002">V.
+          2</q> festzuhalten: Denn einerseits reimt <lang xml:lang="ar-Latn">ṭūr</lang> mit den
+        folgenden Versen, andererseits nimmt das erste Schwurglied einer Sure auch sonst in der
+        Regel einen eigenen Vers ein (vgl. jedoch <q type="koran" versstart="095:001"
+          versend="095:001">95:1</q>, den Neuwirth allerdings in zwei Verse teilen will).</p>
+    </text>
+    <text versstart="003" versend="003" verfasser="nisi">
+      <p><lem>raqq]</lem> Zur möglichen Entlehnung des Wortes aus dem Äthiopischen s. <bibl
+          Zotero_Id_1="Z468GCXQ" Titel_1="The foreign vocabulary of the Qurān">Jeffery, Foreign
+          Vocabulary, 143</bibl>.</p>
+      <p><lem>manšūr]</lem> Von „ausgebreiteten“ Schriften ist noch in dem zu Gruppe II gehörigen <q
+          type="koran" versstart="081:010" versend="081:010">Vers 81:10</q>
+        (<lang xml:lang="ar-Latn">wa-ʾiḏă ṣ-ṣuḥufu nušširat</lang>) die Rede, wo der Kontext
+        eindeutig eschatologisch ist: Vor dem Jüngsten Gericht werden die als Grundlage der
+        Urteilsfindung dienenden Tatenregister der Guten und Bösen ausgebreitet. Eine weitere
+        Parallelstelle liegt <q type="koran" versstart="074:052" versend="074:052">74:52</q>
+        (<lang xml:lang="ar-Latn">bal yurīdu kullu mriʾin minhum ʾan yuʾtā ṣuḥufan munaššarah</lang>;
+        IIIa) vor, wo es wohl eher um die Frage geht, warum die koranischen Offenbarungen nicht die
+        aus der jüdisch-christlichen Tradition vertraute Gestalt abgeschlossener Schriftkorpora
+        annehmen. Angesichts des vorangehenden Verses, der den Berg Sinai nennt, dürfte auch hier
+        eher von Offenbarungen als von Tatenregistern die Rede sein.</p>
+    </text>
+    <text versstart="004" versend="004" verfasser="nisi">
+      <p><lem>wa-l-baiti l-maʿmūr]</lem>
+        <lang xml:lang="ar-Latn">ʿAmara</lang> (s. <bibl Zotero_Id_1="8WQ6CTDE"
+          Titel_1="An Arabic-English lexicon derived fom the best and the most copious Eastern so"
+          >Lane, Bd. 5, 2153c–2154b</bibl>, vgl. <bibl Zotero_Id_1="89WAAM3P"
+          Titel_1="A concise dictionary of Koranic Arabic">Ambros, Dictionary, 194</bibl>) ist
+        allgemein „bewohnen, sich aufhalten in“, hier aber wohl „pilgern zu“ = „sich in einem
+        Heiligtum aufhalten“ (so noch in <q type="koran" versstart="009:017" versend="009:018"
+          >9:17.18</q>); die Bedeutung „bebauen, kultivieren“ (so in <q type="koran"
+          versstart="030:009" versend="030:009">30:9</q>) ist hier auch deshalb unwahrscheinlich,
+        weil in diesem Falle als Objekt ein Land bzw. Ort zu erwarten wäre und nicht die Kaʿba (die
+        frühmekkanisch auch in <q type="koran" versstart="106:003" versend="106:003">106:3</q> als
+        <lang xml:lang="ar-Latn">bait</lang> bezeichnet wird). Mekka erscheint als Schwurgegenstand
+        noch in <q type="koran" versstart="092:003" versend="092:003">92:3</q>, und zwar wie in <q
+          type="koran" versstart="052:001" versend="052:001">V. 1</q> der vorliegenden Schwurserie
+        (<lang xml:lang="ar-Latn">wa-ṭ-ṭūr</lang>) in Kombination mit dem Berg Sinai (<q
+          type="koran" versstart="095:002" versend="095:003">95:2.3</q>:
+        <lang xml:lang="ar-Latn">wa-ṭūri sīnīn / wa-hāḏă l-baladi l-ʾamīn</lang>). Auch in
+        islamischen Beispielen für altarabische altarabischen
+        <lang xml:lang="ar-Latn">kāhin</lang>-Schwüre erscheint die mekkanische Kaʿba, wobei die
+        Authentizität der betreffenden Überlieferungen vorerst nicht sicher zu beurteilen ist (s.
+        die <q type="anmerkung" versstart="095:003" versend="095:003">Anmerkung zu 95:3</q>).</p>
+    </text>
+    <text versstart="005" versend="005" verfasser="nisi">
+      <p><lem>wa-s-saqfi l-marfūʿ]</lem> Gemeint ist das Himmelsgewölbe, für dessen Erschaffung auch
+        in <q type="koran" versstart="079:028" versend="079:028">79:28</q>
+        (<lang xml:lang="ar-Latn">rafaʿa samkahā fa-sawwāhā</lang>), <q type="koran"
+          versstart="088:018" versend="088:018">88:18</q>
+        (<lang xml:lang="ar-Latn">wa-ʾilă s-samāʾi kaifa rufiʿat</lang>) und <q type="koran"
+          versstart="055:007" versend="055:007">55:7</q>
+        (<lang xml:lang="ar-Latn">wa-s-samāʾa rafaʿahā</lang>) das Verb
+        <lang xml:lang="ar-Latn">rafaʿa</lang> gebraucht wird. Vgl. auch die übrigen in der <q
+          type="anmerkung" versstart="091:005" versend="091:006">Anmerkung zu 91:5.6</q> genannten
+        Stellen; s. auch die Anmerkungen und den Kommentar zu 55:7.10.</p>
+    </text>
+    <text versstart="006" versend="006" verfasser="nisi">
+      <p><lem>wa-l-baḥri l-masǧūr]</lem> Es handelt sich wohl um eine Anspielung auf die in <q
+          type="koran" versstart="081:006" versend="081:006">81:6</q> angekündigte endzeitliche
+        Sintflut (<lang xml:lang="ar-Latn">wa-ʾiḏă l-biḥāru suǧǧirat</lang>); zu einem dieselbe
+        Vorstellung dokumentierenden syrischen Intertext s. die <q type="anmerkung"
+          versstart="081:006" versend="081:006">Anmerkung ebd.</q>
+      </p>
+    </text>
+    <text versstart="007" versend="008" verfasser="nisi">
+      <p><lem>ʾinna ʿaḏāba rabbika la-wāqiʿ / mā lahū min dāfiʿ]</lem> Vgl. <q type="koran"
+          versstart="051:005" versend="051:006">51:5.6</q>
+        (<lang xml:lang="ar-Latn">ʾinnamā tūʿadūna la-ṣādiq / wa-ʾinna d-dīna la-wāqiʿ</lang>), <q
+          type="koran" versstart="056:001" versend="056:002">56:1.2</q>
+        (<lang xml:lang="ar-Latn">ʾiḏā waqaʿati l-wāqiʿah / laisa li-waqʿatihā kāḏibah</lang>), <q
+          type="koran" versstart="069:015" versend="069:015">69:15</q>
+          (<lang xml:lang="ar-Latn">fa-yaumaʾiḏin waqaʿati l-wāqiʿah</lang>),<q type="koran"
+          versstart="070:001" versend="070:002">70:1.2</q>
+        (<lang xml:lang="ar-Latn">saʾala sāʾilun bi-ʿaḏābin wāqiʿ / li-l-kāfirīna laisa lahū dāfiʿ</lang>)
+        und <q type="koran" versstart="077:007" versend="077:007">77:7</q>
+        (<lang xml:lang="ar-Latn">ʾinnamā tūʿadūna la-wāqiʿ</lang>). Zu der für die Gruppen IIIa und
+        IIIb charakteristischen Bezeichnung des Weltendes mittels Ableitungen von der Wurzel
+        <lang xml:lang="ar-Latn">w-q-ʿ</lang> s. die <q type="anmerkung" versstart="077:007"
+          versend="077:007">Anmerkung zu 77:7</q>. Zum Gottestitel
+        <lang xml:lang="ar-Latn">rabb</lang> s. die <q type="anmerkung" versstart="095:008"
+          versend="095:008">Anmerkung zu 95:8</q>.</p>
+    </text>
+    <text versstart="010" versend="010" verfasser="nisi">
+      <p><lem>wa-tasīru l-ǧibālu sairā]</lem> Vgl. <q type="koran" versstart="078:020"
+          versend="078:020">78:20</q>
+        (<lang xml:lang="ar-Latn">wa-suyyirati l-ǧibālu fa-kānat sarāba</lang>) und <q type="koran"
+          versstart="081:003" versend="081:003">81:3</q>
+        (<lang xml:lang="ar-Latn">wa-ʾiḏă l-ǧibālu suyyirat</lang>); s. die ausführliche <q
+          type="anmerkung" versstart="081:003" versend="081:003">Anmerkung zu 81:3</q>.</p>
+    </text>
+    <text versstart="011" versend="011" verfasser="nisi">
+      <p><lem>fa-wailun yaumaʾiḏin li-l-mukaḏḏibīn]</lem> Vgl. identisch (jedoch ohne einleitendes
+        <lang xml:lang="ar-Latn">fa-</lang>) den Refrain der etwas früheren (Gruppe IIIa) <q
+          type="koran" versstart="077:000" versend="077:050">Sure 77</q> (<q type="koran"
+          versstart="077:015" versend="077:015">V. 15</q>.<q type="koran" versstart="077:019"
+          versend="077:019">19</q>.<q type="koran" versstart="077:024" versend="077:024">24</q>.<q
+          type="koran" versstart="077:028" versend="077:028">28</q>.<q type="koran"
+          versstart="077:034" versend="077:034">34</q>.<q type="koran" versstart="077:037"
+          versend="077:037">37</q>.<q type="koran" versstart="077:040" versend="077:040">40</q>.<q
+          type="koran" versstart="077:045" versend="077:045">45</q>.<q type="koran"
+          versstart="077:047" versend="077:047">47</q>.<q type="koran" versstart="077:049"
+          versend="077:049">49</q>) sowie in etwa gleichzeitig (Gruppe IIIb) <q type="koran"
+          versstart="083:010" versend="083:010">83:10</q>. Zu
+        <lang xml:lang="ar-Latn">yaumaʾiḏin</lang> vgl. die <q type="anmerkung" versstart="102:008"
+          versend="102:008">Anmerkung zu 102:8</q>. Zu den verschiedenen Gebrauchsweisen von
+        <lang xml:lang="ar-Latn">kaḏḏaba</lang> vgl. die <q type="anmerkung" versstart="095:007"
+          versend="095:007">Anmerkungen zu 95:7</q>, <q type="anmerkung" versstart="092:016"
+          versend="092:016">92:16</q> und <q type="anmerkung" versstart="073:011" versend="073:011"
+          >73:11</q>.</p>
+    </text>
+    <text versstart="012" versend="012" verfasser="nisi">
+      <p><lem>allaḏīna hum fī ḫauḍin yalʿabūn]</lem> Vgl. <q type="koran" versstart="070:042"
+          versend="070:042">70:42</q>
+        (<lang xml:lang="ar-Latn">fa-ḏarhum yaḫūḍū wa-yalʿabū ḥattā yulāqū yaumahumu llaḏī yūʿadūn</lang>)
+        und <q type="koran" versstart="074:045" versend="074:045">74:45</q>
+        (<lang xml:lang="ar-Latn">wa-kunnā naḫūḍu maʿa l-ḫāʾiḍīn</lang>).</p>
+    </text>
+    <text versstart="013" versend="013" verfasser="nisi">
+      <p><lem>yauma yudaʿʿūna ʾilă n-nāri ǧahannama daʿʿā]</lem> Zu
+        <lang xml:lang="ar-Latn">ǧahannam</lang> s. die <q type="anmerkung" versstart="078:021"
+          versend="078:021">Anmerkung zu 78:21</q>, zu <lang xml:lang="ar-Latn">nār</lang> die zu <q
+          type="anmerkung" versstart="111:003" versend="111:003">111:3</q>. Statt
+        <lang xml:lang="ar-Latn">yudaʿʿūna</lang> existiert auch die Lesung
+        <lang xml:lang="ar-Latn">yudʿauna</lang>, „sie werden gerufen“ (<bibl Zotero_Id_1="KVFTU3XN"
+          Titel_1="Muʿǧam al-qirāʾāt">Muʿǧam, ad loc.</bibl>).</p>
+      <p><hi rend="italic">Versabteilung</hi>: Baṣra und Mekka ziehen <q type="koran"
+          versstart="052:013" versend="052:013">V. 13</q> und <q type="koran" versstart="052:014"
+          versend="052:014">V. 14</q> zusammen (<bibl Zotero_Id_1="WCNUUFAC"
+          Titel_1="Die Verszählung des Koran nach islamischer Überlieferung">Spitaler, Verszählung,
+          59</bibl>) – wohl deshalb, weil <q type="koran" versstart="052:013" versend="052:013">V.
+          13</q> nicht mit seiner Umgebung reimt. Länge und Struktur des Verses erfordern jedoch
+        eine Abteilung (<bibl Zotero_Id_1="4WEWN8NZ"
+          Titel_1="Studien zur Komposition der mekkanischen Suren">Neuwirth, Studien, 22</bibl>).
+        Isolierte Reime im Einleitungsvers eines Gesätzes begegnen auch sonst (s. etwa <q
+          type="koran" versstart="080:033" versend="080:033">80:33</q>, <q type="koran"
+          versstart="082:006" versend="082:006">82:6</q> und <q type="koran" versstart="099:006"
+          versend="099:006">99:6</q>; vgl. <bibl Zotero_Id_1="4WEWN8NZ"
+          Titel_1="Studien zur Komposition der mekkanischen Suren">Neuwirth, Studien, 30und 94
+          f.</bibl>); überdies entspricht der Reim des yauma-<lang xml:lang="ar-Latn">Vordersatzes</lang>
+        <q type="koran" versstart="052:013" versend="052:013">V. 13</q> demjenigen der beiden –
+        ebenfalls einen <lang xml:lang="ar-Latn">yauma</lang>-Vordersatz darstellenden –
+        Anfangsverse des vorangehenden Gesätzes (<q type="koran" versstart="052:009"
+          versend="052:010">V. 9.10</q>), wobei sich an die <hi rend="italic">3KKā</hi>-Reime in <q
+          type="koran" versstart="052:009" versend="052:010">V. 9.10</q> und <q type="koran"
+          versstart="052:013" versend="052:013">V. 13</q> jeweils ein <hi rend="italic">2n</hi>-Reim
+        anschließt (s. <bibl Zotero_Id_1="4WEWN8NZ"
+          Titel_1="Studien zur Komposition der mekkanischen Suren">Neuwirth, Studien,
+        93</bibl>).</p>
+    </text>
+    <text versstart="014" versend="014" verfasser="nisi">
+      <p><lem>hāḏihĭ n-nāru llatī kuntum bihā tukaḏḏibūn]</lem> Vgl. <q type="koran"
+          versstart="055:043" versend="055:043">55:43</q>
+        (<lang xml:lang="ar-Latn">hāḏihī ǧahannamu llatī yukaḏḏibu bihă l-muǧrimūn</lang>), <q
+          type="koran" versstart="077:029" versend="077:029">77:29</q>
+        (<lang xml:lang="ar-Latn">inṭaliqū ʾilā mā kuntum bihī tukaḏḏibūn</lang>) und <q
+          type="koran" versstart="083:017" versend="083:017">83:17</q>
+        (<lang xml:lang="ar-Latn">ṯumma yuqālu hāḏă llaḏī kuntum bihī tukaḏḏibūn</lang>). Zu
+        <lang xml:lang="ar-Latn">kaḏḏaba</lang> s. die <q type="anmerkung" versstart="095:007"
+          versend="095:007">Anmerkungen zu 95:7</q>, <q type="anmerkung" versstart="092:016"
+          versend="092:016">92:16</q> und <q type="anmerkung" versstart="073:011" versend="073:011"
+          >73:11</q>.</p>
+    </text>
+    <text versstart="015" versend="015" verfasser="nisi">
+      <p><lem>ʾa-fa-siḥrun hāḏā ʾam ʾantum lā tubṣirūn]</lem> Zu dem in den Autoritätsdebatten in
+        Gruppe IIIb mehrfach gebrauchten Verb <lang xml:lang="ar-Latn">ʾabṣara</lang> s. noch <q
+          type="koran" versstart="051:021" versend="051:021">51:21</q>
+        (<lang xml:lang="ar-Latn">wa-fī ʾanfusikum ʾa-fa-lā tubṣirūn</lang>) und <q type="koran"
+          versstart="068:005" versend="068:005">68:5</q>
+        (<lang xml:lang="ar-Latn">fa-sa-tubṣiru wa-yubṣirūn</lang>).</p>
+    </text>
+    <text versstart="017" versend="017" verfasser="nisi">
+      <p><lem>ʾinna l-muttaqīna fī ǧannātin wa-naʿīm]</lem> Vgl. <q type="koran" versstart="051:015"
+          versend="051:015">51:15</q>
+        (<lang xml:lang="ar-Latn">ʾinna l-muttaqīna fī ǧannātin wa-ʿuyūn</lang>), <q type="koran"
+          versstart="056:011" versend="056:012">56:11.12</q>
+        (<lang xml:lang="ar-Latn">ʾulāʾika l-muqarrabūn / fī ǧannāti n-naʿīm</lang>), <q
+          type="koran" versstart="068:034" versend="068:034">68:34</q>
+        (<lang xml:lang="ar-Latn">ʾinna li-l-muttaqīna ʿinda rabbihim ǧannati n-naʿīm</lang>), <q
+          type="koran" versstart="077:041" versend="077:041">77:41</q>
+        (<lang xml:lang="ar-Latn">ʾinna l-muttaqīna fī ẓilālin wa-ʿuyūn</lang>), <q type="koran"
+          versstart="082:013" versend="082:013">82:13</q>
+        (<lang xml:lang="ar-Latn">ʾinna l-ʾabrāra la-fī naʿīm</lang>) und <q type="koran"
+          versstart="083:022" versend="083:022">83:22</q>
+        (<lang xml:lang="ar-Latn">ʾinna l-ʾabrāra la-fī naʿīm</lang>).
+        <lang xml:lang="ar-Latn">Naʿīm</lang> steht auch sonst häufig als Gegensatz zu dem im
+        folgenden Vers gebrauchten Ausdruck <lang xml:lang="ar-Latn">ǧaḥīm</lang> (s. die <q
+          type="anmerkung" versstart="102:008" versend="102:008">Anmerkung zu 102:8</q>). Zu
+        <lang xml:lang="ar-Latn">ǧanna</lang> s. die <q type="anmerkung" versstart="081:013"
+          versend="081:013">Anmerkung zu 81:13</q>. Zum Verb <lang xml:lang="ar-Latn">ittaqā</lang>
+        und dem zugehörigen Substantiv <lang xml:lang="ar-Latn">taqwā</lang> s. die <q
+          type="anmerkung" versstart="092:005" versend="092:005">Anmerkung zu 92:5</q>.</p>
+    </text>
+    <text versstart="018" versend="018" verfasser="nisi">
+      <p><lem>fākihīna bi-mā ʾātāhum rabbuhum]</lem> Vgl. <q type="koran" versstart="051:016"
+          versend="051:016">51:16</q>
+        (<lang xml:lang="ar-Latn">ʾāḫiḏīna mā ʾātāhum rabbuhum ʾinnahum kānū qabla ḏālika muḥsinīn</lang>).<lem>wa-waqāhum rabbuhum ʿaḏāba l-ǧaḥīm]</lem>
+        Vgl. die zweite Hälfte von <q type="koran" versstart="052:027" versend="052:027">V. 27</q>
+        (<lang xml:lang="ar-Latn">wa-waqānā ʿaḏāba s-samūm</lang>). Zu
+        <lang xml:lang="ar-Latn">ǧaḥīm</lang> s. die <q type="anmerkung" versstart="102:006"
+          versend="102:006">Anmerkungen zu 102:6</q> und <q type="anmerkung" versstart="102:008"
+          versend="102:008">102:8</q>.</p>
+    </text>
+    <text versstart="019" versend="019" verfasser="nisi">
+      <p><lem>kulū wa-šrabū hanīʾan bi-mā kuntum taʿmalūn]</lem> Vgl. <q type="koran"
+          versstart="069:024" versend="069:024">69:24</q>
+        (<lang xml:lang="ar-Latn">kulū wa-šrabū hanīʾan bi-mā ʾaslaftum fĭ l-ʾayyāmi l-ḫāliyah</lang>)
+        und <q type="koran" versstart="077:043" versend="077:043">77:43</q>
+        (<lang xml:lang="ar-Latn">kulū wa-šrabū hanīʾan bi-mā kuntum taʿmalūn</lang>). Zur
+        Abwesenheit von Hunger und Durst im Paradies s. den in der <q type="anmerkung"
+          versstart="077:041" versend="077:042">Anmerkung zu 77:41.42</q> zitierten Intertext.</p>
+    </text>
+    <text versstart="020" versend="020" verfasser="nisi">
+      <p><lem>muttakiʾīna ʿalā sururin maṣfūfatin]</lem> Zu
+        <lang xml:lang="ar-Latn">muttakiʾīn</lang> s. die <q type="anmerkung" versstart="056:016"
+          versend="056:016">Anmerkung zu 56:16</q>, zu den paradiesischen Ruhebetten
+        (<lang xml:lang="ar-Latn">surur</lang>, <lang xml:lang="ar-Latn">furuš</lang>,
+        <lang xml:lang="ar-Latn">ʾarāʾik</lang>) s. die <q type="anmerkung" versstart="056:015"
+          versend="056:015">Anmerkung zu 56:15</q>. Zu <lang xml:lang="ar-Latn">maṣfūf</lang> vgl.
+          <q type="koran" versstart="088:015" versend="088:015">88:15</q>
+        (<lang xml:lang="ar-Latn">wa-namāriqu maṣfūfah</lang>).</p>
+      <p><lem>wa-zawwaǧnāhum bi-ḥūrin ʿīn]</lem> Zu den Epitheta <lang xml:lang="ar-Latn">ḥūr</lang>
+        und <lang xml:lang="ar-Latn">ʿīn</lang> s. <q type="koran" versstart="055:072"
+          versend="055:072">55:72</q> (<lang xml:lang="ar-Latn">ḥūrun maqṣūrātun fĭ l-ḫiyām</lang>)
+        und <q type="koran" versstart="056:022" versend="056:022">56:22</q>
+        (<lang xml:lang="ar-Latn">wa-ḥūrun ʿīn</lang>) mit <q type="anmerkung" versstart="056:022"
+          versend="056:022">Anmerkung</q>. Zu den koranischen Paradiesjungfrauen s. a. allgemein die
+          <q type="anmerkung" versstart="078:033" versend="078:033">Anmerkung zu 78:33</q>.</p>
+    </text>
+    <text versstart="021" versend="021" verfasser="nisi">
+      <p><lem>allaḏīna ʾāmanū]</lem> Zum Verb <lang xml:lang="ar-Latn">ʾāmana</lang> s. die <q
+          type="anmerkung" versstart="069:033" versend="069:033">Anmerkung zu 69:33</q>.</p>
+      <p><lem>wa-ttabaʿathum ḏurriyyatuhum bi-ʾīmānin]</lem> Statt
+        <lang xml:lang="ar-Latn">wa-ttabaʿathum</lang> existiert auch die Variante
+        <lang xml:lang="ar-Latn">wa-ʾatbaʿnāhum</lang> (<bibl Zotero_Id_1="KVFTU3XN"
+          Titel_1="Muʿǧam al-qirāʾāt">Muʿǧam, ad loc.</bibl>); sie betont, dass der Glaube der
+        betreffenden Nachkommen in letzter Instanz nicht ihr eigenes Verdienst ist, sondern von Gott
+        gewirkt ist.</p>
+      <p><lem>wa-mā ʾalatnāhum min ʿamalihim min šaiʾin]</lem> Die einzige koranische Parallele ist
+        der medinensische <q type="koran" versstart="049:014" versend="049:014">Vers 49:14</q>, wo
+        es heißt: <lang xml:lang="ar-Latn">lā yalitkum min ʾaʿmālikum šaiʾan</lang> (zur Form
+        <lang xml:lang="ar-Latn">yalitkum</lang>, die Bergsträßer als Verlesung des
+        Konsonantengerüsts von <lang xml:lang="ar-Latn">yālitkum</lang> =
+        <lang xml:lang="ar-Latn">yaʾlitkum</lang> erklärt, s. <bibl Zotero_Id_1="RF8JH6HZ"
+          Titel_1="Geschichte des Qorāns">GdQ, Bd. 3, 114, Anm. 1</bibl>, sowie die weiteren
+        Literaturangaben in <bibl Zotero_Id_1="X9T7RF7R"
+          Titel_1="Der Koran Kommentar und Konkordanz">Paret, Kommentar, zu 49:14</bibl>).</p>
+      <p><lem>kullu mriʾin bi-mā kasaba rahīn]</lem> Vgl. <q type="koran" versstart="074:038"
+          versend="074:038">74:38</q>
+        (<lang xml:lang="ar-Latn">kullu nafsin bi-mā kasabat rahīnah</lang>) mit <q type="anmerkung"
+          versstart="074:038" versend="074:038">Anmerkung</q>. Die – insgesamt nur fünf Mal im Koran
+        bezeugte – Wendung <lang xml:lang="ar-Latn">kullu mriʾin</lang> begegnet frühmekkanisch noch
+        in <q type="koran" versstart="080:037" versend="080:037">80:37</q>, <q type="koran"
+          versstart="074:052" versend="074:052">74:52</q> und <q type="koran" versstart="070:038"
+          versend="070:038">70:38</q> (vgl. <bibl Zotero_Id_1="4WEWN8NZ"
+          Titel_1="Studien zur Komposition der mekkanischen Suren">Neuwirth, Studien, 215</bibl>).
+        Zu <lang xml:lang="ar-Latn">imruʾ</lang> s. auch die <q type="anmerkung" versstart="078:040"
+          versend="078:040">Anmerkung zu 78:40</q>.</p>
+    </text>
+    <text versstart="022" versend="022" verfasser="nisi">
+      <p><lem>wa-ʾamdadnāhum bi-fākihatin wa-laḥmin mimmā yaštahūn]</lem> Vgl. <q type="koran"
+          versstart="055:052" versend="055:052">55:52</q>
+        (<lang xml:lang="ar-Latn">fīhimā min kulli fākihatin zauǧān</lang>), <q type="koran"
+          versstart="055:068" versend="055:068">55:68</q>
+        (<lang xml:lang="ar-Latn">fīhimā fākihatun wa-naḫlun wa-rummān</lang>), <q type="koran"
+          versstart="056:020" versend="056:021">56:20.21</q>
+        (<lang xml:lang="ar-Latn">wa-fākihatin mimmā yataḫayyarūn / wa-laḥmi ṭairin mimmā yaštahūn</lang>),
+          <q type="koran" versstart="056:032" versend="056:033">56:32.33</q>
+        (<lang xml:lang="ar-Latn">wa-fākihatin kaṯīrah / lā maqṭūʿatin wa-lā mamnūʿah</lang>) und <q
+          type="koran" versstart="077:042" versend="077:042">77:42</q>
+        (<lang xml:lang="ar-Latn">wa-fawākiha mimmā yaštahūn</lang>). Von Fleischgenuss im Paradies
+        ist also erst in den zu Gruppe IIIb gehörigen <q type="koran" versstart="052:022"
+          versend="052:022">Versen 52:22</q> und <q type="koran" versstart="056:021"
+          versend="056:021">56:21</q> die Rede, während die zu IIIa zählenden <q type="koran"
+          versstart="077:000" versend="077:050">Sure 77</q> und in IIIb auch noch <q type="koran"
+          versstart="055:000" versend="055:078">Sure 55</q> nur von Früchten sprechen. Zu einem
+        möglichen biblischen Hintergrund der den Seligen verheißenen Früchte s. die <q
+          type="anmerkung" versstart="077:041" versend="077:042">Anmerkung zu 77:41.42</q>.</p>
+    </text>
+    <text versstart="023" versend="023" verfasser="nisi">
+      <p><lem>yatanāzaʿūna fīhā kaʾsan]</lem> Zu <lang xml:lang="ar-Latn">kaʾs</lang> s. die <q
+          type="anmerkung" versstart="078:034" versend="078:034">Anmerkung zu 78:34</q>.
+        <lang xml:lang="ar-Latn">Tanāzaʿa</lang> (s. allg. <bibl Zotero_Id_1="89WAAM3P"
+          Titel_1="A concise dictionary of Koranic Arabic">Ambros, Dictionary, 265</bibl>) bedeutet
+        sonst „miteinander streiten (über)“ und kann in dieser Bedeutung sowohl transitiv als auch
+        mit der Präposition <lang xml:lang="ar-Latn">fī</lang> gebraucht werden (vgl. <q
+          type="koran" versstart="018:021" versend="018:021">18:21</q>:
+        <lang xml:lang="ar-Latn">ʾiḏ yatanāzaʿūna bainahum ʾamrahum</lang> und <q type="koran"
+          versstart="008:043" versend="008:043">8:43</q>:
+        <lang xml:lang="ar-Latn">wa-la-tanāzaʿtum fĭ l-ʾamri</lang>). An der vorliegenden Stelle
+        passt dieser Sinn jedoch offenbar nicht. Den arabischen Lexika zufolge kann das Verb jedoch
+        auch „etwas miteinander teilen“ bedeuten (<lang xml:lang="ar-Latn">tanāzaʿnă l-ḥadīṯ</lang>,
+        „wir unterhielten uns“, <lang xml:lang="ar-Latn">tanāzaʿŭ r-raǧaz</lang>, „sie rezitierten
+        gemeinsam <lang xml:lang="ar-Latn">raǧaz</lang>-Verse“; s. <bibl Zotero_Id_1="8WQ6CTDE"
+          Titel_1="An Arabic-English lexicon derived fom the best and the most copious Eastern so"
+          >Lane, Bd. 8, 3031a</bibl>); <lang xml:lang="ar-Latn">nazaʿa</lang> im ersten Stamm ist
+        „(weg-, ab-)ziehen“.</p>
+      <p><lem>lā laġwun fihā wa-lā taʾṯīmun]</lem> Vgl. insbesondere <q type="koran"
+          versstart="056:025" versend="056:025">56:25</q>
+        (<lang xml:lang="ar-Latn">lā yasmaʿūna fīhā laġwan wa-lā taʾṯīmā</lang>) mit <q
+          type="anmerkung" versstart="056:025" versend="056:025">Anmerkung</q>, zu
+        <lang xml:lang="ar-Latn">laġw</lang> auch <q type="koran" versstart="078:035"
+          versend="078:035">78:35</q>
+        (<lang xml:lang="ar-Latn">lā yasmaʿūna fīhā laġwan wa-lā kiḏḏāba</lang>) und <q type="koran"
+          versstart="088:011" versend="088:011">88:11</q>
+        (<lang xml:lang="ar-Latn">lā tasmaʿu fīhā lāġiyah</lang>). Inhaltlich parallel ist wohl auch
+          <q type="koran" versstart="056:019" versend="056:019">56:19</q>
+        (<lang xml:lang="ar-Latn">lā yuṣaddaʿūna ʿanhā wa-lā yunzifūn</lang>).</p>
+    </text>
+    <text versstart="024" versend="024" verfasser="nisi">
+      <p><lem>wa-yaṭūfu ʿalaihim ġilmānun lahum ka-ʾannahum luʾluʾun maknūn]</lem> Zum ersten
+        Versteil vgl. <q type="koran" versstart="056:017" versend="056:017">56:17</q>
+        (<lang xml:lang="ar-Latn">yaṭūfu ʿalaihim wildānun muḫalladūn</lang>) mit <q
+          type="anmerkung" versstart="056:017" versend="056:017">Anmerkung</q>, zur zweiten Hälfte
+        vgl. den – allerdings als Beschreibung der Paradiesjungfrauen, nicht der die Seligen
+        bedienenden Jünglinge – <q type="koran" versstart="056:023" versend="056:023">Vers 56:23</q>
+        (<lang xml:lang="ar-Latn">ka-ʾamṯāli l-luʾluʾi l-maknūn</lang>). Wie ein von Yousef Kouriyhe
+        identifizierter Text Jakobs von Serug (vgl. <ref target="#TUK">TUK, Nr. 181</ref>) belegt,
+        haben die koranischen Paradiesjünglinge eine Parallele in syrisch-christlichen
+        Beschreibungen der im Kindesalter verstorbenen Toten, die – wie die Paradiesjünglinge in <q
+          type="koran" versstart="052:024" versend="052:024">52:24</q> und <q type="koran"
+          versstart="076:019" versend="076:019">76:19</q> – auch mit Perlen verglichen werden
+        (Übersetzung von David Kiltz): „Oh Verständiger, der du diesen Toten, der voller Vorzüge
+        ist, auf das Begräbnis vorbereitet hast! Warum weinst du über den Schönen, der ohne Fehl
+        ist? Wer weint über eine Perle, die aus den Wellen des Meeres emporgestiegen ist? Denn
+        siehe, sie wurde in die Krone des Königs gesetzt.“ Während im syrischen Text allerdings die
+        Theodizee-Problematik (wie kann Gott unschuldige Kinder sterben lassen?) thematisiert wird,
+        sind die koranischen Paradiesjünglinge vor allem Elemente einer luxuriösen Kulisse.</p>
+    </text>
+    <text versstart="025" versend="025" verfasser="nisi">
+      <p><lem>wa-ʾaqbala baʿḍuhum ʿalā baʿḍin yatasāʾalūn]</lem> Gespräche im Jenseits werden sonst
+        noch in <q type="koran" versstart="068:030" versend="068:030">68:30</q>
+        (<lang xml:lang="ar-Latn">fa-ʾaqbala baʿḍuhum ʿalā baʿḍin yatalāwamūn</lang>; gehört wie die
+        vorliegende Sure zu Gruppe IIIb) und <q type="koran" versstart="074:040" versend="074:041"
+          >74:40.41</q> (<lang xml:lang="ar-Latn">fī ǧannātin yatasāʾalūn / ʿani l-muǧrimīn</lang>;
+        IIIa) geschildert.</p>
+    </text>
+    <text versstart="027" versend="027" verfasser="nisi">
+      <p><lem>fa-manna llāhu ʿalainā]</lem> Zum Gottesnamen <lang xml:lang="ar-Latn">Allāh</lang> s.
+        die <q type="anmerkung" versstart="095:008" versend="095:008">Anmerkung zu
+        95:8</q>.<lem>wa-waqānā ʿaḏāba s-samūm]</lem> Vgl. die zweite Hälfte von <q type="koran"
+          versstart="052:018" versend="052:018">V. 18</q>
+        (<lang xml:lang="ar-Latn">wa-waqāhum rabbuhum ʿaḏāba l-ǧaḥīm</lang>). Zu
+        <lang xml:lang="ar-Latn">samūm</lang> s. <bibl Zotero_Id_1="89WAAM3P"
+          Titel_1="A concise dictionary of Koranic Arabic">Ambros, Dictionary, 139</bibl>.</p>
+    </text>
+    <text versstart="029" versend="029" verfasser="nisi">
+      <p><lem>fa-ḏakkir]</lem> S. <q type="koran" versstart="051:055" versend="051:055">51:55</q>
+        (<lang xml:lang="ar-Latn">wa-ḏakkir fa-ʾinna ḏ-ḏikrā tanfaʿu l-muʾminīn</lang>), <q
+          type="koran" versstart="087:009" versend="087:009">87:9</q>
+        (<lang xml:lang="ar-Latn">fa-ḏakkir ʾin nafaʿati ḏ-ḏikrā</lang>) und <q type="koran"
+          versstart="088:021" versend="088:021">88:21</q>
+        (<lang xml:lang="ar-Latn">fa-ḏakkir ʾinnamā ʾanta muḏakkir</lang>).</p>
+      <p><lem>fa-mā ʾanta bi-niʿmati rabbika bi-kāhinin wa-lā maǧnūn]</lem> Vgl. <q type="koran"
+          versstart="081:022" versend="081:022">81:22</q>
+        (<lang xml:lang="ar-Latn">wa-mā ṣāḥibukum bi-maǧnūn</lang>) mit <q type="anmerkung"
+          versstart="081:022" versend="081:022">Anmerkung</q> sowie <q type="koran"
+          versstart="069:042" versend="069:042">69:42</q>
+        (<lang xml:lang="ar-Latn">wa-lā bi-qauli kāhinin qalīlan mā taḏakkarūn</lang>), <q
+          type="koran" versstart="068:002" versend="068:002">68:2</q>
+        (<lang xml:lang="ar-Latn">mā ʾanta bi-niʿmati rabbika bi-maǧnūn</lang>), <q type="koran"
+          versstart="068:051" versend="068:051">68:51</q>
+        (<lang xml:lang="ar-Latn">wa-yaqūlūna ʾinnahū la-maǧnūn</lang>), <q type="koran"
+          versstart="051:039" versend="051:039">51:39</q>
+        (<lang xml:lang="ar-Latn">wa-qāla sāḥirun ʾau maǧnūn</lang>) und <q type="koran"
+          versstart="051:052" versend="051:052">51:52</q>
+        (<lang xml:lang="ar-Latn">ʾillā qālū sāḥirun ʾau maǧnūn</lang>).</p>
+    </text>
+    <text versstart="030" versend="030" verfasser="nisi">
+      <p><lem>ʾam yaqūlūna šāʿirun]</lem> Vgl. <q type="koran" versstart="069:041" versend="069:041"
+          >69:41</q>
+        (<lang xml:lang="ar-Latn">wa-mā huwa bi-qauli šāʿirin qalīlan mā tuʾminūn</lang>). S. auch
+        die <q type="anmerkung" versstart="081:022" versend="081:022">Anmerkung zu 81:22</q>.</p>
+    </text>
+    <text versstart="031" versend="031" verfasser="nisi">
+      <p><lem>qul tarabbaṣū]</lem> Eine mit <lang xml:lang="ar-Latn">qul</lang> eingeleitete
+        Redeaufforderung begegnet im Koran erstmals in <q type="koran" versstart="079:018"
+          versend="079:019">79:18.19</q> (IIIa), wo sie jedoch innerhalb Gottes an Moses gerichtetem
+        Auftrag steht, Pharao zur Umkehr zu mahnen
+        (<lang xml:lang="ar-Latn">fa-qul hal laka ʾilā ʾan tazakkā / wa-ʾahdiyaka ʾilā rabbika fa-taḫšā</lang>).
+        In Gruppe IIIb werden an den Verkünder gerichtete
+        <lang xml:lang="ar-Latn">qul</lang>-Aufforderungen dann zu einem Mittel, reale
+        außerkoranische Auseinandersetzung zwischen Muḥammad und seinen Gegnern stilisiert
+        abzubilden und weiterzuführen; vgl. neben dem vorliegenden Vers noch <q type="koran"
+          versstart="056:049" versend="056:050">56:49.50</q>
+        (<lang xml:lang="ar-Latn">qul ʾinna l-ʾawwalīna wa-l-ʾāḫirīn / la-maǧmūʿūna ʾilā mīqāti yaumin maʿlūm</lang>).</p>
+    </text>
+    <text versstart="032" versend="032" verfasser="nisi">
+      <p><lem>qaumun ṭāġūn]</lem> Zum Verb <lang xml:lang="ar-Latn">ṭaġā</lang> s. die <q
+          type="anmerkung" versstart="096:006" versend="096:006">Anmerkung zu 96:6</q>.</p>
+    </text>
+    <text versstart="033" versend="033" verfasser="nisi">
+      <p><lem>ʾam yaqūlūna taqawwalahū bal lā yuʾminūn]</lem> Vgl. <q type="koran"
+          versstart="069:044" versend="069:044">69:44</q>
+        (<lang xml:lang="ar-Latn">wa-lau taqawwala ʿalainā baʿḍa l-ʾaqāwīl</lang>). Zu
+        <lang xml:lang="ar-Latn">ʾāmana</lang> = „glauben“ s. die <q type="anmerkung"
+          versstart="069:033" versend="069:033">Anmerkung zu 69:33</q>.</p>
+    </text>
+    <text versstart="034" versend="034" verfasser="nisi">
+      <p><lem>ḥadīṯ]</lem> Zum Gebrauch von <lang xml:lang="ar-Latn">ḥadīṯ</lang> s. die <q
+          type="anmerkung" versstart="077:050" versend="077:050">Anmerkung zu 77:50</q>.</p>
+    </text>
+    <text versstart="035" versend="035" verfasser="nisi">
+      <p><lem>ʾam ḫuliqū min ġairi šaiʾin ʾam humu l-ḫāliqūn]</lem> Da alle anderen Fragen der Serie
+        kontrafaktisch sind und die erwartete Antwort negativ ist, dürfte auch <q type="koran"
+          versstart="052:035" versend="052:035">V. 35</q> auf zwei als gleichermaßen falsch
+        vorgestellte Alternativen zielen: Weder ist es der Fall, dass die Hörer „aus nichts“
+        geschaffen wurden (denn Gott schafft sie <q type="koran" versstart="077:020"
+          versend="077:023">77:20 ff.</q> und anderen Stellen zufolge aus „verächtlichem Wasser“, d.
+        h. aus Sperma), noch ist es richtig, dass sie selbst ihre eigene Erschaffung
+        bewerkstelligen. Zum Verb <lang xml:lang="ar-Latn">ḫalaqa</lang> s. die <q type="anmerkung"
+          versstart="096:001" versend="096:002">Anmerkung zu 96:1.2</q>.</p>
+    </text>
+    <text versstart="036" versend="036" verfasser="nisi">
+      <p><lem>ʾam ḫalaqŭ s-samāwāti wa-l-ʾarḍa bal lā yūqinūn]</lem> Während der zweite Teil von <q
+          type="koran" versstart="052:035" versend="052:035">V. 35</q> speziell auf die Erschaffung
+        der Menschen zielt, geht es hier um die Erschaffung von Himmel und Erde; der Vers ist also
+        nicht synonym mit der zweiten Hälfte des vorangehenden Verses.</p>
+    </text>
+    <text versstart="037" versend="037" verfasser="nisi">
+      <p><lem>ʾam humu l-muṣaiṭirūn]</lem> S. <lang xml:lang="ar-Latn">muṣaiṭir</lang> (auch
+        <lang xml:lang="ar-Latn">musaiṭir</lang> gelesen, vgl. <bibl Zotero_Id_1="KVFTU3XN"
+          Titel_1="Muʿǧam al-qirāʾāt">Muʿǧam, ad loc.</bibl>) s. <q type="koran" versstart="088:022"
+          versend="088:022">88:22</q> (<lang xml:lang="ar-Latn">lasta ʿalaihim bi-muṣaiṭir</lang>)
+        mit <q type="anmerkung" versstart="088:022" versend="088:022">Anmerkung</q>.</p>
+    </text>
+    <text versstart="038" versend="038" verfasser="nisi">
+      <p><lem>fa-l-yaʾti mustamiʿuhum bi-sulṭānin mubīn]</lem> Sulṭān ist von syr.
+        <lang xml:lang="syc-Latn">šulṭānā</lang> = „Macht, Herrschaft“ im Sinne legitimer Autorität
+        (gr. <lang xml:lang="gr-Latn">exousia</lang>) abzuleiten (s. <bibl Zotero_Id_1="Z468GCXQ"
+          Titel_1="The foreign vocabulary of the Qurān">Jeffery, Vocabulary, 176 f.</bibl>). Die
+        Vorstellung einer gottgegebenen „Vollmacht“ wird in Gruppe IIIb im Zusammenhang mit der
+        eskalierenden Debatte um die vom Verkünder beanspruchte prophetische Autorität prominent; s.
+        noch <q type="koran" versstart="055:033" versend="055:033">55:33</q>
+        (<lang xml:lang="ar-Latn">yā-maʿšara l-ǧinni wa-l-ʾinsi ʾini staṭaʿtum ʾan tanfuḏū min ʾaqṭāri s-samāwāti wa-l-ʾarḍi fa-nfuḏū lā tanfuḏūna ʾillā bi-sulṭān</lang>)
+        und <q type="koran" versstart="051:038" versend="051:038">51:38</q>
+        (<lang xml:lang="ar-Latn">wa-fī mūsā ʾiḏ ʾarsalnāhu ʾilā firʿauna bi-sulṭānin mubīn</lang>).
+        In <q type="koran" versstart="069:029" versend="069:029">69:29</q> (ebenfalls IIIb)
+        erscheint der Begriff in der Selbstbezichtigung des Verdammten
+        (<lang xml:lang="ar-Latn">halaka ʿannī sulṭāniya</lang>), meint dort jedoch nur seine
+        irdische Machtvollkommenheit und keine göttliche Bevollmächtigung. Der Ausdruck ist auch in
+        der später in <q type="koran" versstart="053:000" versend="053:062">Q 53</q> eingefügten
+        Götzenpolemik zentral (<q type="koran" versstart="053:023" versend="053:023">V. 23</q>:
+        <lang xml:lang="ar-Latn">ʾin hiya ʾillā ʾasmāʾun sammaitumūhā ʾantum wa-ʾābāʾukum mā ʾanzala llāhu bihā min sulṭānin</lang>).</p>
+    </text>
+    <text versstart="039" versend="039" verfasser="nisi">
+      <p><lem>ʾam lahu l-banātu wa-lakumu l-banūn]</lem> Dasselbe Argument erscheint bereits etwas
+        früher in <q type="koran" versstart="053:021" versend="053:021">53:21</q>
+        (<lang xml:lang="ar-Latn">ʾa-lakumu ḏ-ḏakaru wa-lahu l-ʾunṯā</lang>; Gruppe IIIa). Weitere
+        Stellungnahmen zur Frage der Existenz anderer Gottheiten enthalten in frühmekkanischer Zeit
+        nur noch <q type="koran" versstart="073:009" versend="073:009">73:9</q> und <q type="koran"
+          versstart="051:051" versend="051:051">51:51</q> (s. die Anmerkungen ebd.), die wie der
+        vorliegende Vers zu Gruppe IIIb gehören.</p>
+    </text>
+    <text versstart="040" versend="040" verfasser="nisi">
+      <p><lem>ʾam tasʾaluhum ʾaǧran fa-hum min maġramin muṯqalūn]</lem> Vgl. den ebenfalls zu Gruppe
+        IIIb gehörigen <q type="koran" versstart="068:046" versend="068:046">Vers 68:46</q>
+        (<lang xml:lang="ar-Latn">ʾam tasʾaluhum ʾaǧran fa-hum min maġramin muṯqalūn</lang>). Zu
+        neutestamentlichen Intertexten s. die <q type="anmerkung" versstart="068:046"
+          versend="068:046">Anmerkung ebd.</q>
+      </p>
+    </text>
+    <text versstart="041" versend="041" verfasser="nisi">
+      <p><lem>ʾam ʿindahumu l-ġaibu fa-hum yaktubūn]</lem> Vgl. identisch <q type="koran"
+          versstart="068:047" versend="068:047">68:47</q> sowie <q type="koran" versstart="053:035"
+          versend="053:035">53:35</q>
+        (<lang xml:lang="ar-Latn">ʾa-ʿindahū ʿilmu l-ġaibi fa-huwa yarā</lang>). Das Verzeichnen
+        (<lang xml:lang="ar-Latn">k-t-b</lang>) der menschlichen Taten ist nach <q type="koran"
+          versstart="082:010" versend="082:012">82:10–12</q>
+        (<lang xml:lang="ar-Latn">wa-ʾinna ʿalaikum la-ḥāfiẓīn / kirāman kātibīn / yaʿlamūna mā tafʿalūn</lang>)
+        Aufgabe von Wächterengeln (s. die <q type="anmerkung" versstart="082:010" versend="082:012"
+          >Anm. ebd.</q>), auf deren Tätigkeit der vorliegende Vers anspielen könnte. Der Ausdruck
+        <lang xml:lang="ar-Latn">ġaib</lang> erscheint erstmals in <q type="koran"
+          versstart="081:024" versend="081:024">81:24</q>
+        (<lang xml:lang="ar-Latn">wa-mā huwa ʿală l-ġaibi bi-ḍanīn</lang>; Gruppe II); s. die <q
+          type="anmerkung" versstart="081:024" versend="081:024">Anm. ebd.</q>
+      </p>
+    </text>
+    <text versstart="042" versend="042" verfasser="nisi">
+      <p><lem>ʾam yurīdūna kaidan fa-llaḏīna kafarū humu l-makīdūn]</lem> Vgl. <q type="koran"
+          versstart="086:015" versend="086:016">86:15.16</q>
+        (<lang xml:lang="ar-Latn">ʾinnahum yakīdūna kaida / wa-ʾakīdu kaida</lang>) sowie <q
+          type="koran" versstart="105:002" versend="105:002">105:2</q>
+        (<lang xml:lang="ar-Latn">ʾa-lam yaǧʿal kaidahum fī taḍlīl</lang>). Zu
+        <lang xml:lang="ar-Latn">kafara</lang> s. die <q type="anmerkung" versstart="084:022"
+          versend="084:022">Anmerkung zu 84:22</q>.</p>
+    </text>
+    <text versstart="043" versend="043" verfasser="nisi">
+      <p><lem>ʾam lahum ʾilāhun ġairu llāhi subḥāna llāhi ʿammā yušrikūn]</lem> S. <q type="koran"
+          versstart="068:041" versend="068:041">68:41</q>
+        (<lang xml:lang="ar-Latn">ʾam lahum šurakāʾu fa-l-yaʾtū bi-šurakāʾihim ʾin kānū ṣādiqīn</lang>)
+        mit <q type="anmerkung" versstart="068:041" versend="068:041">Anmerkung</q> (zu
+        <lang xml:lang="ar-Latn">š-r-k</lang>).</p>
+    </text>
+    <text versstart="045" versend="045" verfasser="nisi">
+      <p><lem>fa-ḏarhum ḥattā yulāqū yaumahumu llaḏī fīhī yuṣʿaqūn]</lem> Vgl. <q type="koran"
+          versstart="070:042" versend="070:042">70:42</q>
+        (<lang xml:lang="ar-Latn">fa-ḏarhum yaḫūḍū wa-yalʿabū ḥattā yulāqū yaumahumu llaḏī yūʿadūn</lang>).</p>
+    </text>
+    <text versstart="047" versend="047" verfasser="nisi">
+      <p><lem>wa-ʾinna li-llaḏīna ẓalamū ʿaḏāban dūna ḏālika wa-lākinna ʾakṯarahum lā yaʿlamūn]</lem>
+        Gemeint ist wohl, dass die „Frevlern“ zusätzlich zu der in <q type="koran"
+          versstart="052:045" versend="052:046">V. 45.46</q> genannten jenseitigen Vergeltung auch
+        noch einer diesseitigen Strafe unterliegen (vgl. <bibl Zotero_Id_1="X6J8ZZSZ"
+          Titel_1="Frühmekkanische Suren poetische Prophetie">Neuwirth, Frühmekkanische Suren,
+          703</bibl>). Vgl. <q type="koran" versstart="068:033" versend="068:033">68:33</q>, wo als
+        Abschluss des Gleichnisses von den „Leuten des Gartens“ ebenfalls diesseitige und jenseitige
+        Bestrafung unterschieden werden
+        (<lang xml:lang="ar-Latn">ka-ḏālika l-ʿaḏābu wa-la-ʿaḏābu l-ʾāḫirati ʾakbaru lau kānū yaʿlamūn</lang>).</p>
+    </text>
+    <text versstart="048" versend="048" verfasser="nisi">
+      <p><lem>wa-ṣbir li-ḥukmi rabbika]</lem> Vgl. ganz ähnlich <q type="koran" versstart="068:048"
+          versend="068:048">68:48</q> (<lang xml:lang="ar-Latn">fa-ṣbir li-ḥukmi rabbika</lang>) und
+          <q type="koran" versstart="074:007" versend="074:007">74:7</q>
+        (<lang xml:lang="ar-Latn">wa-li-rabbika fa-ṣbir</lang>).</p>
+      <p><lem>fa-ʾinnaka bi-ʾaʿyuninā]</lem> Wörtl.: „Denn du befindest dich unter unseren
+        Augen.“</p>
+      <p><lem>wa-sabbiḥ bi-ḥamdi rabbika ḥīna taqūm]</lem> Zu
+        <lang xml:lang="ar-Latn">sabbaḥa</lang> s. die <q type="anmerkung" versstart="087:001"
+          versend="087:001">Anmerkung zu 87:1</q>. Die Wendung
+        <lang xml:lang="ar-Latn">ḥīna taqūm</lang> könnte alternativ mit „wenn du dich (vom Schlaf)
+        erhebst“ übersetzt werden. Die obige Übersetzung folgt Paret (s. <bibl
+          Zotero_Id_1="X9T7RF7R" Titel_1="Der Koran Kommentar und Konkordanz">Kommentar, ad
+          loc.</bibl>), der darauf hinweist, dass auf das morgendliche Gebet bereits am Schluss von
+          <q type="koran" versstart="052:049" versend="052:049">V. 49</q>
+        (<lang xml:lang="ar-Latn">wa-mina l-laili fa-sabbiḥhu wa-ʾidbāra n-nuǧūm</lang>) angespielt
+        wird und ein weiterer Hinweis folglich redundant wäre. Überdies gibt er zu bedenken, dass
+        <lang xml:lang="ar-Latn">qāma</lang> im Koran sonst nie die Bedeutung „sich vom Schlaf
+        erheben“ hat (vgl. frühmekkanisch noch <q type="koran" versstart="073:002" versend="073:002"
+          >73:2</q> und <q type="koran" versstart="074:002" versend="074:002">74:2</q>).</p>
+    </text>
+    <text versstart="049" versend="049" verfasser="nisi">
+      <p><lem>wa-mina l-laili fa-sabbiḥhu wa-ʾidbāra n-nuǧūm]</lem> Zu
+        <lang xml:lang="ar-Latn">sabbaḥa</lang> s. die <q type="anmerkung" versstart="087:001"
+          versend="087:001">Anmerkung zu 87:1</q>.</p>
+    </text>
+  </anmerkungen>
+  <kommentar>
+    <text versstart="001" versend="008" verfasser="nisi">
+      <p>Als Sureneinleitung steht eine akkumulative Schwurserie, die wie die frühere <q
+          type="koran" versstart="095:000" versend="095:008">Sure 95</q> den Berg Sinai (<q
+          type="koran" versstart="052:001" versend="052:001">V. 1</q>) und das mekkanische
+        Kaʿba-Heiligtum (<q type="koran" versstart="052:004" versend="052:004">V. 4</q>: „das Haus,
+        zu dem man pilgert“) kombiniert. Dass der Berg Sinai hier wie sicher auch schon in <q
+          type="koran" versstart="095:000" versend="095:008">Q 95</q> in seiner Eigenschaft als
+        Offenbarungsschauplatz intendiert ist, geht aus der Anspielung auf heilige Schriften hervor,
+        die sich unmittelbar an den Eröffnungsvers anschließt: „bei einer Schrift, die
+        niedergeschrieben ist / auf ausgebreitetem Pergament“ (<q type="koran" versstart="052:002"
+          versend="052:003">V. 2.3</q>) – ein Verweis entweder auf das Korpus der biblischen
+        Schriften, in deren Nachfolge die Korantexte sich anderswo ja explizit stellen (vgl. <q
+          type="koran" versstart="087:018" versend="087:019">87:18.19</q>), oder aber auf die in <q
+          type="koran" versstart="085:021" versend="085:022">85:21.22</q>, <q type="koran"
+          versstart="080:013" versend="080:014">80:13.14</q> und <q type="koran" versstart="056:077"
+          versend="056:078">56:77.78</q> erwähnte himmlische Urschrift, die als solche nicht nur den
+        koranischen Verkündigungen, sondern auch den an Moses ergangenen Offenbarungen zugrunde
+        liegt. Es folgen zwei weitere Schwüre, die synekdochisch auf die Schöpfung (repräsentiert
+        durch das „emporgehobene Dach“ des Himmels, <q type="koran" versstart="052:005"
+          versend="052:005">V. 5</q>) und das Weltende (repräsentiert durch das aus <q type="koran"
+          versstart="081:006" versend="081:006">81:6</q> bekannte Überfluten der Meere, <q
+          type="koran" versstart="052:006" versend="052:006">V. 6</q>) anspielen. Die Schwurserie
+        umspannt damit die drei zentralen Felder göttlichen Wirkens, nämlich Schöpfung, Offenbarung
+        und Gericht, wobei wohl die bereits in der Gegenwart sichtbaren Taten Gottes in den
+        Bereichen Schöpfung und Offenbarung auf die Realität auch des dritten Wirkungsbereiches
+        verweisen sollen: Die Schwuraussage, die unmittelbar auf die eschatologische Anspielung in
+          <q type="koran" versstart="052:006" versend="052:006">V. 6</q> folgt, bekräftigt denn auch
+        das unweigerliche Eintreten des Jüngsten Gerichts.</p>
+    </text>
+    <text versstart="009" versend="028" verfasser="nisi">
+      <p>Die damit angeschnittene Gerichtsthematik wird im zweiten Teil ausführlicher entfaltet:
+        Während das zweite und dritte Gesätz Momentaufnahmen des Weltendes präsentieren (<q
+          type="koran" versstart="052:009" versend="052:016">V. 9–16</q>), zeichnet das umfangreiche
+        vierte Gesätz (<q type="koran" versstart="052:017" versend="052:028">V. 17–28</q>) ein Bild
+        der jenseitigen Belohnung, die den Seligen im Paradies zuteil wird. Das dritte Gesätz,
+        obzwar formal ein eschatologischer Temporalsatz, handelt nicht wie andere Szenerien von den
+        Geschehnissen im Vorfeld des Jüngsten Gerichts, sondern von der Bestrafung der bereits in <q
+          type="koran" versstart="052:011" versend="052:011">V. 11</q> eingeführten „Leugner“, die
+        in <q type="koran" versstart="052:014" versend="052:016">V. 14–16</q> polemisch angeredet
+        werden. Zusammen mit der folgenden Paradiesbeschreibung, die eine mit <q type="koran"
+          versstart="052:014" versend="052:016">V. 14–16</q> korrespondierende Anrede der Seligen
+        enthält (<q type="koran" versstart="052:019" versend="052:019">V. 19</q>), ergibt sich so
+        der für koranische Jenseitsszenarien charakteristische antithetische Effekt. Die meisten
+        Einzelelemente des zweiten Teils sind bereits aus früheren Korantexten vertraut. Insgesamt
+        weist der zweite Teil einen hohen Anteil an wörtlicher Rede auf: Neben den bereits erwähnten
+        Anreden der Seligen und der Verdammten schließt er mit wörtlicher Rede der Seligen selbst,
+        wobei u. a. eine zuvor in der dritten Person getroffene Aussage (<q type="koran"
+          versstart="052:018" versend="052:018">V. 18</q>: „Ihr Herr hat sie vor der Strafe des
+        Höllenbrands bewahrt“) aufgenommen wird (<q type="koran" versstart="052:027"
+          versend="052:027">V. 27</q>: „Er hat uns vor der Strafe des Glutwindes bewahrt“). Die
+        Paradiesschilderung ist später – wohl in spätmekkanischer oder medinensischer Zeit – um
+        einen Zusatz erweitert worden, der die anscheinend jetzt unter Gemeindemitgliedern
+        aufgekommene Frage nach dem Jenseitsschicksal ihrer Nachkommen anspricht, dabei allerdings
+        am Grundsatz individueller Rechenschaftspflichtigkeit festhält: Um der jenseitigen Seligkeit
+        teilhaftig zu werden, müssen sich die Nachkommen der Gläubigen aus eigener Kraft bewähren
+        und ihren Vorfahren „im Glauben folgen“. Die Tatsache, dass der Einschub mit der Variation
+        eines früheren Diktums aus <q type="koran" versstart="074:038" versend="074:038">74:38</q>
+        schließt, ist signifikant: Etwaige Kompromisserwartungen der Hörer werden so durch den
+        Rekurs auf einen bereits bekannten und als kanonisch anerkannten Korantext
+        zurückgewiesen.</p>
+    </text>
+    <text versstart="029" versend="049" verfasser="nisi">
+      <p>Der polemische Schlussteil der Sure schwenkt aus der eschatologischen Zukunft zurück in die
+        gegenwärtige Auseinandersetzung des Verkünders mit seinen Gegnern. Das außerordentlich lange
+        fünfte Gesätz besteht nach einem einleitenden Aufruf mit Zuspruch aus einer ausgedehnten
+        Frageserie. Die Anfangsfrage reagiert auf die auch anderswo behandelten Vorwürfe, Muḥammad
+        sei kein von Gott ermächtigter Warner, sondern lediglich ein Wahrsager, Besessener oder
+        Dichter; die anschließende Selbstaufforderung der Gegner – „Wir wollen abwarten, welches
+        unsichere Schicksal ihn ereilt“ – unterstellt konsequenterweise auch Muḥammads Ergehen dem
+        in der altarabischen Dichtung immer wieder heraufbeschworenen blinden Walten des Schicksals.
+        Es folgt eine göttliche Anweisung zur Gegenrede: „Sprich: ‚Wartet nur ab! Ich warte mit
+        euch.’“ (<q type="koran" versstart="052:031" versend="052:031">V. 31</q>). Dieses in
+        frühmekkanischer Zeit noch neue, in späteren Suren jedoch außerordentlich tragende
+        Formelement der <lang xml:lang="ar-Latn">qul</lang>-Aufforderung erlaubt es, in einen
+        insgesamt als Gottesrede stilisierten Text polemische Entgegnungen des Verkünders selbst zu
+        integrieren (vgl. <bibl Zotero_Id_1="X6J8ZZSZ"
+          Titel_1="Frühmekkanische Suren poetische Prophetie">Neuwirth, Frühmekkanische Suren,
+          700</bibl>) und so einen polemischen Redewechsel zu führen, der auch in der
+        außerkoranischen Realität denkbar ist: Reale Debatten, die nicht immer zu Gunsten des
+        koranischen Verkünders ausgegangen sein mögen, werden so durch literarisch stilisierte
+        Wortwechsel kompensiert, die den Gemeindemitgliedern durchaus als argumentative
+        Handreichungen für Auseinandersetzungen im Alltag gedient haben könnten. Im weiteren
+        Fortgang der Frageserie werden dann zahlreiche Themen angesprochen, die sich im Verlaufe der
+        frühmekkanischen Koranverkündigung zu Kontroverspunkten entwickelt haben: etwa die Herkunft
+        der Korantexte (<q type="koran" versstart="052:033" versend="052:034">V. 33.34</q>), die
+        sich in der Schöpfung erweisende, von den Gegnern jedoch nicht konsequent ernst genommene
+        Allmacht Gottes (<q type="koran" versstart="052:035" versend="052:036">V. 35–36</q>) oder
+        der gegen Ende der frühmekkanischen Zeit immer zentraler werdende Eingottglaube (<q
+          type="koran" versstart="052:039" versend="052:039">V. 39</q> und <q type="koran"
+          versstart="052:043" versend="052:043">43</q>). Darüber hinaus wird unterstrichen, dass die
+        Unterstellungen der Gegner basislos, ja geradezu Auswüchse von Traumgespinsten sind (<q
+          type="koran" versstart="052:032" versend="052:032">V. 32</q>) und jeder übernatürlichen
+        Bevollmächtigung (<lang xml:lang="ar-Latn">sulṭān</lang>, <q type="koran"
+          versstart="052:038" versend="052:038">V. 38</q>) entbehren – ein impliziter Kontrast zu
+        der am Surenanfang evozierten Autorität göttlich inspirierter Offenbarungsschriften. <q
+          type="koran" versstart="052:034" versend="052:034">V. 34</q> („Sie sollen mit einer Kunde
+        gleicher Art kommen …!“) impliziert, dass die besondere Autorisierung des koranischen
+        Verkünders sich auch in immanenten Merkmalen seiner Verlautbarungen manifestiert und verrät
+        bereits eine Überzeugung von der Einzigartigkeit der koranischen Botschaft; ob dabei jedoch
+        eher an inhaltliche oder – gemäß der späteren islamischen Lehre von der literarischen
+        Unerreichbarkeit (<lang xml:lang="ar-Latn">ʾiʿǧāz</lang>) des Korans – an
+        literarisch-sprachliche Gesichtspunkte zu denken ist, bleibt allerdings offen.</p>
+      <p>Das sechste Gesetz beendet die direkte polemische Auseinandersetzung, indem es in Gestalt
+        eines kontrafaktischen Gedankenspiels noch einmal drastisch die Verblendung und
+        Unbelehrbarkeit der Gegner veranschaulicht: Selbst wenn sie ein Stück des Himmels
+        herabfallen sähen, so würden sie darin doch nur einen Wolkenhaufen erblicken (<q
+          type="koran" versstart="052:044" versend="052:044">V. 44</q>). Folgerichtig kann der
+        Verkünder deshalb aufgefordert werden, seine unbelehrbaren Widersacher ihrem Schicksal zu
+        überlassen. Es folgen eschatologische Referenzen, wobei u. a. die Aussichtslosigkeit
+        etwaiger von den „Ungläubigen“ ausgeheckter „Listen“ konstatiert wird (<q type="koran"
+          versstart="052:046" versend="052:046">V. 46</q>), wie sie bereits in der vorangehenden
+        Frageserie Erwähnung fanden (<q type="koran" versstart="052:042" versend="052:042">V.
+        42</q>). Nach einer kurzen Anspielung auf die Möglichkeit einer Bestrafung der „Frevler“
+        bereits im Diesseits (<q type="koran" versstart="052:048" versend="052:048">V. 48</q>)
+        schließt die Sure mit erneuten Aufrufen an den Verkünder: Angesichts des ihm
+        entgegengesetzten Widerstandes wird er zur Standhaftigkeit aufgefordert und – in impliziter
+        Widerlegung seiner in <q type="koran" versstart="052:030" versend="052:030">V. 30</q>
+        insinuierten Gefährdung durch das blinde Walten des Schicksals – Gottes besonderer Obhut
+        versichert (<q type="koran" versstart="052:048" versend="052:048">V. 48</q>). Eine
+        liturgische Schlussnote hält ihn und mittelbar wohl auch seine Anhänger zum Gotteslob „des
+        Nachts und beim Untergehen der Sterne“ an (<q type="koran" versstart="052:048"
+          versend="052:049">V. 48.49</q>): Die sich sicherlich bei Tage abspielende Konfrontation
+        des Verkünders mit Widersachern klingt ab in nächtlichen Gebetsübungen.</p>
+    </text>
+  </kommentar>
+</korankommentar>

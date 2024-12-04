@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<korankommentar xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="Kommentar.xsd">
+  <sure id="012" webtauglich="true"/>
+  <surentitel>
+    <text versstart="000" versend="111" verfasser="dh">
+      <p>Sure 12 — <lang xml:lang="ar-Latn">Yūsuf</lang> — »Joseph«</p>
+    </text>
+  </surentitel>
+  <autorenkurz>
+    <text versstart="000" versend="111" verfasser="dh">
+      <p>Übersetzt und analysiert von Dirk Hartwig</p>
+    </text>
+  </autorenkurz>
+  <datierungkurz>
+    <text versstart="000" versend="111" verfasser="dh">
+      <p>Mekka III</p>
+    </text>
+  </datierungkurz>
+  <literarkritikkurz>
+    <text versstart="000" versend="111" verfasser="dh">
+      <p/>
+    </text>
+  </literarkritikkurz>
+  <literarkritik>
+    <text versstart="000" versend="111" verfasser="dh">
+      <p>Wird im Moment bearbeitet.</p>
+    </text>
+  </literarkritik>
+  <textkritik>
+    <text versstart="000" versend="111" verfasser="dh">
+      <p>Wird im Moment bearbeitet.</p>
+    </text>
+  </textkritik>
+  <komposition>
+    <text versstart="000" versend="111" verfasser="dh">
+      <p>
+        <table rows="49" cols="3">
+          <head/>
+          <row>
+            <cell/>
+            <cell><hi rend="bold">3</hi>[</cell>
+            <cell><hi rend="bold">3</hi></cell>
+            <cell><hi rend="superscript"><q type="koran" versstart="012:001" versend="012:003"
+                  >1–3</q></hi></cell>
+            <cell><hi rend="bold">I Einleitung: <lang xml:lang="ar-Latn">kitāb</lang>-Ankündigung,
+                <lang xml:lang="ar-Latn">qurʾān</lang>-Bestätigung, Ankündigung der
+              Erzählung</hi></cell>
+          </row>
+          <row>
+            <cell/>
+            <cell/>
+            <cell/>
+            <cell/>
+            <cell><hi rend="bold">II <lang xml:lang="ar-Latn">Yūsuf</lang>-Erzählung</hi></cell>
+          </row>
+          <row>
+            <cell/>
+            <cell>/</cell>
+            <cell><hi rend="bold">3</hi></cell>
+            <cell><hi rend="superscript"><q type="koran" versstart="012:004" versend="012:006"
+                  >4–6</q></hi></cell>
+            <cell>Traumbericht <lang xml:lang="ar-Latn">Yūsuf</lang>s und Bestätigung der
+              Erwähltheit <lang xml:lang="ar-Latn">Yūsuf</lang>s durch Vater</cell>
+          </row>
+          <row>
+            <cell/>
+            <cell>|</cell>
+            <cell><hi rend="bold">12</hi></cell>
+            <cell><hi rend="superscript"><q type="koran" versstart="012:007" versend="012:018"
+                  >7–18</q></hi></cell>
+            <cell>Anschlag der Brüder</cell>
+          </row>
+          <row>
+            <cell/>
+            <cell><hi rend="bold">54</hi></cell>
+            <cell><hi rend="bold">4</hi></cell>
+            <cell><hi rend="superscript"><q type="koran" versstart="012:019" versend="012:022"
+                  >19–22</q></hi></cell>
+            <cell>Verkauf nach Ägypten</cell>
+          </row>
+          <row>
+            <cell/>
+            <cell>|</cell>
+            <cell><hi rend="bold">12</hi></cell>
+            <cell><hi rend="superscript"><q type="koran" versstart="012:023" versend="012:034"
+                  >23–34</q></hi></cell>
+            <cell>Episode mit Frau des Hausherrn</cell>
+          </row>
+          <row>
+            <cell/>
+            <cell>|</cell>
+            <cell><hi rend="bold">8</hi></cell>
+            <cell><hi rend="superscript"><q type="koran" versstart="012:035" versend="012:042"
+                  >35–42</q></hi></cell>
+            <cell>Aufenthalt im Gefängnis und Traumdeutung für zwei Gefängnisgenossen</cell>
+          </row>
+          <row>
+            <cell/>
+            <cell>\</cell>
+            <cell><hi rend="bold">15</hi></cell>
+            <cell><hi rend="superscript"><q type="koran" versstart="012:043" versend="012:057"
+                  >43–57</q></hi></cell>
+            <cell>Traumdeutung für König, Einsetzung zum Schatzmeister</cell>
+          </row>
+          <row>
+            <cell/>
+            <cell>/</cell>
+            <cell><hi rend="bold">5</hi></cell>
+            <cell><hi rend="superscript"><q type="koran" versstart="012:058" versend="012:062"
+                  >58–62</q></hi></cell>
+            <cell>1. Ankunft der Brüder</cell>
+          </row>
+          <row>
+            <cell/>
+            <cell>|</cell>
+            <cell><hi rend="bold">7</hi></cell>
+            <cell><hi rend="superscript"><q type="koran" versstart="012:063" versend="012:069"
+                  >63–69</q></hi></cell>
+            <cell>Rückreise und 2. Ankunft der Brüder</cell>
+          </row>
+          <row>
+            <cell/>
+            <cell><hi rend="bold">45</hi></cell>
+            <cell><hi rend="bold">18</hi></cell>
+            <cell><hi rend="superscript"><q type="koran" versstart="012:070" versend="012:087"
+                  >70–87</q></hi></cell>
+            <cell>Zurückbehaltung eines Bruders, Reaktion des Vaters</cell>
+          </row>
+          <row>
+            <cell/>
+            <cell>|</cell>
+            <cell><hi rend="bold">14</hi></cell>
+            <cell><hi rend="superscript"><q type="koran" versstart="012:080" versend="012:101"
+                  >88–101</q></hi></cell>
+            <cell>3. Ankunft der Brüder, Mitgabe des Gewandes,
+              <lang xml:lang="ar-Latn">Yaʿqūb</lang>s Erkennen der Wahrheit, Ankunft der Eltern bei
+              <lang xml:lang="ar-Latn">Yūsuf</lang></cell>
+          </row>
+          <row>
+            <cell/>
+            <cell>\</cell>
+            <cell><hi rend="bold">1</hi></cell>
+            <cell><hi rend="superscript"><q type="koran" versstart="012:102" versend="012:102"
+                  >102</q></hi></cell>
+            <cell>Bestätigung der Erzählung</cell>
+          </row>
+          <row>
+            <cell/>
+            <cell/>
+            <cell/>
+            <cell/>
+            <cell><hi rend="bold">III Zuspruch, Polemik, Offenbarungsbestätigung</hi></cell>
+          </row>
+          <row>
+            <cell/>
+            <cell>/</cell>
+            <cell><hi rend="bold">5</hi></cell>
+            <cell><hi rend="superscript"><q type="koran" versstart="012:103" versend="012:107"
+                  >103–107</q></hi></cell>
+            <cell>Zuspruch, Polemik gegen Unglauben</cell>
+          </row>
+          <row>
+            <cell/>
+            <cell><hi rend="bold">9</hi></cell>
+            <cell><hi rend="bold">3</hi></cell>
+            <cell><hi rend="superscript"><q type="koran" versstart="012:108" versend="012:110"
+                  >108–110</q></hi></cell>
+            <cell>Aufforderung zur Mahnung, Berufung auf gleichfalls menschliche frühere Boten,
+              deren Rettung und Bestrafung ihrer Völker</cell>
+          </row>
+          <row>
+            <cell/>
+            <cell>\</cell>
+            <cell><hi rend="bold">1</hi></cell>
+            <cell><hi rend="superscript"><q type="koran" versstart="012:111" versend="012:111"
+                  >111</q></hi></cell>
+            <cell>Erzählung als Mahnung und Bestätigung früherer Offenbarungen.</cell>
+          </row>
+        </table>
+      </p>
+      <p>Ob <q type="koran" versstart="012:102" versend="012:102">V. 102</q> die Erzählung
+        abschließen soll, oder bereits als Offenbarungsbestätigung den Schlußteil eröffnen soll, ist
+        nicht einfach zu entscheiden. (Der Vers weist mit seiner Deixis
+        <lang xml:lang="ar-Latn">ḏālika</lang>, 102a, seinem Subjekt
+        <lang xml:lang="ar-Latn">hum</lang>, 102b,c, und seinen ePP bzw. sPP
+        <lang xml:lang="ar-Latn">hum/him</lang>, 102b/c, auf die Erzählung zurück, hängt aber mit
+        seinem Subjekt <lang xml:lang="ar-Latn">anta</lang>, 102b, seinem ePP
+        <lang xml:lang="ar-Latn">-ka</lang>, 102a, und thematisch mit seinem Ubergang zur
+        Verteidigung des Propheten gegen die Unterstellungen der Ungläubigen schon mit der folgenden
+        Polemik zusammen.) Letztere Möglichkeit hat Verf. in ihrer Untersuchung der <bibl
+          Zotero_Id_1="8ZVRNBPE">»Komposition der Yūsuf-Sure« 1980a</bibl> vorausgesetzt. Doch fällt
+        es schwer, die sich bei ersterer Hypothese ergebenden großen Proportionen zwischen den
+        Hauptteilen — vor dem Hintergrund der übrigen, regelmäßig proportionierten Suren betrachtet
+        — als Zufall zu erklären.</p>
+      <p><hi rend="bold">Strukturformel/Proportionen</hi></p>
+      <p>
+        <table cols="3" rows="2">
+          <head/>
+          <row>
+            <cell>Teil I: 3 Verse</cell>
+            <cell>Teil II: 99 Verse</cell>
+            <cell>Teil III: 9 Verse</cell>
+          </row>
+          <row>
+            <cell>3(3)</cell>
+            <cell>54(3+12+4+12+8+15) + 45(5+7+18+14+1)</cell>
+            <cell>9(5+3+1)</cell>
+          </row>
+        </table>
+      </p>
+    </text>
+  </komposition>
+  <kommentar>
+    <text versstart="000" versend="111" verfasser="dh">
+      <p>Wird im Moment bearbeitet.</p>
+    </text>
+  </kommentar>
+  <analysedeutungkurz>
+    <text versstart="000" versend="111" verfasser="dh">
+      <p/>
+    </text>
+  </analysedeutungkurz>
+  <analysedeutung>
+    <EntwicklungsgeschichtlicheEinordnungkurz>
+      <text versstart="000" versend="111" verfasser="dh">
+        <p/>
+      </text>
+    </EntwicklungsgeschichtlicheEinordnungkurz>
+    <EntwicklungsgeschichtlicheEinordnung>
+      <text versstart="000" versend="111" verfasser="dh">
+        <p>Wird im Moment bearbeitet.</p>
+      </text>
+    </EntwicklungsgeschichtlicheEinordnung>
+    <Inhaltstrukturkurz>
+      <text versstart="000" versend="111" verfasser="dh">
+        <p/>
+      </text>
+    </Inhaltstrukturkurz>
+    <Inhaltstruktur>
+      <text versstart="000" versend="111" verfasser="dh">
+        <p>Wird im Moment bearbeitet.</p>
+      </text>
+    </Inhaltstruktur>
+    <situativitätkurz>
+      <text versstart="000" versend="111" verfasser="dh">
+        <p/>
+      </text>
+    </situativitätkurz>
+    <Situativität>
+      <text versstart="000" versend="111" verfasser="dh">
+        <p>Wird im Moment bearbeitet.</p>
+      </text>
+    </Situativität>
+  </analysedeutung>
+</korankommentar>

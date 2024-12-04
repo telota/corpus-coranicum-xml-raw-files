@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Quran xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="Textstruktur.xsd">
+    <Sure id="067" translator="Angelika Neuwirth" webtauglich="true">
+        <Hauptteil id="0">
+            <Abschnitt id="0">
+                <Gesaetz n="0">
+                    <Vers n="000">
+                        <Teilvers n="000" reim="2n/m">
+                            <Kolon lang="ar" Einschub="false" n="0">بِسۡمِ ٱللَّهِ ٱلرَّحۡمَٰنِ ٱلرَّحِيمِ</Kolon>
+                            <Kolon lang="de" Einschub="false" n="0">Im Namen Gottes, des barmherzigen Erbarmers!</Kolon>
+                        </Teilvers>
+                    </Vers>
+                </Gesaetz>
+            </Abschnitt>
+        </Hauptteil>
+        <Hauptteil id="1">
+            <Abschnitt id="1">
+                <Gesaetz n="1">
+                    <Vers n="001">
+                        <Teilvers n="001" reim="3K2r">
+                            <Kolon Einschub="false" lang="ar" n="1">تَبَٰرَكَ ٱلَّذِی بِيَدِهِ ٱلۡمُلۡكُ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="1">Preis sei dem, in dessen Hand die Königsherrschaft ist —</Kolon>
+                            <Kolon Einschub="false" lang="ar" n="2">وَهُوَ عَلَىٰ كُلِّ شَىۡءٍۢ قَدِيرٌ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="2">er ist aller Dinge mächtig,</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="002">
+                        <Teilvers n="002" reim="3K2r">
+                            <Kolon Einschub="false" lang="ar" n="3">ٱلَّذِی خَلَقَ ٱلۡمَوۡتَ وَٱلۡحَيَوٰةَ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="3">der den Tod schuf und das Leben,</Kolon>
+                            <Kolon Einschub="false" lang="ar" n="4">لِيَبۡلُوَكُمۡ أَيُّكُمۡ أَحۡسَنُ عَمَلًۭاۚ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="4">um euch zu prüfen, wer von euch am besten handelt —</Kolon>
+                            <Kolon Einschub="false" lang="ar" n="5">وَهُوَ ٱلۡعَزِيزُ ٱلۡغَفُورُ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="5">er ist der Mächtige, der Vergebende,</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="003">
+                        <Teilvers n="003" reim="3K2r">
+                            <Kolon Einschub="false" lang="ar" n="6">ٱلَّذِی خَلَقَ سَبۡعَ سَمَٰوَٰتٍۢ طِبَاقًۭاۖ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="6">der sieben Himmel schuf in Schichten.</Kolon>
+                            <Kolon Einschub="false" lang="ar" n="7">مَّا تَرَىٰ فِی خَلۡقِ ٱلرَّحۡمَٰنِ مِن تَفَٰوُتٍۢۖ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="7">Du siehst in der Schöpfung des Erbarmers keine Unebenheit.</Kolon>
+                            <Kolon Einschub="false" lang="ar" n="8">فَٱرۡجِعِ ٱلۡبَصَرَ هَلۡ تَرَىٰ مِن فُطُورٍۢ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="8">Schau noch einmal hin — siehst du irgend etwas Krummes?‎</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="004">
+                        <Teilvers n="004" reim="3K2r">
+                            <Kolon Einschub="false" lang="ar" n="9">ثُمَّ ٱرۡجِعِ ٱلۡبَصَرَ كَرَّتَيۡنِ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="9">Dann wende den Blick noch zwei weitere Male —</Kolon>
+                            <Kolon Einschub="false" lang="ar" n="10">يَنقَلِبۡ إِلَيۡكَ ٱلۡبَصَرُ خَاسِئًۭا وَهُوَ حَسِيرٌۭ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="10">er wird zu dir zurückkehren, niedergeschlagen, müde!‎</Kolon>
+                        </Teilvers>
+                    </Vers>
+                </Gesaetz>
+            </Abschnitt>
+        </Hauptteil>
+        <Hauptteil id="2">
+            <Abschnitt id="1">
+                <Gesaetz n="2">
+                    <Vers n="005">
+                        <Teilvers n="005" reim="3K2r">
+                            <Kolon Einschub="false" lang="ar" n="11">وَلَقَدۡ زَيَّنَّا ٱلسَّمَآءَ ٱلدُّنۡيَا بِمَصَٰبِيحَ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="11">Wir haben den untersten Himmel mit Leuchten geschmückt</Kolon>
+                            <Kolon Einschub="false" lang="ar" n="12">وَجَعَلۡنَٰهَا رُجُومًۭا لِّلشَّيَٰطِينِۖ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="12">und sie zu Wurfgeschossen gemacht — gegen die Satane;</Kolon>
+                            <Kolon Einschub="false" lang="ar" n="13">وَأَعۡتَدۡنَا لَهُمۡ عَذَابَ ٱلسَّعِيرِ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="13">für sie halten wir die Strafe des Flammenmeers bereit.‎</Kolon>
+                        </Teilvers>
+                    </Vers>
+                </Gesaetz>
+                <Gesaetz n="3">
+                    <Vers n="006">
+                        <Teilvers n="006" reim="3K2r">
+                            <Kolon Einschub="false" lang="ar" n="14">وَلِلَّذِينَ كَفَرُوا۟ بِرَبِّهِمۡ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="14">Denen, die gegenüber ihrem Herrn ungläubig sind,</Kolon>
+                            <Kolon Einschub="false" lang="ar" n="15">عَذَابُ جَهَنَّمَۖ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="15">ist die Strafe Gehennas zugedacht.</Kolon>
+                            <Kolon Einschub="false" lang="ar" n="16">وَبِئۡسَ ٱلۡمَصِيرُ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="16">Welch übles Ziel!</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="007">
+                        <Teilvers n="007" reim="3K2r">
+                            <Kolon Einschub="false" lang="ar" n="17">إِذَآ أُلۡقُوا۟ فِيهَا سَمِعُوا۟ لَهَا شَهِيقًۭا</Kolon>
+                            <Kolon Einschub="false" lang="de" n="17">Wenn man sie dort hineinwirft, hören sie ein Brüllen,</Kolon>
+                            <Kolon Einschub="false" lang="ar" n="18">وَهِیَ تَفُورُ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="18">denn sie brodelt</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="008">
+                        <Teilvers n="008" reim="3K2r">
+                            <Kolon Einschub="false" lang="ar" n="19">تَكَادُ تَمَيَّزُ مِنَ ٱلۡغَيۡظِۖ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="19">und zerplatzt nahezu vor Glut.</Kolon>
+                            <Kolon Einschub="false" lang="ar" n="20">كُلَّمَآ أُلۡقِیَ فِيهَا فَوۡجٌۭ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="20">Jedesmal, wenn ein Trupp in sie hineingeworfen wird,</Kolon>
+                            <Kolon Einschub="false" lang="ar" n="21">سَأَلَهُمۡ خَزَنَتُهَآ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="21">befragen ihn die Höllenwärter:</Kolon>
+                            <Kolon Einschub="false" lang="ar" n="22">أَلَمۡ يَأۡتِكُمۡ نَذِيرٌۭ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="22">»Kam denn zu euch kein Warner?«</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="009">
+                        <Teilvers n="009" reim="3K2r">
+                            <Kolon Einschub="false" lang="ar" n="23">قَالُوا۟ بَلَىٰ قَدۡ جَآءَنَا نَذِيرٌۭ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="23">Dann antworten sie: »Doch! Zu uns kam ein Warner,</Kolon>
+                            <Kolon Einschub="false" lang="ar" n="24">فَكَذَّبۡنَا</Kolon>
+                            <Kolon Einschub="false" lang="de" n="24">doch wir nannten ihn einen Lügner</Kolon>
+                            <Kolon Einschub="false" lang="ar" n="25">وَقُلۡنَا مَا نَزَّلَ ٱللَّهُ مِن شَىۡءٍ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="25">und sagten: ›Nichts hat uns Gott herabgesandt.</Kolon>
+                            <Kolon Einschub="false" lang="ar" n="26">إِنۡ أَنتُمۡ إِلَّا فِی ضَلَٰلٍۢ كَبِيرٍۢ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="26">Ihr seid doch gewaltig im Irrtum!‹«</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="010">
+                        <Teilvers n="010" reim="3K2r">
+                            <Kolon Einschub="false" lang="ar" n="27">وَقَالُوا۟ لَوۡ كُنَّا نَسۡمَعُ أَوۡ نَعۡقِلُ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="27">Sie sprechen: »Hätten wir doch gehört oder bedacht,</Kolon>
+                            <Kolon Einschub="false" lang="ar" n="28">مَا كُنَّا فِیٓ أَصۡحَٰبِ ٱلسَّعِيرِ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="28">wir wären keine Bewohner des Flammenmeers!«</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="011">
+                        <Teilvers n="011" reim="3K2r">
+                            <Kolon Einschub="false" lang="ar" n="29">فَٱعۡتَرَفُوا۟ بِذَنۢبِهِمۡ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="29">So bekennen sie ihre Schuld.</Kolon>
+                            <Kolon Einschub="false" lang="ar" n="30">فَسُحۡقًۭا لِّأَصۡحَٰبِ ٱلسَّعِيرِ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="30">Fort dann mit den Bewohnern des Flammenmeers!‎</Kolon>
+                        </Teilvers>
+                    </Vers>
+                </Gesaetz>
+                <Gesaetz n="4">
+                    <Vers n="012">
+                        <Teilvers n="012" reim="3K2r">
+                            <Kolon Einschub="false" lang="ar" n="31">إِنَّ ٱلَّذِينَ يَخۡشَوۡنَ رَبَّهُم بِٱلۡغَيۡبِ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="31">Die, die ihren Herrn im Verborgenen fürchten,</Kolon>
+                            <Kolon Einschub="false" lang="ar" n="32">لَهُم مَّغۡفِرَةٌۭ وَأَجۡرٌۭ كَبِيرٌۭ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="32">denen werden Verzeihung und großer Lohn zuteil.‎</Kolon>
+                        </Teilvers>
+                    </Vers>
+                </Gesaetz>
+            </Abschnitt>
+            <Abschnitt id="2">
+                <Gesaetz n="5">
+                    <Vers n="013">
+                        <Teilvers n="013" reim="3K2r">
+                            <Kolon Einschub="false" lang="ar" n="33">وَأَسِرُّوا۟ قَوۡلَكُمۡ أَوِ ٱجۡهَرُوا۟ بِهِۦٓۖ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="33">Ob ihr eure Rede geheimhaltet oder sie offenlegt,</Kolon>
+                            <Kolon Einschub="false" lang="ar" n="34">إِنَّهُۥ عَلِيمٌۢ بِذَاتِ ٱلصُّدُورِ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="34">er kennt das Innere der Herzen.</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="014">
+                        <Teilvers n="014" reim="3K2r">
+                            <Kolon Einschub="false" lang="ar" n="35">أَلَا يَعۡلَمُ مَنۡ خَلَقَ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="35">Sollte der, der erschuf, kein Wissen über seine Geschöpfe haben,</Kolon>
+                            <Kolon Einschub="false" lang="ar" n="36">وَهُوَ ٱللَّطِيفُ ٱلۡخَبِيرُ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="36">wo er doch der Wissende, Erfahrene ist?</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="015">
+                        <Teilvers n="015" reim="3K2r">
+                            <Kolon Einschub="false" lang="ar" n="37">هُوَ ٱلَّذِی جَعَلَ لَكُمُ ٱلۡأَرۡضَ ذَلُولًۭا</Kolon>
+                            <Kolon Einschub="false" lang="de" n="37">Er ist es, der euch die Erde gefügig machte,</Kolon>
+                            <Kolon Einschub="false" lang="ar" n="38">فَٱمۡشُوا۟ فِی مَنَاكِبِهَا</Kolon>
+                            <Kolon Einschub="false" lang="de" n="38">so geht umher auf ihrem Rücken</Kolon>
+                            <Kolon Einschub="false" lang="ar" n="39">وَكُلُوا۟ مِن رِّزۡقِهِۦۖ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="39">und nährt euch von dem, was er bescherte.</Kolon>
+                            <Kolon Einschub="false" lang="ar" n="40">وَإِلَيۡهِ ٱلنُّشُورُ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="40">Zu ihm hin ist die Auferstehung.</Kolon>
+                        </Teilvers>
+                    </Vers>
+                </Gesaetz>
+                <Gesaetz n="6">
+                    <Vers n="016">
+                        <Teilvers n="016" reim="3K2r">
+                            <Kolon Einschub="false" lang="ar" n="41">ءَأَمِنتُم مَّن فِی ٱلسَّمَآءِ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="41">Seid ihr denn davor sicher,</Kolon>
+                            <Kolon Einschub="false" lang="ar" n="42">أَن يَخۡسِفَ بِكُمُ ٱلۡأَرۡضَ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="42">daß der im Himmel euch in der Erde versinken läßt</Kolon>
+                            <Kolon Einschub="false" lang="ar" n="43">فَإِذَا هِیَ تَمُورُ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="43">und sie plötzlich schwankt?‎</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="017">
+                        <Teilvers n="017" reim="3K2r">
+                            <Kolon Einschub="false" lang="ar" n="44">أَمۡ أَمِنتُم مَّن فِی ٱلسَّمَآءِ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="44">Oder seid ihr davor sicher,</Kolon>
+                            <Kolon Einschub="false" lang="ar" n="45">أَن يُرۡسِلَ عَلَيۡكُمۡ حَاصِبًۭاۖ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="45">daß der im Himmel einen Sturm über euch entfachen wird</Kolon>
+                            <Kolon Einschub="false" lang="ar" n="46">فَسَتَعۡلَمُونَ كَيۡفَ نَذِيرِ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="46">und ihr dann erfahren werdet, wie meine Warnung aussieht?</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="018">
+                        <Teilvers n="018" reim="3K2r">
+                            <Kolon Einschub="false" lang="ar" n="47">وَلَقَدۡ كَذَّبَ ٱلَّذِينَ مِن قَبۡلِهِمۡ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="47">Schon die, die vor ihnen waren, leugneten,</Kolon>
+                            <Kolon Einschub="false" lang="ar" n="48">فَكَيۡفَ كَانَ نَكِيرِ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="48">und wie war da mein Tadel!</Kolon>
+                        </Teilvers>
+                    </Vers>
+                </Gesaetz>
+                <Gesaetz n="7">
+                    <Vers n="019">
+                        <Teilvers n="019" reim="3K2r">
+                            <Kolon Einschub="false" lang="ar" n="49">أَوَلَمۡ يَرَوۡا۟ إِلَى ٱلطَّيۡرِ فَوۡقَهُمۡ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="49">Sehen sie nicht die Vögel hoch über ihnen,</Kolon>
+                            <Kolon Einschub="false" lang="ar" n="50">صَٰٓفَّٰتٍۢ وَيَقۡبِضۡنَۚ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="50">wie sie breite Reihen bilden, die sie dann wieder ‎zusammenziehen?</Kolon>
+                            <Kolon Einschub="false" lang="ar" n="51">مَا يُمۡسِكُهُنَّ إِلَّا ٱلرَّحۡمَٰنُۚ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="51">Keiner hält sie außer dem Erbarmer.</Kolon>
+                            <Kolon Einschub="false" lang="ar" n="52">إِنَّهُۥ بِكُلِّ شَىۡءٍۭ بَصِيرٌ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="52">Er waltet über allem.</Kolon>
+                        </Teilvers>
+                    </Vers>
+                </Gesaetz>
+                <Gesaetz n="8">
+                    <Vers n="020">
+                        <Teilvers n="020" reim="3K2r">
+                            <Kolon Einschub="false" lang="ar" n="53">أَمَّنۡ هَٰذَا ٱلَّذِی هُوَ جُندٌۭ لَّكُمۡ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="53">Oder wer ist es denn, der euch eine Heerschar wäre,</Kolon>
+                            <Kolon Einschub="false" lang="ar" n="54">يَنصُرُكُم مِّن دُونِ ٱلرَّحۡمَٰنِۚ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="54">außer dem Erbarmer?</Kolon>
+                            <Kolon Einschub="false" lang="ar" n="55">إِنِ ٱلۡكَٰفِرُونَ إِلَّا فِی غُرُورٍ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="55">Nur einer Täuschung sind die Leugner erlegen.</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="021">
+                        <Teilvers n="021" reim="3K2r">
+                            <Kolon Einschub="false" lang="ar" n="56">أَمَّنۡ هَٰذَا ٱلَّذِی يَرۡزُقُكُمۡ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="56">Oder wer ist es, der euch versorgen könnte,</Kolon>
+                            <Kolon Einschub="false" lang="ar" n="57">إِنۡ أَمۡسَكَ رِزۡقَهُۥۚ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="57">wenn er seine Versorgung zurückhält?</Kolon>
+                            <Kolon Einschub="false" lang="ar" n="58">بَل لَّجُّوا۟ فِی عُتُوٍّ وَنُفُورٍ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="58">Nein, sie verharren in Aufsässigkeit und Widerspenstigkeit.</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="022">
+                        <Teilvers n="022" reim="2n/m">
+                            <Kolon Einschub="false" lang="ar" n="59">أَفَمَن يَمۡشِی مُكِبًّا عَلَىٰ وَجۡهِهِۦٓ أَهۡدَىٰۤ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="59">Ist wohl einer, der sein Antlitz niedergebeugt hält, eher auf dem ‎rechten Wege</Kolon>
+                            <Kolon Einschub="false" lang="ar" n="60">أَمَّن يَمۡشِی سَوِيًّا عَلَىٰ صِرَٰطٍۢ مُّسۡتَقِيمٍۢ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="60">oder der, der auf dem geraden Wege aufrecht schreitet?</Kolon>
+                        </Teilvers>
+                    </Vers>
+                </Gesaetz>
+            </Abschnitt>
+        </Hauptteil>
+        <Hauptteil id="3">
+            <Abschnitt id="1">
+                <Gesaetz n="9">
+                    <Vers n="023">
+                        <Teilvers n="023" reim="2n/m">
+                            <Kolon Einschub="false" lang="ar" n="61">قُلۡ هُوَ ٱلَّذِیٓ أَنشَأَكُمۡ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="61">Sprich: »Er ist es, der euch entstehen ließ</Kolon>
+                            <Kolon Einschub="false" lang="ar" n="62">وَجَعَلَ لَكُمُ ٱلسَّمۡعَ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="62">und der euch Gehör,</Kolon>
+                            <Kolon Einschub="false" lang="ar" n="63">وَٱلۡأَبۡصَٰرَ وَٱلۡأَفۡـِٔدَةَۖ قَلِيلًۭا</Kolon>
+                            <Kolon Einschub="false" lang="de" n="63">Augen und Herzen einsetzte.«</Kolon>
+                            <Kolon Einschub="false" lang="ar" n="64">مَّا تَشۡكُرُونَ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="64">Wie wenig dankbar ihr seid!‎</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="024">
+                        <Teilvers n="024" reim="2n/m">
+                            <Kolon Einschub="false" lang="ar" n="65">قُلۡ هُوَ ٱلَّذِی ذَرَأَكُمۡ فِی ٱلۡأَرۡضِ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="65">Sprich: »Er ist es, der euch verteilte auf der Erde,</Kolon>
+                            <Kolon Einschub="false" lang="ar" n="66">وَإِلَيۡهِ تُحۡشَرُونَ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="66">und zu ihm werdet ihr wieder zusammengeschart.«</Kolon>
+                        </Teilvers>
+                    </Vers>
+                </Gesaetz>
+                <Gesaetz n="10">
+                    <Vers n="025">
+                        <Teilvers n="025" reim="2n/m">
+                            <Kolon Einschub="false" lang="ar" n="67">وَيَقُولُونَ مَتَىٰ هَٰذَا ٱلۡوَعۡدُ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="67">Sie sagen: »Wann erfüllt sich denn diese Verheißung,</Kolon>
+                            <Kolon Einschub="false" lang="ar" n="68">إِن كُنتُمۡ صَٰدِقِينَ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="68">wenn ihr denn wahrhaftig seid?«</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="026">
+                        <Teilvers n="026" reim="2n/m">
+                            <Kolon Einschub="false" lang="ar" n="69">قُلۡ إِنَّمَا ٱلۡعِلۡمُ عِندَ ٱللَّهِ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="69">Sprich: »Das Wissen ist allein bei Gott.</Kolon>
+                            <Kolon Einschub="false" lang="ar" n="70">وَإِنَّمَآ أَنَا۠ نَذِيرٌۭ مُّبِينٌۭ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="70">Ich bin nur ein klarer Mahner.«</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="027">
+                        <Teilvers n="027" reim="2n/m">
+                            <Kolon Einschub="false" lang="ar" n="71">فَلَمَّا رَأَوۡهُ زُلۡفَةًۭ سِيٓـَٔتۡ وُجُوهُ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="71">Nachdem sie es jedoch aus der Nähe gesehen haben,</Kolon>
+                            <Kolon Einschub="false" lang="ar" n="72">ٱلَّذِينَ كَفَرُوا۟</Kolon>
+                            <Kolon Einschub="false" lang="de" n="72">verzerren die Ungläubigen ihre Gesichter,</Kolon>
+                            <Kolon Einschub="false" lang="ar" n="73">وَقِيلَ هَٰذَا ٱلَّذِی كُنتُم بِهِۦ تَدَّعُونَ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="73">dann wird gesagt: »Das ist es doch, wonach ihr immer wieder gerufen ‎habt!«</Kolon>
+                        </Teilvers>
+                    </Vers>
+                </Gesaetz>
+                <Gesaetz n="11">
+                    <Vers n="028">
+                        <Teilvers n="028" reim="2n/m">
+                            <Kolon Einschub="false" lang="ar" n="74">قُلۡ أَرَءَيۡتُمۡ إِنۡ أَهۡلَكَنِیَ ٱللَّهُ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="74">Sprich: »Was meint ihr wohl,</Kolon>
+                            <Kolon Einschub="false" lang="ar" n="75">وَمَن مَّعِیَ أَوۡ رَحِمَنَا</Kolon>
+                            <Kolon Einschub="false" lang="de" n="75">wenn Gott mich und die bei mir sind zugrunde gehen läßt oder ‎sich unser erbarmt,</Kolon>
+                            <Kolon Einschub="false" lang="ar" n="76">فَمَن يُجِيرُ ٱلۡكَٰفِرِينَ مِنۡ عَذَابٍ أَلِيمٍۢ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="76">wer wird die Ungläubigen denn dann bewahren vor einer ‎schmerzlichen Strafe?«</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="029">
+                        <Teilvers n="029" reim="2n/m">
+                            <Kolon Einschub="false" lang="ar" n="77">قُلۡ هُوَ ٱلرَّحۡمَٰنُ ءَامَنَّا بِهِۦ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="77">Sprich: »Er ist der Erbarmer.</Kolon>
+                            <Kolon Einschub="false" lang="ar" n="78">وَعَلَيۡهِ تَوَكَّلۡنَاۖ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="78">An ihn glauben wir, und ihm vertrauen wir.</Kolon>
+                            <Kolon Einschub="false" lang="ar" n="79">فَسَتَعۡلَمُونَ مَنۡ هُوَ فِی ضَلَٰلٍۢ مُّبِينٍۢ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="79">Ihr werdet noch erkennen, wer in einem klaren Irrtum ist!«</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="030">
+                        <Teilvers n="030" reim="2n/m">
+                            <Kolon Einschub="false" lang="ar" n="80">قُلۡ أَرَءَيۡتُمۡ إِنۡ أَصۡبَحَ مَآؤُكُمۡ غَوۡرًۭا</Kolon>
+                            <Kolon Einschub="false" lang="de" n="80">Sprich: »Was meint ihr wohl, wenn euer Wasser eines Morgens ‎versiegt ist?</Kolon>
+                            <Kolon Einschub="false" lang="ar" n="81">فَمَن يَأۡتِيكُم بِمَآءٍۢ مَّعِينٍ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="81">Wer könnte euch dann klares Quellwasser bringen?«</Kolon>
+                        </Teilvers>
+                    </Vers>
+                </Gesaetz>
+            </Abschnitt>
+        </Hauptteil>
+    </Sure>
+</Quran>

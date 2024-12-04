@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Quran xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="Textstruktur.xsd">
+    <Sure id="099" webtauglich="true" translator="Nicolai Sinai">
+        <Hauptteil id="0">
+            <Abschnitt id="0">
+                <Gesaetz n="0">
+                    <Vers n="000">
+                        <Teilvers n="000" reim="2n/m">
+                            <Kolon lang="ar" Einschub="false" n="0">بِسۡمِ ٱللَّهِ ٱلرَّحۡمَٰنِ ٱلرَّحِيمِ</Kolon>
+                            <Kolon lang="de" Einschub="false" n="0">Im Namen Gottes, des barmherzigen Erbarmers!</Kolon>
+                        </Teilvers>
+                    </Vers>
+                </Gesaetz>
+                <Gesaetz n="1">
+                    <Vers n="001">
+                        <Teilvers n="001" reim="ālahā">
+                            <Kolon Einschub="false" lang="ar" n="1">إِذَا زُلۡزِلَتِ ٱلۡأَرۡضُ زِلۡزَالَهَا</Kolon>
+                            <Kolon Einschub="false" lang="de" n="1">Wenn die Erde heftig bebt</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="002">
+                        <Teilvers n="002" reim="ālahā">
+                            <Kolon Einschub="false" lang="ar" n="2">وَأَخۡرَجَتِ ٱلۡأَرۡضُ أَثۡقَالَهَا</Kolon>
+                            <Kolon Einschub="false" lang="de" n="2">und die Erde ihre Lasten ausstößt</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="003">
+                        <Teilvers n="003" reim="ālahā">
+                            <Kolon Einschub="false" lang="ar" n="3">وَقَالَ ٱلۡإِنسَٰنُ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="3">und der Mensch sagt:</Kolon>
+                            <Kolon Einschub="false" lang="ar" n="4">مَا لَهَا</Kolon>
+                            <Kolon Einschub="false" lang="de" n="4">»Was ist mit ihr?« —</Kolon>
+                        </Teilvers>
+                    </Vers>
+                </Gesaetz>
+                <Gesaetz n="2">
+                    <Vers n="004">
+                        <Teilvers n="004" reim="ālahā" reimkommentar="hier ist die r-Variante">
+                            <Kolon Einschub="false" lang="ar" n="5">يَوۡمَئِذٍۢ تُحَدِّثُ أَخۡبَارَهَا</Kolon>
+                            <Kolon Einschub="false" lang="de" n="5">an jenem Tag erzählt sie, was sie zu berichten hat,</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="005">
+                        <Teilvers n="005" reim="ālahā">
+                            <Kolon Einschub="false" lang="ar" n="6">بِأَنَّ رَبَّكَ أَوۡحَىٰ لَهَا</Kolon>
+                            <Kolon Einschub="false" lang="de" n="6">denn dein Herr hat es ihr eingegeben;</Kolon>
+                        </Teilvers>
+                    </Vers>
+                </Gesaetz>
+                <Gesaetz n="3">
+                    <Vers n="006">
+                        <Teilvers n="006" reim="ālahum">
+                            <Kolon Einschub="false" lang="ar" n="7">يَوۡمَئِذٍۢ يَصۡدُرُ ٱلنَّاسُ أَشۡتَاتًۭا</Kolon>
+                            <Kolon Einschub="false" lang="de" n="7">an jenem Tag kommen die Menschen verstreut heraus,</Kolon>
+                            <Kolon Einschub="false" lang="ar" n="8">لِّيُرَوۡا۟ أَعۡمَٰلَهُمۡ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="8">damit sie ihre Werke zu sehen bekommen:</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="007">
+                        <Teilvers n="007" reim="3K(K)3h">
+                            <Kolon Einschub="false" lang="ar" n="9">فَمَن يَعۡمَلۡ مِثۡقَالَ ذَرَّةٍ خَيۡرًۭا يَرَهُۥ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="9">Wer das Gewicht eines Staubkorns an Gutem getan hat, der sieht es,</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="008">
+                        <Teilvers n="008" reim="3K(K)3h">
+                            <Kolon Einschub="false" lang="ar" n="10">وَمَن يَعۡمَلۡ مِثۡقَالَ ذَرَّةٍۢ شَرًّۭا يَرَهُۥ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="10">und wer das Gewicht eines Staubkorns an Bösem getan hat, der sieht es.</Kolon>
+                        </Teilvers>
+                    </Vers>
+                </Gesaetz>
+            </Abschnitt>
+        </Hauptteil>
+    </Sure>
+</Quran>

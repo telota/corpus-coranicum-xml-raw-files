@@ -1,0 +1,1368 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<korankommentar xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:noNamespaceSchemaLocation="Kommentar.xsd">
+ <sure id="067" webtauglich="true"/>
+ <surentitel>
+  <text versstart="000" versend="030" verfasser="an">
+   <p>Sure 67 — <lang xml:lang="ar-Latn">al-mulk</lang> — »Die Königsherrschaft«</p>
+  </text>
+ </surentitel>
+ <autorenkurz>
+  <text versstart="000" versend="030" verfasser="an">
+   <p>Übersetzt und analysiert von Dirk Hartwig und Angelika Neuwirth</p>
+  </text>
+ </autorenkurz>
+ <datierungkurz>
+  <text versstart="000" versend="030" verfasser="an">
+   <p>Mekka II</p>
+  </text>
+ </datierungkurz>
+ <literarkritikkurz>
+  <text versstart="000" versend="030" verfasser="an">
+   <p/>
+  </text>
+ </literarkritikkurz>
+ <literarkritik>
+  <text versstart="000" versend="030" verfasser="an">
+   <p>Die Sure ist Einheit. Die islamische Tradition überliefert keine medinischen Erweiterungen
+    (vgl. <bibl Zotero_Id_1="3RWFQBDU">Nagel 1995:86</bibl>). Die von <bibl Zotero_Id_1="ZNVIBIDF"
+     >R. Bell (1939:592)</bibl> postulierten Überarbeitungen sind hypothetisch. — Eine
+    Versvertauschung ist jedoch anzunehmen: <q type="koran" versstart="067:030" versend="067:030">V.
+     30</q> gehört vor <q type="koran" versstart="067:029" versend="067:029">V. 29</q>, da die
+    polemischen Fragen hinsichtlich möglicher Katastrophen (<q type="koran" versstart="067:028"
+     versend="067:028">V. 28</q> und <q type="koran" versstart="067:030" versend="067:030">V.
+    30</q>) inhaltlich zusammengehören und auch durch anaphorische Versanfänge verbunden sind.
+    (Solche anaphorischen Verknüpfungen finden sich auch sonst: bei <q type="koran"
+     versstart="067:002" versend="067:003">V. 2/3</q>, <q type="koran" versstart="067:016"
+     versend="067:017">V. 16/17</q>, <q type="koran" versstart="067:020" versend="067:021">V.
+     20/21</q> und <q type="koran" versstart="067:023" versend="067:024">V. 23/24</q>, vgl. <bibl
+     Zotero_Id_1="4WEWN8NZ"><hi rend="italic">SKMS</hi>, S. 287</bibl>) Vor allem aber entspricht
+    das empfohlene Bekenntnis mit abschließender Drohung (<q type="koran" versstart="067:029"
+     versend="067:029">V. 29</q>) einem häufigen Surenschlußtypus, vgl. <q type="koran"
+     versstart="038:086" versend="038:088">Q 38:86–88</q> (frühmittelmekkanisch), <q type="koran"
+     versstart="025:077" versend="025:077">Q 25:77</q> und <q type="koran" versstart="027:093"
+     versend="027:093">27:93</q> (spätmittelmekkanisch).</p>
+   <p>Die Hauptteilgrenzen sind nicht distinkt: Reimwechsel von 2d zu 2m/n (<q type="koran"
+     versstart="067:023" versend="067:024">V. 23/V. 24</q>) einen Vers <hi rend="italic">nach</hi>
+    Hauptteilgrenze II/III. — Ähnlich wie bei <q type="koran" versstart="025:062" versend="025:063"
+     >Q 25:62/63</q> — ebenfalls aus spätmittelmekkanischer Zeit — wird die Hauptteilgrenze jedoch
+    durch stilistische Opposition markiert: <q type="koran" versstart="067:022" versend="067:022">V.
+     22</q>, letzter Vers von Haupteil II, enthält gemäß dem Schema der vorausgehenden Verse eine
+    rhetorische Frage (<lang xml:lang="ar-Latn">a-fa-man 〈…〉 am man</lang>) — <q type="koran"
+     versstart="067:023" versend="067:023">V. 23</q>, Anfangsvers von Haupteil III, dagegen eine
+    Aufforderung. Die beiden stilistisch deutlich gegeneinander abgehobenen Teile werden durch
+    Reimverkettung wieder verknüpft (vgl. <bibl Zotero_Id_1="4WEWN8NZ"><hi rend="italic">SKMS</hi>,
+     S. 104</bibl>).</p>
+   <p><hi rend="bold">Versabteilungsdifferenzen</hi>
+   </p>
+   <p>In <q type="koran" versstart="067:009" versend="067:009">V. 9</q>
+    <lang xml:lang="ar-Latn">naḏīrun</lang> ist trotz Reimpotenz nicht abzuteilen. Durch diese von
+    einigen Lesern überlieferte Abteilung entstünde mit <q type="koran" versstart="067:009"
+     versend="067:009">V. 9a</q> ein kurzer, eingliedriger Vers — während die Sure durchweg aus
+    mehrgliedrigen Versen besteht; vor allem aber würde die Rede der Bestraften auseinandergerissen,
+    ohne daß eine syntaktische oder gedankliche Zäsur die Teilung nahelegte (vgl. <bibl
+     Zotero_Id_1="4WEWN8NZ"><hi rend="italic">SKMS</hi>, S. 48</bibl>).</p>
+  </text>
+ </literarkritik>
+ <textkritik>
+  <text versstart="000" versend="030" verfasser="an">
+   <p>Zur Sure sind kaum abweichende Lesarten überliefert (vgl. <bibl Zotero_Id_1="GCSZJCBR">Khoury
+     2001:172</bibl>); <bibl Zotero_Id_1="NXGPM5Z8">ʿA.M. al-Sharfī [Charfi]
+    2016:229–236</bibl>).</p>
+   <p>Die Lesart von Ibn Masʿūd statt:
+    <lang xml:lang="ar-Latn">balā ǧāʾanā naḏīrun fa-kaḏḏabnā 〉 balā ǧaʾanā naḏīrun minnā fa-kaḏḏabnāhu</lang>,
+    »Ja gewiß, zu uns kam ein Warner <hi rend="italic">aus unserer Mitte</hi>, doch wir nannten ihn
+    einen Lügner« (<q type="koran" versstart="067:009" versend="067:009">V. 9</q>), könnte gemeint
+    sein, um die Möglichkeit einer Rede im Munde der Dämonen auszuschließen, zu denen bekanntlich
+    kein Warner aus ihrer Mitte gekommen ist. Die Lesart von Ibn ʿAbbās:
+    <lang xml:lang="ar-Latn">māʾ maʿīn 〉 ʿaḏb</lang>, »süßes Wasser« (<q type="koran"
+     versstart="067:030" versend="067:030">V. 30</q>), verunklart die koranisch intendierte
+    Kontrastierung zwischen versiegendem und klarem Wasser. Die Lesarten sind für den Text nur
+    exegetisch von Interesse.</p>
+  </text>
+ </textkritik>
+ <komposition>
+  <text versstart="000" versend="030" verfasser="an">
+   <p>
+    <table cols="4" rows="20">
+     <head/>
+     <row>
+      <cell/>
+      <cell/>
+      <cell/>
+      <cell><hi rend="bold">I Einleitung: Hymnus</hi>
+      </cell>
+     </row>
+     <row>
+      <cell/>
+      <cell><hi rend="bold">4</hi></cell>
+      <cell><hi rend="superscript"><q type="koran" versstart="067:001" versend="067:004"
+        >1–4</q></hi></cell>
+      <cell>Doxologie, mit <lang xml:lang="ar-Latn">allaḏī</lang>-Prädikationen fortgeführt: Gott
+       als Urheber von Tod und Leben, Schöpfer der sieben Himmel</cell>
+     </row>
+     <row>
+      <cell/>
+      <cell/>
+      <cell/>
+      <cell> </cell>
+     </row>
+     <row>
+      <cell/>
+      <cell/>
+      <cell/>
+      <cell><hi rend="bold">II Schöpfungstheologie</hi>
+      </cell>
+     </row>
+     <row>
+      <cell/>
+      <cell/>
+      <cell/>
+      <cell><hi rend="bold">II A Absicherung des Himmels; eschatologisches Doppelbild</hi>
+      </cell>
+     </row>
+     <row>
+      <cell/>
+      <cell>/</cell>
+      <cell><hi rend="superscript"><q type="koran" versstart="067:005" versend="067:005"
+       >5</q></hi></cell>
+      <cell>Tiefster Himmel vor Šaiṭānen geschützt, diesen wird Strafe angedroht</cell>
+     </row>
+     <row>
+      <cell>/</cell>
+      <cell><hi rend="bold">8</hi></cell>
+      <cell><hi rend="superscript"><q type="koran" versstart="067:006" versend="067:011"
+        >6–11</q></hi>
+      </cell>
+      <cell>Doppelbild: Strafe auch für Leugner; Wechselrede zwischen Leugnern und
+       <lang xml:lang="ar-Latn">ǧahannam</lang></cell>
+     </row>
+     <row>
+      <cell>|</cell>
+      <cell>\</cell>
+      <cell><hi rend="superscript"><q type="koran" versstart="067:012" versend="067:012"
+       >12</q></hi></cell>
+      <cell><lang xml:lang="ar-Latn">ǧanna</lang> für Gottesfürchtige</cell>
+     </row>
+     <row>
+      <cell><hi rend="bold">18</hi></cell>
+      <cell/>
+      <cell/>
+      <cell/>
+     </row>
+     <row>
+      <cell>|</cell>
+      <cell/>
+      <cell/>
+      <cell><hi rend="bold">II B Gottes Allwissenheit und Allmacht</hi>
+      </cell>
+     </row>
+     <row>
+      <cell>|</cell>
+      <cell>/</cell>
+      <cell><hi rend="superscript"><q type="koran" versstart="067:013" versend="067:015"
+        >13–15</q></hi></cell>
+      <cell>Gott alwissend um Menschen, insofern ihr Schöpfer</cell>
+     </row>
+     <row>
+      <cell>\</cell>
+      <cell><hi rend="bold">10</hi></cell>
+      <cell><hi rend="superscript"><q type="koran" versstart="067:016" versend="067:018"
+        >16–18</q></hi></cell>
+      <cell><lang xml:lang="ar-Latn">a-amintum</lang>-Drohungen mit Entzug der Segnungen</cell>
+     </row>
+     <row>
+      <cell/>
+      <cell>|</cell>
+      <cell><hi rend="superscript"><q type="koran" versstart="067:019" versend="067:019"
+       >19</q></hi></cell>
+      <cell>Gottes Wirken in der Natur (<lang xml:lang="ar-Latn">āya</lang>: Vogelflug)</cell>
+     </row>
+     <row>
+      <cell/>
+      <cell>\</cell>
+      <cell><hi rend="superscript"><q type="koran" versstart="067:020" versend="067:022"
+        >20–22</q></hi></cell>
+      <cell><lang xml:lang="ar-Latn">am man hāḏā</lang>-Drohungen mit Entzug des Schutzes und der
+       Versorgung (polemische Fragen)</cell>
+     </row>
+     <row>
+      <cell/>
+      <cell/>
+      <cell/>
+      <cell/>
+     </row>
+     <row>
+      <cell/>
+      <cell/>
+      <cell/>
+      <cell><hi rend="bold">III Kontingenz: Polemik um Erweckung</hi>
+      </cell>
+     </row>
+     <row>
+      <cell/>
+      <cell>/</cell>
+      <cell><hi rend="superscript"><q type="koran" versstart="067:023" versend="067:024"
+        >23–24</q></hi></cell>
+      <cell><lang xml:lang="ar-Latn">qul-huwa-allaḏi</lang>-Serie von
+       <lang xml:lang="ar-Latn">āyāt</lang>: Gehör, Gesicht, Entstehung aus Erde, dereinstige
+       Erweckung</cell>
+     </row>
+     <row>
+      <cell/>
+      <cell><hi rend="bold">8</hi></cell>
+      <cell><hi rend="superscript"><q type="koran" versstart="067:025" versend="067:027"
+        >25–27</q></hi></cell>
+      <cell>Frage nach Zeitpunkt des Gerichts, Verweisung der Fragesteller an Gott, indirekte
+       Kennzeichnung des Gerichtstags</cell>
+     </row>
+     <row>
+      <cell/>
+      <cell>|</cell>
+      <cell><hi rend="superscript"><q type="koran" versstart="067:028" versend="067:028">28</q>+<q
+         type="koran" versstart="067:030" versend="067:030">30</q></hi></cell>
+      <cell>Polemische Fragen hinsichtlich möglicher Katastrophen</cell>
+     </row>
+     <row>
+      <cell/>
+      <cell>\</cell>
+      <cell><hi rend="superscript"><q type="koran" versstart="067:029" versend="067:029"
+       >29</q></hi></cell>
+      <cell>Empfohlenes Glaubensbekenntnis und Drohung</cell>
+     </row>
+    </table></p>
+   <p><hi rend="bold">Strukturformel/Proportionen</hi></p>
+   <p>
+    <table cols="3" rows="2">
+     <head/>
+     <row>
+      <cell>Teil I: 4 Verse</cell>
+      <cell>Teil II: A 8 Verse / B 10 Verse</cell>
+      <cell>Teil III: 8 Verse</cell>
+     </row>
+     <row>
+      <cell>4</cell>
+      <cell>A (1+6+1) / B (3+3+1+3)</cell>
+      <cell>2+3+2+1</cell>
+     </row>
+    </table>
+   </p>
+  </text>
+ </komposition>
+ <kommentar>
+  <text versstart="001" versend="001" verfasser="an">
+   <p><lem>tabāraka llaḏī bi-yadihi l-mulku wa-huwa ʿalā kulli šaiʾin qadīr]</lem> Die Sure beginnt
+    wie schon <q type="koran" versstart="025:000" versend="025:077">Q 25</q> mit einer Doxologie,
+    d.h. einem als Aufforderung (›Wunschperfekt‹) zum Gotteslob zu verstehenden Ausruf. Der Preis
+    gilt Gott als König und Allherrscher. Gerade dieses Attributenensemble ist in der byzantinischen
+    Hymnik vielfach präsent, vgl. die mehrmals wiederholte Anrufung in der »Großen Doxologie« in der
+    Vorfeier zur Liturgie:
+    <lang xml:lang="gr-Latn">kyrie basileu, epouranie thee patēr pantokratōr</lang>, »Herr, König,
+    himmlischer Gott, Vater, Allherrscher«.</p>
+   <p>Die vorliegenden Koranübersetzungen verkennen diesen performativen Charakter, indem sie eine
+    Aussage wiedergeben, so z.B. <bibl Zotero_Id_1="J6TM6UHR">R. Paret (<hi rend="italic">KÜ</hi>,
+     S. 400)</bibl>: »Voller Segen ist er, 〈…〉«; <bibl Zotero_Id_1="J7GZ5X57">H. Zirker
+     (2003:352)</bibl>: »Voll Segen ist der, 〈…〉«; <bibl Zotero_Id_1="Q9EDU63R">H. Bobzin
+     (2010:514)</bibl>: »Voller Segen ist, 〈…〉«. Bei <lang xml:lang="ar-Latn">tabāraka</lang>
+    handelt es sich aber um eine indirekte Aufforderung zur gottesdienstlichen Handlung wie auch bei
+    <lang xml:lang="ar-Latn">subḥāna</lang>, »Lob!« (<q type="koran" versstart="017:001"
+     versend="017:001">Q 17:1</q>; grammatikalisch: Ausrufsakkusativ). Der liturgischen Funktion
+    tragen dagegen Rechnung H. Reckendorf und J.Y. Rivlin. <bibl Zotero_Id_1="4SXSYRQK">Reckendorf
+     (1857)</bibl>:
+    <lang xml:lang="hbo-Latn">tabāraka 〈…〉: barukh YHWH asher be-yado ha-melukhah we-hu adir ʿal kol</lang>
+    (»Gepriesen sei der Herr, in dessen Hand die Herrschaft ruht und der über alles erhaben ist«);
+    bzw. <bibl Zotero_Id_1="QK7XSLY9">Rivlin (1936)</bibl>:
+    <lang xml:lang="hbo-Latn">yitbarakh elohim asher be-yado ha-melukhah we-hu ʿal kol yukhal</lang>
+    (»Gepriesen sei Gott, in dessen Hand die Herrschaft ruht und der über alles mächtig ist«), ganz
+    ähnlich auch <bibl Zotero_Id_1="I5FDI3AP">Rubin (2005)</bibl>.</p>
+   <p>Semantisch klingen hier die Gott-König-Psalmen an, vor allem <q type="bibel"
+     versstart="093:001" versend="093:001" buch="Ps">Ps 93</q>, dessen Preisungen auch in der
+    weiteren Sure widerhallen (siehe <q type="kommentar" versstart="067:003" versend="067:003">unten
+     zu V. 3</q>).</p>
+   <p>Der liturgische Redeanfang der Sure geht aber nicht direkt auf einen Psalm<hi rend="italic"
+     >text</hi> zurück, sondern basiert bereits auf gottesdienstlichen Erfahrungen der
+    monotheistischen Nachbarn. Etymologisch, angesichts der Wurzel
+    <lang xml:lang="ar-Latn">BRK</lang>, würde sich die — als Einleitung der Einzelbitten der ʿAmida
+    dienende — Doxologie <lang xml:lang="hbo-Latn">barukh attah YHWH 〈…〉</lang>, »Gelobt seist du,
+    Herr 〈…〉« (vgl. auch <bibl Zotero_Id_1="YSHEA6G2">Elbogen <hi rend="superscript"
+     >2</hi>1924:5</bibl>), nahelegen, doch ist die koranische Doxologie gerade keine Anrede an
+    Gott, sondern eine emphatische Aufforderung an die Gottesdienstteilnehmer, daher rhetorisch eher
+    vergleichbar mit <lang xml:lang="gr-Latn">doxa patri kai hyiō kai tō hagiō pneumati theō</lang>,
+    »Ehre sei Gott, dem Vater und dem Sohn und dem Heiligen Geist«, oder auch dem Einsatz der
+    Chrysostomos-Liturgie
+    <lang xml:lang="gr-Latn">Eulogēmenē hē basileia tou patros kai tou hyiou kai tou hagiou pneumatos</lang>,
+    »Gepriesen sei die Königsherrschaft des Vaters, des Sohnes und des Heiligen Geistes«.</p>
+   <p>Der Einsatz von <lang xml:lang="ar-Latn">tabāraka</lang> markiert ein neues
+    Liturgieverständnis: Der Ausruf kam erstmals vor in <q type="koran" versstart="055:078"
+     versend="055:078">Q 55:78</q>, dort als Schlußdoxologie:
+    <lang xml:lang="ar-Latn">tabāraka smu rabbika ḏī l-ǧalāli wa-l-ikrām</lang>, »Gepriesen sei der
+    Name deines Herrn, voller Majestät und Großmut«, später in der gegenüber <q type="koran"
+     versstart="067:000" versend="067:030">Q 67</q> nur wenig früheren Sure <q type="koran"
+     versstart="043:085" versend="043:085">Q 43:85</q>, wo das Königtum Gottes kosmisch präzisiert
+    wird:
+    <lang xml:lang="ar-Latn">wa-tabāraka llaḏī lahu mulku l-samāwāti wa-l-arḍi wa-mā bainahumā 〈…〉</lang>,
+    »Gepriesen sei, der die Herrschaft hat über die Himmel und die Erde und was dazwischen ist 〈…〉«.
+    Später begegnet die Formel noch in <q type="koran" versstart="025:001" versend="025:001">Q
+     25:1</q>, <q type="koran" versstart="025:010" versend="025:010">10</q>, <q type="koran"
+     versstart="025:061" versend="025:061">61</q>; <q type="koran" versstart="023:014"
+     versend="023:014">23:14</q> und zweimal in Spätmekka: <q type="koran" versstart="007:054"
+     versend="007:054">Q 7:54</q>, <q type="koran" versstart="040:064" versend="040:064">40:64</q>.
+    Die Doxologie <lang xml:lang="ar-Latn">tabāraka</lang>, gefolgt von einem Ausdruck der Majestät,
+    gehört offenbar zu den neuen Charakteristika spätmittel- und spätmekkanischer Suren, wo die
+    früher typischen Strukturähnlichkeiten mit den monotheistischen Gottesdiensten (›biblische
+    Lesung im Zentrum‹) nur noch selten greifen und wo es nun auf den feierlichen Grundton ankommt.
+    Dieser hat seine Vorgeschichte in den jüdischen und christlichen Liturgien, wo <q type="bibel"
+     versstart="093:001" versend="093:001" buch="Ps">Ps 93</q> zur Einleitung des jüdischen
+    Freitagabendgottesdienstes dient:
+    <lang xml:lang="hbo-Latn">YHWH malakh geʾut lavesh lavesh YHWH ʿoz hitʾazzar 〈…〉</lang> (<q
+     type="bibel" versstart="093:001" versend="093:001" buch="Ps">V. 1</q>), »Der Herr ist König,
+    gekleidet in Herrlichkeit, gekleidet hat sich der Herr, umgürtet mit Macht 〈…〉«. Ebenso werden
+    seine ersten Verse,
+    <lang xml:lang="gr-Latn">Ho kyrios ebasileusen euprepian enedysato, enedysato ho kyrios dynamin kai periezōsato 〈…〉</lang>,
+    einmal wiederholt, nach dem Phos-Hilaron-Hymnus, im samstäglichen Hesperinos gesungen.</p>
+   <p>Das als Ende des ersten Kolons betonte
+    (<lang xml:lang="ar-Latn">allaḏī bi-yadihi) l-mulk</lang> erinnert noch an eine scheinbar ganz
+    abgelegene Parallele: die prominente Stellung von <lang xml:lang="ar-Latn">mulk</lang> im
+    altarabischem Kontext: in der während des Ḥaǧǧ wiederholten Pilgerlosung, der sogenannten
+    »<lang xml:lang="ar-Latn">talbiya</lang> des Propheten«, d.h. in dem dem Propheten
+    zugeschriebenen Motto bei der Pilgerfahrt:
+    <lang xml:lang="ar-Latn">labbaika llāhumma labbaik / lā sharīka laka labaik / inna l-ḥamda wa-l-niʿmata laka wa-l-mulk / lā sharīka lak</lang>,
+    »Dir zu Diensten, Herr, dir zu Diensten, / du hast keinen Teilhaber, / Lob und Gnadenfülle sind
+    dein und Herrschaft, / du hast keinen Teilhaber« (vgl. zu dem historischen Hintergrund dieser
+    und anderer überlieferter Losungen <bibl Zotero_Id_1="PU8Z2WJI">Meir Jakob Kister 1980</bibl>,
+    der die ›<lang xml:lang="ar-Latn">talbiya</lang> des Propheten‹ mit der
+    ›<lang xml:lang="ar-Latn">talbiya</lang> der Quraiš‹ kontextualisiert, und <bibl
+     Zotero_Id_1="BNLD6ISI">Tilman Seidensticker 2010</bibl>). Die Aufgabe, diese rituelle Praxis
+    mit der koranischen Diktion zu kontextualisieren, ist noch nicht angegangen worden.</p>
+   <p>Das zweite Kolon <lang xml:lang="ar-Latn">wa-huwa ʿalā kulli šaiʾin qadīr</lang> gibt den
+    Titel Pantokrator wieder, entsprechend wird es auch in der griechischen Koranübersetzung von
+    Gerasimos Pentakis (1838–1899) wiedergegeben <bibl Zotero_Id_1="ARUVHJDK">(Pentakis <hi
+      rend="superscript">2</hi>1886)</bibl>. Das in <q type="koran" versstart="067:001"
+     versend="067:001">Q 67:1</q> paraphrasierte Attribut
+    <lang xml:lang="gr-Latn">pantokratōr</lang> ist bereits in der Septuaginta bezeugt, im
+    Zwölfprophetenbuch und von dort auch bei Hiob, im antiken Judentum bei Judith und im 3.
+    Makkabäerbuch. Neutestamentlich begegnet es prominent in der Offenbarung des Johannes:
+    <lang xml:lang="gr-Latn">kyrios ho theos ho pantokratōr</lang>, »Herr, Gott, Allherrscher« (<q
+     type="bibel" versstart="001:000" versend="001:000" buch="Offb">Offb 1,8</q>; <q type="bibel"
+     versstart="004:008" versend="004:008" buch="Offb">4,8</q>; <q type="bibel" versstart="011:017"
+     versend="011:017" buch="Offb">11,17</q>; <q type="bibel" versstart="015:003" versend="015:003"
+     buch="Offb">15,3</q>; <q type="bibel" versstart="016:007" versend="016:007" buch="Offb"
+     >16,7</q>; <q type="bibel" versstart="019:006" versend="019:006" buch="Offb">19,6</q> und <q
+     type="bibel" versstart="021:022" versend="021:022" buch="Offb">21,22</q>) oder
+    <lang xml:lang="gr-Latn">ho theos ho pantokratōr</lang> (<q type="bibel" versstart="016:014"
+     versend="016:014" buch="Offb">Offb 16,14</q>; <q type="bibel" versstart="019:015"
+     versend="019:015" buch="Offb">19,15</q>); vgl. dazu <bibl Zotero_Id_1="BNM3QE6A">H. Hommel
+     (1983)</bibl> und <bibl Zotero_Id_1="2T3LY9PV">M. Bachmann (2002</bibl> und <bibl
+     Zotero_Id_1="SBLWK7RA">2019</bibl>). Auch hier dürfte es sich aber nicht um die Rezeption eines
+    direkten Schriftzitats, sondern eines ›eingebetteten Zitats‹ handeln: Neben dem eingangs
+    zitierten Hymnus aus der Großen Doxologie vor Beginn der Liturgie wäre auch an das Nizänische
+    Glaubensbekenntnis zu denken:
+    <lang xml:lang="gr-Latn">pisteuō eis hena theon, patera, pantokratora, poiētēn ouranou kai gēs</lang>,
+    »Ich (wir) glaube(n) an <hi rend="italic">einen</hi> Gott, Vater, Allherrscher, Schöpfer des
+    Himmels und der Erde«. Die etwa im vierten Jahrhundert vollzogene Übertragung des
+    Pantokrator-Titels auf Christus, die sich vor allem auf bildlichen Darstellungen manifestiert
+    (vgl. <bibl Zotero_Id_1="4S9R2G6P">Warland 1998</bibl>), wird in der koranischen Verkündigung
+    nicht nachvollzogen. Allmacht kommt im Koran einzig Gott zu, von dem in <q type="koran"
+     versstart="112:000" versend="112:004">Q 112</q> betont wird, daß er nicht gezeugt worden ist
+    noch gezeugt hat und niemand ihm wesensgleich ist. <q type="koran" versstart="112:001"
+     versend="112:004">Q 112:1–4</q>:
+    <lang xml:lang="ar-Latn">qul huwa llāhu aḥad / allāhu l-ṣamad / lam yalid wa-lam yūlad / wa-lam yakun lahu kufuwan aḥad</lang>,
+    »Sprich: Er ist Gott, einer, / Gott, der Beständige, / er zeugte nicht, noch wurde er gezeugt, /
+    und keiner ist ihm gleich« (siehe auch <bibl Zotero_Id_1="6I96FAXT"><hi rend="italic">KTS</hi>,
+     S. 761–768</bibl>).</p>
+   <p>So prominent das Junktim König und Allherrscher im christlichen Gottesdienst aber auch ist, so
+    fehlt es doch auch in der jüdischen Liturgie nicht, die z.B. am Schabbat mit dem auf <q
+     type="bibel" versstart="014:009" versend="014:009" buch="Sach">Sach 14,9</q> zurück-gehenden
+    Ausruf endet:
+    <lang xml:lang="hbo-Latn">we-haya YHWH le-melekh ʿal kol ha-areṣ ba-yom ha-hu yihyeh YHWH eḥad u-shemo eḥad</lang>,
+    »Dann wird der Herr König sein über die ganze Erde. An jenem Tag wird der Herr einzig sein und
+    sein Name einzig«. Geht man von einer Rezeption des Sacharja-Verses durch die Gemeinde aus, so
+    wäre auch hier am ehesten an eine Erfahrung mit dem ›eingebetteten Zitat‹ in der Liturgie zu
+    denken.</p>
+   <p>Aber nicht nur spätantike, sondern auch innerkoranische Vorläufer sind zu bedenken. Das Kolon
+    <lang xml:lang="ar-Latn">wa-huwa ʿalā kulli šaiʾin qadīr</lang> verweist zurück auf die
+    frühmekkanische Sure <q type="koran" versstart="085:000" versend="085:022">Q 85</q> (siehe zu
+    ihr <bibl Zotero_Id_1="X6J8ZZSZ"><hi rend="italic">HK 1</hi>, S. 330–345</bibl>), die mit 2d
+    auch einen 2r-ähnlichen Reim aufweist. Sie enthält den eng mit <q type="koran"
+     versstart="067:001" versend="067:001">Q 67:1</q> verwandten <q type="koran" versstart="085:009"
+     versend="085:009">Vers 85:9</q>:
+    <lang xml:lang="ar-Latn">alladhī lahu l-mulku samāwāti wa-l-arḍi wa-llāhu ʿalā kulli šaiʾin šahīd</lang>,
+    »der die Herrschaft über Himmel und Erde hat, Gott ist über alle Dinge Zeuge«, der — wenig
+    überraschend — aber bereits als Teil eines mittel- oder sogar spätmekkanischen Zusatzes erkannt
+    worden ist (vgl. <bibl Zotero_Id_1="X6J8ZZSZ"><hi rend="italic">HK 1</hi>, S. 332f.</bibl>). Es
+    lohnt sich, beide Suren, die auch dieselben Kernthemen aufweisen, zu vergleichen; relevant für
+    die Diskussion sind die <q type="koran" versstart="085:001" versend="085:002">Verse 1–2</q> und
+     <q type="koran" versstart="085:007" versend="085:012">7–12</q>.</p>
+   <p/>
+   <p><table cols="2" rows="9">
+     <head/>
+     <row>
+      <cell>1</cell>
+      <cell>wa-s-samāʾi ḏāti l-burūǧi </cell>
+     </row>
+     <row>
+      <cell>2</cell>
+      <cell>wa-l-yaumi l-mauʿūdi</cell>
+     </row>
+     <row>
+      <cell/>
+      <cell>〈…〉</cell>
+     </row>
+     <row>
+      <cell>7</cell>
+      <cell>wa-hum ʿalā mā yafʿalūna bi-l-muʾminīna šuhūdun</cell>
+     </row>
+     <row>
+      <cell>8</cell>
+      <cell>wa-mā naqamū minhum ʾillā ʾan yuʾminū bi-llāhi l-ʿazīzi l-ḥamīdi</cell>
+     </row>
+     <row>
+      <cell>9</cell>
+      <cell>allaḏī lahū mulku s-samāwāti wa-l-ʾarḍi wa-llāhu ʿalā kulli šaiʾin šahīdun</cell>
+     </row>
+     <row>
+      <cell>10</cell>
+      <cell>ʾinna llaḏīna fatanū l-muʾminīna wa-l-muʾmināti ṯumma lam yatūbū fa-lahum ʿaḏābu
+       ǧahannama wa-lahum ʿaḏābu l-ḥarīqi</cell>
+     </row>
+     <row>
+      <cell>11</cell>
+      <cell>ʾinna llaḏīna ʾāmanū wa-ʿamilū ṣ-ṣāliḥāti lahum ǧannātun taǧrī min taḥtiha l-ʾanhāru
+       ḏālika l-fauzu l-kabīru</cell>
+     </row>
+     <row>
+      <cell>12</cell>
+      <cell>ʾinna baṭša rabbika la-šadīdun</cell>
+     </row>
+    </table>
+    <table cols="2" rows="9">
+     <head/>
+
+     <row>
+      <cell>1</cell>
+      <cell>Beim Himmel und den Sternbildern,</cell>
+     </row>
+     <row>
+      <cell>2</cell>
+      <cell>beim angedrohten Tag,</cell>
+     </row>
+     <row>
+      <cell/>
+      <cell>〈…〉</cell>
+     </row>
+     <row>
+      <cell>7</cell>
+      <cell>(wenn die Frevler) Zeugnis ablegen müssen über das, was sie den Gläubigen jetzt
+       antun.</cell>
+     </row>
+     <row>
+      <cell>8</cell>
+      <cell>Nichts gab es an ihnen zu rächen, außer daß sie an Gott, den Mächtigen und
+       Preiswürdigen, glauben,</cell>
+     </row>
+     <row>
+      <cell>9</cell>
+      <cell>ihn, der die Herrschaft über Himmel und Erde hat, Gott ist über alle Dinge Zeuge.</cell>
+     </row>
+     <row>
+      <cell>10</cell>
+      <cell>Diejenigen, die die gläubigen Männer und Frauen auf die Probe stellten und nachher nicht
+       umkehrten, die erwartet die Strafe Gehennas. Ihre Strafe ist die des Höllenbrands.</cell>
+     </row>
+     <row>
+      <cell>11</cell>
+      <cell>Diejenigen, die glauben und Gutes tun, die erwarten Gärten, unter denen Ströme fließen,
+       das ist das große Glück.</cell>
+     </row>
+     <row>
+      <cell>12</cell>
+      <cell>Der Schlag deines Herrn ist wahrlich gewaltig.</cell>
+     </row>
+    </table></p>
+   <p>Beide Suren rekurrieren auf Sternbilder (<q type="koran" versstart="085:001" versend="085:001"
+     >85:1</q>/<q type="koran" versstart="067:005" versend="067:005">67:5</q>), den Jüngsten Tag (<q
+     type="koran" versstart="085:002" versend="085:002">85:2</q>/<q type="koran" versstart="067:005"
+     versend="067:006">67:5–6</q>), das Auf-die-Probe-Stellen des Menschen (<q type="koran"
+     versstart="085:010" versend="085:010">85:10</q>/<q type="koran" versstart="067:002"
+     versend="067:002">67:2</q>), Lohn (Garten) und Strafe (Gehenna) (<q type="koran"
+     versstart="085:010" versend="085:012">85:10–12</q>/<q type="koran" versstart="067:011"
+     versend="067:012">67:11–12</q>), Vergebung als Eigenschaft Gottes (<q type="koran"
+     versstart="085:014" versend="085:014">85:14</q>/<q type="koran" versstart="067:002"
+     versend="067:002">67:2</q>). Der Tenor der beiden Suren ist aber grundverschieden: <q
+     type="koran" versstart="085:000" versend="085:022">Q 85</q> beginnt mit einer bedrohlich
+    klingenden Schwurserie, auf die ein Fluch (<lang xml:lang="ar-Latn">qutila</lang>!) über
+    bestimmte Frevler folgt (<q type="koran" versstart="085:001" versend="085:006">V. 1–6</q>). Es
+    folgt dann ein mittelmekkanischer Zusatz, der aus eschatologischer Perspektive einen Rückblick
+    auf die in der Gegenwart erlittene Verfolgung eröffnet und in dem auch der mit <q type="koran"
+     versstart="067:001" versend="067:001">Q 67:1</q> eng verwandte <q type="koran"
+     versstart="085:009" versend="085:009">Vers 85:9</q> auftaucht. Die hier fokussierte Königswürde
+    Gottes ist ein spezifisch mittelmekkanisches Anliegen, es wird zwar auch im <hi rend="italic"
+     >Kerntext</hi> der frühen Sure (<q type="koran" versstart="085:015" versend="085:015"
+    >85:15</q>), am Anfang des II. Hauptteils, angesprochen, jedoch nur in Umschreibung:
+    <lang xml:lang="ar-Latn">ḏū l-ʿarši al-maǧīd</lang>, »der auf dem erhabenen Thron sitzt«. Der
+    Text endet aber mit einer düsteren Straflegendenerinnerung. Der neue — aus feierlichen Liturgien
+    geschöpfte — Tenor verleiht den mittelmekkanischen Suren dagegen eine gegenüber den früheren
+    besondere, gehobene Stimmung.</p>
+   <p>In Mittelmekka bildet die zum Gemeindegebet erhobene <lang xml:lang="ar-Latn">Fātiḥa</lang>
+    gewissermaßen den Tonus rectus, <q type="koran" versstart="001:004" versend="001:004">Q 1:4</q>:
+    <lang xml:lang="ar-Latn">〈mālik〉i [maliki] yaumi d-dīn</lang>, »Herrscher des Gerichtstags«
+    (siehe <bibl Zotero_Id_1="R7C4TXP6"><hi rend="italic">HK 2/1</hi>, S. 91f.</bibl>, und <bibl
+     Zotero_Id_1="3VUVHDEU">Neuwirth/Neuwirth 1991</bibl>), hält den Gedanken der Königsherrschaft
+    kontinuierlich präsent. — <bibl Zotero_Id_1="VKPMA39Q">Andrew Rippins (2006)</bibl>
+    Beobachtungen zu Gott-König basieren auf einer synchronen Lektüre ohne Interesse an der
+    Entwicklung.</p>
+  </text>
+  <text versstart="002" versend="002" verfasser="an">
+   <p><lem>llaḏī ḫalaqa l-mauta wa-l-ḥayāta li-yabluwakum ʾayyukum ʾaḥsanu ʿamalan wa-huwa l-ʿazīzu l-ġafūr]</lem>
+    Der Hymnus fährt fort mit einem Preis auf die Erschaffung der Zeit, die in den Grenzen von
+    Geburt und Tod der Prüfung dienen soll. Zu ihrer Vorbereitung stehen Tugendkataloge zur
+    Verfügung: <q type="koran" versstart="025:063" versend="025:076">Q 25:63–76</q>, <q type="koran"
+     versstart="023:001" versend="023:011">Q 23:1–11</q>, <q type="koran" versstart="023:057"
+     versend="025:061">57–61</q> und <q type="koran" versstart="027:003" versend="027:005">Q
+     27:3–5</q>, komplementiert durch den Dekalog in <q type="koran" versstart="017:022"
+     versend="017:039">Q 17:22–39</q> (zur Gattung ›Tugendkatalog‹ siehe <bibl
+     Zotero_Id_1="4WEWN8NZ"><hi rend="italic">SKMS</hi>, S. 191</bibl>).</p>
+   <p>Die auffällige Anordnung von Tod und Leben war bereits in <q type="koran" versstart="053:044"
+     versend="053:044">Q 53:44</q> und <q type="koran" versstart="025:003" versend="025:003">Q
+     25:3</q> so begegnet — entgegen <q type="koran" versstart="023:080" versend="023:080">Q
+     23:80</q>: <lang xml:lang="ar-Latn">wa-huwa lladhī yuḥyī wa-yumītu</lang>, »der lebendig macht
+    und sterben läßt«. Die Reihenfolge ist offenbar beabsichtigt, sie steht so ebenfalls an
+    prominenter Stelle in der jüdischen Liturgie: In der zweiten Bitte des Achtzehnbittengebets, wo
+    auch emphatisch von der Königswürde Gottes die Rede ist, heißt es abschließend (in Anlehnung an
+     <q type="bibel" versstart="002:006" versend="002:006" buch="1Sam">1 Sam 2,6</q>):
+    <lang xml:lang="hbo-Latn">u-mi domeh lakh melekh memit u-meḥyeh u-maṣmiaḥ yeshuʿa we-neʿeman attah le-haḥayot metim</lang>,
+    »Wer könnte dir verglichen werden, o König, der du Sterben und Leben und Erlösung ersprießen
+    läßt. Du bist treu, die Toten zu erwecken«. Diese Bitte besiegelt den theologischen Konflikt um
+    die Realität der Auferstehung (der auch in der Apostelgeschichte [<q type="bibel"
+     versstart="023:008" versend="023:008" buch="Apg">Apg 23,8</q>] aufgegriffen wird). Die Rabbinen
+    entschieden diesen Konflikt gegen die sadduzäischen Ablehner der Auferstehung zugunsten der ein
+    Leben nach dem Tod annehmenden Pharisäer. Sie beschlossen die Bitte mit der Doxologie:
+    <lang xml:lang="hbo-Latn">barukh attah YHWH meḥayyeh ha-metim</lang>, »Gesegnet seist du, Herr,
+    der die Toten belebt«. (»Beleber der Toten« ist eine Formel, die schon in der Apokryphe <hi
+     rend="italic">Joseph und Aseneth</hi> 20,7 und in <q type="bibel" versstart="004:017"
+     versend="004:017" buch="Röm">Röm 4,17</q> auftaucht, siehe <bibl Zotero_Id_1="444TJSE4"
+     >Feldmeier/Spieckermann <hi rend="superscript">3</hi>2020:536.</bibl>) Als Kernbestand des
+    Gebets, das in die Zeit des innerjüdischen Konflikts zwischen Sadduzäern und Pharisäern
+    zurückdatiert, erhebt die Formel die Vorstellung von der Auferstehung der Toten zu einem
+    zentralen Glaubensgrundsatz des spätantiken Judentums (vgl. dazu <bibl Zotero_Id_1="N234WBNP"
+     >Löwinger 1923</bibl>). So verstanden läßt die Formel die auch in koranischer Zeit wieder
+    aktuell gewordene Kontroverse um das Leben nach dem Tod anklingen.</p>
+  </text>
+  <text versstart="003" versend="003" verfasser="an">
+   <p><lem>llaḏī ḫalaqa sabʿa samāwātin ṭibāqan mā tarā fī ḫalqi r-raḥmāni min tafāwutin fa-rǧiʿi l-baṣara hal tarā min fuṭūr]</lem>
+    Die Betrachtung wendet sich von der Zeit zum Raum, konkret zum Kosmos. Die Vorstellung, daß der
+    Himmel aus sieben übereinandergelagerten Schichten (<lang xml:lang="ar-Latn">ṭibāq</lang>)
+    besteht, geht auch aus <q type="koran" versstart="071:015" versend="071:015">Q 71:15</q> hervor
+    (siehe <bibl Zotero_Id_1="R7C4TXP6"><hi rend="italic">HK 2/1</hi>, S. 448–462</bibl>). Sie ist
+    im Babylonischen Talmud (<hi rend="italic">bḤagigah</hi> 12b–13a) zu einem kohärenten Entwurf
+    des Aufbaus der Welt entwickelt (vgl. <bibl Zotero_Id_1="CJXJ78JD">Ego 2004</bibl>). Dort werden
+    die sieben Himmelsschichten benannt: <lang xml:lang="hbo-Latn">wilon</lang>, »Vorhang«,
+    <lang xml:lang="hbo-Latn">raqiʿa</lang>, »Feste«, <lang xml:lang="hbo-Latn">sheḥaqim</lang>,
+    »Dunstwolke«, <lang xml:lang="hbo-Latn">zevul</lang>, »Wohnung«,
+    <lang xml:lang="hbo-Latn">maʿon</lang>, »Burg«, <lang xml:lang="hbo-Latn">makhon</lang>,
+    »Stätte«, und <lang xml:lang="hbo-Latn">ʿaravot</lang>, »Gewölk«. Hinter allem steht offenbar
+    spätantikes ›Bildwissen‹ (vgl. <bibl Zotero_Id_1="BNWKUS4W">Olovsdotter 2018</bibl>), das die
+    Erde in die Mitte eines geozentrisch aufgebauten Kosmos stellt, umlagert von sieben
+    Planetensphären. Der Hinweis auf diesen Aufbau der Welt erweist die anschließende rhetorische
+    Frage nach möglichen Mängeln in der kosmischen Struktur als gegenstandslos, siehe dazu auch <q
+     type="koran" versstart="021:031" versend="021:031">Q 21:31</q>:
+    <lang xml:lang="ar-Latn">wa-ǧaʿalnā fī l-arḍi rawāsiya an tamīda bihim wa-ǧaʿalnā fīhā fiǧāǧan subulan laʿallahum yahtadūn</lang>,
+    »Wir setzten in die Erde festgegründete Berge ein, damit sie nicht mit ihnen schwanke. Und wir
+    machten auf ihr Pfade zu Wegen, so daß sie Rechtleitung finden möchten«, ähnlich schon
+    frühmekkanisch <q type="koran" versstart="078:006" versend="078:007">Q 78:6–7</q>, das ideale
+    Habitat des Menschen beschreibend:
+    <lang xml:lang="ar-Latn">a-lam naǧʿali l-arḍa mihādā / wa-l-ǧibāla autādā</lang>, »Haben wir die
+    Erde nicht zur ebenen Fläche ausgebreitet / und die Berge zu Zeltpflöcken gemacht?« (dazu <bibl
+     Zotero_Id_1="X6J8ZZSZ"><hi rend="italic">HK 1</hi>, S. 457–459</bibl>).</p>
+  </text>
+  <text versstart="004" versend="004" verfasser="an">
+   <p><lem>ṯumma rǧiʿi l-baṣara karrataini yanqalib ʾilaika l-baṣaru ḫāsiʾan wa-huwa ḥasīr]</lem>
+    Die perfekte Schöpfungsordnung, die absolute Unangreifbarkeit der Schöpfungsharmonie, wird (mit
+    zwei Versen!) so zentral gemacht, daß dahinter eine gegenteilige Wahrnehmung angenommen werden
+    muß. Die emphatisch-insistente Aufforderung zum Hinsehen läßt auf Kontroversität dieser Position
+    schließen. Sie kann hier nur angedeutet werden: Auch den Rabbinen ist das Problem der
+    Vollkommenheit der Schöpfung nicht fremd gewesen. Sie erkannten zwar aufgrund der Aussage
+    <lang xml:lang="hbo-Latn">ki ṭov</lang>, »denn (es war) gut«, wiederkehrend als Beurteilung der
+    Schöpfungswerke der sechs Tage in Gen 1: <q type="bibel" versstart="001:004" versend="001:004"
+     buch="Gen">V. 4</q> (Licht), <q type="bibel" versstart="001:004" versend="001:004" buch="Gen"
+     >V. 10</q> (trockenes Land und Meer), <q type="bibel" versstart="001:004" versend="001:004"
+     buch="Gen">V. 12</q> (Gewächs, Fruchtbäume, samentragend), <q type="bibel" versstart="001:004"
+     versend="001:004" buch="Gen">V. 18</q> (Lichter am Himmelsgewölbe), <q type="bibel"
+     versstart="001:004" versend="001:004" buch="Gen">V. 21</q> (Wassertiere), <q type="bibel"
+     versstart="001:004" versend="001:004" buch="Gen">V. 25</q> (Wildtiere der Erde) an, daß die
+    Schöpfung insgesamt »gut« war, eine Vorstellung, die auch in <q type="bibel" versstart="093:001"
+     versend="093:001" buch="Ps">Ps 93,1</q> (letzter Teilvers) bestätigt wird
+    (<lang xml:lang="hbo-Latn">bal timmoṭ</lang>, »so daß sie [d.h. die Erde] nicht wankt«),
+    erahnten aber hinter dieser scheinbaren Sicherheit eine bedrohliche Kontingenz: Die kosmischen
+    Gewalten müssen durch Gott in ihre Schranken gewiesen werden, da sie sonst infolge von
+    untereinander bestehender Rivalität wieder in Chaos
+    (<lang xml:lang="hbo-Latn">tohu wa-vohu</lang>) versinken würden; so heißt es entsprechend in
+     <hi rend="italic">bḤagigah</hi> 12a (in einer Gottesrede):
+    <lang xml:lang="hbo-Latn">ani hu she-amarti le-ʿolami dai</lang>, »Ich war es, der zu meiner
+    Welt sprach: ›Genug‹!« (siehe auch <hi rend="italic">Genesis Rabba</hi> 5,8 und 46,3). Diese
+    rabbinische Vorstellung redet die Psalmverse <q type="bibel" versstart="093:003"
+     versend="093:004" buch="Ps">Ps 93,3–4</q> aus:
+    <lang xml:lang="hbo-Latn">nasʾu neharot YHWH nasʾu neharot qolam yisʾu neharot dokhyam / mi-qolot mayyim rabbim addirim mishbere yam addir ba-marom YHWH</lang>,
+    »Fluten erhoben, Herr, Fluten erhoben ihr Tosen, Fluten erheben ihr Brausen. / Mehr als das
+    Tosen vieler Wasser, gewaltiger als die Brandung des Meeres ist gewaltig der Herr in der
+    Höhe«.</p>
+   <p>Nach christlicher Vorstellung ist die Vollkommenheit der Schöpfung eine noch zentralere
+    theologische Herausforderung. Hier geht man davon aus, daß die ursprünglich vollkommene
+    Schöpfung durch die erste Sünde entstellt wurde. Ihr zufolge ist Adam, und mit ihm die
+    Menschheit, durch selbstverschuldetes Fehlverhalten aus dem Idealzustand des Paradiesgartens
+    verbannt worden; auch die physische Schöpfung ist damit kompromittiert; in den Worten von Jakob
+    von Sarug (sechstes Jahrhundert; <bibl Zotero_Id_1="CD2UJBXJ">Mathews 2014:14</bibl>, diskutiert
+    bei <bibl Zotero_Id_1="TXU6734D">Ghaffar 2019:49f.</bibl>): »Am Anfang war die Erschaffung Adams
+    etwas sehr Großes. Doch durch seinen eigenen Willen brachte er sich selbst herunter zum tiefen
+    Fall.« Dieser Fall Adams erfordert, daß der Mensch durch das Opfer Christi erlöst wird. In
+    Jakobs Worten gibt es drei Schöpfungsakte: »Das erste Mal zeichnete er ihn in seinem Bild aus
+    Staub. Das zweite Mal erlöste er ihn durch das Blut seines eingeborenen Sohnes. Beim letzten Mal
+    wird er ihn mit seiner Stimme rufen aufzustehen« (<bibl Zotero_Id_1="CD2UJBXJ">Mathews
+     2014:36</bibl>; <bibl Zotero_Id_1="TXU6734D">Ghaffar 2019:51f.</bibl>). Es ist daher eine ›neue
+    Schöpfung‹ erforderlich, die mit Christus erstanden ist. Diese Sicht basiert bereits auf
+    neutestamentlichen Texten: Die ›alte Schöpfung‹ in ihrer Korrumpiertheit wird der neuen
+    Schöpfung in Christus gegenübergestellt, siehe <q type="bibel" versstart="005:017"
+     versend="005:017" buch="2Kor">2 Kor 5,17</q>: »Wenn jemand in Christus ist, da ist eine neue
+    Schöpfung: Das Alte ist vergangen, siehe, Neues ist geworden.« So betonen <bibl
+     Zotero_Id_1="444TJSE4">Feldmeier und Spieckermann(<hi rend="superscript"
+    >3</hi>2020:340)</bibl>: »Die soteriologische Folge der Lebenshingabe Jesu Christi 〈…〉 besteht
+    darin, dass ›das Alte‹, nämlich die tödliche Trennung von der schöpferischen Lebensmacht Gottes,
+    ›vergangen‹ und ›Neues geworden ist‹«. Diese zentrale christliche Wahrnehmung dürfte bei dem
+    koranischen Insistieren auf der Perfektion der Schöpfung negativ-intertextuell im Hintergrund
+    stehen. Denn in den spätmittelmekkanischen Suren wird auch anderswo eine soteriologische Rolle
+    Christi ausgeschlossen, siehe die benachbarte Sure <q type="koran" versstart="023:099"
+     versend="023:100">Q 23:99–100</q>, wo die Möglichkeit, daß die Mauer des Todes,
+    <lang xml:lang="hbo-Latn">barzakh</lang>, durch Christus durchbrochen werden kann, einfach
+    verschwiegen wird.</p>
+   <p>Die koranische Position ist diametral verschieden: Nicht nur besteht die Notwendigkeit einer
+    Erlösung im Horizont der Hörergemeinde gar nicht. Der Gedanke einer Entstelltheit der Schöpfung
+    kommt gar nicht erst auf. Diese Sicht ist in einer langen Entwicklung vorbereitet: Emphatischer
+    Schöpfungspreis hatte schon im Mittelpunkt frühmekkanischer Suren gestanden, vor allem von <q
+     type="koran" versstart="055:000" versend="055:078">Sure 55</q>, die mit einer an Menschen und
+    Dämonen gerichteten rhetorischen Frage
+    <lang xml:lang="ar-Latn">fa-bi-aiyi ālāʾi rabbikumā tukaḏḏibān</lang>, »Welche Huld eures Herrn
+    wollt ihr beiden [nämlich Menschen und Dämonen] also leugnen?«, die Evidenz der Höchstform der
+    Schöpfung zu einem 31mal wiederholten Refrain ihrer Aussage gemacht hatte (siehe <bibl
+     Zotero_Id_1="X6J8ZZSZ"><hi rend="italic">HK 1</hi>, S. 597f.</bibl>). Der Tenor dieser
+    frühesten <lang xml:lang="ar-Latn">raḥmān</lang>-Sure ist dem von <q type="koran"
+     versstart="067:000" versend="067:030">Q 67</q> ähnlich. In beiden Fällen ergeht in Form einer
+    Frage eine provozierende Herausforderung, die vollkommene Schöpfungsordnung anzuzweifeln,
+    gerichtet an eine präsente Hörergruppe.</p>
+  </text>
+  <text versstart="005" versend="005" verfasser="an">
+   <p><lem>wa-la-qad zayyanna s-samāʾa d-dunyā bi-maṣābīḥa wa-ǧaʿalnāhā ruǧūman li-š-šayāṭīni wa-ʾaʿtadnā lahum ʿaḏāba s-saʿīr]</lem>
+    Die kurze Einblendung der Dämonen (Satane), mit der der zweite Teil einsetzt, ist vielleicht
+    erforderlich, um sie, die in <q type="koran" versstart="055:000" versend="055:078">Q 55</q> als
+    engste Partner der Menschen in der Beurteilung der Schöpfung (Refrain in <q type="koran"
+     versstart="055:000" versend="055:078">Q 55</q>, 31mal) eingeführt worden waren, nunmehr zu
+    entmachten. Der Gedanke, daß ihnen mit den Himmelslichtern (Sternen) eine gefährliche Abwehr
+    entgegengestellt ist, wurde bereits in <q type="koran" versstart="015:000" versend="015:099">Q
+     15</q> vorgetragen, <q type="koran" versstart="015:016" versend="015:018">Q 15:16–18</q>
+    (Sternschnuppenmythos):
+    <lang xml:lang="ar-Latn">wa-la-qad ǧaʿalnā fī s-samāʾi burūǧan wa-zaiyannāhā li-n-nāzirīn / wa-ḥafiẓnāhā min kulli šaiṭānin raǧīm / illā mani staraqa s-samʿa fa-atbaʿahu šihābun mubīn</lang>,
+    »An den Himmel setzten wir Sternbilder und schmückten ihn für die Betrachtenden. / Wir
+    beschützten ihn vor jedwedem verfluchten Satan / der aber, der heimlich lauscht, dem wird eine
+    deutlich sichtbare Sternschnuppe folgen« (siehe <bibl Zotero_Id_1="R7C4TXP6"><hi rend="italic"
+      >HK 2/1</hi>, S. 238</bibl>). Zu der für Geistwesen spezifischen Strafe der Verbrennung siehe
+     <q type="kommentar" versstart="072:008" versend="072:009">Kommentar zu Q 72:8–9</q>.</p>
+   <p>In <q type="koran" versstart="067:005" versend="067:005">V. 5</q> erhalten die Sterne — wie
+    auch in der unmittelbar vorausgehenden Sure <q type="koran" versstart="072:008"
+     versend="072:009">Q 72:8–9</q> — eine noch deutlicher militante Konnotation, sie werden als
+    Wurfgeschosse (<lang xml:lang="ar-Latn">ruǧūm</lang>) gedeutet, gerichtet gegen die Dämonen,
+    d.h. Djinnen und Satane. Diese Assoziation der Sterne mit einem Waffenarsenal muß angesichts der
+    Wahrnehmung der Sterne als ›Himmelsheer‹ nicht verwundern; sie bilden z.B. auch am Anfang des
+    Schabbat-Morgengebets eine militärische Formation ab:
+    <lang xml:lang="hbo-Latn">ṭovim meʾorot she-baraʾ elohenu 〈…〉 qaraʾ la-shemesh wa-yizraḥ or. raʾah we-hitqin ṣurat ha-levanah. shevaḥ notnim lo kol ṣevaʾ marom 〈…〉</lang>,
+    »Gut sind die Lichter, die unser Gott erschaffen 〈…〉. Er rief der Sonne, da erstrahlte Licht, er
+    sah und formte des Mondes Gestalt. Lob spendet ihm alles Himmelsheer« (Übersetzung: <bibl
+     Zotero_Id_1="WP3MURE9">Bamberger <hi rend="superscript">10</hi>1922:105f.</bibl>, leicht
+    modifiziert).</p>
+  </text>
+  <text versstart="006" versend="006" verfasser="an">
+   <p><lem>wa-li-llaḏīna kafarū bi-rabbihim ʿaḏābu ǧahannama wa-biʾsa l-maṣīr]</lem> Wie die Dämonen
+    bestraft werden, so auch die Leugner, denen nun die Aufmerksamkeit gilt. — Die Fluchformel
+    <lang xml:lang="ar-Latn">wa-biʾsa l-maṣīr</lang>, »Welch übles Ziel!«, kehrt die
+    Paradiesverheißung in <q type="koran" versstart="025:015" versend="025:015">Q 25:15</q> um:
+    <lang xml:lang="ar-Latn">qul a-ḏālika ḫairun am ǧannatu l-ḫuldi llatī wuʿida l-muttaqūna kānat lahum ǧazāʾan wa-maṣīrā</lang>,
+    »Sprich: ›Ist dies wirklich besser als der Garten der Ewigkeit, der den Gottesfürchtigen
+    verheißen ist als Lohn und Ziel?‹«. — Fluchformeln begegneten auch in <q type="koran"
+     versstart="023:000" versend="023:118">Q 23</q>, so gerichtet gegen die Gegner Noahs, <q
+     type="koran" versstart="023:041" versend="023:041">V. 41</q>:
+    <lang xml:lang="ar-Latn">fa-aḫadhaṯumu ṣ-ṣaiḥatu bi-l-ḥaqqi fa-ǧaʿalnāhum ġuthāʾan fa-buʿdan li-l-qaumi z-zālimīn</lang>,
+    »Da erfaßte sie ›der Schrei‹, wahrhaftig! Wir machten sie zu Treibgut. ›Fort mit dem
+    frevlerischen Volk‹«, und gegen die Gegner späterer Warner, <q type="koran" versstart="023:044"
+     versend="023:044">V. 44</q>:
+    <lang xml:lang="ar-Latn">ṯumma arsalnā rusulanā tatrā kulla mā ǧāʾa ummatan rasūluhā kaḏḏabūhu fa-atbaʿnā baʿḍahum baʿḍan wa-ǧāʿalnāhum aḥādīṯa fa-buʿdan li-qaumin lā yuʾminūn</lang>,
+    »Wir schickten Gesandte aus, einen nach dem anderen. Jedesmal, wenn zu einer Gemeinschaft ihr
+    Gesandter kam, nannten sie ihn Lügner. Wir ließen einen auf den anderen folgen und ließen es zu
+    einer Redensart werden. ›Fort mit einem Volk, das nicht glaubt‹«.</p>
+  </text>
+  <text versstart="007" versend="007" verfasser="an">
+   <p><lem>ʾiḏā ʾulqū fīhā samiʿū lahā šahīqan wa-hiya tafūr]</lem> Das Bild der brodelnden Hölle
+    mit akustischer Untermalung begegnete ähnlich in den benachbarten Suren <q type="koran"
+     versstart="025:011" versend="025:012">Q 25:11–12</q> und <q type="koran" versstart="023:027"
+     versend="023:027">Q 23:27</q>. In <q type="koran" versstart="025:011" versend="025:012">Q
+     25:11–12</q> waren es gerade Höllengeräusche, die lautmalerisch eingefangen wurden:
+    <lang xml:lang="ar-Latn">bal kaḏḏabū bi-l-sāʿati wa-aʿtadnā li-man kaḏḏaba bi-l-sāʿati saʿīrā / iḏā raʾathum min makānin baʿīdin samiʿū lahā taġaiyuẓan wa-zafīrā</lang>,
+    »Aber nein, sie nannten ›die Stunde‹ Lüge. Für alle, die ›die Stunde‹ leugnen, halten wir ein
+    Flammenmeer bereit: / Wenn es sie von fernher sieht, hören sie, wie es wütet und stöhnt«. In <q
+     type="koran" versstart="067:007" versend="067:007">Q 67:7</q> findet sich eine ähnliche Nennung
+    von abschreckenden Höllengeräuschen. Die Höllengeräusche <lang xml:lang="ar-Latn">zafīr</lang>
+     (<q type="koran" versstart="025:012" versend="025:012">Q 25:12</q>) und
+    <lang xml:lang="ar-Latn">šahīq</lang> (<q type="koran" versstart="067:007" versend="067:007">Q
+     67:7</q>) sind als Drohgeräusche (Lärmen und Tosen) des Höllenbrandes nach <bibl
+     Zotero_Id_1="WQZESV5G">Chr. Lange (2015:86)</bibl> den Drohgebärden von Raubtieren zu
+    vergleichen. <lang xml:lang="ar-Latn">Fāra</lang> wurde in <q type="koran" versstart="023:027"
+     versend="023:007">Q 23:27</q> in einem anderen Drohtext verwendet, nämlich zur Markierung des
+    Höhepunkts der Flutkatastrophe: <lang xml:lang="ar-Latn">wa-fāra l-tannūru</lang>, »wenn der
+    Ofen dann brodelt« (siehe den <q type="kommentar" versstart="023:027" versend="023:027"
+     >Kommentar zur Stelle</q>).</p>
+  </text>
+  <text versstart="008" versend="009" verfasser="an">
+   <p><lem>takādu tamayyazu mina l-ġaiẓi kullamā ʾulqiya fīhā fauǧun saʾalahum ḫazanatuhā ʾa-lam yaʾtikum naḏīr / qālū balā qad ǧāʾanā naḏīrun fa-kaḏḏabnā wa-qulnā mā nazzala llāhu min šaiʾin ʾin ʾantum ʾillā fī ḍalālin kabīr]</lem>
+    Steigerung der Absurdität des Szenarios durch ein Gespräch zwischen Höllenwächtern und den
+    Bestraften — eine Wiederaufnahme der bereits früher häufigen Verlegung des Gesprächs mit den
+    Gegnern aus der realen Zeit ins Jenseits, siehe etwa die Teichoskopieszene in <q type="koran"
+     versstart="074:039" versend="074:047">Q 74:39–47</q>:
+    <lang xml:lang="ar-Latn">illā aṣḥāba l-yamīn / fī ǧannātin yatasāʾalūn / ʿani l-muǧrimīn / mā salakakum fī saqar / qālū lam naku mina l-muṣallīn / wa-lam naku nuṭʿimu l-miskīn / wa-kunnā naḫūḍu maʿa l-ḫāʾiḍīn / wa-kunnā nukaḏḏibu bi-yaumi l-dīn / ḥattā atānā l-yaqīn</lang>,
+    »Doch die Genossen der Rechten, / im Garten befragen sie einander / nach den Frevlern: ›Was hat
+    euch in die Höllenhitze gestoßen?‹ / Sie sprechen: ›Wir pflegten nicht zu beten / und nicht die
+    Armen zu speisen, / waren stets dabei, wenn leichtfertig geredet wurde, / und leugneten den Tag
+    des Gerichts, / bis das Sichere zu uns kam‹« (dazu <bibl Zotero_Id_1="X6J8ZZSZ"><hi
+      rend="italic">HK 1</hi>, S. 371f.</bibl>). Diese Gesprächsszenen — ähnlich auch in <q
+     type="koran" versstart="052:025" versend="052:029">Q 52:25–29</q> und <q type="koran"
+     versstart="037:050" versend="037:061">Q 37:50–61</q> — dienen dazu, die früher von den Gegnern
+    polemisch gestellte Frage nach dem postmortalen Ergehen, das für sie ein Weiterleben ausschloß,
+    nun von ihnen selbst beantworten zu lassen. Es handelt sich also um eine fiktionalisierte
+    Wiedergabe der gegnerischen Positionen. Diese Textsorte ermöglicht, in der Realität eintönig
+    wirkende Aussagen durch die Projektion an den Strafort zu ›exotisieren‹.</p>
+   <p>Die (eisegetische) Lesart von Ibn Masʿūd
+    <lang xml:lang="ar-Latn">balā ǧaʾanā naḏīrun minnā kaḏḏabnāhu</lang>, »Ja gewiß, zu uns kam ein
+    Warner aus unserer Mitte, aber wir nannten ihn einen Lügner«, stellt sich gegen ein Verständnis
+    der Stelle als auch die Dämonen einbegreifend, zu denen ja bekanntlich kein Warner aus ihrer
+    Mitte gekommen ist (siehe den <q type="kommentar" versstart="072:000" versend="072:028"
+     >Kommentar zu Q 72</q>), so daß die Rede nun eindeutig auf Menschen zielt.</p>
+  </text>
+  <text versstart="010" versend="011" verfasser="an">
+   <p><lem>wa-qālū lau kunnā nasmaʿu ʾau naʿqilu mā kunnā fī ʾaṣḥābi s-saʿīr / fa-ʿtarafū bi-ḏanbihim fa-suḥqan li-ʾaṣḥābi s-saʿīr]</lem>
+    Reuige Einsicht der Gerichteten, als <lang xml:lang="ar-Latn">aṣḥāb as-saʿīr</lang>, »Bewohner
+    des Flammenmeers«, bezeichnet, die ihre eigene Schuld zugeben —
+    <lang xml:lang="ar-Latn">aṣḥābi s-saʿīr</lang> evoziert <q type="koran" versstart="081:012"
+     versend="081:013">Q 81:12–13</q>:
+    <lang xml:lang="ar-Latn">wa-iḏā l-ǧaḥīmu suʿʿirat  / wa-iḏā l-ǧannatu uzlifat</lang>, »wenn das
+    Höllenfeuer entfacht wird / und wenn der Garten nahegebracht wird« (siehe <bibl
+     Zotero_Id_1="X6J8ZZSZ"><hi rend="italic">HK 1</hi>, S. 297</bibl>). — Die aus der Vergeltung
+    deduzierte Benennung der Verurteilten erinnert an die eines frühen Gegners des Verkünders, ʿAbd
+    al-ʿUzzā, dem als Abū Lahab, »der mit der Flamme«, eine satirisch-verunglimpfende Sure gewidmet
+    ist (siehe den <q type="kommentar" versstart="111:000" versend="111:005">Kommentar zu Q 111</q>
+    in <bibl Zotero_Id_1="X6J8ZZSZ"><hi rend="italic">HK 1</hi>, S. 141–143</bibl>).</p>
+  </text>
+  <text versstart="012" versend="012" verfasser="an">
+   <p><lem>ʾinna llaḏīna yaḫšauna rabbahum bi-l-ġaibi lahum maġfiratun wa-ʾaǧrun kabīr]</lem> Der
+    Vers vervollständigt das mit <q type="koran" versstart="067:006" versend="067:006">V. 6</q>
+    begonnene Doppelbild, freilich ohne für die ›Guten‹, hier: diejenigen, die ›in sich gegangen‹
+    sind, den eschatologischen Gewinn auszumalen. <lang xml:lang="ar-Latn">Ḫašya</lang> ist bereits
+    Terminus technicus für gottgefälliges Verhalten, wie aus den Tugendkatalogen bekannt. Es kommt
+    griechisch <lang xml:lang="gr-Latn">eusebeia</lang>, »Gottesfurcht, Frömmigkeit«, nahe. Bereits
+    in <q type="koran" versstart="023:057" versend="023:061">Q 23:57–61</q> figurierte im Rahmen
+    eines kurzen Tugendkatalogs die demütige Haltung des Menschen als wichtigste Manifestation des
+    Glaubens:
+    <lang xml:lang="ar-Latn">inna llaḏīna hum min ḫašyati rabbihim mušfiqūn / wa-llaḏīna hum bi-āyāti rabbihim yuʾminūn / wa-llaḏīna hum bi-rabbihim lā yušrikūn / wa-llaḏīna yuʾtūna mā ātau wa-qulūbuhum waǧilatun annahum ilā rabbihim rāǧiʿūn / ulāʾika yusāriʿūna fī l-ḫairāti wa-hum lahā sābiqūn</lang>,
+    »Diejenigen, die von der Furcht vor ihrem Herrn ergriffen sind / und die an die Zeichen ihres
+    Herrn glauben / und die ihrem Herrn nichts an die Seite stellen / und die spenden, was sie
+    spenden können, / wobei ihre Herzen davor zittern, daß sie zu ihrem Herrn zurückkehren: / Die
+    sind es, die um die guten Dinge wetteifern und darin voraus sind«.</p>
+   <p>Gottesfürchtiges Handeln kann sich im verborgenen (<lang xml:lang="ar-Latn">bi-l-ġaib</lang>)
+    vollziehen wie bei Zacharia, <q type="koran" versstart="019:003" versend="019:003">Q 19:3</q>:
+    <lang xml:lang="ar-Latn">iḏ nādā rabbahu nidāʾan ḫafīyā</lang>, »als er im stillen zu seinem
+    Herrn rief!«. Hörbares und unhörbares Sprechen werden mehrfach einander gegenübergestellt, so
+    auch wieder in <q type="koran" versstart="067:013" versend="067:013">V. 13</q>. In <q
+     type="koran" versstart="020:007" versend="020:008">Q 20:7–8</q> wird der Unterschied zwischen
+    beiden als unerheblich eingeschätzt, da Gott um das Geheime weiß:
+    <lang xml:lang="ar-Latn">wa-in taǧhar bi-l-qauli fa-innahu yaʿlamu l-sirra wa-aḫfā / Allāhu lā ilāha illā huwa lahu l-asmāʾu l-ḥusnā</lang>,
+    »Ob du laut hörbar oder leise sprichst, er kennt das Geheime und selbst das Verborgenste. / Gott
+    — kein Gott außer ihm. Sein sind die schönsten Namen« (vgl. <bibl Zotero_Id_1="R7C4TXP6"><hi
+      rend="italic">HK 2/1</hi>, S. 330f.</bibl>). — Mit <lang xml:lang="ar-Latn">maġfira</lang>,
+    »Verzeihung«, eine der den Seligen versprochenen Zuwendungen Gottes, wird auf ein wichtiges
+    Gottesattribut aus dem Anfang der Sure zurückgegriffen, <q type="koran" versstart="067:002"
+     versend="067:002">V. 2</q>: <lang xml:lang="ar-Latn">wa-huwa l-ʿazīzu l-ġafūr</lang>, »er ist
+    der Mächtige, der Vergebende«.</p>
+  </text>
+  <text versstart="013" versend="014" verfasser="an">
+   <p><lem>wa-ʾasirrū qaulakum ʾawi ǧharū bihī ʾinnahū ʿalīmun bi-ḏāti ṣ-ṣudūr / ʾa-lā yaʿlamu man ḫalaqa wa-huwa l-laṭīfu l-ḫabīr]</lem>
+    Nach dem Doppelbild wendet sich die Botschaft dem Menschen als Geschöpf zu, dem Innerlichkeit
+    (<lang xml:lang="ar-Latn">ḏāt aṣ-ṣudūr</lang>) eignet. Ganz im Sinne von <q type="koran"
+     versstart="020:007" versend="020:007">Q 20:7</q> werden hörbares und unhörbares Sprechen auf
+    eine Ebene gestellt: Die jeweils dahinterstehende Gesinnung, ›das, was in den Herzen ist‹ (vgl.
+     <bibl Zotero_Id_1="89WAAM3P">Ambros 2004:158</bibl>), die ›in der Brust verborgenen Gefühle und
+    Gedanken‹, entzieht sich dem Wissen Gottes nicht. Schon früh wird das Innere des Menschen
+    fokussiert, <q type="koran" versstart="100:009" versend="100:011">Q 100:9–11</q>:
+    <lang xml:lang="ar-Latn">a-fa-lā yaʿlamu iḏā buʿthira mā fī l-qubūr / wa-ḥuṣṣila mā fī ṣ-ṣudūr / inna rabbahum bihim yaumaʾiḏin la-ḫabīr</lang>,
+    »Weiß er denn nicht: Wenn das im Grab ist auferweckt / und das im Herzen aufgedeckt, / daß
+    nichts vor seinem Herrn dann bleibt versteckt?« (dazu <bibl Zotero_Id_1="X6J8ZZSZ"><hi
+      rend="italic">HK 1</hi>, S. 171f.</bibl>). Auf diese Sure greift auch die Gottespreisung in <q
+     type="koran" versstart="067:014" versend="067:014">V. 14</q> zurück:
+    <lang xml:lang="ar-Latn">wa-huwa l-laṭifu l-ḫabīr</lang> schließt an die Gottespreisung aus <q
+     type="koran" versstart="100:011" versend="100:011">Q 100:11</q> an, wo Gott als der inneren
+    Gedanken kundig erscheint.</p>
+   <p>Die rhetorische Frage <q type="koran" versstart="067:014" versend="067:014">V. 14</q> kann
+    unterschiedlich verstanden werden; <lang xml:lang="ar-Latn">man ḫalaqa</lang> kann Objekt oder
+    Subjekt sein (siehe schon <bibl Zotero_Id_1="X9T7RF7R">Paret, <hi rend="italic">KKK</hi>, S.
+     483</bibl>). Paret (<bibl Zotero_Id_1="J6TM6UHR"><hi rend="italic">KÜ</hi>, S. 401</bibl>)
+    übersetzt das Objektverständnis: »Sollte er sich nicht in denen auskennen, die er geschaffen hat
+    〈…〉?« (ähnlich <bibl Zotero_Id_1="J7GZ5X57">Zirker 2003:352</bibl>); <bibl
+     Zotero_Id_1="Q9EDU63R">Bobzin (2010:515)</bibl> übersetzt das Subjektverständnis: »Sollte der,
+    der erschuf, kein Wissen haben 〈…〉?« Dieses Verständnis, das dem Schöpfer die absolute Kenntnis
+    des von ihm Geschaffenen zuerkennt, würde <q type="bibel" versstart="094:000" versend="094:000"
+     buch="Ps">Psalm 94</q> entsprechen, der mit ähnlichen Bildern arbeitet, <q type="bibel"
+     versstart="094:000" versend="094:000" buch="Ps">V. 9</q>:
+    <lang xml:lang="hbo-Latn">ha-noṭaʿ ozen ha-loʾ yishmaʿ im yoṣer ʿayin ha-loʾ yabiṭ</lang>, »Der
+    das Ohr gepflanzt hat, sollte der nicht hören? Der das Auge gemacht hat, sollte der nicht
+    sehen?«.</p>
+  </text>
+  <text versstart="015" versend="015" verfasser="an">
+   <p><lem>huwa llaḏī ǧaʿala lakumu l-ʾarḍa ḏalūlan fa-mšū fī manākibihā wa-kulū min rizqihī wa-ʾilaihi n-nušūr]</lem>
+    Der Vers ruft den biblischen Aufruf an den Menschen (Schluß des ersten Schöpfungsberichts) in
+    Erinnerung, sich die Erde zu unterwerfen, vgl. <q type="bibel" versstart="001:028"
+     versend="001:029" buch="Gen">Gen 1,28–29</q>: »<hi rend="superscript">28</hi>Gott segnete sie,
+    und Gott sprach zu ihnen: ›Seid fruchtbar und mehret euch, bevölkert die Erde, unterwerft sie
+    euch, und herrscht über die Fische des Meeres, über die Vögel des Himmels und über alle Tiere,
+    die sich auf dem Land regen.‹ <hi rend="superscript">29</hi>Dann sprach Gott: ›Hiermit übergebe
+    ich euch alle Pflanzen auf der ganzen Erde, die Samen tragen, und alle Bäume mit samenhaltigen
+    Früchten. Euch sollen sie zur Nahrung dienen 〈…〉.‹«</p>
+   <p>In <q type="koran" versstart="067:001" versend="067:030">Q 67</q> geht es aber nicht darum,
+    daß sich die Menschen die Erde untertan machen, vielmehr ist sie von Gott bereits ›gezähmt‹
+    (<lang xml:lang="ar-Latn">ḏalūl</lang>). Nimmt man die Bildlichkeit genau, so weist
+    <lang xml:lang="ar-Latn">manākib</lang>, Singular <lang xml:lang="ar-Latn">mankib</lang>,
+    »Schulter«, mit Paret (<bibl Zotero_Id_1="J6TM6UHR"><hi rend="italic">KÜ</hi>, S. 421</bibl>)
+    besser wiedergegeben als »Rücken« (so auch <bibl Zotero_Id_1="J7GZ5X57">Zirker 2003:352</bibl>),
+    auf die Vorstellung der Erde als einem ›urzeitlichen Tier‹, das Gott den Menschen gefügig
+    gemacht hat. Das Bild der gezähmten Chaoswasser als rabbinisches Argument, das die Kontingenz
+    der Schöpfungsvollkommenheit betonte, wurde bereits im <q type="kommentar" versstart="067:004"
+     versend="067:004">Kommentar zu V. 4</q> angesprochen. Hintergrund dürfte das Bild der gezähmten
+    »Tehom« (Urflut) sein, einer Art personifizierter »Urtiefe« (<bibl Zotero_Id_1="LJMY6EHI"
+     >Whatham 1910</bibl>), welches hinter der biblischen Aussage in <q type="bibel"
+     versstart="001:002" versend="001:002" buch="Gen">Gen 1,2</q> steht. »Tehom« wird von einigen
+    Forschern verstanden als Rückgriff auf den mesopotamischen Schöpfungsmythos, als Tiamat, die —
+    das Chaos repräsentierend — als Ungeheuer des chaotischen Urzustandes gedeutet wird. Das
+    Ungeheuer wird von Marduk zerhauen, und aus seinen Hälften entstehen Himmel und Erde (vgl. <q
+     type="bibel" versstart="001:006" versend="001:006" buch="Gen">Gen 1,6</q>). Der biblische Gott
+    weist das Ungeheuer in seine Schranken (vgl. <bibl Zotero_Id_1="LSBWHUUH">Powell 2009:93</bibl>
+    und <bibl Zotero_Id_1="5FMZW5YT">Schüle 2009:34</bibl>). Innerkoranisch läßt sich das Bild einer
+    animalisch vorgestellten Erde mit solchen frühmekkanischen Andeutungen einer offenbar beseelten
+    Erde wie die eschatologische Szenerie in <q type="koran" versstart="099:001" versend="099:005">Q
+     99:1–5</q> assoziieren:
+    <lang xml:lang="ar-Latn">iḏā zulzilati l-arḍu zilzālahā / wa-aḫraǧati l-arḍu aṯqālahā / wa-qāla l-insānu mā lahā / yaumaʾiḏin tuḥaddiṯu aḫbārahā / bi-anna rabbaka auḥā lahā</lang>,
+    »Wenn einst die Erde heftig bebt / und die Erde ihre Last auswirft / und der Mensch fragt, was
+    ist ihr? / Jenen Tags erzählt sie ihre Geschichte, / so wie dein Herr es ihr eingibt« (siehe
+    dazu <bibl Zotero_Id_1="X6J8ZZSZ"><hi rend="italic">HK 1</hi>, S. 161f.</bibl>).</p>
+   <p><lang xml:lang="ar-Latn">Wa-kulū min rizqihi</lang> — »Nährt euch von seiner Versorgung«, d.h.
+    von den göttlichen Gaben, die in jüdisch wie christlich so prominenten Texten wie Psalm 8
+    aufgezählt werden, der hymnisch dieses Bild aufnimmt, <q type="bibel" versstart="008:002"
+     versend="008:002" buch="Ps">V. 2</q>, <q type="bibel" versstart="008:007" versend="008:009"
+     buch="Ps">7–9</q>:
+    <lang xml:lang="hbo-Latn">YHWH adonenu mah addir shimkha be-khol ha-areṣ 〈…〉. / kol shattah taḥat raglaw / ṣoneh wa-alafim kullam we-gam bahamot saday / ṣippor shamayyim u-degane ha-yam ʿover arḥot yammim 〈…〉</lang>,
+    »Herr, unser Herr, wie gewaltig ist dein Name auf der ganzen Erde 〈…〉. Alles hast du ihm [= dem
+    Menschen] unter die Füße gelegt: / Schafe und Rinder, sie alle und auch die wilden Tiere, / die
+    Vögel des Himmels und die Fische im Meer, was auf den Pfaden der Meere dahinzieht«.</p>
+   <p><lang xml:lang="ar-Latn">Nušūr</lang> hat in der benachbarten Sure <q type="koran"
+     versstart="025:047" versend="025:047">Q 25:47</q> die Bedeutung »Wachsein«:
+    <lang xml:lang="ar-Latn">wa-huwa llaḏī ǧaʿala lakumu l-laila libāsan wa-l-nauma subātan wa-ǧaʿalā l-nahāra nušūrā</lang>,
+    »Er ist es, der euch die Nacht zu einem Kleide machte und den Schlaf zur Ruhe und den Tag zum
+    Wachsein«. Die Bestimmung von Nacht und Tag nimmt den Hymnus aus <q type="koran"
+     versstart="078:006" versend="078:016">Q 78:6–16</q> wieder auf, der auf <q type="bibel"
+     versstart="104:002" versend="104:002" buch="Ps">Ps 104,2</q> basiert (<bibl
+     Zotero_Id_1="X6J8ZZSZ"><hi rend="italic">HK 1</hi>, S. 465–468</bibl>). In unserem Kontext
+    bedeutet <lang xml:lang="ar-Latn">wa-ilaihi l-nušūr</lang> jedoch das »Wiederwachsein«, die
+    Auferstehung: »Und zu ihm hin ist die Erweckung«.</p>
+  </text>
+  <text versstart="016" versend="018" verfasser="an">
+   <p><lem>ʾa-ʾamintum man fi s-samāʾi ʾan yaḫsifa bikumu l-ʾarḍa fa-ʾiḏā hiya tamūr / ʾam ʾamintum man fi s-samāʾi ʾan yursila ʿalaikum ḥāṣiban fa-sa-taʿlamūna kaifa naḏīr / wa-la-qad kaḏḏaba llaḏīna min qablihim fa-kaifa kāna nakīr]</lem>
+    <lang xml:lang="ar-Latn">a-amintum</lang>-Serie; sie blendet wie bereits die am Anfang der
+    spätmittelmekkanischen Periode stehende Sure <q type="koran" versstart="017:068"
+     versend="017:069">Q 17:68–69</q> die Kontingenz der gegebenen Verhältnisse ein. Sie verweist
+    damit zurück auf bekannte, über frühere Völker hereingebrochene Katastrophen. <q type="koran"
+     versstart="017:068" versend="017:069">Q 17:68–69</q>:
+    <lang xml:lang="ar-Latn">a-fa-amintum an yaḫsifa bikum ǧāniba l-barri au yursila ʿalaikum ḥāṣiban ṯumma lā taǧidū lakum wakīlā / am amintum an yuʿīdakum fīhi tāratan uḫrā fa-yursila ʿalaikum qāṣifan mina r-rīḥi fa-yuġriqakum bi-mā kafartum ṯumma lā taǧidū lakum ʿalainā bihi tabīʿā</lang>,
+    »Seid ihr denn davor sicher, daß er euch nicht auf dem Festland wegrafft oder einen Sturm über
+    euch entfacht und ihr dann keinen Beistand für euch findet? / Seid ihr davor sicher, daß er euch
+    nicht ein anderes Mal dorthin zurückführt und über euch einen heftigen Orkan entfesselt und euch
+    ertrinken läßt — darum, daß ihr undankbar wart — und ihr dabei dann keinen Helfer gegen uns für
+    euch findet?«.</p>
+   <p><lang xml:lang="ar-Latn">An yursila ʿalaikum ḥāṣibā</lang> erinnert konkret an die
+    Lot-Erzählung in <q type="koran" versstart="054:034" versend="054:034">Q 54:34</q>:
+    <lang xml:lang="ar-Latn">innā arsalnā ʿalaihim ḥāṣiban illā āla Lūṭin naǧǧaināhum bi-saḥar</lang>,
+    »Wir sandten einen Sandsturm über sie — doch nicht über Lots Familie, wir erretten sie bei
+    Morgengrauen«. Wie dort steht der Kiesel aufwirbelnde Wind
+    (<lang xml:lang="ar-Latn">ḥāsib</lang>) metonymisch für
+    <lang xml:lang="ar-Latn">rīḥ ḥāṣib</lang>, »Wind, der Kiesel aufwirbelt«.</p>
+  </text>
+  <text versstart="019" versend="019" verfasser="an">
+   <p><lem>ʾa-wa-lam yarau ʾila ṭ-ṭairi fauqahum ṣāffātin wa-yaqbiḍna mā yumsikuhunna ʾilla r-raḥmānu ʾinnahū bi-kulli šaiʾin baṣīr]</lem>
+    Die Verfügung Gottes über die sich verändernden Bewegungen der Geschöpfe wird am Vogelflug
+    demonstriert, an dem die Formationsbildung als Zeichen göttlicher Macht Bewunderung erregt.
+    Paret versteht <lang xml:lang="ar-Latn">ṣāffāt</lang> als »Flügel ausbreiten«, vgl. seine
+    Erklärung zu dem medinischen Vers <q type="koran" versstart="024:041" versend="024:041">Q
+     24:41</q> (<bibl Zotero_Id_1="X9T7RF7R"><hi rend="italic">KKK</hi>, S. 360f.</bibl>):</p>
+   <p>Der Ausdruck <lang xml:lang="ar-Latn">ṣāffāt</lang>, der hier 〈…〉 auf die Vögel angewandt
+    wird, bedeutet nach den Lexikographen »schwebend«, genauer »(die Flügel im Schwebeflug)
+    ausbreitend«, im Gegensatz zu <lang xml:lang="ar-Latn">daffa</lang> »(beim Flug) mit den Flügeln
+    schlagen«. (In <q type="koran" versstart="067:019" versend="067:019">Q 67,19</q> heißt es von
+    den Vögeln, daß sie ihre Flügel »ausbreiten und einziehen«,
+    <lang xml:lang="ar-Latn">ṣāffātin wa-yaqbiḍna</lang>.) Vielleicht besteht zwischen dem Ausdruck
+    <lang xml:lang="ar-Latn">ṣāffāt</lang>, mit dem die besondere Flugart der Vögel gekennzeichnet
+    wird, und der Vorstellung, daß sie Gott lobpreisen, ein sachlicher Zusammenhang.</p>
+   <p>Diese Deutung hat sich auf die übrigen Übersetzungen ausgebreitet: <bibl
+     Zotero_Id_1="J7GZ5X57">Zirker (2003:353)</bibl>: »Haben sie denn nicht die Vögel über sich
+    gesehen, wie sie die Flügel ausbreiten und einziehen? 〈…〉«, <bibl Zotero_Id_1="Q9EDU63R">Bobzin
+     (2010:515)</bibl>: »Haben sie denn nicht die Vögel hoch über sich gesehen, wie sie ihre
+    Schwingen ausbreiten und anlegen? 〈…〉«.</p>
+   <p>Die Deutung ist aber aus dem Kontext erschlossen. Ihr widerspricht der Gebrauch von
+    <lang xml:lang="ar-Latn">ṣaffa</lang> im Sinne von »eine (Schlacht-)Reihe bilden«, bereits früh
+    in <q type="koran" versstart="037:001" versend="037:001">Q 37:1</q>:
+    <lang xml:lang="ar-Latn">wa-ṣ-ṣāffāti ṣaffā</lang>, »bei den in Reihen Schreitenden«, bezogen
+    auf die Engel (<bibl Zotero_Id_1="R7C4TXP6"><hi rend="italic">HK 2/1</hi>, S. 165–171</bibl>),
+    dieselben attestieren später für sich selber, daß sie die »in Reihen Schreitenden sind«, <q
+     type="koran" versstart="037:165" versend="037:165">Q 37:165</q>:
+    <lang xml:lang="ar-Latn">wa-innā la-naḥnu ṣ-ṣāffūn</lang>, »Wir sind die in Reihen Schreitenden«
+    (dazu <bibl Zotero_Id_1="R7C4TXP6"><hi rend="italic">HK 2/1</hi>, S. 202f.</bibl>). Dieses Bild
+    (das von Lexikographen wie Ambros korrekt verstanden wird) hat nachgerade nichts mit »Flügel
+    ausbreiten« zu tun (wird aber für <q type="koran" versstart="067:000" versend="067:030">Q 67</q>
+    von Ambros dennoch fälschlich so verstanden). Entsprechend sollte <q type="koran"
+     versstart="067:019" versend="067:019">V. 19</q> auch gelesen werden als eine Aussage über die
+    besondere Erscheinung des Vogelflugs, die man sich nicht logisch erklären konnte: Die Vögel
+    formieren sich in breiten Reihen und schließen sich dann wieder in (linienähnlichen?)
+    Formationen zusammen. Der Vorgang kann nur mit der Sorgewaltung Gottes erklärt werden, eine
+    ähnliche Erklärung für ein Naturphänomen wird in Spätmittelmekka auch für die Bewegung des
+    Schattens in <q type="koran" versstart="025:045" versend="025:046">Q 25:45–46</q> gegeben:
+    <lang xml:lang="ar-Latn">a-lam tara ilā rabbika kaifa madda ẓ-ẓilla wa-lau šāʾa la-ǧaʿalahu sākinan ṯumma ǧaʿalnā š-šamsa ʿalaihi dalīlā / ṯumma qabaḍnāhu ilainā qabḍan yasīrā</lang>,
+    »Siehst du nicht, wie dein Herr den Schatten zu etwas Beweglichem gemacht hat? — Hätte er
+    gewollt, hätte, er ihn stillstehen lassen. — Außerdem machten wir die Sonne zu einem Richtwert
+    für ihn. / Schließlich ziehen wir ihn wieder zu uns zurück«. Parets Hinweis auf den Gottesdienst
+    der Vögel ist eine Übertragung aus <q type="koran" versstart="038:018" versend="038:019">Q
+     38:18–19</q>:
+    <lang xml:lang="ar-Latn">innā saḫḫarnā l-ǧibāla maʿahu yusabbiḥna bi-l-ʿashīyi wa-l-išrāq / wa-ṭ-ṭaira maḥšūratan kullun lahu auwāb</lang>,
+    »Wir machten die Berge dienstbar, daß sie mit ihm das Lob sängen, am Abend und am frühen Morgen,
+    / zusammen mit der Schar der Vögel — ein jeder war mit ihm bußfertig« (dazu <bibl
+     Zotero_Id_1="R7C4TXP6"><hi rend="italic">HK 2/1</hi>, S. 545f.</bibl>). In diesem Vers geht es
+    um die für David bewirkte Unterwerfung der Natur und Tierwelt. So wird auch wieder in <q
+     type="koran" versstart="021:079" versend="021:079">Q 21:79</q> von dem Gotteslob der Vögel
+    berichtet:
+    <lang xml:lang="ar-Latn">fa-fahhamnāhā Sulaimāna wa-kullan ātainā ḥukman wa-ʿilman wa-sakhkharnā maʿa Dāwūda l-ǧibāla yusabbiḥna wa-ṭ-ṭaira wa-kunnā fāʿilīn</lang>,
+    »Und Salomo gaben wir dazu Verstandeskraft, und einem jeden gaben wir Urteilskraft und Wissen.
+    Wir machten mit David die Berge dienstbar, daß sie Gotteslob anstimmten, ebenso die Vögel. Das
+    taten wir!«. Diese Vorstellung verdankt sich einer wörtlichen Lektüre von poetischen Psalmversen
+    (die Psalmen werden ja David als sein literarisches Werk zugeschrieben). So sind es in <q
+     type="bibel" versstart="148:007" versend="148:010" buch="Ps">Ps 148,7–10</q>
+    Landschaftsformationen wie auch Tiere, darunter Vögel, die Gott preisen sollen:
+    <lang xml:lang="hbo-Latn">hallelu et YHWH min ha-areṣ tanninim we-khol tehomot / esh u-varad sheleg we-qiṭor ruaḥ seʿarah ʿoseh devaro / he-harim we-khol gevaʿot ʿeṣ peri we-khol arazim / ha-ḥayyah we-khol behemah remes we-ṣippor kanaf</lang>,
+    »Lobt den Herrn von der Erde her, ihr Ungeheuer des Meeres und alle Tiefen, / Feuer und Hagel,
+    Schnee und Nebel, du Sturmwind, der sein Wort vollzieht, / ihr Berge und all ihr Hügel, ihr
+    Fruchtbäume und alle Zedern, / ihr Tiere alle, wilde und zahme, ihr Kriechtiere und ihr
+    gefiederten Vögel«. — In <q type="koran" versstart="067:000" versend="067:030">Q 67</q>, wo der
+    David-Kontext fehlt, ist diese Assoziation durch nichts gerechtfertigt.</p>
+   <p>Hingegen weist der Vers in seiner Kernaussage — Sorgewaltung Gottes für die kleinsten Teile
+    der Schöpfung — eine Verwandtschaft zu dem Jesus-Wort in <q type="bibel" versstart="006:026"
+     versend="006:026" buch="Mt">Mt 6,26</q> auf: »Sehet die Vögel unter dem Himmel: Sie säen nicht,
+    sie ernten nicht, sie sammeln nicht in die Scheunen; und euer himmlischer Vater nährt sie doch
+    〈…〉« (vgl. auch <q type="bibel" versstart="012:024" versend="012:024" buch="Lk">Lk 12,24</q>).
+    Freilich ist die Stoßrichtung jeweils eine andere: Im Evangelium geht es um paränetische
+    Belehrung, im Koran um ein Allmachtszeichen.</p>
+  </text>
+  <text versstart="020" versend="021" verfasser="an">
+   <p><lem>ʾam-man hāḏa llaḏī huwa ǧundun lakum yanṣurukum min dūni r-raḥmāni ʾini l-kāfirūna ʾillā fī ġurūr / ʾam-man hāḏa llaḏī yarzuqukum ʾin ʾamsaka rizqahū bal laǧǧū fī ʿutuwwin wa-nufūr]</lem>
+    Beginn einer <lang xml:lang="ar-Latn">am-man</lang>-Serie: Die Übersetzer sind sich in der
+    Interpretation von <q type="koran" versstart="067:020" versend="067:020">V. 20</q> nicht einig.
+    Paret (<bibl Zotero_Id_1="J6TM6UHR"><hi rend="italic">KÜ</hi>, S. 402</bibl>): »Oder wo ist
+    einer (w[örtlich]. Wer ist derjenige), der euch eine Heerschar wäre, um euch zu helfen, außer
+    dem Barmherzigen? Die Ungläubigen sind (ja) völlig betört« (ähnlich <bibl Zotero_Id_1="J7GZ5X57"
+     >Zirker 2003:353</bibl>). <bibl Zotero_Id_1="Q9EDU63R">Bobzin (2010:515)</bibl> interpretiert
+    dagegen: »Oder wer ist es denn, der euch, wie eine Heerschar, helfen könnte gegen den Erbarmer?
+    Nichts als einer Täuschung sind die Ungläubigen erlegen.« Der Kontext spricht gegen diese
+    Deutung. Die rhetorische Frage nach einem Helfer (wörtlich: Schutztruppe, die den Sieg verleiht)
+    außer dem Erbarmer nimmt die Ankündigung einer — in eschatologischer Zeit zu erwartenden —
+    Auseinandersetzung mit den Gegnern aus <q type="koran" versstart="037:167" versend="037:167">Q
+     37:167</q> und <q type="koran" versstart="054:044" versend="054:046">Q 54:44–46</q> wieder auf,
+    ohne allerdings an dem eschatologischen Rahmen festzuhalten. Die Fortsetzung in <q type="koran"
+     versstart="067:021" versend="067:021">V. 21</q> (»Wer könnte euch versorgen, wenn er seine
+    Versorgung zurückhält?«) spricht ebenfalls gegen Bobzins Deutung.</p>
+  </text>
+  <text versstart="022" versend="022" verfasser="an">
+   <p><lem>ʾa-fa-man yamšī mukibban ʿalā waǧhihī ʾahdā ʾam-man yamšī sawiyyan ʿalā ṣirāṭin mustaqīm]</lem>
+    In <q type="koran" versstart="067:022" versend="067:022">V. 22</q> erfolgt Reimwechsel von 2r
+    auf 2m/n, einen Vers vor dem Übergang von Teil II zu Teil III. <q type="koran"
+     versstart="067:022" versend="067:022">V. 22</q> beschließt die
+    <lang xml:lang="ar-Latn">am-man</lang>-Serie (<q type="koran" versstart="067:020"
+     versend="067:021">V. 20–21</q>) mit einer absurden Frage, die die Absurdität der Situation der
+    Gegner beleuchtet: Wer ist auf besserem Wege: derjenige, der strauchelt und immer wieder auf
+    sein Gesicht fällt, oder derjenige, der aufrecht den geraden Weg beschreitet? Paret (<bibl
+     Zotero_Id_1="J6TM6UHR"><hi rend="italic">KÜ</hi>, S. 483</bibl>) und <bibl
+     Zotero_Id_1="Q9EDU63R">Bobzin (2010:761)</bibl> übersetzen interpretierend und nehmen die
+    theologische Deutung vorweg, indem sie <lang xml:lang="ar-Latn">ahdā</lang> mit »rechtgeleitet«
+    übersetzen: »Ist denn einer, der einhergeht und dabei kopfüber zu Boden stürzt, eher
+    rechtgeleitet, oder einer, der stetig auf einem geraden Weg einhergeht?« (Paret) bzw. »Ist wohl
+    einer, der sein Antlitz niedergebeugt hält, eher rechtgeleitet oder der, der auf dem rechten
+    Wege aufrecht schreitet?« (Bobzin). Es geht aber um die Anschauung eines grotesk gestörten
+    Gehverhaltens, das mit einem normalen kontrastiert wird, um die groteske Geisteshaltung der
+    Gegner, die essentielle Rolle des Erbarmers als Schutzherr und Versorger der Menschen nicht
+    anerkennen, zu demonstrieren. Solche krassen Gegenüberstellungen werden später in den
+    koranischen Parabeln üblich (siehe <bibl Zotero_Id_1="6I96FAXT"><hi rend="italic">KTS</hi>, S.
+     498–509</bibl>).</p>
+   <p><lang xml:lang="ar-Latn">Ṣirāṭ mustaqīm</lang> kann, muß aber nicht im religiösen Sinn
+    verstanden werden, wenn es aber auch die seit Frühmittelmekka als Gemeindegebet in Gebrauch
+    befindliche <lang xml:lang="ar-Latn">Fātiḥa</lang> in Erinnerung bringt (siehe zu ihr <bibl
+     Zotero_Id_1="R7C4TXP6"><hi rend="italic">HK 2/1</hi>, S. 85–102</bibl>).</p>
+  </text>
+  <text versstart="023" versend="024" verfasser="an">
+   <p><lem>qul huwa llaḏī ʾanšaʾakum wa-ǧaʿala lakumu s-samʿa wa-l-ʾabṣāra wa-l-ʾafʾidata qalīlan mā taškurūn / qul huwa llaḏī ḏaraʾakum fi l-ʾarḍi wa-ʾilaihi tuḥšarūn]</lem>
+    Der dritte Teil beginnt mit einem Aufruf an den Verkünder, die Hörer an ihre Erschaffung und
+    ihre Ausstattung mit Sinnesorganen zu erinnern. Ähnlich begann der Schlußteil von <q
+     type="koran" versstart="023:078" versend="023:080">Sure 23:78–80</q>:
+    <lang xml:lang="ar-Latn">wa-huwa llaḏī anshaʾa lakumu s-samʿa wa-l-abṣāra wa-l-afʾidata qalīlan mā taškurūn / wa-huwa llaḏī ḏaraʾakum fī l-arḍi wa-ilaihi tuḥšarūn / wa-huwa llaḏī yumītu wa-yuḥyī wa-lahu ḫtilāfu l-laili wa-n-nahāri a-fa-lā taʾqilūn</lang>,
+    »Er ist es, der euch Gehör, Augen und Herzen einsetzte, wie wenig dankbar seid ihr! / Er ist es,
+    der euch auf der Erde vermehrte, zu ihm werdet ihr versammelt. / Er ist es, der sterben läßt und
+    lebendig macht und der verfügt hat den Wechsel von Nacht und Tag; wollt ihr denn nicht
+    begreifen?«. In <q type="koran" versstart="067:024" versend="067:024">V. 24</q> folgt noch die
+    Einblendung des saatähnlichen Hervorbringens der Menschen auf der Erdoberfläche, auf der sie bei
+    der Auferstehung auch wieder zusammengeschart werden sollen (<q type="koran" versstart="067:024"
+     versend="067:024">V. 24</q> = <q type="koran" versstart="023:079" versend="023:079">Q
+    23:79</q>).</p>
+   <p>Der Locus classicus für diese Fokussierung der Sinnesorgane ist jedoch die frühmekkanische <q
+     type="koran" versstart="090:000" versend="090:020">Sure 90</q>
+    <lang xml:lang="ar-Latn">al-balad</lang> (siehe zu ihr <bibl Zotero_Id_1="X6J8ZZSZ"><hi
+      rend="italic">HK 1</hi>, S. 236–252</bibl>, und <bibl Zotero_Id_1="PA3PU4KK">Neuwirth
+     2017</bibl>), wo diese Gaben funktional als Verpflichtungen zu vernünftigem Handeln zur
+    Strukturierung der Polis, <lang xml:lang="ar-Latn">al-balad</lang>, aufgeführt werden. Dort wird
+    in Anlehnung an die Psalmen (<q type="bibel" versstart="040:001" versend="040:001" buch="Ps">Ps
+     40</q> und <q type="bibel" versstart="097:000" versend="097:000" buch="Ps">97</q>) die
+    Ausstattung des Menschen mit Sinnesorganen dargelegt. Die relevanten Verse von <q type="koran"
+     versstart="090:008" versend="090:016">Q 90:8–16</q> lauten:
+    <lang xml:lang="ar-Latn">a-lam naǧʿal lahu ʿainain / wa-lisānan wa-šafatain / wa hadaināhu l-naǧdain / fa-lā qtaḥama l-ʿaqabah / wa-mā adrāka mā l-ʿaqabah / fakku raqabah / au iṭʿāmun fī yaumin ḏī masġabah / yatīman ḏā maqrabah / au miskīnan ḏā matrabah</lang>,
+    »Haben wir ihm nicht zwei Augen eingesetzt / und eine Zunge und zwei Lippen / und ihn die beiden
+    hohen Wege hinaufgeführt? / Er aber hat den Steilweg nicht erklommen. / Weißt du, was ist der
+    Steilweg? / Die Losbindung eines Nackens oder die Speisung am Tag der Hungersnot / einer Waise
+    aus der Verwandtschaft / oder eines Armen, der im Staube liegt«. Hier geht es um Gottes
+    besondere Schöpfung des Menschen, dem er Sinnesorgane eingesetzt, Augen und — stellvertretend
+    für das Verstehensorgan — Lippen zur Artikulation von überlegter Rede gegeben hat. Die in <q
+     type="koran" versstart="090:000" versend="090:020">Q 90</q> gestellten suggestiv-rhetorischen
+    Fragen (<q type="koran" versstart="090:008" versend="090:014">V. 8–14</q>) nach der Ausstattung
+    des Menschen mit Verstandeskräften sprechen eine epistemische Herausforderung aus. Was
+    ›eingesehen‹ werden soll, ist die analoge Beziehung zwischen Mensch und Stadt, zwischen Mikro-
+    und Makrokosmos. Es gilt ein — in der Menschenschöpfung bereits angelegtes — Ideal auch am
+    politischen Körper zu verwirklichen, nämlich Ausgewogenheit, Harmonie herzustellen. Für die
+    sprachtheologische Dimension der Sure siehe <bibl Zotero_Id_1="PA3PU4KK">Neuwirth
+     (2017:83f.)</bibl>. In <q type="koran" versstart="067:000" versend="067:030">Q 67</q> steht
+    jedoch nicht die Symmetrie, sondern stehen Sehen, Hören und das Herz als Verstehensinstrumente
+    im Zentrum, die auf das Erkennen der Wahrheit zielen; die fatalen Folgen ihres Nichteinsatzes
+    wurden in <q type="koran" versstart="067:010" versend="067:010">V. 10</q> (wo die Bestraften
+    reumütig bekennen: »Hätten wir doch gehört und bedacht 〈…〉«) explizit gemacht. — Gleichwohl ist
+    die suggestive frühe Sure mit ihrer besonderen, letztendlich auf Platon zurückgehenden
+    Philosophie (Makro-/Mikrokosmos) als im Bewußtsein der Hörer weiterhin präsent
+    vorauszusetzen.</p>
+  </text>
+  <text versstart="025" versend="026" verfasser="an">
+   <p><lem>wa-yaqūlūna matā hāḏa l-waʿdu ʾin kuntum ṣādiqīn / qul ʾinnama l-ʿilmu ʿinda llāhi wa-ʾinnamā ʾana naḏīrun mubīn]</lem>
+    Die Ankündigung der Auferstehung provoziert die Entgegnung mit einer Frage, die bereits Topos
+    ist. Der Topos begegnete bereits in Q 27 (<q type="koran" versstart="067:025" versend="067:025"
+     >V. 25</q> = <q type="koran" versstart="027:071" versend="027:071">Q 27:71</q>). Auch hier wird
+    die zeitliche Information verweigert — das Wissen um die Stunde ist unzugänglich, es ist einzig
+    bei Gott, siehe <q type="koran" versstart="043:085" versend="043:085">Q 43:85</q>:
+    <lang xml:lang="ar-Latn">wa-tabāraka llaḏī lahu mulku s-samāwāti wa-l-arḍi wa-mā bainahumā wa-ʿindahu ʿilmu s-sāʿati wa-ilaihi turǧaʿūn</lang>,
+    »Preis sei dem, der die Herrschaft hat über die Himmel und die Erde und was dazwischen ist. Bei
+    ihm ist das Wissen um die Stunde, und zu ihm werdet ihr zurückgebracht«. Der Vers stützt sich
+    letztendlich auf <q type="bibel" versstart="024:035" versend="024:036" buch="Mt">Mt
+    24,35–36</q>: <hi rend="superscript">35</hi><lang xml:lang="gr-Latn">ho ouranos kai hē gē pareleusetai, hoi de logoi mou ou mē parelthōsin.</lang>
+    <hi rend="superscript"
+    >36</hi><lang xml:lang="gr-Latn">Peri de tēs hēmeras ekeinēs kai hōras oudeis oiden, oude hoi angeloi tōn ouranōn oude ho hyios, ei mē ho patēr monos</lang>,
+    »Himmel und Erde werden vergehen, meine Worte werden nicht vergehen. Welcher Tag und welche
+    Stunde es sein werden, weiß keiner, auch die Engel und der Sohn nicht, nur der Vater« (vgl. auch
+     <q type="bibel" versstart="013:031" versend="013:032" buch="Mk">Mk 13,31–32</q>). Zu dem
+    Begriff der »Stunde« siehe <bibl Zotero_Id_1="GN4ENDFJ">Rubin (2010:42f.)</bibl>, der auf den
+    Zusammenhang von <q type="koran" versstart="043:061" versend="043:061">Q 43:61</q>, <q
+     type="koran" versstart="025:011" versend="025:011">25:11</q>, <q type="koran"
+     versstart="018:021" versend="018:021">18:21</q> und oft in Spätmekka hinweist.</p>
+  </text>
+  <text versstart="027" versend="027" verfasser="an">
+   <p><lem>fa-lammā raʾauhu zulfatan sīʾat wuǧūhu llaḏīna kafarū wa-qīla hāḏa llaḏī kuntum bihī taddaʿūna]</lem>
+    Aber erst die Anschauung der endzeitlichen Verhältnisse wird die Ungläubigen überzeugen. Diese
+    Ereignisse sieht der Verkünder gewissermaßen vor sich: Der hier für die Ungläubigen
+    vorausgesagte verzerrte Gesichtsausdruck als Indikator der Schwere der erlittenen Strafe ist aus
+    Frühmekka bereits vertraut, in <q type="koran" versstart="075:020" versend="075:025">Q
+     75:20–25</q> heißt es:
+    <lang xml:lang="ar-Latn">kallā bal tuḥibbūna l-ʿāǧilah / wa-tadharūna l-āḫirah / wuǧūhun yaumaʾiḏin nāḍirah / ilā rabbihā nāẓirah / wa-wuǧūhun yaumaʾiḏin bāsirah / taẓunnu an yufʿala bihā fāqirah</lang>,
+    »Doch nein, ihr liebt die flüchtige Welt / und laßt die jenseitige sein! / Gesichter werden
+    jenen Tags strahlend blicken, / zu ihrem Herrn aufschauend, / und Gesichter werden jenen Tags
+    finster blicken, / als würde bei ihnen eine Kerbe eingebrannt« (siehe <bibl
+     Zotero_Id_1="X6J8ZZSZ"><hi rend="italic">HK 1</hi>, S. 423f.</bibl>). Ein ähnliches Bild bietet
+    auch <q type="koran" versstart="080:038" versend="080:042">Q 80:38–42</q>, wo die Ungläubigen
+    den Seligen gegenübergestellt werden:
+    <lang xml:lang="ar-Latn">wuǧūhun yaumaʾiḏin musfirah / ḍāḥikatun mustabširah / wa-wuǧūhun yaumaʾiḏin ʿalaihā ġabarah / tarhaquhā qatarah / ulāʾika humu l-kafaratu l-faǧarah</lang>,
+    »An jenem Tag wird es strahlende Gesichter geben, / lachende, fröhliche, / und Gesichter, mit
+    Staub bedeckt, / auf denen schmutzige Trübung liegt, / das sind die Ungläubigen und Sünder«
+    (siehe <bibl Zotero_Id_1="X6J8ZZSZ"><hi rend="italic">HK 1</hi>, S. 387f.</bibl>). — In <q
+     type="koran" versstart="067:000" versend="067:030">Q 67</q> folgt noch eine sarkastische Anrede
+    an die Betroffenen.</p>
+  </text>
+  <text versstart="028" versend="028" verfasser="an">
+   <p><lem>qul ʾa-raʾaitum ʾin ʾahlakaniya llāhu wa-man maʿiya ʾau raḥimanā fa-man yuǧīru l-kāfirīna min ʿaḏābin ʾalīm]</lem>
+    Die Rede wendet sich nun an die Hörer mit der Aufforderung an den Verkünder, ihnen die Folgen
+    seines möglichen Untergangs (d.h. seines Todes) zu bedenken zu geben. Selbst die Leugner würden
+    dann keinen Schutz mehr haben. Die Frage der Zufluchtsmöglichkeit
+    (<lang xml:lang="ar-Latn">man yuǧīru</lang>) spielt in Spätmittelmekka, wo die so oft angedrohte
+    Bestrafung der Gegner auf sich warten läßt, zunehmend eine Rolle. Sie wurde bereits in <q
+     type="koran" versstart="023:088" versend="023:088">Q 23:88</q> mit mehreren anderen
+    Möglichkeiten der Krisenbewältigung diskutiert; sie begegnete auch schon in der eng verwandten
+    Sure <q type="koran" versstart="072:022" versend="072:022">Q 72:22</q>.</p>
+  </text>
+  <text versstart="030" versend="030" verfasser="an">
+   <p><lem>qul ʾa-raʾaitum ʾin ʾaṣbaḥa māʾukum ġauran fa-man yaʾtīkum bi-māʾin maʿīn]</lem> Dieser
+    Vers gehört vor <q type="koran" versstart="067:029" versend="067:029">V. 29</q> (siehe oben <q
+     type="literarkritik" versstart="067:029" versend="067:029">»Literarkritik«</q>). Die Umstellung
+    legt sich nahe, soll die Sure nach bereits etabliertem Surenschlußtypus beendet werden, vgl. <q
+     type="koran" versstart="038:086" versend="038:088">Q 38:86–88</q> (früh-mittelmekkanisch), <q
+     type="koran" versstart="025:077" versend="025:077">25:77</q> und <q type="koran"
+     versstart="027:093" versend="027:093">27:93</q> (beide spätmittelmekkanisch). — Die Befürchtung
+    aus <q type="koran" versstart="067:028" versend="067:028">V. 28</q> wird in <q type="koran"
+     versstart="067:030" versend="067:030">V. 30</q> existentiell gewendet: Das schon fast versiegte
+    Wasser entspricht der chaotisch-gefährlichen Situation, die mit der Abwesenheit des Verkünders
+    eintreten würde. Das klare Quellwasser steht für die klärende Kraft seiner Botschaft, die häufig
+    als <lang xml:lang="ar-Latn">mubīn</lang> dargestellt wird, so in den <q type="koran"
+     versstart="067:008" versend="067:008">Versen 8</q>, <q type="koran" versstart="067:017"
+     versend="067:017">17</q>, <q type="koran" versstart="067:026" versend="067:026">26</q> und oft
+    in Spätmittelmekka. Die Metapher grenzt an eine Allegorisierung des Verkünders, wie sie vorher
+    noch nicht begegnete. Das Bild des Quellwassers für das göttliche Erbarmen ist in prophetischen
+    Aussagen nicht ungewöhnlich, man denke an die Begegnung Jesu mit der Samaritanerin (<q
+     type="bibel" versstart="004:007" versend="004:042" buch="Joh">Joh 4,7–42</q>), in der er ihr
+    das Wasser des Lebens ankündigt. In <q type="koran" versstart="067:000" versend="067:030">Q
+     67</q> dürfte zugleich die beduinische Erfahrungswelt im Hintergrund stehen.</p>
+   <p>Die Lesart von Ibn ʿAbbās: <lang xml:lang="ar-Latn">ʿaḏb</lang>, »süßes Wasser«, anstelle von
+    <lang xml:lang="ar-Latn">māʾ maʿīn</lang>, ist der Versuch einer interpretierenden Paraphrase
+    (siehe oben <q type="literarkritik" versstart="067:000" versend="067:030"
+    >»Literarkritik«</q>).</p>
+  </text>
+  <text versstart="029" versend="029" verfasser="an">
+   <p><lem>qul huwa r-raḥmānu ʾāmannā bihī wa-ʿalaihi tawakkalnā fa-sa-taʿlamūna man huwa fī ḍalālin mubīn]</lem>
+    Als Anweisung an den Verkünder formulierter Schlußruf: Das Bekenntnis zum
+    <lang xml:lang="ar-Latn">raḥmān</lang> nimmt den bereits in <q type="koran" versstart="067:003"
+     versend="067:003">V. 3</q>, <q type="koran" versstart="067:019" versend="067:020">19 und 20</q>
+    eingesetzten Gottesnamen wieder auf. Das kurze Glaubensbekenntnis verbindet sich noch einmal mit
+    einer Polemik gegen ›die im klaren Irrtum Befindlichen‹,
+    <lang xml:lang="ar-Latn">man huwa fī ḍalālin mubīn</lang>, die auch in <q type="koran"
+     versstart="019:038" versend="019:038">Q 19:38</q>, <q type="koran" versstart="043:040"
+     versend="043:040">43:40</q>, <q type="koran" versstart="036:024" versend="036:024">36:24</q>,
+     <q type="koran" versstart="036:047" versend="036:047">47</q> und <q type="koran"
+     versstart="021:054" versend="021:054">21:54</q> benannt worden waren.</p>
+  </text>
+ </kommentar>
+ <analysedeutungkurz>
+  <text versstart="000" versend="030" verfasser="an">
+   <p/>
+  </text>
+ </analysedeutungkurz>
+ <analysedeutung>
+  <EntwicklungsgeschichtlicheEinordnungkurz>
+   <text versstart="000" versend="030" verfasser="an">
+    <p/>
+   </text>
+  </EntwicklungsgeschichtlicheEinordnungkurz>
+  <EntwicklungsgeschichtlicheEinordnung>
+   <text versstart="000" versend="030" verfasser="an">
+    <p><q type="koran" versstart="067:000" versend="067:030">Q 67</q> gehört zu den
+     <lang xml:lang="ar-Latn">raḥmān</lang>-Suren, zusammen mit <q type="koran" versstart="055:000"
+      versend="055:078">Q 55</q> (noch frühmekkanisch), <q type="koran" versstart="001:000"
+      versend="001:007">Q 1</q>, <q type="koran" versstart="020:000" versend="020:135">20</q>, <q
+      type="koran" versstart="019:000" versend="019:098">19</q> (frühmittelmekkanisch) und <q
+      type="koran" versstart="043:000" versend="043:089">Q 43</q>, <q type="koran"
+      versstart="036:000" versend="036:083">36</q>, <q type="koran" versstart="025:000"
+      versend="025:077">25</q>, <q type="koran" versstart="067:000" versend="067:030">67</q>, <q
+      type="koran" versstart="021:000" versend="021:112">21</q> (spätmittelmekkanisch). Mit ihren
+     zumeist zwei bis drei Kola umfassenden Versen entspricht sie dem Standard mittelmekkanischer
+     Suren, doch weist sie bereits zwölf Klauseln (in insgesamt 30 Versen) auf, eine
+     Stileigentümlichkeit, die sie mit späteren Suren verbindet: <q type="koran" versstart="067:001"
+      versend="067:001">V. 1</q>: <lang xml:lang="ar-Latn">wa-huwa ʿalā kulli šaiʾin qadīr</lang>;
+      <q type="koran" versstart="067:002" versend="067:002">V. 2</q>:
+     <lang xml:lang="ar-Latn">wa-huwa l-ʿazīzu l-ġafūr</lang>; <q type="koran" versstart="067:009"
+      versend="067:009">V. 9</q>: <lang xml:lang="ar-Latn">in antum illā fī ḍalālin kabīr</lang>; <q
+      type="koran" versstart="067:012" versend="067:012">V. 12</q>:
+     <lang xml:lang="ar-Latn">lahum maġfiratun wa-aǧrun kabīr</lang>; <q type="koran"
+      versstart="067:013" versend="067:013">V. 13</q>:
+     <lang xml:lang="ar-Latn">innahu ʿalīmun bi-ḏāti ṣ-ṣudūr</lang>; <q type="koran"
+      versstart="067:014" versend="067:014">V. 14</q>:
+     <lang xml:lang="ar-Latn">wa-huwa l-laṭīfu l-ḫabīr</lang>; <q type="koran" versstart="067:015"
+      versend="067:015">V. 15</q>: <lang xml:lang="ar-Latn">wa-ilaihi l-nušūr</lang>; <q
+      type="koran" versstart="067:019" versend="067:019">V. 19</q>:
+     <lang xml:lang="ar-Latn">innahu bi-kulli šaiʾin baṣīr</lang>; <q type="koran"
+      versstart="067:020" versend="067:020">V. 20</q>:
+     <lang xml:lang="ar-Latn">ini l-kāfirūna illā fī ġurūr</lang>; <q type="koran"
+      versstart="067:023" versend="067:023">V. 23</q>:
+     <lang xml:lang="ar-Latn">qalīlan mā taškurūn</lang>; <q type="koran" versstart="067:024"
+      versend="067:024">V. 24</q>: <lang xml:lang="ar-Latn">wa-ilaihi tuḥšarūn</lang>; <q
+      type="koran" versstart="067:025" versend="067:025">V. 25</q>:
+     <lang xml:lang="ar-Latn">in kuntum ṣādiqīn</lang>. Klauseln, formelhafte Schlußkola von Versen,
+     übernehmen seit mittelmekkanischer Zeit die strukturierende Funktion der vorher durch das
+     phonetische Mittel des Reims erreichten Endsignale von Versen. Insofern metadiskursiv, nicht am
+     Informationsfluß teilhabend, dienen sie der Reflexion über die theologische Dimension des
+     jeweils Berichteten und heben den Text so auf das Niveau eines Meditationstextes. In <q
+      type="koran" versstart="067:000" versend="067:030">Q 67</q> findet sich erstmals an fast jedem
+     zweiten Vers eine Klausel, so daß der Text bereits zu den später dominierenden Klauseltexten
+     gerechnet werden kann.</p>
+    <p>Dennoch steht die Sure in mehrfacher Hinsicht den frühmekkanischen Suren nahe. Schon mit dem
+     aus dem spätmittelmekkanischen Schema der 2n/m-Reime herausfallenden Reimschema 2r verrät die
+     Sure eine Nähe zu poetischeren älteren Texten, insbesondere zu der frühmekkanischen, ebenfalls
+     auf 2r reimenden <q type="koran" versstart="085:000" versend="085:022">Sure 85</q>, mit der sie
+     nicht nur eine Anzahl von Themen, sondern auch einen längeren Einzelvers (<q type="koran"
+      versstart="085:009" versend="085:009">V. 9</q> entspricht annähernd <q type="koran"
+      versstart="067:008" versend="067:008">Q 67:8</q>) gemein hat. Es ist kein Zufall, daß dieser
+     Vers Teil einer mittelmekkanischen Erweiterung ist (siehe <bibl Zotero_Id_1="X6J8ZZSZ"><hi
+       rend="italic">HK 1</hi>, S. 330–345</bibl>). Die beiden Suren stehen in einem
+     Dialogverhältnis, die ältere wird durch Eintragung der in Mittelmekka zentralen
+     Königsmetaphorik ›aktuell‹ gemacht, die jüngere (<q type="koran" versstart="067:000"
+      versend="067:030">Q 67</q>) scheint eine kontrafaktorische Neufassung zu bieten, bei der der
+     pessimistische Ton von <q type="koran" versstart="085:000" versend="085:022">Q 85</q> gänzlich
+     übertönt worden ist. — Die Wahrnehmung der Sternbilder als bedrohliche Zeichen (<q type="koran"
+      versstart="086:001" versend="086:001">Q 86:1</q>) hat einer Wahrnehmung der Sterne als
+     Himmelsheer Platz gemacht.</p>
+    <p>Auch zu weiteren frühmekkanischen Suren steht <q type="koran" versstart="067:000"
+      versend="067:030">Q 67</q> in Verbindung, etwa zu <q type="koran" versstart="090:000"
+      versend="090:020">Q 90</q>, dem Grundtext für die menschliche Ausstattung mit Gaben der
+     Sinnes- und Verstandeswahrnehmung. Ältere Suren zu der Qualität des menschlichen Habitats wie
+      <q type="koran" versstart="078:000" versend="078:040">Q 78</q> (und später <q type="koran"
+      versstart="021:000" versend="021:112">Q 21</q>) werden in <q type="koran" versstart="067:000"
+      versend="067:030">Q 67</q> in einen Mythos evozierenden neuen Zusammenhang gestellt: Nicht
+     mehr nur die flache Auslegung der Erde, sondern die Begehbarkeit, die Gezähmtheit der Erde wird
+     gefeiert. Schließlich rezipiert die Sure den großen Schöpfungspreis aus <q type="koran"
+      versstart="055:000" versend="055:078">Q 55</q>, bei dem die Idealität der geschaffenen Welt
+     durch im Refrain wiederholte rhetorische Fragen nach etwa vorhandenen Mängeln nur noch
+     bestätigt wird. Diese Fragen werden in <q type="koran" versstart="067:000" versend="067:030">Q
+      67</q> in zwei provokante Aufforderungen zur Aufspürung von Mängeln in der Schöpfung
+     zusammengefaßt.</p>
+    <p>Neu an der Sure ist die christliche Kodierung durch die gleich eingangs hergestellte
+     Identifikation Gottes mit dem himmlischen König und Pantokrator. Diese Verbindung besteht auch
+     in <q type="koran" versstart="023:088" versend="023:088">Q 23:88</q>, dort jedoch weniger
+     programmatisch. Zwar ließen sich auch jüdische Vorgängerformeln für die hier einleitende
+     Doxologie <lang xml:lang="ar-Latn">tabāraka</lang> finden, doch ist die Betonung des Königtums,
+     die in Mittelmekka zentral ist, am deutlichsten mit der
+     <lang xml:lang="gr-Latn">basileia tou theou</lang>, »Königsherrschaft Gottes«, des
+     byzantinischen Kultus verwandt. In der Tat scheint der betonte Verweis auf dieses in der
+     christlichen Liturgie zentrale Thema die Rolle der vorher für die Verbindung zur
+     jüdisch-christlichen Tradition verantwortlichen Schriftlesung im Mittelteil übernommen zu
+     haben. Die Botschaft steht gewissermaßen unter dem Motto Gott-König. Es ist auffallend, daß
+     damit anstelle der auf die biblische Tradition verweisenden Erzählungen Elemente aus der
+     Liturgie die Kodierung der Sure bestimmen. Obwohl die Sure, die keine Erzählung enthält, auch
+     keine expliziten Jesus-Reminiszenzen aufweist, ist Jesus doch in <q type="koran"
+      versstart="067:000" versend="067:030">Q 67</q> ein
+     <lang xml:lang="fr-Latn">present absentee</lang> (siehe dazu oben
+     <?oxy_comment_start author="Tobias J. Jocham" timestamp="20230911T120607+0200" comment="Mit welcher &quot;Einleitung&quot; verknüpfen?"?>»Einleitung«<?oxy_comment_end?>,<?oxy_comment_start author="Tobias J. Jocham" timestamp="20230911T114528+0200" comment="Könnte man entfernen, oder?"?>
+     S. 34–38<?oxy_comment_end?>). So ist eine Selbstallegorisierung des Verkünders als des
+     Überbringers von lebenspendendem Wasser kaum ohne die Begebenheit von Jesu Begegnung mit der
+     Samaritanerin erklärbar. Auch Anklänge an spätere in der Jesus-Tradition stehende Gleichnisse
+     sind zu verzeichnen.</p>
+   </text>
+  </EntwicklungsgeschichtlicheEinordnung>
+  <Inhaltstrukturkurz>
+   <text versstart="000" versend="030" verfasser="an">
+    <p/>
+   </text>
+  </Inhaltstrukturkurz>
+  <Inhaltstruktur>
+   <text versstart="000" versend="030" verfasser="an">
+    <p>Die Sure ist trotz wenig distinkter Markierung der Hauptteilgrenzen als dreiteilig erkennbar.
+     Im Zentrum des kurzen ersten Teils steht das Bild des göttlichen Königs, des Pantokrator, auf
+     dessen wichtigstem Machtemblem, seiner vollkommenen Schöpfung, in mehreren Versen beharrt wird.
+     Der Surenbeginn schlägt mit der liturgischen Form der Doxologie einen besonders feierlichen Ton
+     an, der in der hyperbolischen Preisung der fehlerlosen Schöpfung seinen angemessenen Fortgang
+     findet. Sowohl die Königswürde als auch die Allherrscherwürde sind in <q type="bibel"
+      versstart="093:001" versend="093:001" buch="Ps">Psalm 93</q> vorgegeben, dessen erste Verse in
+     der christlichen liturgischen Praxis an prominenter Stelle gesungen werden. Sie verbinden sich
+     dort allerdings mit einer Doxologie auf Christus. Mit der Isolierung des Gottespreises aus dem
+     christologischen Kontext harmoniert der hyperbolische Preis der Schöpfung, wie sie ist, einer
+     Schöpfung, die keine ›neue Schöpfung‹ erfordert. Das hier zugrundeliegende Denkmodell ist <q
+      type="koran" versstart="055:000" versend="055:078">Q 55</q>, die erste
+     <lang xml:lang="ar-Latn">raḥmān</lang>-Sure, ihrerseits eine Umdeutung von <q type="bibel"
+      versstart="136:001" versend="136:001" buch="Ps">Psalm 136</q>, einem Psalm, der nicht nur
+     vielfach die gleichen Aussagen macht (<bibl Zotero_Id_1="3R8K277Y">Neuwirth 2008</bibl>),
+     sondern dem die Sure auch ihre antiphonische Struktur verdankt. Auch in diesem Fall dürfte die
+     Überlieferung über Liturgisches verlaufen sein, der Psalm ist ein häufig rezitierter Text, vor
+     allem in der ostkirchlichen Praxis. Die Sure ist ein einziger Schöpfungspreis. Sie beginnt mit
+     der Affirmation der Präexistenz des Logos und wendet sich dann der Erschaffung der
+     Himmelskörper, dann der Geschöpfe — Menschen und Dämonen — und der Natur zu. Die
+     Schöpfungsphänomene werden nicht nur in ihrer Funktion für die Aufrechterhaltung der Welt,
+     sondern auch in ihrer ästhetischen Wirkung, vor allem in ihrer paarigen Struktur beschrieben,
+     letzteres unterstützt durch die im Arabischen für die Zweizahl zur Verfügung stehende
+     morphologische Form des Duals, so daß das Tableau einer ideal ausgewogenen Welt auch lautlich
+     und morphologisch orchestriert wird. In diesem Schöpfungspreis, der ebenso wie <q type="koran"
+      versstart="067:000" versend="067:030">Q 67</q> keinen Gedanken an eine etwa erlösungsbedürftig
+     gewordene Schöpfung aufkommen läßt, sind es nicht mehr die Geschöpfe insgesamt, sondern ist es
+     der zum Reflektieren aufgerufene einzelne, der die Vollkommenheit kritisch prüfen soll. Der
+     Verzicht auf die Erwähnung der Dämonen zusammen mit den Menschen erklärt sich aus der in einer
+     etwas früheren spätmittelmekkanischen Sure (<q type="koran" versstart="072:000"
+      versend="072:028">Q 72</q>) berichteten Bekehrung eines Teils der Dämonenwelt zum
+     Eingottglauben; diese stellen also keine geschlossene Gegenwelt mehr dar.</p>
+    <p>Teil II entwickelt die Schöpfungstheologie weiter. Kurz werden die — nun entmachteten —
+     Dämonen eingeblendet, dann wird ein Gespräch zwischen den Leugnern und mythischen
+     Höllenwächtern im Jenseits wiedergegeben, das eine in der Realität ausgetragene
+     Auseinandersetzung in ihrer eschatologischen Relevanz beleuchtet, eine zeitliche Zerdehnung der
+     Wirklichkeit. — Wichtig ist aber vor allem eine Genesis-Referenz, die die göttliche
+     Aufforderung zur Unterwerfung der Schöpfung modifiziert: Die Erde ist bereits ›gezähmt‹, ihr
+     Bild beschwört altorientalisch-mythische Assoziationen herauf. Auch verschiedene
+     Psalm-Reminiszenzen sind unverkennbar: die Ausstattung des Menschen mit Sinnesorganen (<q
+      type="koran" versstart="067:023" versend="067:023">V. 23</q>) wie schon in <q type="koran"
+      versstart="090:000" versend="090:020">Q 90</q> rekurriert auf Psalmen, <q type="bibel"
+      versstart="040:007" versend="040:007" buch="Ps">Ps 40,7</q>: »Ohren hast du mir gebohrt« (vgl.
+     auch <q type="bibel" versstart="094:009" versend="094:009" buch="Ps">Ps 94,9</q>). — Die
+     Beschreibung von Naturphänomenen wie dem geordneten Vogelflug lassen eine Freude an der Natur
+     erkennen, wenn hier die Stoßrichtung eher der göttlichen Sorgewaltung für selbst kleine
+     Geschöpfe (siehe <q type="bibel" versstart="006:026" versend="006:026" buch="Mt">Mt 6,26</q>)
+     gilt. Ein nunmehr aus der überschwenglich-poetischen Sprache in eine wirklichkeitsnahe
+     Darstellung übersetztes Bild der Schöpfung entsteht.</p>
+    <p>Der dritte Teil trägt der bedrohten Lage der Gemeinde Rechnung. Er zeigt die Kontingenz der
+     Schöpfungsordnung auf, wobei der Akzent auf dem möglichen Verlust des Verkünders liegt. Die
+     Frage des Schutzes vor den Gegnern wird aus verschiedener Perspektive beleuchtet. Besonders
+     aber fällt eine den Verkünder allegorisierende Formulierung auf, nach welcher mit seinem
+     Verschwinden den Seinen die Lebensgrundlage entzogen, das »Trinkwasser versickern« würde.</p>
+   </text>
+  </Inhaltstruktur>
+  <situativitätkurz>
+   <text versstart="000" versend="030" verfasser="an">
+    <p/>
+   </text>
+  </situativitätkurz>
+  <Situativität>
+   <text versstart="000" versend="030" verfasser="an">
+    <p>Die mit dem performativ relevanten Element einer Doxologie beginnende Sure setzt die
+     Anwesenheit von Hörern voraus, der Ausruf ist ›Appell‹, nicht Aussage. Mit der mehrmals
+     wiederholten hyperbolisch-rhetorischen Frage nach der Erkennbarkeit von Mängeln an der
+     Schöpfung weist sie sich rhetorisch als so aufgeladen aus, daß eine Kommunikationssituation als
+     Sitz im Leben einzig sinnvoll ist. Es sollten also christlich gebildete Hörer, ›hermeneutische
+     Christen‹, anwesend vorgestellt werden.</p>
+    <p>Der weitere Redeverlauf kann auf dieser Basis einer vorausgesetzten gottesdienstlichen
+     Kommunikationssituation seine Unheilsvoraussagen auch auf eine Sie-Gruppe beziehen, deren
+     physische Anwesenheit/Abwesenheit nicht relevant ist. Die gegnerische Reaktion auf die
+     Verkündigung wird in die Situation der Bestrafung projiziert, es erfolgt eine Unterredung der
+     verurteilten Gegner mit den Höllenwächtern — eine Projektionsstrategie, die die Dramatik
+     steigert und die die in der Realität versagte Einsicht der Gegner wenigstens fiktional zur
+     Sprache bringt. Dringliche Überlegungen zur aktuellen Situation werden aber wieder an anwesende
+     Hörer gerichtet. So werden Erwägungen über die mögliche Zuspitzung der Lage bei Entzug der
+     göttlichen Zuwendungen, schlimmstenfalls sogar dem Abtreten des Verkünders von der Bühne, zu
+     bedenken gegeben.</p>
+    <p>Die Sure autorisiert sich durch verschiedene Mittel: explizit durch
+     <lang xml:lang="ar-Latn">qul</lang>-Anreden, die einzelne Verkündigungen als göttlich
+     angewiesen ausweisen. Autorisierungen durch <lang xml:lang="ar-Latn">qul</lang>-Aufrufe
+     begegnen in Spätmittelmekka erstmals, und zwar jeweils im dritten Teil der Sure: <q
+      type="koran" versstart="017:082" versend="017:111">Q 17:82–111</q> (10mal
+     <lang xml:lang="ar-Latn">qul</lang>-Rede); <q type="koran" versstart="023:078"
+      versend="023:118">23:78–118</q> (7mal <lang xml:lang="ar-Latn">qul</lang>-Rede); <q
+      type="koran" versstart="072:020" versend="072:028">72:20–28</q> (4mal
+     <lang xml:lang="ar-Latn">qul</lang>-Rede) und <q type="koran" versstart="018:103"
+      versend="018:110">18:103–110</q> (3mal <lang xml:lang="ar-Latn">qul</lang>-Rede). Implizit
+     autorisiert sich die Sure aber auch durch die inzwischen frequent gewordenen Klauseln. Dieses
+     rhetorische Mittel appelliert an die Hörer, das jeweils neu Mitgeteilte mit bestimmten, ihnen
+     bereits bekannten göttlichen Eigenschaften zu verbinden. Mit diesen metadiskursiven Klauseln,
+     die die Aufmerksamkeit vom aktuell Mitgeteilten auf das Gottesbild lenkt, wird gewissermaßen
+     die ›Islamizität‹ — siehe die
+     <?oxy_comment_start author="Tobias J. Jocham" timestamp="20230911T120358+0200" comment="Mit welcher &quot;Einleitung&quot; verknüpfen?"?>»Einleitung«<?oxy_comment_end?>
+     — des Diskurses eingeübt.</p>
+   </text>
+  </Situativität>
+ </analysedeutung>
+</korankommentar>

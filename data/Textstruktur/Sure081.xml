@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Quran xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="Textstruktur.xsd">
+    <Sure id="081" translator="Nicolai Sinai" webtauglich="true">
+        <Hauptteil id="0">
+            <Abschnitt id="0">
+                <Gesaetz n="0">
+                    <Vers n="000">
+                        <Teilvers n="000" reim="2n/m">
+                            <Kolon lang="ar" Einschub="false" n="0">بِسۡمِ ٱللَّهِ ٱلرَّحۡمَٰنِ ٱلرَّحِيمِ</Kolon>
+                            <Kolon lang="de" Einschub="false" n="0">Im Namen Gottes, des barmherzigen Erbarmers!</Kolon>
+                        </Teilvers>
+                    </Vers>
+                </Gesaetz>
+            </Abschnitt>
+        </Hauptteil>
+        <Hauptteil id="1">
+            <Abschnitt id="1">
+                <Gesaetz n="1">
+                    <Vers n="001">
+                        <Teilvers n="001" reim="3KK3Kat" reimkommentar="mit vorherrschenden Sonoren">
+                            <Kolon Einschub="false" lang="ar" n="1">إِذَا ٱلشَّمۡسُ كُوِّرَتۡ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="1">Wenn die Sonne verhüllt wird,</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="002">
+                        <Teilvers n="002" reim="3KK3Kat" reimkommentar="mit vorherrschenden Sonoren">
+                            <Kolon Einschub="false" lang="ar" n="2">وَإِذَا ٱلنُّجُومُ ٱنكَدَرَتۡ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="2">wenn die Sterne herabstürzen,</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="003">
+                        <Teilvers n="003" reim="3KK3Kat" reimkommentar="mit vorherrschenden Sonoren">
+                            <Kolon Einschub="false" lang="ar" n="3">وَإِذَا ٱلۡجِبَالُ سُيِّرَتۡ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="3">wenn die Berge in Bewegung versetzt werden,</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="004">
+                        <Teilvers n="004" reim="3KK3Kat" reimkommentar="mit vorherrschenden Sonoren">
+                            <Kolon Einschub="false" lang="ar" n="4">وَإِذَا ٱلۡعِشَارُ عُطِّلَتۡ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="4">wenn die hochträchtigen Kamelstuten sich selbst überlassen werden,</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="005">
+                        <Teilvers n="005" reim="3KK3Kat" reimkommentar="mit vorherrschenden Sonoren">
+                            <Kolon Einschub="false" lang="ar" n="5">وَإِذَا ٱلۡوُحُوشُ حُشِرَتۡ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="5">wenn die Wildtiere versammelt werden,</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="006">
+                        <Teilvers n="006" reim="3KK3Kat" reimkommentar="mit vorherrschenden Sonoren">
+                            <Kolon Einschub="false" lang="ar" n="6">وَإِذَا ٱلۡبِحَارُ سُجِّرَتۡ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="6">wenn die Meere hoch angefüllt werden,</Kolon>
+                        </Teilvers>
+                    </Vers>
+                </Gesaetz>
+                <Gesaetz n="2">
+                    <Vers n="007">
+                        <Teilvers n="007" reim="3KK3Kat" reimkommentar="mit vorherrschenden Sonoren">
+                            <Kolon Einschub="false" lang="ar" n="7">وَإِذَا ٱلنُّفُوسُ زُوِّجَتۡ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="7">wenn die Seelen gepaart werden,</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="008">
+                        <Teilvers n="008" reim="3KK3Kat" reimkommentar="mit vorherrschenden Sonoren">
+                            <Kolon Einschub="false" lang="ar" n="8">وَإِذَا ٱلۡمَوۡءُۥدَةُ سُئِلَتۡ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="8">wenn die lebendig Begrabene befragt wird,</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="009">
+                        <Teilvers n="009" reim="3KK3Kat" reimkommentar="mit vorherrschenden Sonoren">
+                            <Kolon Einschub="false" lang="ar" n="9">بِأَىِّ ذَنۢبٍۢ قُتِلَتۡ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="9">aufgrund welcher Sünde sie getötet wurde,</Kolon>
+                        </Teilvers>
+                    </Vers>
+                </Gesaetz>
+                <Gesaetz n="3">
+                    <Vers n="010">
+                        <Teilvers n="010" reim="3KK3Kat" reimkommentar="mit vorherrschenden Sonoren">
+                            <Kolon Einschub="false" lang="ar" n="10">وَإِذَا ٱلصُّحُفُ نُشِرَتۡ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="10">wenn die Schriften ausgebreitet werden,</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="011">
+                        <Teilvers n="011" reim="3KK3Kat" reimkommentar="mit vorherrschenden Sonoren">
+                            <Kolon Einschub="false" lang="ar" n="11">وَإِذَا ٱلسَّمَآءُ كُشِطَتۡ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="11">wenn der Himmel abgezogen wird,</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="012">
+                        <Teilvers n="012" reim="3KK3Kat" reimkommentar="mit vorherrschenden Sonoren">
+                            <Kolon Einschub="false" lang="ar" n="12">وَإِذَا ٱلۡجَحِيمُ سُعِّرَتۡ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="12">wenn der Höllenbrand angefacht wird,</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="013">
+                        <Teilvers n="013" reim="3KK3Kat" reimkommentar="mit vorherrschenden Sonoren">
+                            <Kolon Einschub="false" lang="ar" n="13">وَإِذَا ٱلۡجَنَّةُ أُزۡلِفَتۡ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="13">und wenn der Garten herbeigebracht wird,</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="014">
+                        <Teilvers n="014" reim="3KK3Kat" reimkommentar="mit vorherrschenden Sonoren">
+                            <Kolon Einschub="false" lang="ar" n="14">عَلِمَتۡ نَفۡسٌۭ مَّآ أَحۡضَرَتۡ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="14">dann weiß eine jede Seele, was sie beigebracht hat.</Kolon>
+                        </Teilvers>
+                    </Vers>
+                </Gesaetz>
+            </Abschnitt>
+        </Hauptteil>
+        <Hauptteil id="2">
+            <Abschnitt id="1">
+                <Gesaetz n="4">
+                    <Vers n="015">
+                        <Teilvers n="015" reim="3GG3s">
+                            <Kolon Einschub="false" lang="ar" n="15">فَلَآ أُقۡسِمُ بِٱلۡخُنَّسِ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="15">Nein, ich schwöre bei den Rückläufigen,</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="016">
+                        <Teilvers n="016" reim="3GG3s">
+                            <Kolon Einschub="false" lang="ar" n="16">ٱلۡجَوَارِ ٱلۡكُنَّسِ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="16">den Dahinziehenden und sich Verbergenden,</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="017">
+                        <Teilvers n="017" reim="3GG3s">
+                            <Kolon Einschub="false" lang="ar" n="17">وَٱلَّيۡلِ إِذَا عَسۡعَسَ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="17">bei der Nacht, wenn sie die Runde macht,</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="018">
+                        <Teilvers n="018" reim="3GG3s">
+                            <Kolon Einschub="false" lang="ar" n="18">وَٱلصُّبۡحِ إِذَا تَنَفَّسَ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="18">beim Morgen, wenn er Atem schöpft!</Kolon>
+                        </Teilvers>
+                    </Vers>
+                </Gesaetz>
+                <Gesaetz n="5">
+                    <Vers n="019">
+                        <Teilvers n="019" reim="2n/m">
+                            <Kolon Einschub="false" lang="ar" n="19">إِنَّهُۥ لَقَوۡلُ رَسُولٍۢ كَرِيمٍۢ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="19">Es ist die Rede eines edlen Gesandten,</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="020">
+                        <Teilvers n="020" reim="2n/m">
+                            <Kolon Einschub="false" lang="ar" n="20">ذِی قُوَّةٍ عِندَ ذِی ٱلۡعَرۡشِ مَكِينٍۢ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="20">mächtig beim Herrn des Thrones und hochgestellt,</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="021">
+                        <Teilvers n="021" reim="2n/m">
+                            <Kolon Einschub="false" lang="ar" n="21">مُّطَاعٍۢ ثَمَّ أَمِينٍۢ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="21">dem man dort gehorcht und vertraut!</Kolon>
+                        </Teilvers>
+                    </Vers>
+                </Gesaetz>
+                <Gesaetz n="6">
+                    <Vers n="022">
+                        <Teilvers n="022" reim="2n/m">
+                            <Kolon Einschub="false" lang="ar" n="22">وَمَا صَاحِبُكُم بِمَجۡنُونٍۢ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="22">Euer Gefährte ist nicht von Dschinnen besessen:</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="023">
+                        <Teilvers n="023" reim="2n/m">
+                            <Kolon Einschub="false" lang="ar" n="23">وَلَقَدۡ رَءَاهُ بِٱلۡأُفُقِ ٱلۡمُبِينِ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="23">er hat ihn am klaren Horizont gesehen;</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="024">
+                        <Teilvers n="024" reim="2n/m">
+                            <Kolon Einschub="false" lang="ar" n="24">وَمَا هُوَ عَلَى ٱلۡغَيۡبِ بِضَنِينٍۢ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="24">er hält das Verborgene nicht geizig zurück!</Kolon>
+                        </Teilvers>
+                    </Vers>
+                </Gesaetz>
+                <Gesaetz n="7">
+                    <Vers n="025">
+                        <Teilvers n="025" reim="2n/m">
+                            <Kolon Einschub="false" lang="ar" n="25">وَمَا هُوَ بِقَوۡلِ شَيۡطَٰنٍۢ رَّجِيمٍۢ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="25">Es ist nicht die Rede eines schmählich davongejagten Satans —</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="026">
+                        <Teilvers n="026" reim="2n/m">
+                            <Kolon Einschub="false" lang="ar" n="26">فَأَيۡنَ تَذۡهَبُونَ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="26">wohin versteigt ihr euch? —,</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="027">
+                        <Teilvers n="027" reim="2n/m">
+                            <Kolon Einschub="false" lang="ar" n="27">إِنۡ هُوَ إِلَّا ذِكۡرٌۭ لِّلۡعَٰلَمِينَ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="27">es ist nur eine Mahnung für die Weltbewohner,</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="028">
+                        <Teilvers n="028" reim="2n/m">
+                            <Kolon Einschub="false" lang="ar" n="28">لِمَن شَآءَ مِنكُمۡ أَن يَسۡتَقِيمَ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="28">für den unter euch, der auf geradem Wege wandeln will.</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="029">
+                        <Teilvers n="029" reim="2n/m">
+                            <Kolon Einschub="true" lang="ar" n="29">وَمَا تَشَآءُونَ</Kolon>
+                            <Kolon Einschub="true" lang="de" n="29">Doch ihr wollt nur dann,</Kolon>
+                            <Kolon Einschub="true" lang="ar" n="30">إِلَّآ أَن يَشَآءَ ٱللَّهُ رَبُّ ٱلۡعَٰلَمِينَ</Kolon>
+                            <Kolon Einschub="true" lang="de" n="30">wenn Gott will, der Herr der Weltbewohner.</Kolon>
+                        </Teilvers>
+                    </Vers>
+                </Gesaetz>
+            </Abschnitt>
+        </Hauptteil>
+    </Sure>
+</Quran>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="MM-Statistik1.xsd">
+    <w sure="001" vers="001" wort="001">
+        <ms id="e_Paris_BNF_ar_328_a_und_c">
+            <msvar lang="Arab" type="3"/>
+        </ms>
+        <lect id="e_Sībawaih">
+            <lectvar lang="Latn" type="4" ref=""/>
+        </lect>
+    </w>
+    <w sure="001" vers="001" wort="002">
+        <ms id="c_Sanaa_DAM_01-25.1">
+            <msvar lang="Arab" type="3"/>
+        </ms>
+        <lect id="d_Sufyān">
+            <lectvar lang="Latn" type="3"/>
+        </lect>
+    </w>
+    <w sure="001" vers="001" wort="003">
+        <ms id="d_Sanaa_20-30.1">
+            <msvar lang="Arab" type="1"/>
+        </ms>
+        <lect id="e_Sībawaih">
+            <lectvar lang="Latn" type="4"/>
+        </lect>
+    </w>
+    <w sure="001" vers="001" wort="004">
+        <ms id="j_Berlin_Wetzstein1913">
+            <msvar lang="Arab" type="2">قال</msvar>
+        </ms>
+    </w>
+    <w sure="001" vers="005" wort="001">
+        <ms id="l_Kodex_Medina_1a">
+            <msvar lang="Arab" type="1">ARAB</msvar>
+        </ms>
+        <lect id="o_Ibn_Ǧinnī">
+            <lectvar type="1" lang="Latn" ref="1843">ʾayyāka</lectvar>
+        </lect>
+        <lect id="n_Ibn_Ḫālawiah">
+            <lectvar type="2" lang="Latn" ref="2257">hiyyāka</lectvar>
+        </lect>
+        <lect id="n_Ibn_Ḫālawiah">
+            <lectvar type="3" lang="Latn" ref="2258">ʾayāka</lectvar>
+        </lect>
+        <lect id="n_Ibn_Ḫālawiah">
+            <lectvar type="5" lang="Latn" ref="2260">ʾayyāka</lectvar>
+        </lect>
+        <lect id="n_Ibn_Ḫālawiah">
+            <lectvar type="5" lang="Latn" ref="3652">ʾiyāka</lectvar>
+        </lect>
+        <lect id="o_Ibn_Ǧinnī">
+            <lectvar type="5" lang="Latn" ref="4156">ʾiyāka </lectvar>
+        </lect>
+    </w>
+    <w sure="001" vers="005" wort="002">
+        <ms id="b_Sanaa_DAM_01-29.1">
+            <msvar type="2" lang="Arab">ARAB</msvar>
+        </ms>
+        <lect id="n_Ibn_Ḫālawiah">
+            <lectvar type="2" lang="Latn" ref="2259">yuʿbadu</lectvar>
+        </lect>
+        <lect id="n_Ibn_Ḫālawiah">
+            <lectvar type="3" lang="Latn" ref="2260">naʿbudu </lectvar>
+        </lect>
+    </w>
+    <w sure="001" vers="005" wort="003">
+        <ms id="j_Berlin_Wetzstein1913">
+            <msvar type="5" lang="Arab">ARAB</msvar>
+        </ms>
+        <lect id="o_Ibn_Ǧinnī">
+            <lectvar type="1" lang="Latn" ref="1843">wa-ʾayyāka</lectvar>
+        </lect>
+    </w>
+    <w sure="112" vers="001" wort="001">
+        <lect id="n_Ibn_Ḫālawiah">
+            <lectvar type="0" lang="Latn" ref="1348" wort="plus">-</lectvar>
+        </lect>
+    </w>
+    <w sure="112" vers="001" wort="002">
+        <lect id="n_Ibn_Ḫālawiah">
+            <lectvar type="0" lang="Latn" ref="1348">-</lectvar>
+        </lect>
+    </w>
+</text>

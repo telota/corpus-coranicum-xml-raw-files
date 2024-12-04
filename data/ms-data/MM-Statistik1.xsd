@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+    <xs:element name="text">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element maxOccurs="unbounded" ref="w"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="w">
+        <xs:complexType>
+            <xs:choice maxOccurs="unbounded" minOccurs="0">
+                <xs:element ref="ms"/>
+                <xs:element ref="lect"/>
+            </xs:choice>
+            <xs:attribute name="sure" use="required">
+                <xs:simpleType>
+                    <xs:restriction base="xs:integer">
+                        <xs:totalDigits fixed="true" value="3"/>
+                        <xs:minInclusive fixed="true" value="001"/>
+                        <xs:maxInclusive fixed="true" value="114"/>
+                    </xs:restriction>
+                </xs:simpleType>
+            </xs:attribute>
+            <xs:attribute name="vers" use="required">
+                <xs:simpleType>
+                    <xs:restriction base="xs:integer">
+                        <xs:totalDigits fixed="true" value="2"/>
+                        <xs:minInclusive fixed="true" value="000"/>
+                        <xs:maxInclusive fixed="true" value="286"/>
+                    </xs:restriction>
+                </xs:simpleType>
+            </xs:attribute>
+            <xs:attribute name="wort" use="required">
+                <xs:simpleType>
+                    <xs:restriction base="xs:integer">
+                        <xs:totalDigits value="2"/>
+                        <xs:minInclusive fixed="true" value="00"/>
+                        <xs:maxInclusive fixed="true" value="78"/>
+                    </xs:restriction>
+                </xs:simpleType>
+            </xs:attribute>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="ms">
+        <xs:complexType>
+            <xs:choice maxOccurs="unbounded" minOccurs="0">
+                <xs:element ref="msvar"/>
+            </xs:choice>
+            <xs:attribute name="id" use="required">
+                <xs:simpleType>
+                    <xs:restriction base="xs:NCName">
+                        <xs:enumeration value="a_Sanaa_DAM_01-27.1"/>
+                        <xs:enumeration value="b_Sanaa_DAM_01-29.1"/>
+                        <xs:enumeration value="c_Sanaa_DAM_01-25.1"/>
+                        <xs:enumeration value="d_Sanaa_20-30.1"/>
+                        <xs:enumeration value="e_Paris_BNF_ar_328_a_und_c"/>
+                        <xs:enumeration value="f_Paris_BNF_ar_326_a"/>
+                        <xs:enumeration value="g_Paris_BNF_ar_330"/>
+                        <xs:enumeration value="h_StPeterbourg_Marcel_18"/>
+                        <xs:enumeration value="i_StPeterbourg_Marcel_19"/>
+                        <xs:enumeration value="j_Berlin_Wetzstein1913"/>
+                        <xs:enumeration value="k_London_BL_or_2165"/>
+                        <xs:enumeration value="l_Kodex_Medina_1a"/>
+                        <xs:enumeration value="m_Tübingen_MA_VI_165"/>
+                        <xs:enumeration value="n_Dublin_CBL_Is_1615"/>
+                    </xs:restriction>
+                </xs:simpleType>
+            </xs:attribute>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="lect">
+        <xs:complexType>
+            <xs:choice maxOccurs="unbounded" minOccurs="0">
+                <xs:element ref="lectvar"/>
+            </xs:choice>
+            <xs:attribute name="id" use="required">
+                <xs:simpleType>
+                    <xs:restriction base="xs:NCName">
+                        <xs:enumeration value="a_Muǧāhid"/>
+                        <xs:enumeration value="b_al-Kalbī"/>
+                        <xs:enumeration value="c_Muqātil"/>
+                        <xs:enumeration value="d_Sufyān"/>
+                        <xs:enumeration value="e_Sībawaih"/>
+                        <xs:enumeration value="f_al-Farrāʾ"/>
+                        <xs:enumeration value="g_Abū_ʿUbaidah"/>
+                        <xs:enumeration value="h_Abū_ʿUbaid"/>
+                        <xs:enumeration value="i_az-Zaǧǧāḥ"/>
+                        <xs:enumeration value="j_aṭ-Ṭabarī"/>
+                        <xs:enumeration value="k_Ibn_Abī_Dawūd"/>
+                        <xs:enumeration value="l_Ibn_Muǧāhid"/>
+                        <xs:enumeration value="m_an-Naḥḥās"/>
+                        <xs:enumeration value="n_Ibn_Ḫālawiah"/>
+                        <xs:enumeration value="o_Ibn_Ǧinnī"/>
+                        <xs:enumeration value="p_ad-Dānī"/>
+                    </xs:restriction>
+                </xs:simpleType>
+            </xs:attribute>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="msvar">
+        <xs:complexType mixed="true">
+            <xs:choice maxOccurs="unbounded" minOccurs="0">
+                <xs:element name="var"/>
+            </xs:choice>
+            <xs:attribute name="lang" fixed="Arab" use="required"/>
+            <xs:attribute name="type" use="required">
+                <xs:simpleType>
+                    <xs:restriction base="xs:integer">
+                        <xs:minInclusive value="1"/>
+                        <xs:maxInclusive value="7"/>
+                        <xs:totalDigits value="1"/>
+                    </xs:restriction>
+                </xs:simpleType>
+            </xs:attribute>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="lectvar">
+        <xs:complexType mixed="true">
+            <xs:attribute name="lang" fixed="Latn" use="required"/>
+            <xs:attribute name="ref"/>
+            <xs:attribute name="type" use="required">
+                <xs:simpleType>
+                    <xs:restriction base="xs:integer">
+                        <xs:minInclusive value="1"/>
+                        <xs:maxInclusive value="7"/>
+                        <xs:totalDigits value="1"/>
+                    </xs:restriction>
+                </xs:simpleType>
+            </xs:attribute>
+        </xs:complexType>
+    </xs:element>
+</xs:schema>

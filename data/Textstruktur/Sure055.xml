@@ -1,0 +1,527 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Quran xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="Textstruktur.xsd">
+    <Sure id="055" translator="Nicolai Sinai" webtauglich="true">
+        <Hauptteil id="0">
+            <Abschnitt id="0">
+                <Gesaetz n="0">
+                    <Vers n="000">
+                        <Teilvers n="000" reim="2n/m">
+                            <Kolon lang="ar" Einschub="false" n="0">بِسۡمِ ٱللَّهِ ٱلرَّحۡمَٰنِ ٱلرَّحِيمِ</Kolon>
+                            <Kolon lang="de" Einschub="false" n="0">Im Namen Gottes, des barmherzigen Erbarmers!</Kolon>
+                        </Teilvers>
+                    </Vers>
+                </Gesaetz>
+            </Abschnitt>
+        </Hauptteil>
+        <Hauptteil id="1">
+            <Abschnitt id="1">
+                <Gesaetz n="1">
+                    <Vers n="001">
+                        <Teilvers n="001" reim="ān/m" reimkommentar="mit gelegehntlichen Varianten">
+                            <Kolon Einschub="false" lang="ar" n="1">ٱلرَّحۡمَٰنُ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="1">Der Barmherzige!</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="002">
+                        <Teilvers n="002" reim="ān/m" reimkommentar="mit gelegehntlichen Varianten">
+                            <Kolon Einschub="false" lang="ar" n="2">عَلَّمَ ٱلۡقُرۡءَانَ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="2">Er hat die Lesung gelehrt</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="003">
+                        <Teilvers n="003" reim="ān/m" reimkommentar="mit gelegehntlichen Varianten">
+                            <Kolon Einschub="false" lang="ar" n="3">خَلَقَ ٱلۡإِنسَٰنَ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="3">und den Menschen geschaffen</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="004">
+                        <Teilvers n="004" reim="ān/m" reimkommentar="mit gelegehntlichen Varianten">
+                            <Kolon Einschub="false" lang="ar" n="4">عَلَّمَهُ ٱلۡبَيَانَ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="4">und ihn klare Rede gelehrt.</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="005">
+                        <Teilvers n="005" reim="ān/m" reimkommentar="mit gelegehntlichen Varianten">
+                            <Kolon Einschub="false" lang="ar" n="5">ٱلشَّمۡسُ وَٱلۡقَمَرُ بِحُسۡبَانٍۢ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="5">Sonne und Mond gehen nach Berechnung.</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="006">
+                        <Teilvers n="006" reim="ān/m" reimkommentar="mit gelegehntlichen Varianten">
+                            <Kolon Einschub="false" lang="ar" n="6">وَٱلنَّجۡمُ وَٱلشَّجَرُ يَسۡجُدَانِ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="6">Sterne und Bäume werfen sich nieder.</Kolon>
+                        </Teilvers>
+                    </Vers>
+                </Gesaetz>
+                <Gesaetz n="2">
+                    <Vers n="007">
+                        <Teilvers n="007" reim="ān/m" reimkommentar="mit gelegehntlichen Varianten">
+                            <Kolon Einschub="false" lang="ar" n="7">وَٱلسَّمَآءَ رَفَعَهَا وَوَضَعَ ٱلۡمِيزَانَ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="7">Den Himmel hob er empor und setzte die Waage fest,</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="008">
+                        <Teilvers n="008" reim="ān/m" reimkommentar="mit gelegehntlichen Varianten">
+                            <Kolon Einschub="false" lang="ar" n="8">أَلَّا تَطۡغَوۡا۟ فِی ٱلۡمِيزَانِ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="8">auf dass ihr beim Wiegen nicht aufsässig seid;</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="009">
+                        <Teilvers n="009" reim="ān/m" reimkommentar="mit gelegehntlichen Varianten">
+                            <Kolon Einschub="false" lang="ar" n="9">وَأَقِيمُوا۟ ٱلۡوَزۡنَ بِٱلۡقِسۡطِ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="9">Stellt die Gewichte auf, wie es recht ist,</Kolon>
+                            <Kolon Einschub="false" lang="ar" n="10">وَلَا تُخۡسِرُوا۟ ٱلۡمِيزَانَ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="10">und zieht nichts von der Waage ab!</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="010">
+                        <Teilvers n="010" reim="ān/m" reimkommentar="mit gelegehntlichen Varianten">
+                            <Kolon Einschub="false" lang="ar" n="11">وَٱلۡأَرۡضَ وَضَعَهَا لِلۡأَنَامِ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="11">Die Erde setzte er für die Menschen hin;</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="011">
+                        <Teilvers n="011" reim="ān/m" reimkommentar="mit gelegehntlichen Varianten">
+                            <Kolon Einschub="false" lang="ar" n="12">فِيهَا فَٰكِهَةٌۭ وَٱلنَّخۡلُ ذَاتُ ٱلۡأَكۡمَامِ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="12">auf ihr gibt es Früchte und Palmen mit Fruchthüllen,</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="012">
+                        <Teilvers n="012" reim="ān/m" reimkommentar="mit gelegehntlichen Varianten">
+                            <Kolon Einschub="false" lang="ar" n="13">وَٱلۡحَبُّ ذُو ٱلۡعَصۡفِ وَٱلرَّيۡحَانُ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="13">Korn auf Halmen und Duftkräuter.</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="013">
+                        <Teilvers n="013" reim="ān/m" reimkommentar="mit gelegehntlichen Varianten">
+                            <Kolon Einschub="false" lang="ar" n="14">فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="14">Welchen der Gnadenerweise eures Herrn wollt ihr denn leugnen?</Kolon>
+                        </Teilvers>
+                    </Vers>
+                </Gesaetz>
+            </Abschnitt>
+        </Hauptteil>
+        <Hauptteil id="2">
+            <Abschnitt id="1">
+                <Gesaetz n="3">
+                    <Vers n="014">
+                        <Teilvers n="014" reim="ān/m" reimkommentar="mit gelegehntlichen Varianten">
+                            <Kolon Einschub="false" lang="ar" n="15">خَلَقَ ٱلۡإِنسَٰنَ مِن صَلۡصَٰلٍۢ كَٱلۡفَخَّارِ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="15">Er hat den Menschen aus Ton geschaffen wie ein Töpfer</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="015">
+                        <Teilvers n="015" reim="ān/m" reimkommentar="mit gelegehntlichen Varianten">
+                            <Kolon Einschub="false" lang="ar" n="16">وَخَلَقَ ٱلۡجَآنَّ مِن مَّارِجٍۢ مِّن نَّارٍۢ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="16">und die Ǧinne hat er aus einem Gemisch von Feuer geschaffen.</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="016">
+                        <Teilvers n="016" reim="ān/m" reimkommentar="mit gelegehntlichen Varianten">
+                            <Kolon Einschub="false" lang="ar" n="17">فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="17">Welchen der Gnadenerweise eures Herrn wollt ihr denn leugnen?</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="017">
+                        <Teilvers n="017" reim="ān/m" reimkommentar="mit gelegehntlichen Varianten">
+                            <Kolon Einschub="false" lang="ar" n="18">رَبُّ ٱلۡمَشۡرِقَيۡنِ وَرَبُّ ٱلۡمَغۡرِبَيۡنِ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="18">Der Herr des Ostens und des Westens!</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="018">
+                        <Teilvers n="018" reim="ān/m" reimkommentar="mit gelegehntlichen Varianten">
+                            <Kolon Einschub="false" lang="ar" n="19">فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="19">Welchen der Gnadenerweise eures Herrn wollt ihr denn leugnen?</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="019">
+                        <Teilvers n="019" reim="ān/m" reimkommentar="mit gelegehntlichen Varianten">
+                            <Kolon Einschub="false" lang="ar" n="20">مَرَجَ ٱلۡبَحۡرَيۡنِ يَلۡتَقِيَانِ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="20">Er hat die beiden Gewässer strömen lassen, so dass sie sich treffen;</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="020">
+                        <Teilvers n="020" reim="ān/m" reimkommentar="mit gelegehntlichen Varianten">
+                            <Kolon Einschub="false" lang="ar" n="21">بَيۡنَهُمَا بَرۡزَخٌۭ لَّا يَبۡغِيَانِ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="21">zwischen ihnen ist eine Schranke, so dass sie sich keine Übertretung zuschulde kommen lassen.</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="021">
+                        <Teilvers n="021" reim="ān/m" reimkommentar="mit gelegehntlichen Varianten">
+                            <Kolon Einschub="false" lang="ar" n="22">فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="22">Welchen der Gnadenerweise eures Herrn wollt ihr denn leugnen?</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="022">
+                        <Teilvers n="022" reim="ān/m" reimkommentar="mit gelegehntlichen Varianten">
+                            <Kolon Einschub="false" lang="ar" n="23">يَخۡرُجُ مِنۡهُمَا ٱللُّؤۡلُؤُ وَٱلۡمَرۡجَانُ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="23">Aus ihnen gehen Perlen und Korallen hervor.</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="023">
+                        <Teilvers n="023" reim="ān/m" reimkommentar="mit gelegehntlichen Varianten">
+                            <Kolon Einschub="false" lang="ar" n="24">فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="24">Welchen der Gnadenerweise eures Herrn wollt ihr denn leugnen?</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="024">
+                        <Teilvers n="024" reim="ān/m" reimkommentar="mit gelegehntlichen Varianten">
+                            <Kolon Einschub="false" lang="ar" n="25">وَلَهُ ٱلۡجَوَارِ ٱلۡمُنشَـَٔاتُ فِی ٱلۡبَحۡرِ كَٱلۡأَعۡلَٰمِ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="25">Sein sind die dahinziehenden Schiffe, die auf dem Meer emporragen wie Wegmarken.</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="025">
+                        <Teilvers n="025" reim="ān/m" reimkommentar="mit gelegehntlichen Varianten">
+                            <Kolon Einschub="false" lang="ar" n="26">فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="26">Welchen der Gnadenerweise eures Herrn wollt ihr denn leugnen?</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="026">
+                        <Teilvers n="026" reim="ān/m" reimkommentar="mit gelegehntlichen Varianten">
+                            <Kolon Einschub="false" lang="ar" n="27">كُلُّ مَنۡ عَلَيۡهَا فَانٍۢ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="27">Jeder, der auf Erden weilt, muss vergehen,</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="027">
+                        <Teilvers n="027" reim="ān/m" reimkommentar="mit gelegehntlichen Varianten">
+                            <Kolon Einschub="false" lang="ar" n="28">وَيَبۡقَىٰ وَجۡهُ رَبِّكَ ذُو ٱلۡجَلَٰلِ وَٱلۡإِكۡرَامِ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="28">doch das Antlitz deines erhabenen und ehrwürdigen Herrn bleibt.</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="028">
+                        <Teilvers n="028" reim="ān/m" reimkommentar="mit gelegehntlichen Varianten">
+                            <Kolon Einschub="false" lang="ar" n="29">فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="29">Welchen der Gnadenerweise eures Herrn wollt ihr denn leugnen?</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="029">
+                        <Teilvers n="029" reim="ān/m" reimkommentar="mit gelegehntlichen Varianten">
+                            <Kolon Einschub="false" lang="ar" n="30">يَسۡـَٔلُهُۥ مَن فِی ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِ ۚ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="30">Ihn bittet, wer in den Himmeln und auf Erden ist;</Kolon>
+                            <Kolon Einschub="false" lang="ar" n="31">كُلَّ يَوۡمٍ هُوَ فِی شَأۡنٍۢ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="31">jeden Tag ist er am Werk.</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="030">
+                        <Teilvers n="030" reim="ān/m" reimkommentar="mit gelegentlichen Varianten">
+                            <Kolon Einschub="false" lang="ar" n="32">فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="32">Welchen der Gnadenerweise eures Herrn wollt ihr denn leugnen?</Kolon>
+                        </Teilvers>
+                    </Vers>
+                </Gesaetz>
+                <Gesaetz n="4">
+                    <Vers n="031">
+                        <Teilvers n="031" reim="ān/m" reimkommentar="mit gelegehntlichen Varianten">
+                            <Kolon Einschub="false" lang="ar" n="33">سَنَفۡرُغُ لَكُمۡ أَيُّهَ ٱلثَّقَلَانِ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="33">Wir werden uns Zeit für euch nehmen, ihr Schweren und ihr Leichten!</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="032">
+                        <Teilvers n="032" reim="ān/m" reimkommentar="mit gelegehntlichen Varianten">
+                            <Kolon Einschub="false" lang="ar" n="34">فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="34">Welchen der Gnadenerweise eures Herrn wollt ihr denn leugnen?</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="033">
+                        <Teilvers n="033" reim="ān/m" reimkommentar="mit gelegehntlichen Varianten">
+                            <Kolon Einschub="false" lang="ar" n="35">يَٰمَعۡشَرَ ٱلۡجِنِّ وَٱلۡإِنسِ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="35">O ihr Schar der Ǧinnen und Menschen!</Kolon>
+                            <Kolon Einschub="false" lang="ar" n="36">إِنِ ٱسۡتَطَعۡتُمۡ أَن تَنفُذُوا۟ مِنۡ أَقۡطَارِ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِ فَٱنفُذُوا۟ ۚ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="36">Wenn ihr vermögt, die Regionen der Himmel und der Erde zu durchdringen, so dringt hindurch!</Kolon>
+                            <Kolon Einschub="false" lang="ar" n="37">لَا تَنفُذُونَ إِلَّا بِسُلۡطَٰنٍۢ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="37">Ihr werdet nicht hindurchdringen, es sei denn kraft einer Vollmacht.</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="034">
+                        <Teilvers n="034" reim="ān/m" reimkommentar="mit gelegehntlichen Varianten">
+                            <Kolon Einschub="false" lang="ar" n="38">فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="38">Welchen der Gnadenerweise eures Herrn wollt ihr denn leugnen?</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="035">
+                        <Teilvers n="035" reim="ān/m" reimkommentar="mit gelegehntlichen Varianten">
+                            <Kolon Einschub="false" lang="ar" n="39">يُرۡسَلُ عَلَيۡكُمَا شُوَاظٌۭ مِّن نَّارٍۢ وَنُحَاسٌۭ فَلَا تَنتَصِرَانِ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="39">Gegen euch werden Feuerflammen und Erz gesandt, so dass ihr euch nicht zu helfen wisst.</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="036">
+                        <Teilvers n="036" reim="ān/m" reimkommentar="mit gelegehntlichen Varianten">
+                            <Kolon Einschub="false" lang="ar" n="40">فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="40">Welchen der Gnadenerweise eures Herrn wollt ihr denn leugnen?</Kolon>
+                        </Teilvers>
+                    </Vers>
+                </Gesaetz>
+            </Abschnitt>
+        </Hauptteil>
+        <Hauptteil id="3">
+            <Abschnitt id="1">
+                <Gesaetz n="5">
+                    <Vers n="037">
+                        <Teilvers n="037" reim="ān/m" reimkommentar="mit gelegehntlichen Varianten">
+                            <Kolon Einschub="false" lang="ar" n="41">فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="41">Wenn sich der Himmel spaltet</Kolon>
+                            <Kolon Einschub="false" lang="ar" n="42">فَكَانَتۡ وَرۡدَةًۭ كَٱلدِّهَانِ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="42">und rosenfarben glänzt wie Öl,</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="038">
+                        <Teilvers n="038" reim="ān/m" reimkommentar="mit gelegehntlichen Varianten">
+                            <Kolon Einschub="false" lang="ar" n="43">فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="43">welchen der Gnadenerweise eures Herrn wollt ihr dann leugnen?</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="039">
+                        <Teilvers n="039" reim="ān/m" reimkommentar="mit gelegehntlichen Varianten">
+                            <Kolon Einschub="false" lang="ar" n="44">فَيَوۡمَئِذٍۢ لَّا يُسۡـَٔلُ عَن ذَنۢبِهِۦٓ إِنسٌۭ وَلَا جَآنٌّۭ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="44">An jenem Tag wird kein Mensch und Ǧinn nach seiner Schuld gefragt.</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="040">
+                        <Teilvers n="040" reim="ān/m" reimkommentar="mit gelegehntlichen Varianten">
+                            <Kolon Einschub="false" lang="ar" n="45">فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="45">Welchen der Gnadenerweise eures Herrn wollt ihr denn leugnen?</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="041">
+                        <Teilvers n="041" reim="ān/m" reimkommentar="mit gelegehntlichen Varianten">
+                            <Kolon Einschub="false" lang="ar" n="46">يُعۡرَفُ ٱلۡمُجۡرِمُونَ بِسِيمَٰهُمۡ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="46">Die Übeltäter werden an ihrem Zeichen erkannt</Kolon>
+                            <Kolon Einschub="false" lang="ar" n="47">فَيُؤۡخَذُ بِٱلنَّوَٰصِی وَٱلۡأَقۡدَامِ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="47">und dann an den Schöpfen und Füßen gepackt.</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="042">
+                        <Teilvers n="042" reim="ān/m" reimkommentar="mit gelegehntlichen Varianten">
+                            <Kolon Einschub="false" lang="ar" n="48">فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="48">Welchen der Gnadenerweise eures Herrn wollt ihr denn leugnen?</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="043">
+                        <Teilvers n="043" reim="ān/m" reimkommentar="mit gelegehntlichen Varianten">
+                            <Kolon Einschub="false" lang="ar" n="49">هَٰذِهِۦ جَهَنَّمُ ٱلَّتِی يُكَذِّبُ بِهَا ٱلۡمُجۡرِمُونَ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="49">»Dies ist die Hölle, welche die Übeltäter geleugnet haben!«</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="044">
+                        <Teilvers n="044" reim="ān/m" reimkommentar="mit gelegehntlichen Varianten">
+                            <Kolon Einschub="false" lang="ar" n="50">يَطُوفُونَ بَيۡنَهَا وَبَيۡنَ حَمِيمٍ ءَانٍۢ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="50">Sie gehen hin und her zwischen ihr und siedendem Wasser.</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="045">
+                        <Teilvers n="045" reim="ān/m" reimkommentar="mit gelegehntlichen Varianten">
+                            <Kolon Einschub="false" lang="ar" n="51">فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="51">Welchen der Gnadenerweise eures Herrn wollt ihr denn leugnen?</Kolon>
+                        </Teilvers>
+                    </Vers>
+                </Gesaetz>
+                <Gesaetz n="6">
+                    <Vers n="046">
+                        <Teilvers n="046" reim="ān/m" reimkommentar="mit gelegehntlichen Varianten">
+                            <Kolon Einschub="false" lang="ar" n="52">وَلِمَنۡ خَافَ مَقَامَ رَبِّهِۦ جَنَّتَانِ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="52">Dem, der die Macht seines Herrn gefürchtet hat, kommen zwei Gärten zu —</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="047">
+                        <Teilvers n="047" reim="ān/m" reimkommentar="mit gelegehntlichen Varianten">
+                            <Kolon Einschub="false" lang="ar" n="53">فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="53">welchen der Gnadenerweise eures Herrn wollt ihr denn leugnen? —</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="048">
+                        <Teilvers n="048" reim="ān/m" reimkommentar="mit gelegehntlichen Varianten">
+                            <Kolon Einschub="false" lang="ar" n="54">ذَوَاتَآ أَفۡنَانٍۢ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="54">mit allerlei Arten.</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="049">
+                        <Teilvers n="049" reim="ān/m" reimkommentar="mit gelegehntlichen Varianten">
+                            <Kolon Einschub="false" lang="ar" n="55">فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="55">Welchen der Gnadenerweise eures Herrn wollt ihr denn leugnen?</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="050">
+                        <Teilvers n="050" reim="ān/m" reimkommentar="mit gelegehntlichen Varianten">
+                            <Kolon Einschub="false" lang="ar" n="56">فِيهِمَا عَيۡنَانِ تَجۡرِيَانِ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="56">Darin sind zwei fließende Quellen.</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="051">
+                        <Teilvers n="051" reim="ān/m" reimkommentar="mit gelegehntlichen Varianten">
+                            <Kolon Einschub="false" lang="ar" n="57">فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="57">Welchen der Gnadenerweise eures Herrn wollt ihr denn leugnen?</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="052">
+                        <Teilvers n="052" reim="ān/m" reimkommentar="mit gelegehntlichen Varianten">
+                            <Kolon Einschub="false" lang="ar" n="58">فِيهِمَا مِن كُلِّ فَٰكِهَةٍۢ زَوۡجَانِ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="58">Darin gibt es von jeglicher Frucht ein Paar.</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="053">
+                        <Teilvers n="053" reim="ān/m" reimkommentar="mit gelegehntlichen Varianten">
+                            <Kolon Einschub="false" lang="ar" n="59">فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="59">Welchen der Gnadenerweise eures Herrn wollt ihr denn leugnen?</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="054">
+                        <Teilvers n="054" reim="ān/m" reimkommentar="mit gelegehntlichen Varianten">
+                            <Kolon Einschub="false" lang="ar" n="60">مُتَّكِـِٔينَ عَلَىٰ فُرُشٍۭ بَطَآئِنُهَا مِنۡ إِسۡتَبۡرَقٍۢ ۚ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="60">Sie ruhen auf Betten, deren Decken aus Brokat sind;</Kolon>
+                            <Kolon Einschub="false" lang="ar" n="61">وَجَنَى ٱلۡجَنَّتَيۡنِ دَانٍۢ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="61">die Früchte der Gärten sind nah.</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="055">
+                        <Teilvers n="055" reim="ān/m" reimkommentar="mit gelegehntlichen Varianten">
+                            <Kolon Einschub="false" lang="ar" n="62">فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="62">Welchen der Gnadenerweise eures Herrn wollt ihr denn leugnen?</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="056">
+                        <Teilvers n="056" reim="ān/m" reimkommentar="mit gelegehntlichen Varianten">
+                            <Kolon Einschub="false" lang="ar" n="63">فِيهِنَّ قَٰصِرَٰتُ ٱلطَّرۡفِ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="63">Darin gibt es Frauen, die den Blick keusch niederschlagen</Kolon>
+                            <Kolon Einschub="false" lang="ar" n="64">لَمۡ يَطۡمِثۡهُنَّ إِنسٌۭ قَبۡلَهُمۡ وَلَا جَآنٌّۭ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="64">und die vor ihnen weder Mensch noch Ǧinn berührt hat, —</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="057">
+                        <Teilvers n="057" reim="ān/m" reimkommentar="mit gelegehntlichen Varianten">
+                            <Kolon Einschub="false" lang="ar" n="65">فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="65">welchen der Gnadenerweise eures Herrn wollt ihr denn leugnen? —</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="058">
+                        <Teilvers n="058" reim="ān/m" reimkommentar="mit gelegehntlichen Varianten">
+                            <Kolon Einschub="false" lang="ar" n="66">كَأَنَّهُنَّ ٱلۡيَاقُوتُ وَٱلۡمَرۡجَانُ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="66">Hyazinthen oder Korallen gleich.</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="059">
+                        <Teilvers n="059" reim="ān/m" reimkommentar="mit gelegehntlichen Varianten">
+                            <Kolon Einschub="false" lang="ar" n="67">فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="67">Welchen der Gnadenerweise eures Herrn wollt ihr denn leugnen?</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="060">
+                        <Teilvers n="060" reim="ān/m" reimkommentar="mit gelegehntlichen Varianten">
+                            <Kolon Einschub="false" lang="ar" n="68">هَلۡ جَزَآءُ ٱلۡإِحۡسَٰنِ إِلَّا ٱلۡإِحۡسَٰنُ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="68">Werden denn Wohltaten mit etwas anderem vergolten als durch Wohltaten?</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="061">
+                        <Teilvers n="061" reim="ān/m" reimkommentar="mit gelegehntlichen Varianten">
+                            <Kolon Einschub="false" lang="ar" n="69">فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="69">Welchen der Gnadenerweise eures Herrn wollt ihr denn leugnen?</Kolon>
+                        </Teilvers>
+                    </Vers>
+                </Gesaetz>
+                <Gesaetz n="7">
+                    <Vers n="062">
+                        <Teilvers n="062" reim="ān/m" reimkommentar="mit gelegehntlichen Varianten">
+                            <Kolon Einschub="false" lang="ar" n="70">وَمِن دُونِهِمَا جَنَّتَانِ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="70">Darunter gibt es zwei weitere Gärten —</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="063">
+                        <Teilvers n="063" reim="ān/m" reimkommentar="mit gelegehntlichen Varianten">
+                            <Kolon Einschub="false" lang="ar" n="71">فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="71">welchen der Gnadenerweise eures Herrn wollt ihr denn leugnen? —</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="064">
+                        <Teilvers n="064" reim="ān/m" reimkommentar="mit gelegehntlichen Varianten">
+                            <Kolon Einschub="false" lang="ar" n="72">مُدۡهَآمَّتَانِ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="72">von tiefem Grün.</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="065">
+                        <Teilvers n="065" reim="ān/m" reimkommentar="mit gelegehntlichen Varianten">
+                            <Kolon Einschub="false" lang="ar" n="73">فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="73">Welchen der Gnadenerweise eures Herrn wollt ihr denn leugnen?</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="066">
+                        <Teilvers n="066" reim="ān/m" reimkommentar="mit gelegehntlichen Varianten">
+                            <Kolon Einschub="false" lang="ar" n="74">فِيهِمَا عَيۡنَانِ نَضَّاخَتَانِ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="74">Darin sind stark sprudelnde Quellen.</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="067">
+                        <Teilvers n="067" reim="ān/m" reimkommentar="mit gelegehntlichen Varianten">
+                            <Kolon Einschub="false" lang="ar" n="75">فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="75">Welchen der Gnadenerweise eures Herrn wollt ihr denn leugnen?</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="068">
+                        <Teilvers n="068" reim="ān/m" reimkommentar="mit gelegehntlichen Varianten">
+                            <Kolon Einschub="false" lang="ar" n="76">فِيهِمَا فَٰكِهَةٌۭ وَنَخۡلٌۭ وَرُمَّانٌۭ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="76">Darin sind Früchte, Palmen und Granatapfelbäume.</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="069">
+                        <Teilvers n="069" reim="ān/m" reimkommentar="mit gelegehntlichen Varianten">
+                            <Kolon Einschub="false" lang="ar" n="77">فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="77">Welchen der Gnadenerweise eures Herrn wollt ihr denn leugnen?</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="070">
+                        <Teilvers n="070" reim="ān/m" reimkommentar="mit gelegehntlichen Varianten">
+                            <Kolon Einschub="false" lang="ar" n="78">فِيهِنَّ خَيۡرَٰتٌ حِسَانٌۭ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="78">Darin sind gute, schöne Frauen —</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="071">
+                        <Teilvers n="071" reim="ān/m" reimkommentar="mit gelegehntlichen Varianten">
+                            <Kolon Einschub="false" lang="ar" n="79">فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="79">welchen der Gnadenerweise eures Herrn wollt ihr denn leugnen? —</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="072">
+                        <Teilvers n="072" reim="ān/m" reimkommentar="mit gelegehntlichen Varianten">
+                            <Kolon Einschub="false" lang="ar" n="80">حُورٌۭ مَّقۡصُورَٰتٌۭ فِی ٱلۡخِيَامِ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="80">mit schwarzen Augen, abgesondert in Zelten, —</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="073">
+                        <Teilvers n="073" reim="ān/m" reimkommentar="mit gelegehntlichen Varianten">
+                            <Kolon Einschub="false" lang="ar" n="81">فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="81">welchen der Gnadenerweise eures Herrn wollt ihr denn leugnen? —</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="074">
+                        <Teilvers n="074" reim="ān/m" reimkommentar="mit gelegehntlichen Varianten">
+                            <Kolon Einschub="false" lang="ar" n="82">لَمۡ يَطۡمِثۡهُنَّ إِنسٌۭ قَبۡلَهُمۡ وَلَا جَآنٌّۭ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="82">die vor ihnen weder Mensch noch Ǧinn berührt hat.</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="075">
+                        <Teilvers n="075" reim="ān/m" reimkommentar="mit gelegehntlichen Varianten">
+                            <Kolon Einschub="false" lang="ar" n="83">فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="83">Welchen der Gnadenerweise eures Herrn wollt ihr denn leugnen?</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="076">
+                        <Teilvers n="076" reim="ān/m" reimkommentar="mit gelegehntlichen Varianten">
+                            <Kolon Einschub="false" lang="ar" n="84">مُتَّكِـِٔينَ عَلَىٰ رَفۡرَفٍ خُضۡرٍۢ وَعَبۡقَرِیٍّ حِسَانٍۢ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="84">Sie ruhen auf grünen Polstern und schönen Teppichen.</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="077">
+                        <Teilvers n="077" reim="ān/m" reimkommentar="mit gelegehntlichen Varianten">
+                            <Kolon Einschub="false" lang="ar" n="85">فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="85">Welchen der Gnadenerweise eures Herrn wollt ihr denn leugnen?</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="078">
+                        <Teilvers n="078" reim="ān/m" reimkommentar="mit gelegehntlichen Varianten">
+                            <Kolon Einschub="false" lang="ar" n="86">تَبَٰرَكَ ٱسۡمُ رَبِّكَ ذِی ٱلۡجَلَٰلِ وَٱلۡإِكۡرَامِ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="86">Gesegnet sei der Name deines erhabenen und ehrwürdigen Herrn!</Kolon>
+                        </Teilvers>
+                    </Vers>
+                </Gesaetz>
+            </Abschnitt>
+        </Hauptteil>
+    </Sure>
+</Quran>

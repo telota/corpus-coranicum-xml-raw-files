@@ -1,0 +1,1130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<overlay xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:noNamespaceSchemaLocation="Overlay.xsd" typ="KommentarOverlay" webtauglich="true"
+ title="Chronologisch-literaturwissenschaftlicher Kommentar zum Koran">
+ <text verfasser="tjj">
+  <p><hi rend="h1">Teil 3: Die spätmittelmekkanischen Suren</hi></p>
+  <p><hi rend="italic">Dirk Hartwig und Angelika Neuwirth</hi></p>
+ </text>
+ <akkordeon>
+  <label n="1">Einleitung in den Kommentar zu den spätmittelmekkanischen Suren</label>
+  <text verfasser="tjj">
+   <p><hi rend="h1">Von Mekka nach Jerusalem: der spirituelle Weg der Gemeinde heraus aus säkularer
+     Indifferenz und apokalyptischem Pessimismus</hi></p>
+   <p>Nach den beiden ersten Kommentarbänden »Poetische Prophetie« (2011)<note place=""><bibl
+      Zotero_Id_1="X6J8ZZSZ">Angelika Neuwirth, <hi rend="italic">Der Koran</hi>, Bd. 1: <hi
+       rend="italic">Frühmekkanische Suren. Poetische Prophetie</hi>, Berlin 2011</bibl>.</note> und
+    »Das neue Gottesvolk: ›Biblisierung‹ des altarabischen Weltbildes« (2017)<note place=""><bibl
+      Zotero_Id_1="R7C4TXP6">Angelika Neuwirth, <hi rend="italic">Der Koran</hi>, Bd. 2/1: <hi
+       rend="italic">Frühmittelmekkanische Suren. Das neue Gottesvolk: ›Biblisierung‹ des
+       altarabischen Weltbildes</hi>, Berlin 2017</bibl>.</note> folgt nun die Darstellung einer
+    entscheidenden neuen Wegstrecke der Gemeinde: ihre Bewältigung der bedrückenden Indifferenz
+    gegenüber der Gerichtsdrohung, die ihr seitens der ›lau‹ gebliebenen paganen Zeitgenossen
+    entgegenschlägt zum einen, und der aggressiv vertretenen apokalyptisch-pessimistischen
+    Spekulationen auf seiten der politisierten älteren Religionsgruppen zum anderen. Die von der
+    Gemeinde vertretene — in Band 1 und Band 2/1 dargestellte — ›epistemische Eschatologie‹ gerät
+    damit in einen Engpaß, so daß neue Überzeugungsstrategien entwickelt werden müssen. Der in
+    diesem Band als ›spätmittelmekkanisch‹ klassifizierte Surenblock bietet Einblicke in diese
+    Auseinandersetzung.</p>
+   <p><hi rend="h1">Periodisierungsfragen; neue Diskurse in Spätmittelmekka</hi></p>
+   <p>Ist die Einteilung des Korantexts in verschiedene Entstehungsphasen, nicht nur in mekkanisch
+    und medinisch, sondern auch weiter in früh-, mittel- und spätmekkanisch und nun sogar
+    frühmittel- und spätmittelmekkanisch wirklich gerechtfertigt? Ginge es nur um eine
+    Klassifikation von Textteilen, müßte sich diese Frage in der Tat stellen. Wir lesen den Koran
+    jedoch nicht als fertigen Text, als <lang xml:lang="ar-Latn">muṣḥaf</lang>, sondern als verbalen
+    Niederschlag, <lang xml:lang="ar-Latn">qurʾān</lang>, einer noch im Gange befindlichen
+    Traditionsbildung. Der hier vorgelegte Kommentar zu den <q type="koran" versstart="017:000"
+     versend="017:111">Suren 17</q>, <q type="koran" versstart="043:000" versend="043:089">43</q>,
+     <q type="koran" versstart="036:000" versend="036:083">36</q>, <q type="koran"
+     versstart="025:000" versend="025:077">25</q>, <q type="koran" versstart="023:000"
+     versend="023:118">23</q>, <q type="koran" versstart="114:000" versend="114:006">114</q>, <q
+     type="koran" versstart="072:000" versend="072:028">72</q>, <q type="koran" versstart="027:000"
+     versend="027:093">27</q>, <q type="koran" versstart="067:000" versend="067:030">67</q>, <q
+     type="koran" versstart="021:000" versend="021:112">21</q> und <q type="koran"
+     versstart="018:000" versend="018:110">18</q> liefert ein neues Plädoyer für eine konsequent
+    diachrone Lektüre, d.h. für die Rezeption der Suren nicht als Darlegung punktuell erreichter
+    theologischer Positionen, sondern als Spiegel eines anhaltenden Kommunikationsprozesses. Hierbei
+    handelt es sich, wie auch schon von Theodor Nöldeke festgestellt, nicht um eine absolute oder
+    auch nur feste relative Chronologie, sondern um »Entwicklungsreihen«.<note place=""><bibl
+      Zotero_Id_1="L7CAYMMX">Angelika Neuwirth, »Der Koran«, in: <hi rend="italic">Grundriß der
+       arabischen Philologie</hi>, hg. von Helmut Gätje, Bd. 2: <hi rend="italic"
+       >Literaturwissenschaft</hi>, Wiesbaden 1987, S. 97</bibl>.</note> Dieser insgesamt an die 23
+    Jahre überspannende Prozeß läßt sich beschreiben als gemeindliche Auseinandersetzung mit realen
+    und virtuellen Diskussionspartnern, mit ›kanonischen‹ Traditionen und liturgischen <hi
+     rend="italic">performances</hi>. Er führt durch verschiedene Stadien der Absorption,
+    Rektifizierung und Überschreibung von Wissensbeständen der Spätantike. Er dokumentiert so, auf
+    einen engen Zeitraum zusammengedrängt, einen signifikanten Ausschnitt aus der ostmediterranen
+    Kulturgeschichte. Wichtig ist dabei der Blick auf den Text als Kommunikationsprozeß und damit
+    als reales ›Event‹, das innerhalb der Spätantike religionspolitisch den Status eines
+    revolutionären Ereignisses beanspruchen kann.</p>
+   <p>Ohne daß eine trennscharfe Grenzziehung zwischen diesen ›Perioden‹ der Verkündigung möglich
+    wäre, erweist sich ihre Ansetzung doch als heuristisch fruchtbar. Das gilt auch für die
+    Binnengliederung der mittelmekkanischen Suren, dem Herzstück des Koran. Während es in den
+    frühmittelmekkanischen Suren mit ihrer Umschreibung biblischer Erzählungen, mit der Etablierung
+    einer narrativ ausgemalten Gegenwelt zu der Welt des paganen Mekka um eine positive (oder
+    negative) Orientierung an Beispielen aus der Vergangenheit ging, um ›Pastorales‹ gewissermaßen,
+    tritt die koranische Botschaft in Spätmittelmekka immer deutlicher als Spiegel der theologischen
+    Auseinandersetzung der Gemeinde mit den Fragen ihrer eigenen Zeit hervor. Der ›Text‹ erweist
+    sich als Mitschrift eines Kommunikationsprozesses, der zu seinem Verständnis zunehmend auf
+    seinen Kontext, konkret den ›Gebrauchskontext‹, d.h. bereits in aktuelle Debatten eingebettetes
+    biblisches Wissen angewiesen ist. Auch die koranische Botschaft selbst ist Teil der Debatte:
+    Nicht nur das assertorisch Gesagte sollte uns daher beeindrucken, sondern das respondierend
+    gegen explizite oder implizite Aussagen Eingewandte zählt, so daß die koranischen Aussagen
+    <lang xml:lang="lat-Latn">grosso modo</lang> nicht als Thesen, sondern — zumindest auch — als
+    Antithesen zu früher oder in der Umwelt vertretenen Positionen gelesen werden sollten.</p>
+   <p>Nicht zu übersehen ist auch die fortschreitende ›koranische Kodierung‹ — vor allem narrativer
+    Rede — durch die Beschließung längerer Verse mit ›Klauseln‹: kurze, den längeren Vers
+    abschließende Aussagesätze, die nicht am semantischen Hauptstrang der Rede teilhaben, sondern
+    metadiskursiv eine moralische, öfter noch aber eine theologische Wertung des Berichteten zum
+    Ausdruck bringen (vgl. <bibl Zotero_Id_1="6I96FAXT"><hi rend="italic">KTS</hi>, S.
+     753–761</bibl>, und <bibl Zotero_Id_1="4WEWN8NZ"><hi rend="italic">SKMS</hi>, S.
+    56–178</bibl>). Es sind diese an die Stelle von markanten Reimen getretenen Versenden, die der
+    Rede eine spirituelle Note verleihen, sie als über ihren Mitteilungswert hinaus als theologisch
+    relevant ausweisen.</p>
+   <p>Ein Blick auf die spätmittelmekkanischen Suren eröffnet auch sachlich neue Horizonte. Es sind
+    diese Suren, aus deren Debatten zu einzelnen Theologumena schon früher — in nachträglichen
+    Zusätzen — geschöpft worden war. So erweist sich etwa der Engeldiskurs in der frühmekkanischen
+    Sure 53 als in der spätmittelmekkanischen Verkündigung ›beheimatet‹: Die frühmekkanische
+    Diskussion über die von den Paganen behauptete Realität von Nebengöttern bzw. -göttinnen wird
+    durch die in Spätmittelmekka erreichte Vorstellung von gottgefälligen Mittelwesen, die zwar
+    nicht zu einem Pantheon, wohl aber zum göttlichen Hofstaat gehören, theologisch auf ein höheres
+    Niveau gehoben. Diese Form der Aktualisierung kann als eine Spielart von ›Targum‹ begriffen
+    werden, insofern frühe Äußerungen im nachhinein <lang xml:lang="fr-Latn">à jour</lang> gebracht,
+     ›targumisiert‹<note place="">Eine Liste von solchen ›Targumen‹ zu frühmekkanischen Suren wurde
+      <bibl Zotero_Id_1="X6J8ZZSZ"><hi rend="italic">HK 1</hi>, S. 742–745</bibl>, beigegeben. Zu
+     den ›Targumen‹ zu den frühmittelmekkanischen Suren siehe <bibl Zotero_Id_1="R7C4TXP6"><hi
+       rend="italic">HK 2/1</hi>, S. 701–704</bibl>.</note> werden. Anders als im Fall der Targume
+    zur Hebräischen Bibel geschieht dies im Fall des Koran aber nicht erst nach der Publikation,
+    sondern während der Textgenese selbst. Es ist bemerkenswert, daß dieser Umgang mit dem Text in
+    spätmittelmekkanischen Suren kaum mehr begegnet.<note place="">Als Ausnahmen sind zu erwägen: <q
+      type="koran" versstart="023:007" versend="023:007">Q 23:7</q>
+     (»<lang xml:lang="ar-Latn">mutʿa</lang>-Ehe«), <q type="koran" versstart="023:027"
+      versend="023:027">Q 23:27</q> (»Sohn Noahs«).</note> Nur wenige Fälle von nachträglicher
+    Korrektur eines nicht mehr aufrechterhaltenen Verständnisses bzw. einer Sachkorrektur sind hier
+     nachweisbar.<note place="">Ein seltener Fall ist <q type="koran" versstart="025:051"
+      versend="025:052">Q 25:51–52</q>, wo das enklitische Personalpronomen
+     <lang xml:lang="ar-Latn">-hu/hi</lang>, das ursprünglich auf »Wasser« bezogen war, nachträglich
+     auf die »Lesung« übertragen wurde.</note></p>
+   <p>Die spätmittelmekkanischen Suren sind insgesamt auffallend kohärent, allenfalls ganze
+    Surenhauptteile könnten später nachgetragen worden sein (so in <q type="koran"
+     versstart="017:082" versend="017:111">Q 17:82–111</q>). Die Suren besitzen nun eine
+    ›Stoßrichtung‹. In den Vordergrund treten einerseits die Reflexion gottesdienstlicher
+    Handlungen, andererseits die Diskussion von besonders brennenden Problemen, später auch
+    politischen Zeitfragen. Noch stärker als die frühmittelmekkanischen Suren sind die neuen Suren
+    von Polemik und Apologetik beherrscht: Im Angesicht der anhaltenden Verhöhnung des Verkünders
+    als eines bloß sterblichen Menschen, <lang xml:lang="ar-Latn">bašar</lang>, dessen Warnungen als
+    Ammenmärchen schon früherer Prediger, <lang xml:lang="ar-Latn">ʾasāṭīr al-ʾawwalīn</lang>,
+    abgetan werden,<note place=""><bibl Zotero_Id_1="GG85BMXE">Matthias Radscheit, <hi rend="italic"
+       >Die koranische Herausforderung. Die taḥaddī-Verse im Rahmen der Polemikpassagen des
+       Korans</hi>, Berlin 1996, S. 56–60</bibl>.</note> waren für die Entgegnung neue
+    Argumentationsstrategien zu entwickeln, darunter
+    <lang xml:lang="lat-Latn">ad-absurdum</lang>-Führungen mit Hilfe stringenter syllogistischer
+    Strukturen, sogar eines Katalogs von ›katechetischen Fragen‹. Damit wird erstmals programmatisch
+    Logik, werden elementare Syllogismusstrukturen, in die koranische Rede eingeführt.</p>
+   <p>Aber auch das Bild der Welt — als sowohl von Menschen als auch von Dämonen bevölkert — wird
+    geschärft. Der alten Unterstellung einer Dämonenabhängigkeit des Verkünders wird mit einem
+    Neuentwurf der Vorstellung von der Dämonenwelt begegnet, der die in der weiteren Umwelt
+    kategorisch negative Wertung der Dämonen ›überholt‹. Wie der byzantinische Theologe des vierten
+    Jahrhunderts, Evagrios Pontikos (gest. 399) in seinem Werk
+    <lang xml:lang="gr-Latn">Antirrhētikos</lang> Dämonen durch Schriftverse abzuwehren weiß,<note
+     place="">Siehe dazu <bibl>David Brakke, »Making Public the Monastic Life. Reading the Self in
+      Evagrius Ponticus’ Talking Back«, in: <hi rend="italic">Religion and the Self in
+       Antiquity</hi>, hg. von David Brakke, Michael L. Satlow und Steven Weitzman,
+      Bloomington/Indiana 2005, S. 222–233</bibl>.</note> so werden diese <q type="koran"
+     versstart="072:000" versend="072:028">Q 72</q> zufolge durch das Hören von
+    <lang xml:lang="ar-Latn">qurʾān</lang> ›gebändigt‹ und dürfen sogar ihre Stimmen in die
+    Kommunikation der Botschaft des Verkünders einbringen — ein unter den in der Spätantike
+    bekannten Dämonenverhandlungen gänzlich neuer Zugang. Dämonen, bereits in <q type="koran"
+     versstart="055:000" versend="055:078">Q 55</q> zusammen mit den Menschen als Geschöpfe Gottes
+    wahrgenommen, waren schon im pagan-arabischen Kontext nicht Verkörperungen des Bösen, sondern
+    Wissensübermittler, die übernatürliches (dichterisches) Wissen aus der transzendenten Sphäre an
+    privilegierte Individuen weitergaben. Mit ihrer ›Bekehrung‹ in <q type="koran"
+     versstart="072:000" versend="072:028">Q 72</q> treten sie nun aus dem Konkurrenzverhältnis zu
+    dem Empfänger transzendenten Wissens <lang xml:lang="fr-Latn">par excellence</lang>, dem
+    Propheten, heraus.</p>
+   <p>Weiterhin müssen die Glaubenshindernisse der ablehnenden Hörer eruiert werden; sie werden
+    immer deutlicher erkennbar als in einer exklusiven tribalen Solidarität wurzelnd. Die in diesem
+    Kontext entwickelte Analysekategorie ›Vätertradition‹ erlaubt es nun, ›biblische
+    Vätertradition‹, die in dem Monotheismus Abrahams ihren Ursprung hat, gegen pagane ›tribale
+    Vätertradition‹ auszuspielen: die von den Zeitgenossen in Nachfolge ihrer Väter praktizierte
+    Widerspenstigkeit gegenüber religiösen Botschaften.<note place="">Siehe dazu <bibl
+      Zotero_Id_1="JVED4PGP">Angelika Neuwirth, »Eine ›religiöse Mutation der Spätantike‹. Von
+      tribaler Genealogie zum Gottesbund. Koranische Refigurationen pagan-arabischer Ideale nach
+      biblischen Modellen«, in: <hi rend="italic">Genealogie und Migrationsmythen im antiken
+       Mittelmeerraum und auf der arabischen Halbinsel</hi>, hg. von Almut-Barbara Renger und Isabel
+      Toral-Niehoff, Berlin 2014, S. 203–232</bibl>.</note> Immer mehr erweist sich der
+    ›Schriftmangel‹ der Gegner, das Fehlen einer richtungweisenden kanonischen Erinnerung, als
+    Quelle des Antagonismus.</p>
+   <p>Eine zentrale Frage weist jedoch über diese
+    <lang xml:lang="lat-Latn">pro-domo</lang>-Diskussionen hinaus: Wer sind die Erben göttlicher
+    Verheißung? Die Frage kann überhaupt erst aufkommen, wenn das Theologumenon ›Verheißung‹, ein
+    biblisches Konzept, das in der Spätantike sowohl von Juden als auch von Christen für sich
+    beansprucht wird, in den Bewußtseinshorizont getreten ist. Gewiß unterliegt bestimmten
+    Aussagemustern, etwa den die frühmekkanischen Suren beherrschenden ›Straflegenden‹, bereits eine
+    Struktur von Verheißung und Erfüllung, oder vorsichtiger: von göttlichem Versprechen,
+    <lang xml:lang="ar-Latn">waʿd</lang> (der Treue gegenüber den Gesandten), und Einlösung (durch
+    ihre Errettung). Doch bildet sich der Begriff <lang xml:lang="ar-Latn">waʿd</lang> als
+    Theologumenon erst in der Auseinandersetzung mit den bereits ausgebildeten Verheißungstheologien
+    der Juden und Christen heraus. Der hier zentrale <q type="bibel" versstart="037:029"
+     versend="037:029" buch="Ps">Psalmvers 37,29</q>: »Die Gerechten werden das Land erben« wird
+    erst in einer der letzten spätmittelmekkanischen Suren, in <q type="koran" versstart="021:105"
+     versend="021:105">Q 21:105</q>, (an)zitiert. Er begegnet dabei bereits als ›eingebetteter
+    Vers‹. Denn es gibt schon (eine) »Erben(gemeinschaft)«; das Wort »Erbe«,
+    <lang xml:lang="gr-Latn">klēronomia</lang>, ist längst zu einer Selbstbezeichnung der Christen
+    geworden, in deren Liturgie es sonntäglich (im Orthos nach der Evangelienlesung) heißt:
+    <lang xml:lang="gr-Latn">sōson theos ton laon sou kai eulogēson tēn klēronomian sou</lang>,
+    »Rette, o Gott, dein Volk und segne (die, die) dein Erbe (sind)«, verstanden als Bitte um ihre
+    eschatologische Errettung.<note place=""><bibl Zotero_Id_1="72MKV76Z">Neophytos Edelby (Hg.),
+       <hi rend="italic">Liturgikon. »Messbuch der Byzantinischen Kirche«</hi>, Recklinghausen 1967,
+      S. 35</bibl>.</note> Eschatologisch und nicht etwa im Sinne einer weltlichen Landverheißung
+    dürfte auch die Zusage im mekkanischen Koran zu verstehen sein. Es beginnt sich hier eine neue
+    Verheißungstheologie abzuzeichnen.</p>
+   <p>Die koranische Verkündigung steht generell vor einer komplexen Herausforderung, sie findet auf
+    dem Boden bereits laufender Debatten zwischen Christen und Juden statt: Die beiden emblematisch
+    für göttliche Verheißung stehenden Sinnfiguren, jüdischerseits der Tempel, christlicherseits
+    Jesu Gottessohnschaft, werden unübersehbar in den Texten, noch mehr aber den Subtexten einzelner
+    spätmittelmekkanischer Suren verhandelt. Die reflektierteWahrnehmung dieser beiden ›Embleme‹,
+    die sich in den spätmittelmekkanischen Suren niederschlägt, markiert einen entscheidenden
+    theologischen Fortschritt. Beide Sinnfiguren gehören zu den meistdebattierten Theologumena der
+    Zeit, deren Aktualisierung und Verbreitung auch in periphere Gebiete sich deutlich im Koran
+    spiegelt. Sie ist untrennbar von der ›religiös-politischen Großwetterlage‹, d.h. der Austragung
+    auch religiöser Konflikte in den zwischen Byzanz und dem sassanidischen Persien geführten
+    Kriegen, die den Verkündigungen einen gänzlich neuen Rahmen gibt. Man kann diese neue
+    Wahrnehmung als Aufbruch verstehen: Die Gemeinde bewegt sich nun heraus aus ihrem diskursiv
+    begrenzten Alltag der Auseinandersetzung mit ›Leugnern‹, ›aus Mekka‹, in eine sowohl theologisch
+    herausfordernde als auch politisch aufgeladene Diskurslandschaft, die sich unter der Abbreviatur
+    ›Jerusalem‹ erfassen läßt.</p>
+   <p><hi rend="h1">Neue Ausrichtung des Kommentars</hi></p>
+   <p>Die sich hier neu ergebende Dringlichkeit theologischer Anfragen an den Koran erfordert eine
+    neue Ausrichtung des Kommentars: Es müssen nun die konventionell in Anlehnung an Rudi Parets
+    Kommentar und Konkordanz<note place=""><bibl Zotero_Id_1="X9T7RF7R">Rudi Paret, <hi
+       rend="italic">Der Koran. Kommentar und Konkordanz</hi>, Stuttgart 1971, <hi
+       rend="superscript">8</hi>2012</bibl>.</note> priorisierten ›arabistisch-philologischen‹
+    Aufgaben (syntaktische Feinstanalysen und etymologische Sacherklärungen wie auch das
+    erschöpfende Referat der vorangehenden Forschung) hinter die jetzt prioritären Diskussionen von
+    Intratextualität, vor allem aber (positiv oder auch negativ) intertextuellen Referenzen zur
+    Umweltkultur zurücktreten. Es bleibt kein Platz für die ausführliche sprachliche Rechtfertigung
+    von Deutungen, deren Plausibilität vielmehr aus der Argumentation selbst hervorgehen muß, wie
+    überhaupt Nachzeichnungen des im Text Gesagten gegenüber den darunterliegenden jeweils neu
+    aufgeworfenen Fragen zweitrangig sein müssen.<note place="">Spezimina dieser älteren
+     Kommentartechnik werden in der <q type="kommentar" versstart="018:000" versend="018:110"
+      >Diskussion von Q 18</q> zitiert.</note> Es gilt, in den Koran selbst einzusteigen und den
+    Blick nicht durch biblisch geprägtes Vorwissen zu verstellen. Sheldon Pollock<note place=""
+      ><bibl Zotero_Id_1="54825XK5">Sheldon Pollock, »Future Philology? The Fate of a Soft Science
+      in a Hard World«, in: Critical Inquiry 35 (2009), S. 931–961</bibl>. Siehe dazu <bibl
+      Zotero_Id_1="MZNLNCYA">Islam Dayeh, »Introducing <hi rend="italic">Philological
+       Encounters</hi>«, in: Philological Encounters 1 (2016), S. 1–3</bibl>.</note> hatte für die
+    Textbearbeitung drei Foci gefordert: das <lang xml:lang="lat-Latn">verum</lang>, d. h. die
+    literale Lektüre des Textes, das <lang xml:lang="lat-Latn">certum</lang>, d.h. das zu eruierende
+    Verständnis der Rezipienten, und die selbstreflexive Sicht des Forschers auf die eigene Position
+    zum Text. Was der Text literal besagt — Gegenstand reiner Philologie —, steht neben dem, was er
+    — religionsgeschichtlich relevant — in den Augen seiner die Subtexte mitlesenden Rezipienten
+    sagt. Ebenso wichtig ist aber seine lebendige, aktive Einbringung in die Ideologie seiner Zeit —
+    die nur mit dem (dritten) Fokus, der Selbstreflexion des Interpreten, erkannt werden kann, die
+    in unserem Falle auf einer dezidiert ›politischen‹ Position beharrt, d.h. den Koran als
+    politische Einbringung in die Debatten seiner Zeit lesen will. Es ist diese dritte,
+    hermeneutische Position, die in der gegenwärtigen Textbetrachtung fehlt.</p>
+   <p>In Spätmittelmekka wird unübersehbar klar, daß der uns vorliegende Koran nicht allein
+    ›kanonisches‹, biblisches und lehrhaft exegetisch vermitteltes, nachbiblisches Wissen
+    verhandelt, sondern auch in den Metadiskurs der liturgischen Verarbeitung dieses Wissens
+    eintritt. Unter den nun zahlreich gewordenen virtuellen und realen Kommunikationspartnern sind
+    auch liturgisch aktive Personen und Personengruppen, steht vor allem aber liturgische
+    Erinnerung. Dieser dritte Kommentarband ist um eine stringente Erklärung der Verkündigung als
+    eines auch in der performativen Tradition stehenden Ereignisses bemüht.</p>
+   <p>Mit diesem Band stellen wir also — wie man leicht zugespitzt behaupten kann — eine neue Sorte
+    von Suren vor. Nicht formal — da nur relativ selten von dem einfachen Reimschema auf 2n/m und
+    dem auf wenigen, kurzen Kola aufbauenden Längenschema der Verse abweichend<note place="">Der in
+      <bibl Zotero_Id_1="4WEWN8NZ">Angelika Neuwirth, <hi rend="italic">Studien zur Komposition der
+       mekkanischen Suren</hi>, Berlin und New York 1981, <hi rend="superscript">2</hi>2007</bibl>,
+     entwickelte Analyserahmen ist weiterhin Grundlage der Argumentation. Die dortige Auflistung
+     über die koranischen Reime — nach S. 90 — bietet eine bequeme Übersicht über die Entwicklung
+     der ›ornamentalen Form‹. In spätmittelmekkanischer Zeit begegnen nur fünf Suren mit
+     individuellen, d.h. nicht in das spätere 2n/m-Schema passenden Reimen: <q type="koran"
+      versstart="067:000" versend="067:030">Q 67</q>, <q type="koran" versstart="038:000"
+      versend="038:088">38</q>, <q type="koran" versstart="025:000" versend="025:077">25</q>, <q
+      type="koran" versstart="072:000" versend="072:028">72</q> und <q type="koran"
+      versstart="018:000" versend="018:110">18</q>.</note> —, aber dank ihrer neuen Sinndimensionen
+    als einerseits politisch, andererseits liturgisch verankert, können diese Suren als innovativ
+    gelten. Zum einen legen sie mit neuer Deutlichkeit von ihrem liturgischen Entstehungskontext
+    Zeugnis ab. Nicht mehr allein die bereits Frühmekka beherrschenden Psalmenreferenzen, sondern
+    vor allem die in der koranischen Rede reflektierten liturgischen Muster, die Positionierung von
+    ›Lesungen‹ in der Mitte des Vortrags, die frequenten Doxologien, die antiphonischen Gebets- und
+    Erhörungssequenzen sowie an Seligpreisungen erinnernde Tugendkataloge lassen jüdische, vor allem
+    aber christliche Gottesdienste nachhallen. In einem Fall wird sogar der Heiligenfestkalender in
+    der Personensequenz eines Gesandtenkatalogs reflektiert — unsere entsprechende Interpretation
+    der einschlägigen Passagen in <q type="koran" versstart="038:048" versend="038:048">Q 38:48</q>
+    und <q type="koran" versstart="021:085" versend="021:085">Q 21:85–86</q> setzt den koranischen
+    Zugriff auch auf ›liturgisches Wissen‹, nicht nur auf traditionsverbürgtes ›kanonisches Wissen‹
+    voraus.</p>
+   <p>Zum anderen dokumentieren die spätmittelmekkanischen Suren ihre Entstehung im Schatten des
+    seit 610 zwischen Byzanz und dem Sassanidenreich geführten Krieges, der Christen und Juden nun
+    auch zu politischen Parteien macht. Mehrere um die Personen Davids und Salomos, aber auch den
+    mythisierten Alexander kreisende Suren setzen sich mit dem Ideal des ›gerechten Herrschers‹
+    auseinander. Sie tun das, indem sie die beiden israelitischen Könige ihrer Herrscherpose
+    entkleiden und sie in selbstreflektierte und bußfertige Akteure umdeuten; die Relektüre
+    Alexanders macht ihn dagegen eher zu einem — Gott gegenüber demütigen — Ordner weltlicher
+    Verhältnisse. Der koranisch monotheistische Alexander hat Vorbilder in der christlichen und
+    jüdischen Tradition. Eine stark narrativ geprägte Sure, <q type="koran" versstart="027:000"
+     versend="027:093">Q 27</q>, die sogar mit Allegoresen — Salomo-Herakleios — arbeitet, ist
+    dieser besonderen Problematik gewidmet. Ähnlich allegorisierend arbeitet die Darstellung des
+    zwar nicht biblischen — wenn man von den Anspielungen in Daniel 8 absieht —, aber doch in der
+    volkstümlichen Tradition und besonders in der Kriegspropaganda des Herakleios (reg. 610–641)
+    stark präsenten Alexander, wenn dieser auch nirgends namentlich genannt wird. Es ist aber vor
+    allem <q type="koran" versstart="018:000" versend="018:110">Sure 18</q>, die durch mehrere
+    Episoden aus der mündlich im Umlauf befindlichen Alexanderlegende geprägt ist. Stets geht es
+    dabei um das Ideal des mächtigen, aber einsichtigen, wahrheitssuchenden Herrschers, das dem
+    realen byzantinischen Kaiser als Spiegel vorgehalten wird, wobei gerade der gefährlichen
+    Versuchung der Anmaßung durch ›korrigierte‹ Biographien der Vorbildherrscher entgegengewirkt
+    wird: Herakleios, der beansprucht, ein zweiter David, Salomo bzw. Alexander zu sein,<note
+     place="">Siehe die panegyrische Hofhistoriographie in <bibl Zotero_Id_1="X5DBERGX">James
+      Howard-Johnston, <hi rend="italic">Witnesses to a World Crisis. Historians and Histories of
+       the Middle East in the Seventh Century</hi>, Oxford 2010</bibl>.</note> sollte sich besser an
+    deren ›purgierten‹ Abbildungen orientieren. Mehr als alle früheren Suren können die
+    spätmittelmekkanischen Suren daher als politisch relevante Texte gelten, für die sich deutlich
+    ein ›Sitz im Leben‹ abzeichnet — als Einbringungen in die ideologischen Debatten der Zeit.</p>
+   <p>Angesichts dieser neuen Vielfalt der exegetischen Herausforderungen war das Kommentatorenteam
+    glücklich, in Dr. Zishan Ghaffar für einige Zeit einen historisch gebildeten und für die
+    Überschneidungen zwischen arabischer und byzantinischer Kultur sensibilisierten Mitarbeiter zu
+    haben, der maßgeblich zur Schärfung theologischer Kategorien beigetragen hat. Seine Arbeit ist
+    primär in eine Monographie<note place=""><bibl Zotero_Id_1="TXU6734D">Zishan Ghaffar, <hi
+       rend="italic">Der Koran in seinem religions- und weltgeschichtlichen Kontext. Eschatologie
+       und Apokalyptik in den mittelmekkanischen Suren</hi>, Paderborn 2019</bibl>.</note>
+    eingemündet, auf die für den Kommentar nun zurückgegriffen werden muß. Für eine gründliche
+    Rückprüfung der letztkommentierten Suren stand uns mit dem Erforscher des christlichen Orients,
+    Dr. Nestor Kavvadas, ein kundiger Spätantike- Forscher zur Seite. Andrerseits verfügt das
+    Projekt in dem Judaisten Dirk Hartwig über einen profunden Kenner der jüdischen Tradition,
+    sowohl der auf großsyrischem als auch der auf babylonischem Boden entstandenen. Dirk Hartwig hat
+    davon in einem — in Koautorschaft mit Angelika Neuwirth geschriebenen — Aufsatz, »Multifaceted
+     Solomon«,<note place=""><bibl>Dirk Hartwig, Angelika Neuwirth, »Multifaceted Solomon — The
+      Qurʾanic Image of Solomon between Ahasuerus and Heraclius«, in: <hi rend="italic">Rabbinic
+       Instruction in Context. Interdisciplinary Perspectives on the Transmission of Religious
+       Knowledge and Praxis in Antiquity and Late Antiquity</hi>, hg. von Elisabetta Abate,
+      Göttingen (im Druck)</bibl>.</note> eine für Spätmittelmekka wichtige Probe dieser
+    transdisziplinären Kompetenz geliefert. Er hat aber vor allem so intensiven Anteil an der
+    Konzeptionierung, Dokumentierung und Redaktion dieses Bandes gehabt, daß er auch hier als
+    Koautor betrachtet werden muß.</p>
+   <p>Unter den wesentlichen neuen Diskursen der spätmittelmekkanischen Suren seien sieben
+    hervorgehoben:</p>
+   <p><hi rend="italic">1. Antwort auf christliche messianisch geprägte Soteriologie</hi></p>
+   <p>Was ist an den hier vorgelegten Kommentaren neu? Die Etikettierung ›spätmittelmekkanisch‹
+    verbürgt keinen trennscharfen Einschnitt zwischen schon Eingeführtem und Neuem. (Die
+    Periodisierung der einzelnen Suren ist ein kaum jemals vollständig und für alle überzeugend zu
+    lösendes Problem.) Auch im Fall der spätmittelmekkanischen Phase, die man als die für
+    weltpolitische Entwicklungen einzigartig sensibilisierte Phase der Koranentstehung bezeichnen
+    könnte, gingen den ›neuen Suren‹ einige ähnlich ausgerichtete Texte voraus. Die Grenze nach den
+    beiden <q type="koran" versstart="038:000" versend="038:088">Einzelsuren 38</q> und <q
+     type="koran" versstart="019:000" versend="019:098">19</q>, die an den Schluß der
+    frühmittelmekkanischen Suren gestellt worden waren, ist also nicht ganz undurchlässig. Einzelne
+    Aussagen gerade dieser Suren setzen sich bereits kritisch mit den messianischen Dimensionen
+    biblischer, hier neutestamentlicher Erzählungen auseinander, deuten damit bereits in die neue
+    ideologische Richtung, die auf die Suren der spätmittelmekkanischen Periode folgen werden. Es
+    geht nun um die Konstruktion eines eigenen Geschichtsbildes, das den gängigen Geschichtsbildern
+    der Zeit kritisch begegnet und zu dessen Klärung biblische Geschichten neu gelesen, nämlich von
+    den ihnen in der Spätantike aufgesetzten messianischen Zügen purgiert werden müssen.</p>
+   <p>Schon in der Maria-Jesus-Perikope der <q type="koran" versstart="019:016" versend="019:033"
+     >Sure 19 (V. 16–33)</q> überlagerten sich Erzählung und subtiles antimessianisches Argument
+    (siehe <bibl Zotero_Id_1="R7C4TXP6"><hi rend="italic">HK 2/1</hi>, S. 611–618</bibl>). Da dieses
+    unausgesprochen, vielmehr durch ostentatives Verschweigen von Erzählhergängen bzw.
+    substantiellen Botschaften der christlichen Vorgängerversion(en), d.h. durch ›negative
+    Intertextualität‹ ausgetragen wird, läßt es sich leicht übersehen. Als Erzähllücke in einem —
+    als <hi rend="italic">›gapped text‹</hi> — mißdeuteten Koran verstanden, wird eine solche
+    Leerstelle intuitiv einfach mit biblischem Wissen aufgefüllt, so daß der koranisch beabsichtigte
+    Anstoß an vorgefundenem Denken vom Leser sogleich beseitigt wird. ›Negative Intertextualität‹,
+    das Thematisieren von Ideen gerade durch Leerstellen im Gedankengang, wird aber in den
+    spätmittelmekkanischen Suren zu einem wichtigen strategischen Mittel. Sie ist bereits in <q
+     type="koran" versstart="019:000" versend="019:098">Q 19</q> in besonderem Maße wirksam. Erst
+    wenn man die auch politische Stoßrichtung dieses Surencorpus erkannt hat, werden theologische
+    Stellungnahmen erkennbar: Die Auslassung der lukanischen Thron-Davids- Verheißung an das
+    Jesus-Kind in der Verkündigungsperikope der Maria-Jesus-Geschichte in <q type="bibel"
+     versstart="001:000" versend="001:000" buch="Lk">Lk 1,26–38</q> ist ein wichtiges Beispiel. Sie
+    zu übersehen wäre folgenschwer, denn der Verzicht auf diese einzigartige Privilegierung wird
+    gewissermaßen Programm für die weitere koranische Jesus-Rezeption. Als Absage an eine
+    messianische Mission ist auch bereits die Durchtrennung der lukanischen Verbindung zwischen
+    Johannes dem Täufer und Jesus im Koran zu verstehen, denn das Fehlen dieser Verbindung löst die
+    beiden Figuren aus ihrem hierarchischen, einem höheren Heilsplan dienenden Verhältnis; vielmehr
+    stehen sie nun jeweils als Prophet und Verkünder einer Botschaft für sich. Auch hier steht der
+    Jesus zuzuerkennende Herrschaftsanspruch kritisch zur Debatte. — Dabei wäre der Handlungshergang
+    durchaus geeignet, einen solchen Herrschaftsanspruch zu stützen: Ohne daß dies explizit
+    ausgesprochen würde, werden die Hergänge um Jesu Geburt nach Jerusalem verlegt, wo der Tempel
+    bzw. seine weitere Umgebung Schauplatz der Ankündigung und der Geburt sind. Das altkirchliche
+    Theologumenon des ›beseelten Tempels‹ in Gestalt der Jungfrau Maria wiederum hallt in der —
+    bereits im Kindheitsevangelium des Jakobus vorausgesetzten — lokalen Verankerung Marias im
+     Tempel<note place="">Siehe dazu <bibl Zotero_Id_1="73X8YIVG">Angelika Neuwirth, »Die Jungfrau
+      Maria und der jüdische Tempel. Der Eintritt der Koran-Gemeinde in eine zentrale
+      jüdisch-christliche Kontroverse«, in: <hi rend="italic">Die weibliche Seite Gottes. Kunst und
+       Ritual</hi>, hg. von Eva Atlan [u. a.], Bielefeld 2020</bibl> [Katalog zur Ausstellung <hi
+      rend="italic">Die weibliche Seite Gottes. Visuelle Darstellungen einer verdrängten
+      Tradition</hi>, Jüdisches Museum Frankfurt: 20. Oktober 2020–14. Februar 2021], S.
+     168–197.</note> nach, aber eben nur vage als Nachhall. Ein solcher ist auch im Fall der
+    koranischen Entallegorisierung des Körpers Mariens, deren Schoß dem Osttor des Tempels
+    entsprach, das erst durch den Messias geöffnet werden wird, unverkennbar. Auch treten andere
+    Ortsreferenzen zurück: Die früher auf der Halbinsel spielenden geschichtlichen Ereignisse,
+    Gegenstand der ›Straflegenden‹, werden nun marginalisiert, Geschichte ereignet sich weitgehend
+    im Heiligen Land, nicht zuletzt in Jerusalem, der Stadt umstrittener Endzeiterwartungen.</p>
+   <p>Es ist davon gesprochen worden, daß der Koran eine Diskursfolge abbildet, die substantiell von
+    der durch die biblischen Bücher vorgegebenen abweicht. Die koranische Verkündigung beginnt mit
+    Apokalyptischem und schreitet dann zu einem Exodus fort.<note place=""><bibl
+      Zotero_Id_1="9HMTYGK8">Angelika Neuwirth, »Von Apokalypse zu Exodus. Die koranische Umkehrung
+      der biblischen Diskurs-Folge«, in: <hi rend="italic">Lesen, Deuten und Verstehen?! Debatten
+       über heilige Texte in Orient und Okzident</hi>, hg. von Sebastian Günther und Florian Wilk,
+      Tübingen 2021, S. 146–163</bibl>.</note> Es zeigt sich, daß der Koran gerade nicht, wie die
+    Bibel in ihrer Endredaktion, das mit der Schöpfung beginnende Drama der göttlichen
+    Heilsgeschichte reflektiert, sondern daß er die mythischen Anfänge einfach ›überspringt‹ und
+    gleich ›politisch‹, als Intervention in eine ganz bestimmte politisch-religiöse
+    Geschichtssituation, einsteigt. ›Apokalypse‹ ist bereits vorfindlich, nicht als literarisches
+    Thema, noch weniger als Buch, sondern als politisch-religiöse Wirklichkeit, als ein
+    Deutungsparadigma für die Welt. Dieses steht schon früh im koranischen Fokus, allerdings nicht
+    als zu affirmierende Wahrheit, sondern als ein mit zunehmender Schärfe zurückzuweisendes
+    Theologumenon. — Ein ›Exodus‹ — im sinngeschichtlichen Verständnis als Auszug in die Freiheit,
+    als Weg in die eigene Identität — muß dagegen von dieser Gemeinde erst errungen werden. DenWeg
+    dahin nachzuzeichnen ist eines der wichtigsten Ziele des Kommentars.</p>
+   <p>Ein solcher Zugang zum Koran als einem politisch signifikanten Dokument ist neu. Man hat dazu
+    die textualistische Warte zu verlassen und den Koran als eine Stellungnahme zu den Ereignissen
+    der Zeit zu lesen. Angestoßen wird sie durch neuere Forschungsansätze, vor allem die in letzter
+    Zeit in den Vordergrund gestellte enge Verbindung zu syrischen Traditionen — die zwar schon
+    frühmekkanisch zutage lagen, aber gerade durch Studien zur Ideologie im siebten Jahrhundert<note
+     place=""><bibl Zotero_Id_1="UJMUFLBL">Gerrit J. Reinink, <hi rend="italic">Syriac Christianity
+       under Late Sassanian and Early Islamic Rule</hi>, Aldershot 2005</bibl>. Siehe auch <bibl
+      Zotero_Id_1="535RZ7DS">Kevin van Bladel, »The Alexander Legend in the Qurʾan«, in: <hi
+       rend="italic">The Qurʾan in Its Historical Context</hi>, hg. von Gabriel Said Reynolds, New
+      York und London 2008, S. 173–205</bibl>, und jetzt wegweisend <bibl Zotero_Id_1="TXU6734D"
+      >Ghaffar, <hi rend="italic">Koran</hi> (siehe oben Anm. 16)</bibl>.</note> frappierende neue
+    Bestätigungen erhalten hat. Ganze Gedankenfolgen syrischer Texte bilden sich offenkundig im
+    Koran ab. Demnach setzt sich die Gemeinde mit Problemen auseinander, die in der Umwelt heiß
+    diskutiert waren. Sind aber zusammen mit den Themen und Gedankenfolgen auch die
+    Schlussfolgerungen und politischen Positionen identisch? Dies wird vorschnell von einzelnen
+    Spätantike-Historikern angenommen, die den Koran als ein literarisches Werk, nicht als
+    Niederschlag, als ›Protokoll‹ einer kollektiven Bewußtseinsbildung, lesen, und daher selektiv
+    nach Parallelen für die besser erforschten syrischen Überlieferungen suchen. Mit dem im
+    Corpus-Coranicum-Projekt vertretenen Programm der Nachzeichnung des Weges ›von Apokalypse zu
+    Exodus‹ wollen wir den Koran aus der gegenwärtig beherrschenden bloß rezeptionshistorischen
+    Perspektive lösen, in der das <hi rend="italic">Ereignis</hi> der Verkündigung ausgeblendet
+    wird, und ihn vielmehr als relevante Einbringung in die Ideen- und Ideologiegeschichte seiner
+    Zeit erkennbar machen. Das heißt aber auch, daß das andere Extrem, eine den Text in seiner
+    überzeitlichen Bedeutung fokussierende ›homiletische‹ Kommentierung, die sich in einzelnen
+    modernen Studien findet, für uns ausscheidet. Wir halten uns so eng wie möglich an die Jetztzeit
+    der Botschaft, deren Relevanz für die Nachwelt auf einem anderen Blatt steht.</p>
+   <p><hi rend="italic">2. Jesus als ›present absentee‹</hi></p>
+   <p>So umstritten die Person Jesu auch in Spätmittelmekka bleibt — ist er Objekt eines Streites
+    mit Christen, steht er also in einem christologischen Kontext? oder ist er eine Schachfigur in
+    der Auseinandersetzung mit den Paganen? —, so wenig er auch vor Medina durch eine eigene Vita
+    plastisch gemacht wird, so präsent ist doch seine besondere Rede- und Denkweise. Will man der
+    spezifischen DNA des Koran auf die Spur kommen, ist das nicht explizit Markierte, sondern das
+    aus der Tradition ohne bestimmte funktionale Absicht Aufgenommene von mindestens gleicher
+    Bedeutung. Das gilt etwa von dem speziellen Verhältnis Jesu zu seiner Mutter, das diskursiv von
+    der — im jüdisch-christlichen Streit zentralen — Frage der wahren bzw. nur behaupteten
+    Inkarnation ganz abgelöst ist: Marias Jungfräulichkeit ist im Koran, anders als dies zeitweise
+    in der christlich-jüdischen Polemik der Fall war, nicht Garant der Gottessohnschaft Jesu.
+    Gleichwohl ist die Außergewöhnlichkeit Marias als Jungfrau für die gemeindliche Vorstellung von
+    der christlichen Gründungsgeschichte zentral; denn sie untermauert die besondere Dignität Jesu
+    als einer Verkörperung der Barmherzigkeit, mehr noch, sie flankiert sie durch eine weiblich
+    konnotierte Trägerin dieser Tugend. — Die Bedeutung des zunächst nicht durch Namensangabe
+    markierten Jesus verdankt sich aber vor allem der formgebenden Kraft seiner Redeweise. In <q
+     type="koran" versstart="023:000" versend="023:118">Sure 23</q> wird die Frage aufgeworfen: »Wer
+    sind die Gläubigen?« Im spätantiken Kontext bedeutet das nicht weniger als die Frage: Wer wird
+    der Errettung teilhaftig? So etwa in dem — liturgisch oft wiederholten — Ausruf:
+    <lang xml:lang="gr-Latn">kyrie sōson tous eusebeis</lang>, arabisch
+    <lang xml:lang="ar-Latn">yā-rabb ḫallisi l-muʾminīn</lang>, »O Herr, errette die Gläubigen«,
+    oder im »Großen Einzug«:
+    <lang xml:lang="gr-Latn">pantōn hēmōn / kai pantōn tōn eusebōn tōn orthodoxōn christianōn mnēsteie ho theos en tē basileia autou 〈…〉</lang>,
+    arabisch
+    <lang xml:lang="ar-Latn">ǧamiʿakum wa-ǧamiʿa l-muʾminīn al-ḥasani l-ʿibādati l-ʾurṯūḏuksīn li-yaḏkuri l-rabb fī malakūtihi</lang>,
+    »Unser aller und aller frommen rechtgläubigen Christen gedenke Gott in seinem Reich 〈…〉«.</p>
+   <p>Es ist bemerkenswerterweise aber eher selten, daß im Koran auf den in der Liturgie
+    gezeichneten oder angerufenen Jesus Christus Bezug genommen wird, viel präsenter ist der
+    historische Jesus. Die eschatologische Einbettung des Gläubigseins kommt ja auch nicht nur in
+    der Liturgie zur Sprache; sie manifestiert sich bereits in Jesu historischer Predigt, in den
+    Seligpreisungen (<q type="bibel" versstart="005:003" versend="005:012" buch="Mt">Mt
+     5,3–12</q>/<q type="bibel" versstart="006:020" versend="006:023" buch="Lk">Lk 6,20–23</q>).
+    Gerade deren koranische Entsprechungen begegnen prononciert-emphatisch in dem Hymnus auf »die
+    Gläubigen« am Anfang von <q type="koran" versstart="023:000" versend="023:118">Sure 23</q>, wo
+    diese »selig« gesprochen werden, <q type="koran" versstart="023:001" versend="023:001">Q
+     23:1</q>: <lang xml:lang="ar-Latn">qad aflaḥa l-muʾminūn</lang>, »Selig die Gläubigen«. Es
+    folgt ein Tugendkatalog, der deutlich an die Seligpreisungen Jesu erinnert. Darin wird — neben
+    monastischen Selbstbeschränkungen — vor allem Gottesfurcht gepriesen, die sich auch in sozialen
+    Handlungen spiegelt. Man könnte leicht weitere Jesus-Reminiszenzen aus den Evangelien anführen,
+    etwa seinen Klageruf über Jerusalem, das seine Propheten verfolgt und dafür bestraft wird (<q
+     type="bibel" versstart="023:037" versend="023:039" buch="Mt">Mt 23,37–39</q>/<q type="bibel"
+     versstart="013:034" versend="013:035" buch="Lk">Lk 13,34–35</q>); denn auch in der Rede des
+    Verkünders zeichnet sich das Bewußtsein ab, daß immer wieder Propheten verhöhnt und verfolgt
+    werden und Städte dafür zerstört wurden, <q type="koran" versstart="021:011" versend="021:011">Q
+     21:11</q>:
+    <lang xml:lang="ar-Latn">wa-kam qaṣamnā min qaryatin kānat ẓālimatan wa-ʾanšaʾnā baʿdahā qauman ʾāḫarīn</lang>,
+    »Wie manche frevlerische Stadt vernichteten wir und ließen nach ihr ein neues Volk
+    entstehen!«.</p>
+   <p>Unter den weiteren Referenzen auf den historischen Jesus ist sein wiederholter Aufruf an die
+    Gemeinde, einig zu bleiben (<q type="koran" versstart="019:034" versend="019:037">Q
+    19:34–37</q>; <q type="koran" versstart="043:063" versend="043:065">43:63–65</q>; <q
+     type="koran" versstart="023:052" versend="023:052">23:52</q> und <q type="koran"
+     versstart="021:092" versend="021:094">21:92–94</q>), der jedoch ungehört bleibt. Auch die
+    Klage, daß das Volk sich mit Reden nicht zufriedengibt, sondern Wunder verlangt, findet sich in
+    der Klage über die Haltung der koranischen Paganen wieder.<note place="">Siehe allgemein <bibl
+      Zotero_Id_1="UC3T9FVT">Angelika Neuwirth, »Jesus und Muhammad — zwei spätantike Lehrer? Ein
+      Versuch, den Koran im Licht der Lehre Jesu ›neu zu lesen‹«, in: <hi rend="italic">Jesus
+       Christus. Von alttestamentlichen Messiasvorstellungen bis zur literarischen Figur</hi>, hg.
+      von Thomas Fornet-Ponse, Münster 2015, S. 133–148</bibl>.</note> Und auch negative
+    Intertextualität ist hier nicht zu übersehen, so etwa in der gänzlich anderen Auslegung der
+    Jesaja-Perikope über die Akte der Barmherzigkeit (<q type="bibel" versstart="058:006"
+     versend="058:007" buch="Jes">Jes 58,6–7</q>), die zwar — wie in Jesu Auslegung <q type="bibel"
+     versstart="025:031" versend="025:046" buch="Mt">Mt 25,31–46</q>, so auch im Koran — auf ihre
+    eschatologischen Konsequenzen hin referiert werden, bei deren Reflexion aber die Verkörperung
+    der Rechtlosen in Jesus selbst gewiß absichtlich ausgelassen wird: »Was ihr getan habt einem
+    dieser geringsten Brüder, das habt ihr an mir getan« (<q type="bibel" versstart="025:045"
+     versend="025:045" buch="Mt">Mt 25,45</q>). Diese Weglassung ist nicht zufällig, sondern wird
+    durch eine ganz andere, schöpfungstheologische Begründung der Akte der Barmherzigkeit aufgefüllt
+    (siehe dazu <bibl Zotero_Id_1="X6J8ZZSZ"><hi rend="italic">HK 1</hi>, S. 243f.</bibl>). Die
+    Verlagerung der Erzählabsicht von einer Annäherung an Jesus auf den notwendigen Gebrauch der
+    Sinnesorgane für die sinnvolle Formung des sozialen Lebens spielt auch in Spätmittelmekka wieder
+    eine Rolle.</p>
+   <p>Mouhanad Khorchide und Klaus von Stosch haben in ihrem neuen Jesus-Buch<note place=""><bibl
+      Zotero_Id_1="I3CCTANS">Mouhanad Khorchide, Klaus von Stosch, <hi rend="italic">Der andere
+       Prophet. Jesus im Koran</hi>, Freiburg/Breisgau 2018</bibl>.</note> auf die Sonderstellung
+    Jesu unter den koranischen Propheten hingewiesen und dabei besonders auf seine expliziten
+    Etikettierungen abgehoben; ganz sicher sind Jesu im Koran referiertes Verhalten wie auch seine
+    Etikettierung als <lang xml:lang="ar-Latn">kalima</lang>, »Wort« (<q type="koran"
+     versstart="003:045" versend="003:045">Q 3:45</q>; <q type="koran" versstart="004:171"
+     versend="004:171">4:171</q> und öfter), von essentieller Bedeutung für seine theologische
+    Wahrnehmung. Der Einsatz seines — ohne seine Namensnennung bleibenden — Bildes durch seinen
+    Redehabitus (<lang xml:lang="gr-Latn">makarismoi</lang>, »Seligpreisungen«, Gleichnisreden,
+    Motto von der Einheit der Gemeinde usw.) scheint aber ebenso prägend für die These seines
+    besonderen Ranges im Koran zu sein, wenn auch nicht einsetzbar als theologische Differenzierung,
+    sondern eher als Argument für eine notwendige inklusive Sicht.</p>
+   <p>Daß unter seinen Etikettierungen <lang xml:lang="ar-Latn">raḥma</lang>, »Barmherzigkeit«,
+    einen besonderen Rang hat, verweist zugleich auf einen wichtigen Traditionsstrang, den von der
+    Jungfrau Maria repräsentierten. Sie betritt die koranische Bühne ja bereits mit einer besonderen
+    Auszeichnung, griechisch <lang xml:lang="gr-Latn">kecharitomenē</lang>, »Begnadete«, arabisch
+    <lang xml:lang="ar-Latn">mumtaliʾat al-niʿma</lang>, wenn diese ihr auch nicht gleich
+    ausdrücklich zugewiesen wird, sondern erst bei der Wiederaufnahme ihrer Geschichte in der
+    medinischen <q type="koran" versstart="003:042" versend="003:042">Sure 3:42</q> ausgesprochen
+    wird. Ihre entsprechende Aura läßt sich aber aus der von ihrem Erscheinen in Mittelmekka
+    ausgelösten Wende erschließen: Von <q type="koran" versstart="019:000" versend="019:098">Sure
+     19</q> an werden das Wort <lang xml:lang="ar-Latn">raḥma</lang>, vor allem aber der Begriff
+    »Barmherzigkeit« und nicht zuletzt die etymologisch suggerierte Konnotation der Weiblichkeit
+    formgebend für die folgenden Verkündigungen werden.</p>
+   <p>Ein sprechendes Beispiel ist die an den Anfang der spätmittelmekkanischen Suren zu stellende
+     <q type="koran" versstart="017:000" versend="017:111">Sure 17</q>. Sie enthält einen
+    koranischen Dekalog,<note place=""><bibl Zotero_Id_1="F5PQUIC3">Angelika Neuwirth, »Die
+      Entdeckung des Bösen im Koran? Überlegungen zu den koranischen Versionen des Dekalogs«, in:
+       <hi rend="italic">Das Gesetz — The Law — La Loi</hi>, hg. von Andreas Speer und Guy
+      Guldentops, Berlin 2014, S. 179–200</bibl>.</note> der auffällig neu kodiert ist, indem er
+    vielfach auf <lang xml:lang="ar-Latn">raḥma</lang> verweist. Die <q type="koran"
+     versstart="017:023" versend="017:024">Verse 23–24</q> zur achtungsvollen Behandlung der Eltern
+    — dem vierten Gebot aus <q type="bibel" versstart="020:000" versend="020:000" buch="Ex">Ex
+     20</q>/<q type="bibel" versstart="005:000" versend="005:000" buch="Dtn">Dtn 5</q> entsprechend
+    — betont <lang xml:lang="ar-Latn">raḥma</lang> als das eigentliche Motiv für das geforderte
+    Verhalten, er verbildlicht das Kind- Eltern-Verhältnis noch durch ein Weiblichkeit evozierendes
+    Szenario, die Beschützung der Schwachen nach Art der Vogelmutter, die ihre hilflosen Jungen
+    unter ihre Fittiche nimmt (<q type="koran" versstart="017:024" versend="017:024">V. 24</q>):
+    »Senke auf sie herab die Fittiche der Demut, aus Erbarmen, und sprich: ›Mein Herr! Erbarm dich
+    ihrer, so wie sie mich aufzogen, als ich klein war!‹« — Auch die weiteren Gebote und Verbote
+    sind unter die Devise der <lang xml:lang="ar-Latn">raḥma</lang> gestellt, man denke an die
+    Aufforderung zur Versorgung des Bettlers — zumindest mit freundlichen Worten, <q type="koran"
+     versstart="017:028" versend="017:028">Q 17:28</q>: »Wendest du dich von ihnen ab 〈…〉, so sag
+    ihnen wenigstens freundliche Worte!« — als Akt der Barmherzigkeit.<note place=""><bibl
+      Zotero_Id_1="JSVM4769">Angelika Neuwirth, »Raḥma. Notions of Mercy and Their Qurʾanic
+      Foundations«, in: <hi rend="italic">Islamochristiana</hi> 42 (2016), S.
+    21–41</bibl>.</note></p>
+   <p>Am augenfälligsten ist aber die Erhebung der <lang xml:lang="ar-Latn">raḥma</lang> zum
+    wichtigsten Attribut Gottes in der <lang xml:lang="ar-Latn">Fātiḥa</lang>, dem in
+    Frühmittelmekka eingeführten Gemeindegebet, dessen zweiter und dritter Vers in der
+    <lang xml:lang="ar-Latn">Basmala</lang> zusammengezogen werden, die nicht zufällig in dieser
+    Zeit allen Suren vorangestellt wird.</p>
+   <p><hi rend="italic">3. Eine Antwort auf den jüdischen Messianismus: das David-Bild</hi></p>
+   <p>Die beiden — für die Herausbildung der beiden älteren Religionen emblematischen — Figuren der
+    Tempelzerstörung und der Kreuzigung Jesu gehören nicht zur kollektiven Erinnerung der Gemeinde;
+    nicht sie selbst, sondern die aus ihnen erwachsenen messianischen Hoffnungen sind es, die den
+    Hintergrund der Korangenese entscheidend mitbestimmt haben.</p>
+   <p>In der spätantiken Vorstellung wirkt Gott nicht mehr allein durch sein Tun in der Geschichte,
+    es ist seine Rede, seinWort, das wirkt. Faktische Ereignisse haben damit ihre Signifikanz an
+    ihre geistige Bedeutung abgegeben. Die beiden traumatischen Erfahrungen, die die Entstehung der
+    beiden älteren Religionen vorangestoßen hatten, werden von Christen und Juden spirituell
+    verwandelt: Die Kreuzigung wird durch die Auferstehung verklärt, die Tempelzerstörung beflügelte
+    im Judentum die Vorstellung von einem transzendenten »oberen Jerusalem«, zu dem privilegierte
+    Gerechte im ekstatischen Zustand aufsteigen dürfen.<note place="">Zur sogenannten
+     Hekhalot-Literatur siehe <bibl Zotero_Id_1="CFH4SUBT">Peter Schäfer, <hi rend="italic">Die
+       Ursprünge der jüdischen Mystik</hi>, Berlin 2011, S. 336–446</bibl>.</note> Auch im
+    christlichen Kontext ist das »himmlische Jerusalem« seit der Johannesoffenbarung als Antipode
+    der irdischen Stadt fest etabliert. Das steinerne Gebäude des physischen Tempels trat damit
+    hinter seinem erhabeneren Bild als spiritueller Tempel zurück. Während aber für die Juden das
+    »obere Jerusalem« zu keinem Zeitpunkt den Verlust der Stadt und des Tempels aus ihrem Gedächtnis
+    tilgen konnte, war im christlichen Kontext das von Johannes gezeichnete »himmlische Jerusalem«
+    so wirkmächtig, daß das reale Jerusalem bis ins vierte Jahrhundert theologisch nur eine geringe
+    Rolle spielte.</p>
+   <p>In der koranischen politischen Theologie der spätmittelmekkanischen Zeit geht es gerade um ein
+    Gegenideal zur Messiasgestalt, um den gerechten Herrscher. Daher treten nun auch vermehrt
+    biblische Herrschergestalten in den Horizont: David und Salomo. David war bereits am Ende der
+    frühmittelmekkanischen Suren, in <q type="koran" versstart="038:000" versend="038:088">Q 38</q>,
+    konträr zu seinem heroischherrschaftlichen Bild im ersten Buch der Könige, als der Psalmist und
+    als Büßer dargestellt worden. Ihm war zwar in einer kommentierenden Nachbemerkung zu seiner
+    Erzählung eine besondere Herrschaftsfülle verkündigt worden — ihre Realisierung war aber
+    sogleich unter die Bedingung seiner Gottesfurcht, seiner Zurückhaltung angesichts des
+    eschatologischen Gerichts, gestellt worden. Die kurze David-Perikope läßt — obwohl David in der
+    Spätantike, längst hoch über seine historische Gestalt hinausgewachsen als die Präfiguration des
+    Messias bei Juden und Christen, ubiquitär präsent ist — nichts von seiner politischen
+    Signifikanz erahnen, oder präziser: Sie verwischt das Faktum dieser Bedeutsamkeit. Sie verrät
+    aber eine Herkunft aus der Praxis der byzantinischen Hymnologie, wo nicht nur Davids Weisheit
+    als beispielhaft für die Könige der christlichen Tradition abgerufen wird, sondern wo auch auf
+    seine Vergegenwärtigung großer Wert gelegt wird. Wie in den Hymnen zur Vergegenwärtigung eines
+    in Erinnerung gebrachten Heiligen oder einer biblischen Beispielfigur üblich, wird David auch in
+    der kurzen Perikope in <q type="koran" versstart="038:026" versend="038:026">Sure 38 (V. 26)</q>
+    durch eine vokativische Anrufung präsent gemacht.</p>
+   <p>Diese Herabstufung des großen Königs auf die Maßstäbe eines beispielhaften Frommen ist wieder
+    als Absage zu verstehen, nun an ein aktuelles Herrscherbild. Denn der politische David als
+    Stifterfigur des Messianismus war zur Zeit der mittelmekkanischen Verkündigung höchst aktuell:
+    Seit 610 wurde der östliche Mittelmeerraum erschüttert von anhaltenden
+    sassanidisch-byzantinischen Kriegen, in deren Verlauf dem Herrschaftsanspruch des byzantinischen
+    Kaisers Herakleios eine eschatologische Dimension zugewachsen war. Herakleios’ Bestreben, sich
+    an David als seinem biblischen Vorbild auszurichten, sich als neuer David zu präsentieren,
+    manifestiert sich in verschiedenen Medien, allen voran einigen typologisch ausgerichteten
+    panegyrischen Berichten seiner Hofhistoriker über seine Kriegserfolge, aber auch beispielsweise
+    in ikonographischen Darstellungen auf Silberplatten, die zwar Szenen aus Davids Leben
+    darstellen, jedoch aktuell solche aus dem Leben des Herakleios reflektieren sollen. Diese lange
+    unbeachtete Verbindung ist kürzlich von Zishan Ghaffar<note place=""><bibl
+      Zotero_Id_1="TXU6734D">Ghaffar, <hi rend="italic">Koran</hi> (siehe oben Anm. 16)</bibl>. Die
+     Deutung der Silberplatten ist freilich umstritten, siehe <bibl Zotero_Id_1="FENE2IB4">Ueli
+      Zahnd, »Novus David. Zur Frage nach byzantinischen Vorläufern eines abendländischen Topos«,
+      in: <hi rend="italic">Frühmittelalterliche Studien</hi> 42 (2008), S. 71–87</bibl>.</note> ins
+    Licht gerückt worden, der auch mögliche Traditionswege für das hier manifeste Herrscherideal in
+    die weitere monotheistische Ökumene verfolgt. Die Figur Davids steht also durch die von
+    Herakleios angestrebte Neuverkörperung gewissermaßen im Rampenlicht der Zeit. Ihr wirkt die
+    koranische Darstellung entgegen.</p>
+   <p><hi rend="italic">4. Die Weitung des Horizonts in die persisch-mesopotamische Welt: Salomo
+     alias Ahashverosh alias Herakleios</hi></p>
+   <p>Noch komplexer und vielschichtiger ist jedoch die Figur Salomos.<note place=""><bibl>Hartwig,
+      Neuwirth, »Multifaceted Solomon« (siehe oben Anm. 17)</bibl>.</note> Mit der sich um sie
+    rankenden Haupterzählung in <lang xml:lang="ar-Latn">sūrat an-naml</lang> (<q type="koran"
+     versstart="027:000" versend="027:093">Q 27</q>) tritt zugleich auch ein neuer Kulturkreis in
+    den Blick: der persisch-mesopotamische. Das Traditionsgut aus dieser Region ist im Koran nicht
+    allzu prominent, wenn man von den ästhetischen Reminiszenzen persischer aristokratischer
+    Lebensformen in den frühmekkanischen Paradiesbeschreibungen absieht. In Spät(mittel)mekka
+    zeichnen sich nun auch narrativ Spuren ab. Neben dem innerhalb der Bibel am deutlichsten
+    persisch geprägten Buch Esther ist es die in der Spätantike weit verbreitete Spruchsammlung des
+    Weisen Achiqar, die in Spätmekka in <lang xml:lang="ar-Latn">sūrat Luqmān</lang> (<q
+     type="koran" versstart="031:000" versend="031:034">Q 31</q>) reflektiert ist und auf dessen
+    Protagonisten auch in <q type="koran" versstart="027:000" versend="027:093">Sure 27</q> am Rande
+    angespielt wird. Das Buch Esther selbst ist im Koran nicht reflektiert, wohl aber hat die ihm in
+    der Spätantike zugewachsene politische Theologie Spuren hinterlassen. Maßgeblich war hier eine
+    ungewöhnliche Fortschreibung des Buches, der sogenannte <hi rend="italic">Targum Sheni</hi> zu
+     Esther,<note place="">Siehe <bibl Zotero_Id_1="7MWID24U">Beate Ego, <hi rend="italic">Targum
+       Scheni zu Ester. Übersetzung, Kommentar und theologische Deutung</hi>, Tübingen
+     1996</bibl>.</note> wohl aus dem sechsten Jahrhundert stammend. In dessen Anfangsteil findet
+    sich eine relevante Herrschertafel, die die Ätiologie für die gemeinsame Behandlung gerade der
+    Herrscher Ahashverosh, David und Salomo in <q type="koran" versstart="027:000" versend="027:093"
+     >Sure 27</q> liefert.</p>
+   <p>Es geschieht bereits in dieser Tafel, daß die Figur Salomos mit dem persischen Herrscher
+    Ahashverosh verbunden wird: Letzterer sitzt — nach jüdischer Vorstellung illegitimerweise — auf
+    dem Thron Salomos, figuriert also als ein Nachfolger Salomos. Im Targum Sheni werden beide nun
+    auch literarisch durch eine dort eingefügte Salomo-Episode miteinander verbunden. Ähnlichkeiten
+    im Plot sind vorhanden, die aber gegensätzliche Auslegungen erhalten. Wenn Ahashverosh in der
+    Bibel mit einer imposanten weiblichen Figur, Esther, verbunden ist, so ist es in der
+    targumischen Spiegelgeschichte die Königin von Saba, mit der Salomo verbunden wird. Jedesmal
+    wird einem zwar mächtigen, aber doch wenig lebensklugen Herrscher eine weise Frau zur Seite
+    gestellt. So auch wieder im koranischen Bericht.</p>
+   <p>Die Salomo-Geschichte in <lang xml:lang="ar-Latn">sūrat al-naml</lang> ist — analog zu der
+    Kombination im <hi rend="italic">Targum Sheni</hi> — ein Amalgam aus dem biblischen Bericht über
+    die Königin von Saba und der Esther-Erzählung. Die Gestaltung des Herrschers Salomo, dem <q
+     type="koran" versstart="027:000" versend="027:093">Sure 27</q> in weiten Teilen gewidmet ist,
+    baut allerdings bereits auf der Salomo-Perikope in der vorausgehenden Sure <q type="koran"
+     versstart="038:000" versend="038:088">Q 38</q> (siehe <bibl Zotero_Id_1="R7C4TXP6"><hi
+      rend="italic">HK 2/1</hi>, S. 544–560</bibl>) auf, setzt also eine bereits spätantik kodierte
+    Salomo-Figur voraus. Diese einerseits weisheitliche, andererseits haggadische Salomo-Figur trägt
+    nicht seine biblischen Charakteristika als mächtiger König und Tempelerbauer, sondern stellt
+    neue, aus der folkloristischen Tradition hinzugekommene Züge in den Vordergrund: seine
+    Herrschaft über und Kommunikationsfähigkeit mit Dämonen, Djinnen und sprechenden Tieren — eine
+    Beziehung, die in <q type="koran" versstart="027:000" versend="027:093">Q 27</q>, einer mit
+    außergewöhnlichen fiktionalen Mitteln arbeitenden Salomo-Sure, auch narrativ entfaltet wird.
+    Wenn es vorher David war, mit dem zusammen laut <q type="koran" versstart="038:018"
+     versend="038:019">Q 38:18–19</q> (siehe <bibl Zotero_Id_1="R7C4TXP6"><hi rend="italic">HK
+      2/1</hi>, S. 544–554</bibl>) und wieder <q type="koran" versstart="021:079" versend="021:079"
+     >Q 21:79</q> Tiere und sogar Landschaftsformationen Gott preisen — eine Übertragung der
+    metaphorisch- poetischen Rede aus den David als Autor zugeschriebenen Psalmen ins Veritative —,
+    so tritt in <q type="koran" versstart="027:000" versend="027:093">Sure 27</q> auch Salomo mit
+    seiner Vogelkommunikation in diese halbmythische Gruppe ein. — Beide sind typologisch, wie schon
+    Heribert Busse<note place=""><bibl Zotero_Id_1="86H969VV">Heribert Busse, »Herrschertypen im
+      Koran«, in: <hi rend="italic">Die islamische Welt zwischen Mittelalter und Neuzeit.
+       Festschrift für Hans Robert Roemer zum 65. Geburtstag</hi>, hg. von Ulrich Haarmann und Peter
+      Bachmann, Beirut 1979, S. 56–80</bibl>.</note> festgestellt hat, eng verbunden.<note place=""
+     >Siehe dazu auch <bibl Zotero_Id_1="TXU6734D">Ghaffar, <hi rend="italic">Koran</hi> (siehe oben
+      Anm. 16), S. 75–110</bibl>.</note> Betrachtet man die Erzählung von der Königin von Saba ohne
+    diesen Hintergrund des bereits mit übernatürlichen Partnern assoziierten David-Salomo-Duos, so
+    entsteht leicht — wie in der bisherigen Literatur üblich — auch für den Koran der irreführende
+    Eindruck einer vor allem folkloristischen Unterhaltungsgeschichte.</p>
+   <p>Bis dahin war bei Salomo nur allusiv oder allegorisch von konkreten Handlungen die Rede — so
+    wurde etwa von einem Abschied von seinen Pferden erzählt, der ein euphemistischverschlüsseltes
+    Abschiednehmen von seinen (ausländischen) Frauen sein könnte (siehe den Kommentar zu <q
+     type="koran" versstart="038:031" versend="038:033">Q 38:31–33</q> in <bibl
+     Zotero_Id_1="R7C4TXP6"><hi rend="italic">HK 2/1</hi>, S. 554–558</bibl>). Dagegen wird in <q
+     type="koran" versstart="027:000" versend="027:093">Sure 27</q> eine narrativ kunstvoll
+    entfaltete Geschichte erzählt: Salomos Begegnung mit der Königin von Saba.</p>
+   <p>Diese Erzählung, die offenbar Hergänge am Hof von Ahashverosh spiegelt, versetzt den
+    Schauplatz der biblischen Erzählung nun erstmals in den persisch-mesopotamischen Kulturraum,
+    virtuell an den Hof von Susa. Salomo im persischen Milieu ist im Koran einzigartig; die
+    Verbindung mag der Vorstellung geschuldet sein, daß — der Herrschertafel im Targum sowie auch
+    einem Midrasch zufolge — der persische Herrscher illegitim auf dem Thron Salomos sitze. Auf
+    diese Weise bereits eng mit dem Bild des Thrones verbunden, stellt der koranische Salomo auch
+    einen Thron als wichtigstes Handlungsinstrument in den Vordergrund.</p>
+   <p>Das Hofzeremoniell — im Targum wie auch im Buch Esther selbst ein zentrales Erzählelement —
+    wird für den koranischen Salomo ›entzaubert‹. Der Herrscher versammelt sein Gefolge nicht zu
+    einem Gastmahl und Trinkgelage, sondern zu einer Heeresmusterung. Er will mit dem ihm
+    unterstehenden Heer von Dämonen und Fabeltieren dieWelt erobern, um die noch ungläubigen Völker
+    zum Monotheismus zu bekehren. Darin zeigt sich eine unverkennbare Ähnlichkeit zu Herakleios,
+    dessen Alter ego er offenbar sein soll, ein Argument, das mit Hilfe der Allegorisierung der
+    beiden Hauptpersonen geführt wird, die die biblische Figur Salomo in die Zeitgeschichte holt.
+    Man kann nämlich analog auch von einer Allegorisierung seiner Partnerin, der Königin von Saba,
+    sprechen: Der sich zunächst anbahnende Krieg zwischen beiden wird in dieser idealisierten
+    Geschichte durch Weisheit abgewehrt — eventuell ein versteckter Hinweis auf die auch den realen
+    Herrschern, Herakleios und dem Perserkönig Khosrau II. (reg. 590–628), offenstehende Option.
+    Denn es geht in der Sure, wie Zishan Ghaffar betont hat,<note place=""><bibl
+      Zotero_Id_1="TXU6734D">Ebenda, S. 93–96</bibl>.</note> vor allem um den gerechten Herrscher
+    als Gegenbild zu den illegitim zu apokalyptischen Akteuren erhobenen Herrscherfiguren bzw.
+    Herrscheridealen der Zeit. — Mit dieser allegorischen Verkleidung des historischen Salomo gerät
+    zugleich seine für sein Nachleben wohl prominenteste Leistung, der Bau des Jerusalemer Tempels,
+    aus dem Fokus. Losgelöst von Salomo und der israelitischen Königszeit tritt dieser Tempel in
+    eine neue theologische Konstellation ein, die gerade in neuester Zeit in der Debatte um
+    Jerusalem wieder virulent geworden ist.</p>
+   <p><hi rend="italic">5. Jerusalem</hi></p>
+   <p>Jerusalem stand zur Zeit der Koranverkündigung im Fokus nicht nur theologischer Kontroversen,
+    sondern auch politischer, militärischer Auseinandersetzungen. Die die syrische Theologie gerade
+    zur Zeit der von Herakleios geführten Kriege (610–628) beherrschenden apokalyptischen
+     Erwartungen<note place=""><bibl Zotero_Id_1="UJMUFLBL">Gerrit J. Reinink, »Alexander the Great
+      in Seventh-Century Syriac ›Apocalyptic‹ Texts«, in: Gerrit J. Reinink, <hi rend="italic"
+       >Syriac Christianity under Late Sasanian and Early Islamic Rule</hi>, Aldershot 2005, S.
+      150–178</bibl>.</note> schienen sich in den tatsächlichen Katastrophen, vor allem der
+    persischen Eroberung Jerusalems (614), zu verwirklichen. Zeitgenossenberichte sprechen von
+    Massenermordungen christlicher Einwohner, dem Niederbrennen von Kirchen und — besonders
+    gravierend — der Verschleppung der Reliquie des Heiligen Kreuzes.<note place="">Die wichtigsten
+     Berichte hat <bibl Zotero_Id_1="X5DBERGX">Howard-Johnston, <hi rend="italic">Witnesses to a
+       World Crisis</hi> (siehe oben Anm. 15)</bibl>, zugänglich gemacht.</note> Spätestens von nun
+    an war die christliche Welt — in den Worten von Guy Stroumsa — »übervoll von Erwartungen an die
+    Endzeit mit ihren traditionellen Bildern des kosmischen Krieges zwischen den Kräften des Lichts
+    und der Dunkelheit«.<note place=""><bibl Zotero_Id_1="Q8BMTE64">Guy G. Stroumsa, »False Prophet,
+      False Messiah and the Religious Scene in Seventh-Century Jerusalem«, in: <hi rend="italic"
+       >Redemption and Resistance. The Messianic Hopes of Jews and Christians in Antiquity</hi>, hg.
+      von Markus Bockmuehl und James Carleton Paget, London und New York 2007, S. 285–296, hier S.
+      289</bibl>.</note> In jüdischen Kreisen wiederum flammten messianische Hoffnungen auf, die in
+    haggadischen Erzählungen und liturgischen Gesängen, Pijjutim,<note place="">Siehe <bibl
+      Zotero_Id_1="TXWFSCWM">Günter Stemberger, »Jerusalem in the early seventh century. Hopes and
+      Aspirations of Christians and Jews«, in: <hi rend="italic">Jerusalem. Its Sanctity and
+       Centrality to Judaism, Christianity, and Islam</hi>, hg. von Lee I. Levine, New York 1999, S.
+      260–272</bibl>.</note> Ausdruck fanden. Die Kriegsereignisse schürten messianische
+    Erwartungen, die sich insbesondere auf Jerusalem konzentrierten. Jerusalem — als Schauplatz
+    entscheidender endzeitlicher Ereignisse, wie in Herakleios’ Kriegspropaganda erkennbar, aber
+    nicht weniger prominent in den neu aufflammenden jüdisch-messianischen Spekulationen — wird auch
+    für die koranische Gemeinde ein zentraler Ort. Man kann, wenn man die Dynamik dieser Kontroverse
+    ernst nimmt, — etwas überspitzt — von Jerusalem theologisch als ›Geburtsort‹ der neuen Religion
+    sprechen. Erst durch die Adoption eines spirituellen Zentrums, rituell erkennbar an der
+    Gebetsrichtung — außerhalb der paganen und in Parteienkämpfe involvierten, kommerziell
+    orientierten Stadt Mekka —, konnte sich die neue Frömmigkeit zu einer religiösen Identität
+    entwickeln. Zunächst galt es, mit einer Alternative den beiden antagonistischen Positionen in
+    Christentum und Judentum entgegenzutreten. Es ist in der Zeit der kriegerischen
+    Auseinandersetzungen im weiteren geographischen Raum, daß sich die Gemeinde an Jerusalem als ihr
+    spirituelles Zentrum anschloß.</p>
+   <p>Die Erfüllung der apokalyptischen Erwartungen schien 614, als Jerusalem dem byzantinischen
+    Reich durch die sassanidischen Perser entrissen wurde, unmittelbar bevorzustehen. Nicht daß die
+    koranische Gemeinde dieser Dynamik unbeteiligt gegenübergestanden hätte. In <q type="koran"
+     versstart="021:000" versend="021:112">Sure 21</q> wird emphatisch eine bereits in <q
+     type="koran" versstart="054:000" versend="054:055">Sure 54</q> gemachte Ansage wiederholt: Die
+    Stunde/ die Abrechnung ist nahe! Doch beschwört dieselbe Sure die Verborgenheit des Zeitpunkts
+    ihres Eintreffens und setzt sich mit den Gegnern langwierig über die irrigen Annahmen einer
+    unmittelbar bevorstehenden Apokalypse auseinander. — Vor allem aber zeichnen sich Reflexe der
+    jüdisch-christlichen apokalyptischen Wellen in spätmittelmekkanischen Suren deutlich ab, und
+    zwar stets im Moment ihrer Abwehr. Die berühmte »Nachtreise des Propheten nach Jerusalem«,
+    <lang xml:lang="ar-Latn">al-ʾisrāʾ</lang> (<q type="koran" versstart="017:001" versend="017:001"
+     >Q 17:1</q>), eine visionäre Ortsversetzung nach dem Vorbild jüdischer und christlicher Seher,
+    kann als eine Einbringung der neuen Gemeinde in die Debatte um den Status Jerusalems in einer
+    apokalyptisch aufgeheizten Zeit verstanden werden.</p>
+   <p>Das Ziel dieser visionären Reise, <lang xml:lang="ar-Latn">al-masǧid al-ʾaqṣā</lang>, »das
+    fernere (oder fernste) Heiligtum«, ist offenbar ein nichtirdischer Ort, der aber lose mit dem
+    Heiligen Land, »das wir ringsum gesegnet haben«, verbunden ist. Angesichts des längst
+    feststehenden Ranges Jerusalems als <lang xml:lang="lat-Latn">axis mundi</lang><note place=""
+     >Vgl. <bibl Zotero_Id_1="GGCS73ZZ">Philip S. Alexander, »Jerusalem as the Omphalos of the
+      World. On the History of a Geographical Concept«, in: <hi rend="italic">Jerusalem. Its
+       Sanctity and Centrality to Judaism, Christianity, and Islam</hi>, hg. von Lee I. Levine, New
+      York 1999, S. 104–116</bibl>.</note> konnte <lang xml:lang="ar-Latn">al-masǧid al-ʾaqṣā</lang>
+    als zwischen Himmel und Erde oszillierend vorgestellt werden. — Muhammads visionäre Reise,
+    typologisch Moses Aufstieg zum Berg Sinai und Jesu Aufstieg auf den Tabor entsprechend, markiert
+    einen Wendepunkt in seiner prophetischen Erfahrung, der ihm den Blick auf ein nicht länger
+    räumlich bestimmtes Heiligtum, sondern nun ein <lang xml:lang="ar-Latn">masǧid</lang> eröffnet.
+    <lang xml:lang="ar-Latn">Al-masǧid al-ʾaqṣā</lang> wird — so wird im Kommentar argumentiert —
+    für die Folgezeit bis ins Jahr 2 der Hiǧra das spirituelle Heiligtum der Gemeinde, anerkannt als
+    ihre <lang xml:lang="ar-Latn">qibla</lang>, das Ziel ihrer täglichen Gebete. Schon vorher war
+    Jerusalem als Hintergrund der Geschehnisse um die christlichen Gründerfiguren Zacharia, Johannes
+    der Täufer, Maria und Jesus prominent eingeblendet worden (<q type="koran" versstart="019:001"
+     versend="019:033">Q 19:1–33</q>). Dort wurde jedoch das in der christlichen Tradition überhöhte
+    Bild des Tempels als eines ›Typus‹ der Jungfrau Maria auf seine reale Dimension (Lokalität des
+    Tempeldienstes des Zacharia, Aufenthaltsort der Jungfrau Maria) herabgestuft, ohne daß
+    allerdings Jerusalem selbst dabei aus dem Blick gerät. Dieser zwischen den Religionen kontrovers
+    diskutierte Ort wird nun in <q type="koran" versstart="017:000" versend="017:111">Sure 17</q>
+    über die Kontroverse hinausgehoben, und das Ziel der visionären Reise des Propheten wird
+    theologisch neu aufgeladen. Dadurch erhält der Tempel eine gänzlich neue Bedeutung.</p>
+   <p>Der Weitung der Welt nach oben, in das himmlische Jerusalem, entspricht die neue Vorstellung
+    von einem nicht notwendig steingebauten Heiligtum, einem
+    <lang xml:lang="gr-Latn">proskynētarion</lang>, einem <lang xml:lang="ar-Latn">masǧid</lang>.
+    Diese inklusivere Vorstellung, die das frühere <lang xml:lang="ar-Latn">bait</lang>, »Tempel«,
+    unter dem neuen Aspekt der liturgischen Funktion betrachtet, kann deswegen auch die Kaaba
+    einbegreifen, die als <lang xml:lang="ar-Latn">masǧid al-ḥarām</lang> bestehen bleibt. Der
+    besondere Rang als Ort, an dem die Gebete konvergieren, wird aber einzig dem neuen, spirituellen
+    <lang xml:lang="ar-Latn">masǧid al-ʾaqṣā</lang> zugestanden. Dem Heiligtum in Mekka wird damit
+    ein Heiligtum auf dem Boden des Tempelbergs gegenübergestellt, dessen nicht
+    physisch-architektonische Gestalt die spirituelle Welt des Gebets als ganze überwölbt.</p>
+   <p><hi rend="italic">6. ›Liturgisches Wissen‹ als neue Analysekategorie</hi></p>
+   <p>Christliche und jüdische Liturgien als für den Koran maßgebliche Manifestationen
+    monotheistischer Frömmigkeit stehen in der Forschung gegenüber biblischen und nachbiblischen
+    Erzählstoffen und theologischen Topoi im Hintergrund. Zwar stellt man sich nicht schriftliche,
+    sondern mündliche Tradition als Überlieferungsweg für das biblische Wissen vor, man interessiert
+    sich aber wenig für den performativen Aspekt dieses Transfers. Dabei ist die Tatsache, daß die
+    mittelmekkanischen Suren mit ihrer Struktur — Lesung im Zentrum, appellatorische Teile vorher
+    und nachher — die jüdischer und christlicher Gottesdienste spiegeln, ein deutlicher Hinweis auf
+    die Nähe der Liturgien, der alten und der neu entstehenden, zueinander.</p>
+   <p>Diese in Mittelmekka neue Referentialität läßt sich am klarsten an der veränderten Funktion
+    der koranischen Erzählungen ablesen. Hier können wir eine Wende mit der frühmittelmekkanischen
+     <q type="koran" versstart="015:000" versend="015:099">Sure 15</q> ansetzen, wo zum ersten Mal
+    auf die Existenz einer bestimmten Form von Gottesdienst angespielt wird, in dem die
+    Schriftverlesung als wichtigster Teil figuriert. Im selben Text ist auch von der Existenz eines
+    Gemeindegebetes die Rede, der <lang xml:lang="ar-Latn">Fātiḥa</lang>. Die Wiedergaben biblischer
+    Geschichten haben in diesem Ensemble eine eindeutig liturgische Funktion angenommen. Angesichts
+    des wachsenden Interesses der Gemeinde am biblischen Erbe als Teil ihrer monotheistischen
+    Identität ist es nicht verwunderlich, daß die Hauptmasse der mittel- und spätmekkanischen Suren,
+    die sich nun zu langen Prosatexten entwickelt haben, einem monotheistischen Gottesdienst
+    entsprechen, indem sie mit einer einleitenden dialogförmigen oder appellatorischen Sektion, d.h.
+    apologetisch, polemisch oder paränetisch, beginnen und mit einer gattungsmäßig verwandten
+    Sektion schließen, zumeist eine Affirmation des Offenbarungscharakters des Koran enthaltend.
+    Diese Rahmenteile sind mit kirchlich als Litaneien und Ektenien bekannten einleitenden und
+    abschließenden Gebetsresponsorien, rezitiert von einem Priester oder Diakon und respondiert von
+    der Gemeinde, verglichen worden.<note place=""><bibl Zotero_Id_1="3VUVHDEU">Angelika Neuwirth,
+      Karl Neuwirth, »Sūrat al-Fātiḥa — ›Eröffnung‹ des Text-Corpus Koran oder ›Introitus‹ der
+      Gebetsliturgie?«, in: <hi rend="italic">Text, Methode und Grammatik. Wolfgang Richter zum 65.
+       Geburtstag</hi>, hg. von Walter Gross, Hubert Irsigler und Theodor Seidl, St. Ottilien 1991,
+      S. 331–357</bibl>.</note> Das Zentrumdes monotheistischen Gottesdienstes, und ähnlich der voll
+    entwickelten Sure der mittel- und spätmekkanischen Zeit, ist gleichermaßen besetzt von
+    biblischer Erinnerung — im Falle des Gottesdienstes von einer biblischen
+    <lang xml:lang="lat-Latn">lectio</lang>, im Falle der Sure einer Geschichte aus dem biblischen
+    Bestand. Eine im Judentum/Christentum entwickelte Form des liturgischen Umgangs mit heiligen
+    Schriften schlägt sich nun in der Gottesdienstpraxis und damit in der Identitätsfindung der
+    frühen muslimischen Gemeinde nieder.<note place="">Siehe dazu <bibl Zotero_Id_1="276U3Q8F"
+      >Angelika Neuwirth, »Vom Rezitationstext über die Liturgie zum Kanon. Zur Entstehung und
+      Wiederauflösung der Surenkomposition im Verlauf der Entwicklung eines islamischen Kultus«, in:
+       <hi rend="italic">The Qurʾān as Text</hi>, hg. von Stefan Wild, Leiden 1995, S.
+     69–106</bibl>.</note> In Rückgriff auf eine von Jan Assmann<note place=""><bibl
+      Zotero_Id_1="YDZ96NAP">Jan Assmann, <hi rend="italic">Das kulturelle Gedächtnis. Schrift,
+       Erinnerung und politische Identität in frühen Hochkulturen</hi>, München 1992</bibl>.</note>
+    geprägte Kategorie kann man den Orientierungswandel der Gemeinde als einen Übergang »von einer
+    rituellen zu einer textuellen Kohärenz« beschreiben. In den späteren mekkanischen Suren werden
+    Geschichten oft explizit als Elemente der Schrift, <lang xml:lang="ar-Latn">al-kitāb</lang>,
+    bezeichnet. Diese ›Schrift‹ wird als unveränderlich und umfassend vorgestellt, sie setzt voraus,
+    daß ein Traditionsfluß bereits zum Stillstand gekommen ist und nun einen Vorrat von Wissen
+    konstituiert — eine koranische Adaptation der im <hi rend="italic">Jubiläenbuch</hi>, einem
+    jüdischen Apokryphon aus dem zweiten Jahrhundert v.Chr., beherrschenden Idee des schon
+    altorientalisch geläufigen himmlischen Registerbuches, wie sie sich bereits an der
+    frühmekkanischen Vorstellung von der ›Bewahrten Tafel‹,
+    <lang xml:lang="ar-Latn">al-lauḥ al-maḥfūẓ</lang>, manifestierte. Die koranischen Bezugnahmen
+    auf die Schrift, <lang xml:lang="ar-Latn">kitāb</lang>, setzen daher einen Grundstock von
+    Erzählgut voraus, der in einer bereits fixierten himmlischen Schrift existiert und vom Sender
+    dem Empfänger in einzelnen Portionen mitgeteilt wird, um klar umrissene Perikopen zu formen, die
+    in eine umfassendere Koranrezitation eingefaßt werden können.</p>
+   <p>Während das um die Lesung zentrierte Gottesdienstmodell für die gesamte mittelmekkanische Zeit
+    charakteristisch ist, macht ein weiteres liturgisches Element, das Gebet, erst in
+    Spätmittelmekka eine entscheidende Entwicklung durch. Das gilt bereits für das persönliche
+    Bittgebet, <lang xml:lang="ar-Latn">nidāʾ</lang> (<q type="koran" versstart="019:002"
+     versend="019:002">Q 19:2</q>), das von zahlreichen Gesandten und Gottesmännern praktiziert
+    wird, in <q type="koran" versstart="021:000" versend="021:112">Sure 21</q> sogar zu einem
+    Strukturmerkmal des Auftretens von Gottesmännern überhaupt aufrückt. Noch mehr gilt es aber für
+    die rituelle Gebetspraxis, die erst mit der Entdekkung des transzendenten Jerusalems eine
+    Vertiefung erfährt. Daß Gebetsgottesdienste die himmlischen Feiern der Engel abbilden, ging
+    deutlich bereits aus der frühmittelmekkanischen Sure 37 (<q type="koran" versstart="037:001"
+     versend="037:003">37:1–3</q>) hervor, wo die Engel als himmlische Heere das transzendente
+    Zeremoniell inszenieren. Die Verbindung zu transzendenten Anbetungsstätten wird nun durch <q
+     type="koran" versstart="017:001" versend="017:001">Q 17:1</q> intensiviert.</p>
+   <p>Dieses Gebet, <lang xml:lang="ar-Latn">ṣalāt</lang>, schon frühmekkanisch eine rituelle
+    Institution, wird nun in Spätmittelmekka als <lang xml:lang="fr-Latn">rite de passage</lang>
+    ernst genommen. Die Erinnerung an die nächtliche Entrückung des Verkünders in das transzendente
+    Jerusalem, <lang xml:lang="ar-Latn">ʾisrāʾ</lang> (<q type="koran" versstart="017:001"
+     versend="017:001">Q 17:1</q>), durch die nicht nur <hi rend="italic">seine</hi>
+    Gebetserfahrung, sondern auch die der Gemeinde eine Jerusalem-Prägung erhält, hat das Gebet zu
+    einem spirituell zentralen Akt erhoben. Der prekäre Charakter des Austritts aus der
+    alltäglichenWelt und des Eintritts in eine transzendente wird explizit thematisiert (<q
+     type="koran" versstart="017:080" versend="017:080">Q 17:80</q>), wobei an eine von jüdischen
+    Frommen, Rabbinen, berichtete Erfahrung — bekannt als die Geschichte von den »Vier, die den
+    Garten betraten« — angeknüpft wird, eine Episode, aus der die Gefährlichkeit der Annäherung an
+    das Göttliche überdeutlich hervorgeht (siehe unten den <q type="kommentar" versstart="017:080"
+     versend="017:080">Kommentar zu Q 17:80</q>). Zu dieser Fokussierung des Gebets paßt das
+    intensivierte Interesse an einer Gebetsrichtung, an einem spirituellen Zentrum, das mit dem
+    <lang xml:lang="ar-Latn">masǧid al-ʾaqṣā</lang> gefunden ist.</p>
+   <p>Aber nicht nur kanonisches Wissen wie die jüdische Haggada von den Vier Rabbinen, auch neues,
+    aus der <hi rend="italic">performance</hi>-Beobachtung selbst geschöpftes Wissen dringt nun in
+    die Frömmigkeit ein. Es gibt ein annäherndes Zitat eines Hymnenverses, der als »Apolytikion« am
+    Anfang der Feier von Marias Entschlafung allbekannt ist:
+    <lang xml:lang="gr-Latn">en tē gennēsei tēn parthenian ephylaxas — en tē koimēsei ton kosmon ou katelipas</lang>,
+    »In der Niederkunft hast du die Scham/Jungfräulichkeit bewahrt, bei der Entschlafung hast du die
+    Welt nicht verlassen«. Dieser Vers, der das Wunderbare an Marias stets bewahrter
+    Jungfräulichkeit fokussiert, ist koranisch reflektiert als
+    <lang xml:lang="ar-Latn">allatī ʾaḥṣanat farǧahā wa-nafaḫnā fīhā min rūḥinā</lang>, »Die ihre
+    Jungfräulichkeit (wörtlich: ihre Scham) bewahrte und in die wir von unserem Geist einhauchten«
+     (<q type="koran" versstart="021:091" versend="021:091">Q 21:91</q>). Der für die christliche
+    Inkarnationstheologie essentielle Gedanke der bewahrten Jungfräulichkeit Marias wird im
+    koranischen Kontext zu einer Tugend Marias herabgestuft, die sie für ihre Erwählung durch die
+    Geisteinhauchung qualifiziert. Trotz der theologischen Schwerpunktverschiebung ist das
+    annähernde Zitat als ein Zeugnis der gemeindlichen Erfahrung mit christlichen liturgischen <hi
+     rend="italic">performances</hi> von Bedeutung.</p>
+   <p>Eine Erfahrung mit christlichen Gottesdiensten, konkreter mit dem christlichen Festkalender,
+    manifestiert sich in einem Namenskatalog, der in mehreren Suren (<q type="koran"
+     versstart="038:048" versend="038:048">Q 38:48</q>, <q type="koran" versstart="021:085"
+     versend="021:085">21:85</q>, ähnlich wieder in <q type="koran" versstart="006:085"
+     versend="006:086">Q 6:85–86</q>) begegnet. Die drei dort genannten Vorbildpersonen (denen Gott
+    Erhörung ihrer Gebete gewährt hat) können nur dann als sinnvolle Trias erkannt werden, wenn sie
+    — obschon verschiedenen biblischen bzw. nachbiblischen Kontexten entstammend — auf ihr Fortleben
+    in der Festpraxis der Spätantike hin betrachtet werden. Nicht ihre wirkliche historische
+    Identität (für die es in der Forschung divergierende Hypothesen gibt), sondern ihre liturgische
+    Affinität zueinander, die Nähe ihrer Gedenktage im Festkalender, könnte — unserer Hypothese
+    zufolge — ihre gemeinsame Nennung sinnvoll erklären. — Es zeichnet sich jedenfalls ab, daß es
+    nicht nur Traditionswissen, sondern auch liturgisches Wissen ist, das sich in den
+    spätmittelmekkanischen Suren niederschlägt. Dieser Sachverhalt, der sich auf die Koranforschung
+    insgesamt auswirken wird, war bisher völlig unerkannt.</p>
+   <p><hi rend="italic">7. Wunder- und Wundergläubigkeit, Mythos und Mythendekonstruktion</hi></p>
+   <p>Mit dem sureneinleitenden Signalwort <lang xml:lang="ar-Latn">ʿaǧab</lang>, »Wunderbares,
+    Wunder«, wird schließlich in <q type="koran" versstart="018:000" versend="018:110">Sure 18</q>
+    ein sonst nicht berührtes Problemfeld geöffnet. Die fünf heterogene Erzählungen umfassende Sure
+    kreist um den Umgang mit Wunderberichten. Sie beginnt mit dem Bericht und der gleichzeitigen
+    Dekonstruktion einer christlichen Wundererzählung — der zeitweiligen Auferstehung von sieben
+    frommen Jünglingen —, an der der Umgang der Gläubigen mit dem Wunderbaren zum Angriffspunkt
+    wird: Die Geschichte, so wie sie im Umlauf ist, kompromittiert sich selbst durch die von ihren
+    Überlieferern übertriebene Betonung der involvierten Zahlenangaben, so daß aus einer
+    Heiligengeschichte eine ›Zahlengeschichte‹ geworden ist. Gleichwohl demonstriert sie mit ihrer
+    Vorwegnahme der Folge ›Tod und Erweckung‹ gerade die Unergründlichkeit der menschlichen
+    Verweildauer im Grabe vor der Auferstehung. Es folgen weitere phantastische Erzählungen, die
+    »dasWunderbare« aus verschiedenen Perspektiven einkreisen. Ein »Gleichnis«, die zweite
+    Geschichte, die Erzählung vom plötzlichen Zusammenfall des paradiesisch-vollkommen gestalteten
+    Gartens eines stolz-überheblichen Landbesitzers, demonstriert die schockierende Ohnmacht des
+    sich unangreifbar wähnenden Menschen — ein negativ konnotiertesWunder, das die Hörer bereits in
+    einer früheren Sure beschäftigte.</p>
+   <p>Die dritte Geschichte um einen Protagonisten aus der außerbiblischen Tradition, Mūsā genannt,
+    ist mythisch, sie handelt von seiner Reise zum Zusammenfluß der Ströme, gipfelnd in dem
+    Wieder-lebendig-Werden eines bereits zubereiteten Fisches. Das Ziel der Reise bleibt aber
+    unerreicht (die beabsichtigte Rückkehr dorthin endet vielmehr in der Begegnung mit einem
+    Weisen). Denn dem angestrebten Ziel kann sich der Suchende erst durch den Erwerb von Wissen
+    nähern. Wie ein Gegenmotiv folgt der Episode mit der vierten Geschichte eine weitere Reise, auf
+    der sich derselbe Protagonist auf seiner Wahrheitssuche einem geheimnisvollen Weisen anvertraut.
+    Seine Erfahrungen auf dieser Reise, störende Handlungen des Weisen, lassen ihn die Geduld
+    verlieren und Vorwürfe artikulieren, die ihm als dem ›Novizen‹ nicht zustehen. In der
+    Schlussrede, als der Weise Mūsā den Laufpaß gibt, ihm aber im nachhinein den tieferen Sinn
+    hinter den problematischen Handlungen offenlegt, wird seine transzendente Natur deutlich: Der
+    als Gottesdiener bezeichnete »Weise«/»Lehrer« war nicht einfach ein irdischer Zeitgenosse des
+    Mūsā, sondern offenbar ein der transzendenten Welt angehörender Gottesdiener. Mūsā, der ihm
+    gegenüber von sehr viel kleinerer Statur ist, ist natürlich auch nicht der biblische Mose,
+    sondern der — im Mose-Gewand auftretende — prätentiöse Wahrheitssucher
+    <lang xml:lang="fr-Latn">par excellence</lang>, der legendäre Alexander.</p>
+   <p>Die Aufdeckung dieser erstaunlichen Identität erfolgt nicht explizit. Doch könnte sie von den
+    Hörern eingefordert worden sein, denen die erste Reise — zum Zusammenfluß der Ströme — als
+    Begebenheit aus der Alexandersage bekannt gewesen sein könnte, so daß sie schließlich die Frage
+    nach dem eigentlichen Alexander, bezeichnet als Ḏu l-qarnain, der »Zweigehörnte«, stellen. Die
+    Frage wird mit der Erzählung von mehreren erstaunlichen Großtaten des mythischen Alexander
+    beantwortet. Auch sie sind aber keine Wunder, sondern im Gegenteil Demonstrationen von fast
+    alltäglichen Handlungsweisen: So werden die in den umgebenden Traditionen als erschreckende
+    apokalyptische Monster bekannten Gog und Magog, die Alexander-Ḏu l-qarnain in ihre Schranken
+    weisen soll, als trivial-unwichtige Völkerschaften dargestellt, deren Eliminierung allenfalls
+    eine militärisch-technische Leistung ist. Alle diese als <lang xml:lang="ar-Latn">ʿaǧāʾib</lang>
+    bekannten Taten sind Manifestationen von göttlichen Zeichen,
+    <lang xml:lang="ar-Latn">ʾāyāt</lang>, oder dienen — entgegen ihrem Wortsinn — der Demonstration
+    eines übergeordneten Heilsplans.</p>
+   <p>Was die Sure aus dem Rahmen des Gewohnten fallen läßt, ist also ihre Affinität zum Mythischen.
+    Zum ersten und einzigen Mal treten außerbiblische Figuren als Protagonisten auf. Äußerlich
+    bedienen sich fast alle Erzählungen mythischer Plots, doch werden mythische Elemente immer
+    wieder dekonstruiert — so etwa die in der Vorgängertradition eine bedeutende Rolle spielende
+    Zahl Sieben bei den Jünglingen, das übernatürliche Einsichten versprechende Szenario der
+    Weisheitssuche bei einer charismatischen Figur, die aber scheitert, oder die Übergröße des
+    mythischen Herrschers Alexander, der — schlicht als Ḏu l-qarnain anonymisiert — irdische
+    Verhältnisse ordnet, ohne den ihm in den Umwelttraditionen zugeschriebenen Einfluß auf die
+    endzeitlichen Entwicklungen, die er lediglich voraussagt.</p>
+   <p>Gerade in dessen dreimaligem Vorkommen, zweimal als Mūsā, einmal als Ḏu l-qarnain, ist eine
+    politische Spitze der Sure zu sehen: Alexander ist ebenso wie David und Salomo in <q
+     type="koran" versstart="027:000" versend="027:093">Q 27</q> eine mythische Präfiguration des
+    Herakleios, dessen Verhalten das des realen Herakleios positiv oder negativ spiegelt. In <q
+     type="koran" versstart="018:000" versend="018:110">Q 18</q> wird er vor allem in seine Grenzen
+    gewiesen, nämlich in der dritten und vierten Erzählung dazu angehalten, statt nach der Einnahme
+    eins mythischen Ortes nach Wissen zu streben. In der fünften Erzählung handelt er zwar mit
+    herrschaftlicher Macht, wirkt aber nur auf die in Unordnung geratenen politischen Verhältnisse
+    bestimmter Völkerschaften ein, ohne damit — wie von Herakleios für sein eigenes, apokalyptisch
+    gewertetes Reich beansprucht — bei der Herbeiführung der Endzeitverhältnisse instrumental zu
+    sein: keine Erfüllung des Danielschen Schemas also, nach dem der Herrscher des letzten Reiches
+    das Weltende einleiten wird.</p>
+   <p>Obwohl die Erzählungen in gänzlich verschiedenen Milieus spielen und fast durchweg mit ganz
+    verschiedenen Protagonisten besetzt sind, die nunmehr erstmals nicht aus dem biblischen Kreis
+    stammen, sind die ›fremden‹ Erzählungen durch ihre vertrauten Einleitungsformeln, ihre religiöse
+    Kodierung des paganen Herkunftsmilieus und durch paränetisch deutende Kommentare religiös
+    ›purgiert‹ und in die koranische Welt eingebunden.</p>
+   <p>Daß die Sure mit ihrer Weltdeutung nicht in die Mitte einer Periode paßt, sondern am Ende zu
+    stehen hat, ist angesichts dieser Charakteristika evident.</p>
+   <p><hi rend="h1">Zur Reihenfolge der spätmittelmekkanischen Suren: 17, 43, 36, 25, 23, 114, 72,
+     27, 67, 21, 18</hi></p>
+   <p>Die hier festgelegte Reihenfolge der zu kommentierenden Suren weicht leicht von der — zumeist
+    nicht eigens begründeten — bei Nöldeke/Schwally<note place=""><bibl Zotero_Id_1="48GF9DFG"
+      >Theodor Nöldeke, <hi rend="italic">Geschichte des Qorāns</hi>, 2. Auflage, bearbeitet von
+      Friedrich Schwally, Erster Teil: <hi rend="italic">Über den Ursprung des Qorāns</hi>, Leipzig
+      1909, S. 117–143</bibl>.</note> ab. Die hier angesetzte Sequenz soll eine Entwicklung
+    spiegeln, daher wird die Position jeder Sure unter der Rubrik »Entwicklungsgeschichtliche
+    Einordnung« ausführlich begründet, ohne daß damit eine sichere Reihenfolge behauptet werden
+    soll. Mit <bibl Zotero_Id_1="48GF9DFG"><hi rend="italic">GdQ<hi rend="superscript"
+     >2</hi></hi></bibl> identisch ist aber der Textblock, dem wir hier nur <q type="koran"
+     versstart="114:000" versend="114:006">Q 114</q> hinzugefügt haben. Auch für die spätmekkanische
+    Zeit können wir die Suren in Gruppen einteilen; drei Ensembles sind zu erkennen, wobei am Anfang
+    und am Ende eine Einzelsure steht.</p>
+   <p>Bei uns sollte — auch anders als bei Nöldeke — <q type="koran" versstart="017:000"
+     versend="017:111">Q 17</q>, <lang xml:lang="ar-Latn">al-ʾisrāʾ</lang>, als Einzelsure am Anfang
+    stehen; denn mit ihr haben wir eine ›Programm setzende Sure‹ vor uns, deren große Themen
+    anschließend in späteren Suren weiterdiskutiert werden: Die Sure, die den
+    Jerusalem-/Tempel-Diskurs aus den Zacharia-Maria-Erzählungen aus <q type="koran"
+     versstart="019:001" versend="019:033">Q 19:1–33</q> fortsetzt, führt einen neuen
+    Heiligtumstypus ein, sie benennt bereits in ihrem ersten Vers Jerusalem als Antipoden zu Mekka,
+    sie verweist zugleich auf das ›Heilige Land‹, den Wirkungsraum der Propheten, zwei Theologumena,
+    die in dem Surenblock bedeutend werden. Die »Nachtreise«,
+    <lang xml:lang="ar-Latn">ʾisrāʾ</lang>, mit ihrer Propagierung des neuen Heiligtumstypus
+    <lang xml:lang="ar-Latn">masǧid</lang> als einem zugleich irdischen und transzendenten Heiligtum
+    stellt die Weichen für eine Reflexion über Stätten der Gottesverehrung. Sie bringt sich mit der
+    nächtlichen Entrückung des Verkünders gerade nach Jerusalem in die Auseinandersetzung um den Ort
+    ein, der — seit langem theologisch zwischen Juden und Christen umstritten — um das Jahr 614 den
+    Byzantinern durch die Sassaniden entrissen wurde. Sie gibt — mit ihrem anfangs eingeführten
+    visionären Ereignis — ein politisches Statement ab: für eine nicht territoriale, sondern
+    spirituelle Wahrnehmung Jerusalems.</p>
+   <p>Noch in derselben Sure wird als Gegenbeispiel zu der spirituellen Anbetungsstätte, dem
+    <lang xml:lang="ar-Latn">masǧid al-ʾaqṣā</lang>, der Tempel der Israeliten zum Thema gemacht.
+    Dies geschieht unter negativem Aspekt: Der Tempel wird in der Situation seiner Zerstörung
+    eingeblendet und als steingebautes Heiligtum gegenüber der spirituellen Anbetungsstätte so
+    kompromißlos abgewertet, daß jede Erwartung einer Wiedererrichtung des zerstörten Heiligtums
+    ausgeschlossen wird. Die Nachtreise schlägt zugleich das Thema der persönlichen Gottesannäherung
+    im Gebet an, das in <q type="koran" versstart="017:000" versend="017:111">Q 17</q> zu einem
+    <lang xml:lang="fr-Latn">rite de passage</lang> aufgewertet wird.</p>
+   <p>Der Dekalog in derselben Sure — eine Zusammenstellung ethischer Richtwerte für die Gemeinde in
+    ihrem lokal-arabischen Kontext — ist ein absolut neues Format, dem nur selektive Tugendkataloge
+    vorausgegangen waren. Er wird in <q type="koran" versstart="017:000" versend="017:111">Q 17</q>
+    noch ganz losgelöst von der israelitischen Geschichte präsentiert, wird aber später zur
+    Grundlage von polemischen Debatten mit den älteren Religionsgruppen, die den Dekalog auch für
+    sich beanspruchen. Er stellt zugleich einen ›neuen Wurf‹ gegenüber den früheren Tugendkatalogen
+    dar, insofern er die aufgegebenen Handlungen unter das Motto ›Barmherzigkeit‹ stellt.</p>
+   <p>Folgen sollten als Surengruppe I <q type="koran" versstart="043:000" versend="043:089">Q
+     43</q> und <q type="koran" versstart="036:000" versend="036:083">Q 36</q>. <q type="koran"
+     versstart="043:000" versend="043:083">Q 43</q>, <lang xml:lang="ar-Latn">az-zuḫruf</lang>, ist
+    eng mit der letzten frühmittelmekkanischen <q type="koran" versstart="019:000" versend="019:098"
+     >Sure 19</q> zusammengehörig, mit der die zwischentestamentlichen Figuren Zacharia und
+    Johannes, vor allem aber Maria und Jesus nun zu einem integralen Teil des biblischen
+    Personalbestands geworden waren. Jesus wird hier nicht als Heilsbringer, schon gar nicht als der
+    Begründer eines »neuen Bundes«, sondern im Kontext der Polemik um das pagane Pantheon
+    diskutiert.</p>
+   <p><q type="koran" versstart="036:000" versend="036:083">Sure 36</q>,
+    <lang xml:lang="ar-Latn">yā-sīn</lang>, wiederum ist insofern zu den christlichen Diskursen
+    affin, als sie eine theologisch raffinierte Umschreibung eines Jesus-Gleichnisses präsentiert,
+    sich also auch in dem Fragenkomplex um die christliche Soteriologie bewegt, wobei sie der
+    christlich verfochtenen langmütigen Barmherzigkeit Gottes das Prinzip seiner Gerechtigkeit
+    entgegenstellt.</p>
+   <p>Mit <q type="koran" versstart="025:000" versend="025:077">Q 25</q>,
+    <lang xml:lang="ar-Latn">al-furqān</lang>, beginnt die zweite Surengruppe (<q type="koran"
+     versstart="025:000" versend="025:077">Q 25</q>, <q type="koran" versstart="023:000"
+     versend="023:118">23</q>, <q type="koran" versstart="114:000" versend="114:006">114</q> und <q
+     type="koran" versstart="072:000" versend="072:028">72</q>). In einigen dieser Suren spielen
+    Dämonen eine wichtige Rolle. <q type="koran" versstart="025:000" versend="025:077">Sure 25</q>,
+    eingeleitet mit einer expressiven Offenbarungsbestätigung, kreist um Eschatologie. Sie
+    kommuniziert ähnlich wie <q type="koran" versstart="067:000" versend="067:030">Q 67</q> das Bild
+    Gottes als himmlischen Königs — im Kontrast zu dem disparat gestalteten Pantheon der pagan
+    behaupteten Nebengötter. Trotz ihres vorherrschend polemischen Charakters verbindet sie sich
+    durch einen elaborierten Tugendkatalog, einem Gegenmodell zu dem Dekalog in <q type="koran"
+     versstart="017:000" versend="017:111">Q 17</q>, mit der folgenden <q type="koran"
+     versstart="023:000" versend="023:118">Sure 23</q>.</p>
+   <p><q type="koran" versstart="023:000" versend="023:118">Sure 23</q>,
+    <lang xml:lang="ar-Latn">al-muʾminūn</lang>, setzt ein mit einem stark monastisch geprägten
+    Katalog der Tugenden der »Gläubigen«, einer erst jetzt eingeführten Kategorie — vorher war von
+    <lang xml:lang="ar-Latn">ʿibād</lang>, »(Gottes-)Diener«, die Rede —, der deutlich Jesu
+    Seligpreisungen nachhallen läßt. Sie räumt aber auch der Dämonenpräsenz besonderen Raum ein, so
+    daß die apotropäische <q type="koran" versstart="114:000" versend="114:006">Sure 114</q>
+    <lang xml:lang="ar-Latn">an-nās</lang> als eine formelhafte Fassung der Dämonenabwehr aus ihr
+    ableitbar sein könnte. Zugleich bleibt die Sure aktuellen Problemen gegenüber offen, indem sie
+    anhand eines Gesandtenkatalogs Modelle der Rettung vor der — mit der innerweltlichen Bestrafung
+    der Gegner zu erwartenden — Katastrophe erwägt.</p>
+   <p>Besondere Erklärung erfordern die Kurzsuren, <q type="koran" versstart="072:000"
+     versend="072:028">Q 72</q>, <lang xml:lang="ar-Latn">al-ǧinn</lang>, und <q type="koran"
+     versstart="114:000" versend="114:006">Q 114</q>, <lang xml:lang="ar-Latn">an-nās</lang>. Da die
+    spätmittelmekkanischen Suren im allgemeinen Langtexte sind — die mit ihrem zwischen 70 und 120
+    Verse umfassenden Umfang an die vorkoranische Modellgattung der Qaṣīda erinnern —, fallen die
+    Kurzsuren aus dem Rahmen. Man kann sie am ehesten als Fokussierungen individueller in bestimmten
+    Langsuren angesprochenen Themen verstehen.</p>
+   <p><q type="koran" versstart="114:000" versend="114:006">Q 114</q>,
+    <lang xml:lang="ar-Latn">an-nās</lang>, für die auch die Entstehung aus einer vorkoranischen
+    apotropäischen Formel erwogen worden ist, komprimiert dagegen eine Dämonenabwehrsituation zu
+    einem kurzen <lang xml:lang="ar-Latn">hiǧāʾ</lang>-Gedicht.<note place="">Zu
+     <lang xml:lang="ar-Latn">hiǧāʾ</lang> siehe <bibl Zotero_Id_1="3RYKL7UX">Manfred Ullmann, <hi
+       rend="italic">Untersuchungen zur Rağazpoesie. Ein Beitrag zur arabischen Sprach- und
+       Literaturwissenschaft</hi>, Wiesbaden 1966</bibl>; die Gattung war bereits in Frühmekka
+     eingesetzt worden, siehe <q type="koran" versstart="111:000" versend="111:005">Q 111</q> und
+      <bibl Zotero_Id_1="X6J8ZZSZ"><hi rend="italic">HK 1</hi>, S. 140–145</bibl>.</note> Sie hält
+    sich also an eine Gattung, die bereits frühmekkanisch mit <q type="koran" versstart="111:000"
+     versend="111:005">Q 111</q>
+    <lang xml:lang="ar-Latn">Abū Lahab</lang> einmal einen Ausdruck gefunden hatte. Zwar handelt es
+    sich in <q type="koran" versstart="114:000" versend="114:006">Q 114</q> nicht um eine Satire,
+    sehr wohl aber um eine Beschimpfung des dämonischen Bedrängers.</p>
+   <p><q type="koran" versstart="072:000" versend="072:028">Q 72</q> elaboriert — nun
+    ›monographisch‹ — das in <q type="koran" versstart="023:000" versend="023:118">Q 23</q>
+    <lang xml:lang="ar-Latn">al-muʾminūn</lang> mehrfach berührte Thema der Dämonen, das auch in der
+     <q type="koran" versstart="114:000" versend="114:006">Kurzsure 114</q> im Zentrum steht.</p>
+   <p>Es folgt mit <q type="koran" versstart="027:000" versend="027:093">Q 27</q>, <q type="koran"
+     versstart="067:000" versend="067:030">Q 67</q> und <q type="koran" versstart="021:000"
+     versend="021:112">Q 21</q> die Surengruppe III, die durch Debatten um die alleinige Herrschaft
+    Gottes zusammengehalten wird. In <q type="koran" versstart="027:000" versend="027:093">Sure
+     27</q>
+    <lang xml:lang="ar-Latn">an-naml</lang> begegnen ganz neue Repräsentationen von Dämonen, die im
+    Horizont der Salomo-Dämonen-Geschichte als Angehörige eines königlichen Hofstaats nun eine
+    konstruktive Rolle spielen. Diese Sure spielt insofern eine Sonderrolle, als sie die politische
+    Situation der Zeit — ein ›gläubiger‹ Herrscher, Herakleios, kämpft gegen einen paganen Gegner,
+    die sassanidischen Perser — allegorisch abbildet und den biblischen Salomo in eine
+    Auseinandersetzung mit der »Sonnenanbeterin«, der Königin von Saba, verwickelt. Die Sure
+    entwirft mit ihrer friedlichen Überwältigung und Bekehrung der paganen Herrscherin zum
+    Eingottglauben ein erstrebenswertes Modell für die in der Realität ausgetragenen Kämpfe der
+    beiden Parteien.</p>
+   <p><q type="koran" versstart="067:000" versend="067:030">Q 67</q>
+    <lang xml:lang="ar-Latn">al-mulk</lang> spinnt einen wichtigen Gedanken aus <q type="koran"
+     versstart="027:000" versend="027:093">Q 27</q> weiter, wo der Gottesthron umstritten war — eine
+    Abbildung der konträren politisch-ideologischen Ansprüche der Parteien der Zeit auf einen
+    messianisch zu besetzenden Thron —, indem sie korrigierend mit dem Bild des Pantokrator-Gottes
+    seine Allmacht mit Hilfe verschiedener neuer rhetorischer Mittel aufzeigt. Die Fokussierung
+    gerade dieser Gottesmanifestation als König ist ohne die Erfahrung liturgischer <hi
+     rend="italic">performances</hi> in den benachbarten Religionen nicht vollständig verständlich.
+    Gott-König ist das beherrschende Prädikat in den beiden älteren Traditionen, in deren
+    Gottesdiensten dieselben — auch im Koran nachhallenden — Königspsalmen zur Rezitation
+    kommen.</p>
+   <p>Eine als frühmittelmekkanisch eingestufte Sure, die Lamentation Noahs in <q type="koran"
+     versstart="071:000" versend="071:028">Q 71</q>, <lang xml:lang="ar-Latn">Nūḥ</lang>, scheint in
+    einer der letzten spätmittelmekkanischen Suren, <q type="koran" versstart="021:000"
+     versend="021:112">Q 21</q>
+    <lang xml:lang="ar-Latn">al-ʾanbiyāʾ</lang>, widerzuhallen, die das Muster der Klage des Beters
+    und seiner Erhörung an zahlreichen Beispielen durchexerziert. <q type="koran"
+     versstart="071:000" versend="071:028">Q 71</q> hatte mit dem für sein Klagen notorischen Noah
+    ein besonders extremes Beispiel präsentiert. <q type="koran" versstart="021:000"
+     versend="021:112">Q 21</q>
+    <lang xml:lang="ar-Latn">al-ʾanbiyāʾ</lang> bietet die Langform dieses Klage-Erhörung-Musters,
+    das bekanntlich auch den Liturgien der östlichen Kirchen zugrunde liegt. <q type="koran"
+     versstart="021:000" versend="021:112">Q 21</q> geht aber über die bloße
+    Verheißung-Erfüllung-Theologie hinaus, indem sie die Beter- und Büßergeschichten in eine
+    universalere — auf dem göttlichen <lang xml:lang="ar-Latn">ḥaqq</lang>-(Gerechtigkeits-)Prinzip
+    basierte — Schöpfungs- und Gerichtstheologie eingliedert. Insofern <q type="koran"
+     versstart="021:000" versend="021:112">Sure 21</q> wichtige Gedanken aus den ihr vorausgehenden
+    Suren debattiert, vor allem aber auch die Tendenz der Eschatologisierung von als solchen
+    historisch intendierten Vorgängertraditionen weiterführt, kann sie als eine ›theologische Summa‹
+    der spätmittelmekkanischen Suren gelten.</p>
+   <p>Abgeschlossen wird das Corpus mit der <q type="koran" versstart="018:000" versend="018:110"
+     >Einzelsure 18</q>
+    <lang xml:lang="ar-Latn">al-kahf</lang>, die besonders zahlreiche Interpretationen erfahren
+     hat.<note place="">Die letzte Bearbeitung stammt von
+      <?oxy_comment_start author="Tobias J. Jocham" timestamp="20240308T130036+0100" comment="Das ist wohl mittlerweile erschienen un dich habe das jetzt mal so eingepflegt... TJJ"?><bibl
+      Zotero_Id_1="U4GVAT48">Sidney H. Griffith, »The Narratives of ›the Companions of the Cave‹,
+      Moses and His Servant, and Dhū ’l-Qarnayn in Sūrat al-Kahf« in: <hi rend="italic">Journal of
+       the International Qur’anic Studies Association</hi> 6 (2021), S.
+     137–166</bibl><?oxy_comment_end?>.</note> Sie bietet anhand von Erzählungen aus dem
+    außerbiblischen Milieu, die jeweils wichtige Theologumena und politische Ideale der
+    Umweltkulturen (Erweckung, Wissenssuche eines Herrschers bei einem Charismatiker, politisches
+    Verhalten eines vorbildlichen Herrschers) narrativ einkleiden, noch einmal einen Überblick über
+    die theologische Vielfalt der lokalen Debatten. Sie bezeugt durch mehrere allegorisch zu
+    deutende Geschichten zugleich ihr Involviertsein in die politischen Auseinandersetzungen der
+    Zeit. Formal liefert sie mit der — über mehr als 100 Verse hinweg durchgehaltenen — Befolgung
+    eines besonders ausgefallenen Reims, der die frühere <q type="koran" versstart="072:000"
+     versend="072:028">Sure 72</q> evoziert, eine Demonstration des nunmehr nachdrücklich erhobenen
+    Anspruchs auf rhetorische Unnachahmlichkeit.</p>
+  </text>
+ </akkordeon>
+</overlay>

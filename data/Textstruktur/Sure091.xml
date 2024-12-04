@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Quran xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="Textstruktur.xsd">
+    <Sure id="091" webtauglich="true" translator="Nicolai Sinai">
+        <Hauptteil id="0">
+            <Abschnitt id="0">
+                <Gesaetz n="0">
+                    <Vers n="000">
+                        <Teilvers n="000" reim="2n/m">
+                            <Kolon lang="ar" Einschub="false" n="0">بِسۡمِ ٱللَّهِ ٱلرَّحۡمَٰنِ ٱلرَّحِيمِ</Kolon>
+                            <Kolon lang="de" Einschub="false" n="0">Im Namen Gottes, des barmherzigen Erbarmers!</Kolon>
+                        </Teilvers>
+                    </Vers>
+                </Gesaetz>
+            </Abschnitt>
+        </Hauptteil>
+        <Hauptteil id="1">
+            <Abschnitt id="1">
+                <Gesaetz n="1">
+                    <Vers n="001">
+                        <Teilvers n="001" reim="āhā">
+                            <Kolon Einschub="false" lang="ar" n="1">وَٱلشَّمۡسِ وَضُحَىٰهَا</Kolon>
+                            <Kolon Einschub="false" lang="de" n="1">Bei der Sonne und beim hellen Morgen,</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="002">
+                        <Teilvers n="002" reim="āhā">
+                            <Kolon Einschub="false" lang="ar" n="2">وَٱلۡقَمَرِ إِذَا تَلَىٰهَا</Kolon>
+                            <Kolon Einschub="false" lang="de" n="2">und beim Mond, wenn er ihr folgt;</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="003">
+                        <Teilvers n="003" reim="āhā">
+                            <Kolon Einschub="false" lang="ar" n="3">وَٱلنَّهَارِ إِذَا جَلَّىٰهَا</Kolon>
+                            <Kolon Einschub="false" lang="de" n="3">beim Tag, wenn er sie erstrahlen lässt,</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="004">
+                        <Teilvers n="004" reim="āhā">
+                            <Kolon Einschub="false" lang="ar" n="4">وَٱلَّيۡلِ إِذَا يَغۡشَىٰهَا</Kolon>
+                            <Kolon Einschub="false" lang="de" n="4">und bei der Nacht, wenn sie sie bedeckt;</Kolon>
+                        </Teilvers>
+                    </Vers>
+                </Gesaetz>
+                <Gesaetz n="2">
+                    <Vers n="005">
+                        <Teilvers n="005" reim="āhā">
+                            <Kolon Einschub="false" lang="ar" n="5">وَٱلسَّمَآءِ وَمَا بَنَىٰهَا</Kolon>
+                            <Kolon Einschub="false" lang="de" n="5">beim Himmel und dem, was ihn erbaut hat,</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="006">
+                        <Teilvers n="006" reim="āhā">
+                            <Kolon Einschub="false" lang="ar" n="6">وَٱلۡأَرۡضِ وَمَا طَحَىٰهَا</Kolon>
+                            <Kolon Einschub="false" lang="de" n="6">und bei der Erde und dem, was sie ausgebreitet hat;</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="007">
+                        <Teilvers n="007" reim="āhā">
+                            <Kolon Einschub="false" lang="ar" n="7">وَنَفۡسٍۢ وَمَا سَوَّىٰهَا</Kolon>
+                            <Kolon Einschub="false" lang="de" n="7">bei einer jeden Seele und dem, was sie geformt hat</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="008">
+                        <Teilvers n="008" reim="āhā">
+                            <Kolon Einschub="false" lang="ar" n="8">فَأَلۡهَمَهَا فُجُورَهَا وَتَقۡوَىٰهَا</Kolon>
+                            <Kolon Einschub="false" lang="de" n="8">und ihr Sünde und Gottesfurcht eingegeben hat!</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="009">
+                        <Teilvers n="009" reim="āhā">
+                            <Kolon Einschub="false" lang="ar" n="9">قَدۡ أَفۡلَحَ مَن زَكَّىٰهَا</Kolon>
+                            <Kolon Einschub="false" lang="de" n="9">Es gedeiht, wer sie läutert;</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="010">
+                        <Teilvers n="010" reim="āhā">
+                            <Kolon Einschub="false" lang="ar" n="10">وَقَدۡ خَابَ مَن دَسَّىٰهَا</Kolon>
+                            <Kolon Einschub="false" lang="de" n="10">zuschande wird, wer sie zugrunde richtet.</Kolon>
+                        </Teilvers>
+                    </Vers>
+                </Gesaetz>
+            </Abschnitt>
+        </Hauptteil>
+        <Hauptteil id="2">
+            <Abschnitt id="1">
+                <Gesaetz n="3">
+                    <Vers n="011">
+                        <Teilvers n="011" reim="āhā">
+                            <Kolon Einschub="false" lang="ar" n="11">كَذَّبَتۡ ثَمُودُ بِطَغۡوَىٰهَآ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="11">Die Ṯamūd haben in ihrer Aufsässigkeit geleugnet,</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="012">
+                        <Teilvers n="012" reim="āhā">
+                            <Kolon Einschub="false" lang="ar" n="12">إِذِ ٱنۢبَعَثَ أَشۡقَىٰهَا</Kolon>
+                            <Kolon Einschub="false" lang="de" n="12">als ihr unseliger Landsmann auftrat.</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="013">
+                        <Teilvers n="013" reim="āhā">
+                            <Kolon Einschub="false" lang="ar" n="13">فَقَالَ لَهُمۡ رَسُولُ ٱللَّهِ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="13">Der Gesandte Gottes sagte zu ihnen:</Kolon>
+                            <Kolon Einschub="false" lang="ar" n="14">نَاقَةَ ٱللَّهِ وَسُقۡيَٰهَا</Kolon>
+                            <Kolon Einschub="false" lang="de" n="14">»Die Kamelstute Gottes! Tränkt sie!«</Kolon>
+                        </Teilvers>
+                    </Vers>
+                </Gesaetz>
+                <Gesaetz n="4">
+                    <Vers n="014">
+                        <Teilvers n="014" reim="ūhā">
+                            <Kolon Einschub="false" lang="ar" n="15">فَكَذَّبُوهُ فَعَقَرُوهَا</Kolon>
+                            <Kolon Einschub="false" lang="de" n="15">Sie ziehen ihn der Lüge und zerschnitten ihr die Flechsen.</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="014">
+                        <Teilvers n="015" reim="āhā">
+                            <Kolon Einschub="false" lang="ar" n="16">فَدَمۡدَمَ عَلَيۡهِمۡ رَبُّهُم بِذَنۢبِهِمۡ فَسَوَّىٰهَا</Kolon>
+                            <Kolon Einschub="false" lang="de" n="16">Da machte ihr Herr sie für ihre Schuld dem Erdboden gleich und ebnete sie ein,</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="015">
+                        <Teilvers n="016" reim="āhā">
+                            <Kolon Einschub="false" lang="ar" n="17">وَلَا يَخَافُ عُقۡبَٰهَا</Kolon>
+                            <Kolon Einschub="false" lang="de" n="17">ohne die Folgen zu fürchten.</Kolon>
+                        </Teilvers>
+                    </Vers>
+                </Gesaetz>
+            </Abschnitt>
+        </Hauptteil>
+    </Sure>
+</Quran>

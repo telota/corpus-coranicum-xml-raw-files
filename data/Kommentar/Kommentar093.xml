@@ -1,0 +1,902 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<korankommentar xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:noNamespaceSchemaLocation="Kommentar.xsd">
+ <sure id="093" webtauglich="true"/>
+ <surentitel>
+  <text versstart="000" versend="011" verfasser="tjj">
+   <p>Sure 93 — <lang xml:lang="ar-Latn">aḍ-Ḍuḥā</lang> — »Der helle Morgen«</p>
+  </text>
+ </surentitel>
+ <autorenkurz>
+  <text versstart="000" versend="011" verfasser="tjj">
+   <p>Übersetzt und analysiert von Nicolai Sinai</p>
+  </text>
+ </autorenkurz>
+ <datierungkurz>
+  <text versstart="000" versend="011" verfasser="nisi">
+   <p>Mekka I (Gruppe I)</p>
+  </text>
+ </datierungkurz>
+ <datierung>
+  <text versstart="000" versend="011" verfasser="nisi">
+   <p><q type="koran" versstart="093:000" versend="093:011">Q 93</q> bildet mit <q type="koran"
+     versstart="094:000" versend="094:008">Q 94</q> und <q type="koran" versstart="108:000"
+     versend="108:003">Q 108</q> eine Gruppe kurzer, an den Verkünder gerichteter Trostsuren
+    (durchschnittliche Verslänge von <q type="koran" versstart="094:000" versend="094:008">Q 94</q>:
+    8,1 Silben, <q type="koran" versstart="093:000" versend="093:011">Q 93</q>: 10,4 Silben, <q
+     type="koran" versstart="108:000" versend="108:003">Q 108</q>: 9 Silben), die wie die Droh- und
+    Scheltworte <q type="koran" versstart="095:000" versend="095:008">Q 95</q>, <q type="koran"
+     versstart="102:000" versend="102:008">102</q>, <q type="koran" versstart="103:000"
+     versend="103:003">103</q>, <q type="koran" versstart="104:000" versend="104:009">104</q> und <q
+     type="koran" versstart="107:000" versend="107:007">107</q> (vielleicht auch <q type="koran"
+     versstart="111:000" versend="111:005">Q 111</q>) lediglich aus kleineren Versgruppen bestehen
+    und insofern zu Gruppe I der frühmekkanischen Texte gehören. Birkeland will diese drei Texte
+    zusammen mit <q type="koran" versstart="105:000" versend="105:005">Q 105</q> und <q type="koran"
+     versstart="106:000" versend="106:004">106</q> an den Anfang der koranischen Textgenese stellen,
+    da er in allen fünf Suren ein gemeinsames theologisches Profil zu erkennen glaubt: „The
+    experience which became decisive for Muhammed’s whole future activity must have been the
+    recognition of God’s merciful guidance in the life of himself and his people, that means in <hi
+     rend="italic">history</hi>. Before God could appear as a judge he had to be a reality, and the
+    Surahs treated in this paper reveal a stage in which Muhammed had not yet severed from Arab
+    paganism, but had only experienced the divine power as a historic force, which meant a force
+    active in the historic life of Quraiš and the personal life of Muhammed himself.“ (<bibl
+     Zotero_Id_1="JM6WUWTX">Birkeland 1956,
+     5</bibl>; vgl. a. die Einleitung zu Q 105) Allerdings erweist sich die Gruppe der von Birkeland
+    behandelten fünf Kurzsuren bei näherer Betrachtung als recht heterogen. Während <q type="koran"
+     versstart="105:000" versend="105:005">Q 105</q> und <q type="koran" versstart="106:000"
+     versend="106:004">106</q> das Kollektiv der Quraiš in den Mittelpunkt rücken, steht in <q
+     type="koran" versstart="093:000" versend="093:011">Q 93</q>, <q type="koran"
+     versstart="094:000" versend="094:008">94</q>, <q type="koran" versstart="108:000"
+     versend="108:003">108</q> der individuelle Zuspruch an die Person des Verkünders im
+    Vordergrund: Gott erscheint hier nicht als Schirmherr des mekkanischen Gemeinwesens, sondern als
+    eine in die Biographie des Einzelnen eingreifende Macht. Tatsächlich stehen die drei Trostsuren
+    in erheblich größerer Kontinuität zu anderen frühmekkanischen Texten: <q type="koran"
+     versstart="093:004" versend="093:004">93:4</q> spielt auf das Jenseits und damit mittelbar auch
+    auf das Jüngste Gericht an, und Anreden des Verkünders am Surenanfang finden sich auch in <q
+     type="koran" versstart="073:000" versend="073:020">Q 73</q>, <q type="koran"
+     versstart="074:000" versend="074:056">74</q>, <q type="koran" versstart="087:000"
+     versend="087:019">87</q> und <q type="koran" versstart="096:000" versend="096:019">96</q>
+    (wobei es sich dort allerdings nicht um Trostreden, sondern um hymnische Aufrufe zum
+    Gottesdienst o. ä. handelt). Vor diesem Hintergrund erscheint es naheliegend, Birkelands
+    Vermutung einer chronologischen Vorgängigkeit der von ihm untersuchten fünf Suren auf <q
+     type="koran" versstart="105:000" versend="105:005">Q 105</q> und <q type="koran"
+     versstart="106:000" versend="106:004">106</q> einzuschränken und die drei Trostsuren in ein
+    späteres Stadium von Gruppe I zu setzen. Am ehesten wäre ihre Verkündigung im Anschluss an die
+    kurzen Droh- und Scheltworte <q type="koran" versstart="095:000" versend="095:008">Q 95</q>, <q
+     type="koran" versstart="102:000" versend="102:008">102</q>, <q type="koran" versstart="103:000"
+     versend="103:003">103</q>, <q type="koran" versstart="104:000" versend="104:009">104</q> und <q
+     type="koran" versstart="107:000" versend="107:007">107</q> (vielleicht auch <q type="koran"
+     versstart="111:000" versend="111:005">Q 111</q>) denkbar, also gegen Ende von Gruppe I (vgl.
+    ausführlicher <bibl Zotero_Id_1="PHS7AJKH">Sinai
+    2010</bibl>).</p>
+  </text>
+ </datierung>
+ <literarkritikkurz>
+  <text versstart="000" versend="011" verfasser="nisi">
+   <p>Keine Einschübe</p>
+  </text>
+ </literarkritikkurz>
+ <literarkritik>
+  <text versstart="000" versend="011" verfasser="nisi">
+   <p>Die Sure bietet keine Handhabe für literarkritische Scheidungen. Zu der jüngst von Michel
+    Cuypers aufgegriffenen Überlieferung, <q type="koran" versstart="093:000" versend="093:011">Sure
+     93</q> und <q type="koran" versstart="094:000" versend="094:008">94</q> hätten ursprünglich
+    eine literarische Einheit dargestellt, s. den Abschnitt <q type="literarkritik"
+     versstart="094:000" versend="094:008">Literarkritik im Kommentar zu Q 94</q>.</p>
+  </text>
+ </literarkritik>
+ <aufbauinhalt>
+  <text versstart="000" versend="011" verfasser="nisi">
+   <p>Bis auf den einleitenden Schwur haben fast alle übrigen Elemente der Sure Entsprechungen in
+    den beiden verwandten Texten <q type="koran" versstart="094:000" versend="094:008">Q 94</q> und
+     <q type="koran" versstart="108:000" versend="108:003">108</q>: Zu <q type="koran"
+     versstart="093:003" versend="093:005">V. 3–5</q> vgl. das Drohwort gegen Gegner des Verkünders
+    in <q type="koran" versstart="108:003" versend="108:003">108:3</q>, gleichsam eine invertierte
+    Verheißung; zu dem Rückblick auf frühere göttliche Gnadenerweise vgl. <q type="koran"
+     versstart="094:001" versend="094:004">94:1–4</q> (ebenfalls in Frageform) und <q type="koran"
+     versstart="108:001" versend="108:001">108:1</q>; und mit den abschließenden Aufrufen
+    korrespondieren <q type="koran" versstart="094:007" versend="094:008">94:7.8</q> und <q
+     type="koran" versstart="108:002" versend="108:002">108:2</q> (einen ähnlichen Übergang vom
+    Faktischen zum Normativen, allerdings an das Kollektiv der Quraiš gerichtet, stellt <q
+     type="koran" versstart="106:003" versend="106:003">106:3</q> dar). Formal hebt sich <q
+     type="koran" versstart="093:000" versend="093:011">Q 93</q> von <q type="koran"
+     versstart="094:000" versend="094:008">Q 94</q> und <q type="koran" versstart="108:000"
+     versend="108:003">108</q> durch eine Schwureinleitung (<q type="koran" versstart="093:001"
+     versend="093:002">V. 1.2</q>) ab sowie dadurch, dass Gott durchgängig in der dritten Person
+    Singular figuriert. – Zur Gliederung der Sure vgl. auch <bibl Zotero_Id_1="SBVMAM5Z">Cuypers 2000, 102–106</bibl>.</p>
+   <p>Die theologische Grundaussage der drei Trostsuren <q type="koran" versstart="093:000"
+     versend="093:011">93</q>, <q type="koran" versstart="094:000" versend="094:008">94</q> und <q
+     type="koran" versstart="108:000" versend="108:003">108</q> ist ähnlich: Sie deuten in Form
+    einer direkten Anrede bestimmte Ereignisse im Leben Muḥammads als Resultate einer gnadenvollen
+    Fürsorge Gottes und weisen so – wohl nicht nur für den angesprochenen Verkünder, sondern
+    durchaus auch für eine über ihn hinausgehende Öffentlichkeit von Adressaten – nach, dass Gott in
+    den Lebenslauf Einzelner eingreift und „Schweres“ zu „Leichtem“ wendet bzw. (so <q type="koran"
+     versstart="093:006" versend="093:008">Q 93:6–8</q>) Mangel in Fülle verwandelt. Aus dieser
+    gnadenvollen Involviertheit Gottes in menschliche Schicksale wird dann eine ethische und
+    religiöse Verpflichtung des Menschen begründet, wie sie ähnlich auch <q type="koran"
+     versstart="106:000" versend="106:004">Q 106</q> aus Gottes Begünstigung der Quraiš folgert. Wie
+    in <q type="koran" versstart="093:000" versend="093:011">Q 93</q> wird der Übergang von der
+    Aufzählung göttlicher Gnadenerweise zu den daraus zu ziehenden normativen Konsequenzen durch
+    einen Reimwechsel markiert. Die Trostsuren individualisieren damit die Aussage von <q
+     type="koran" versstart="105:000" versend="105:005">Q 105</q> und <q type="koran"
+     versstart="106:000" versend="106:004">Q 106</q>: Gott wacht in seiner gütigen Zuwendung nicht
+    nur über das Wohlergehen des mekkanischen Kollektivs, sondern seine Gnade
+    (<lang xml:lang="ar-Latn">niʿma</lang>, vgl. <q type="koran" versstart="093:011"
+     versend="093:011">93:11</q>) manifestiert sich auch im Lebenslauf Einzelner. Dabei ist die in
+    vielen übrigen frühmekkanischen Suren so prominente Thematik des Jüngsten Gerichts wie in den
+     <lang xml:lang="ar-Latn">ḥaram</lang>-<q type="koran" versstart="105:000" versend="105:005"
+     >Suren 105</q> und <q type="koran" versstart="106:000" versend="106:004">106</q> weitgehend
+    abwesend, wird jedoch an zumindest einer Stelle (<q type="koran" versstart="093:004"
+     versend="093:004">93:4</q>) kursorisch vorausgesetzt.</p>
+   <p>Die drei Trostsuren leisten überdies (wie die wohl in etwa zeitgleich anzusetzende <q
+     type="koran" versstart="097:000" versend="097:005">Sure 97</q>) einen wesentlichen Beitrag zur
+    Autorisierung des Koranverkündigers: Muḥammad wird mit Zügen des bedrängten psalmischen Beters
+    ausgestattet, erhält jedoch im Unterschied zu diesem eine direkte göttliche Antwort und wird so
+    mit beträchtlichem religiösen Prestige versehen. Ein Psalmenbezug lässt sich einerseits in
+    einzelnen Topoi der drei Texte ausmachen (vgl. die Anmerkungen). Er liegt jedoch auch auf
+    struktureller Ebene vor, insofern sich so gut wie alle in <q type="koran" versstart="093:000"
+     versend="093:011">Q 93</q>, <q type="koran" versstart="094:000" versend="094:008">94</q> und <q
+     type="koran" versstart="108:000" versend="108:003">108</q> verwendeten Bauelemente als
+    Inversionen typischer Bestandteile der psalmischen Gattung des sog. ‚Klagelieds des Einzelnen’
+    verstehen lassen: Während im psalmischen Klagelied der individuelle Beter zu Gott klagt, nimmt
+    in <q type="koran" versstart="093:000" versend="093:011">Sure 93</q> Gott eine etwaige Klage des
+    koranischen Verkündigers vorweg; während der psalmische Beter Gott um Rettung aus der Not
+    bittet, blickt die Koransure auf dem Verkünder bereits gewährte göttliche Wohltaten zurück. Das
+    psalmische Genre, einzelnen Mitgliedern der koranischen Gemeinde aus seiner liturgischen
+    Verwendung im Judentum und Christentum sicherlich wohlbekannt, wird so gewissermaßen strukturell
+    überboten. Die angesprochenen Korrespondenzen lassen sich anhand einer Gegenüberstellung von <q
+     type="koran" versstart="093:000" versend="093:011">Q 93</q> und <q type="bibel" buch="Ps"
+     versstart="013:001" versend="013:006">Psalm 13</q> illustrieren:</p>
+   <p>
+    <table cols="2" rend="boxed" rows="20">
+     <head/>
+     <row>
+      <cell>
+       <hi rend="bold"><q type="koran" versstart="093:000" versend="093:011">Q 93</q></hi>
+      </cell>
+      <cell>
+       <hi rend="bold"><q type="bibel" buch="Ps" versstart="013:001" versend="013:006">Ps
+        13</q></hi>
+      </cell>
+     </row>
+     <row>
+      <cell>
+       <hi rend="italic">Schwureinleitung</hi>
+      </cell>
+      <cell>[<hi rend="italic">Überschrift</hi>
+      </cell>
+     </row>
+     <row>
+      <cell>
+       <hi rend="superscript"><q type="koran" versstart="093:001" versend="093:001">1</q></hi> Beim
+       Morgen</cell>
+      <cell>
+       <hi rend="superscript"><q type="bibel" buch="Ps" versstart="013:001" versend="013:001"
+        >1</q></hi> Für den Chormeister. Ein Psalm Davids.]</cell>
+     </row>
+     <row>
+      <cell>
+       <hi rend="superscript"><q type="koran" versstart="093:002" versend="093:002">2</q></hi> und
+       bei der Nacht, wenn sie still ist!</cell>
+      <cell/>
+     </row>
+     <row>
+      <cell/>
+      <cell/>
+     </row>
+     <row>
+      <cell>
+       <hi rend="italic">Zuspruch und Verheißung</hi>
+      </cell>
+      <cell>
+       <hi rend="italic">∼ Klage</hi>
+      </cell>
+     </row>
+     <row>
+      <cell>
+       <hi rend="superscript"><q type="koran" versstart="093:003" versend="093:003">3</q></hi> Dein
+       Herr hat dich nicht verlassen und nicht verworfen; <hi rend="superscript"><q type="koran"
+         versstart="093:004" versend="093:004">4</q></hi> das Jenseits ist besser für dich als das
+       Diesseits; <hi rend="superscript"><q type="koran" versstart="093:005" versend="093:005"
+        >5</q></hi> dein Herr wird dir geben, dass du zufrieden sein wirst.</cell>
+      <cell>
+       <hi rend="superscript"><q type="bibel" buch="Ps" versstart="013:002" versend="013:002"
+        >2</q></hi> Wie lange noch, Herr, vergisst du mich ganz? / Wie lange noch verbirgst du dein
+       Gesicht vor mir? <hi rend="superscript"><q type="bibel" buch="Ps" versstart="013:003"
+         versend="013:003">3</q></hi> Wie lange noch muss ich Schmerzen ertragen in meiner Seele, /
+       in meinem Herzen Kummer Tag für Tag? / Wie lange noch darf mein Feind über mich
+       triumphieren?</cell>
+     </row>
+     <row>
+      <cell/>
+      <cell/>
+     </row>
+     <row>
+      <cell>
+       <hi rend="italic">Rückblick auf erwiesene Wohltaten</hi>
+      </cell>
+      <cell>
+       <hi rend="italic">∼ Bitte</hi>
+      </cell>
+     </row>
+     <row>
+      <cell>
+       <hi rend="superscript"><q type="koran" versstart="093:006" versend="093:006">6</q></hi> Fand
+       er dich nicht als Waise und nahm dich auf? <hi rend="superscript"><q type="koran"
+         versstart="093:007" versend="093:007">7</q></hi> Fand er dich nicht irrend und leitete
+       dich? <hi rend="superscript"><q type="koran" versstart="093:008" versend="093:008"
+       >8</q></hi> Fand er dich nicht bedürftig und machte dich reich?</cell>
+      <cell>
+       <hi rend="superscript"><q type="bibel" buch="Ps" versstart="013:004" versend="013:004"
+        >4</q></hi> Blick doch her, erhöre mich, Herr, mein Gott, / erleuchte meine Augen, damit ich
+       nicht entschlafe und sterbe, <hi rend="superscript"><q type="bibel" buch="Ps"
+         versstart="013:005" versend="013:005">5</q></hi> damit mein Feind nicht sagen kann: / «Ich
+       habe ihn überwältigt», damit meine Gegner nicht jubeln, / weil ich ihnen erlegen bin.</cell>
+     </row>
+     <row>
+      <cell/>
+      <cell/>
+     </row>
+     <row>
+      <cell>
+       <hi rend="italic">Aufrufe an den Verkünder (inkl. Aufruf zum Gotteslob)</hi>
+      </cell>
+      <cell>
+       <hi rend="italic">∼ Lobgelübde (mit Vertrauensbekenntnis in <q type="bibel" buch="Ps"
+         versstart="013:006" versend="013:006">V. 6a</q>)</hi>
+      </cell>
+     </row>
+     <row>
+      <cell/>
+      <cell>
+       <hi rend="superscript"><q type="bibel" buch="Ps" versstart="013:006" versend="013:006"
+        >6</q></hi> Ich aber baue auf deine Huld, / mein Herz soll über deine Hilfe
+       frohlocken.</cell>
+     </row>
+     <row>
+      <cell>
+       <hi rend="superscript"><q type="koran" versstart="093:009" versend="093:009">9</q></hi> So tu
+       der Waise nicht Unrecht,</cell>
+      <cell/>
+     </row>
+     <row>
+      <cell>
+       <hi rend="superscript"><q type="koran" versstart="093:010" versend="093:010">10</q></hi>weise
+       nicht den Bittenden ab</cell>
+      <cell/>
+     </row>
+     <row>
+      <cell>
+       <hi rend="superscript"><q type="koran" versstart="093:011" versend="093:011">11</q></hi> und
+       kündige von der Gnade deines Herrn!</cell>
+      <cell>Singen will ich dem Herrn, / weil er mir Gutes getan hat.</cell>
+     </row>
+    </table>
+   </p>
+  </text>
+ </aufbauinhalt>
+ <ueberblick>
+  <text versstart="000" versend="011" verfasser="tjj">
+   <p>
+    <table cols="2" rend="boxed" rows="5">
+     <head/>
+     <row>
+      <cell>
+       <hi rend="superscript"><q type="koran" versstart="093:001" versend="093:008">1–8</q></hi>
+       <hi rend="italic">3(K)Kā</hi>
+      </cell>
+      <cell>
+       <hi rend="bold">1</hi>
+       <hi rend="superscript"><q type="koran" versstart="093:001" versend="093:002">1.2</q></hi>
+       Schwüre (Morgen, Nacht)</cell>
+     </row>
+     <row>
+      <cell/>
+      <cell>
+       <hi rend="bold">2</hi>
+       <hi rend="superscript"><q type="koran" versstart="093:003" versend="093:003">3</q></hi>
+       Schwuraussage: Zuspruch, <hi rend="superscript"><q type="koran" versstart="093:004"
+         versend="093:005">4.5</q></hi> Verheißung an den Verkünder</cell>
+     </row>
+     <row>
+      <cell/>
+      <cell>
+       <hi rend="bold">3</hi>
+       <hi rend="superscript"><q type="koran" versstart="093:006" versend="093:008">6–8</q></hi>
+       Rückblick auf erwiesene Wohltaten (Fragen)</cell>
+     </row>
+     <row>
+      <cell>
+       <hi rend="superscript"><q type="koran" versstart="093:009" versend="093:010">9.10</q></hi>
+       <hi rend="italic">3(K)K3r</hi>, <q type="koran" versstart="093:011" versend="093:011">11</q>
+       <hi rend="italic">3KK3ṯ</hi>
+      </cell>
+      <cell>
+       <hi rend="bold">4</hi>
+       <hi rend="superscript"><q type="koran" versstart="093:009" versend="093:010">9.10</q></hi>
+       ethische Aufrufe</cell>
+     </row>
+     <row>
+      <cell/>
+      <cell>
+       <hi rend="superscript"><q type="koran" versstart="093:011" versend="093:011">11</q></hi>
+       Aufruf zur Verkündigung</cell>
+     </row>
+    </table>
+   </p>
+   <p>Proportionen: 2+3+3+3.</p>
+  </text>
+ </ueberblick>
+ <anmerkungen>
+  <text versstart="000" versend="000" verfasser="nisi">
+   <p><lem>bi-smi llāhi r-raḥmāni r-raḥīm]</lem> Die als „Basmala“ bezeichnete Formel
+    <lang xml:lang="ar-Latn">bi-smi llāhi r-raḥmāni r-raḥīm</lang> steht mit Ausnahme von <q
+     type="koran" versstart="009:000" versend="009:129">Sure 9</q> jeder Koransure voran. Da
+    <lang xml:lang="ar-Latn">ar-Raḥmān</lang> erst ab mittelmekkanischer Zeit zu einer häufig
+    verwendeten Gottesbezeichnung avanciert, steht zu vermuten, dass die Basmala-Einleitungen der
+    frühmekkanischen Suren nachträglich hinzugesetzt sind. Einen
+    <lang xml:lang="lat-Latn">terminus ante quem</lang> hierfür stellt der mittelmekkanische <q
+     type="koran" versstart="027:030" versend="027:030">Vers 27:30</q> dar, in dem ein durch die
+    Basmala eingeleitetes Schreiben Salomos zitiert wird – zum Zeitpunkt der Verkündigung von <q
+     type="koran" versstart="027:030" versend="027:030">27:30</q> hatte die Basmala also bereits den
+    Status einer selbstverständlichen Einleitungsformel erworben (vgl. <bibl Zotero_Id_1="RF8JH6HZ">GdQ, Bd. 1, 117</bibl>).</p>
+   <p>Insofern die Basmala die Identität von Allāh und <lang xml:lang="ar-Latn">ar-Raḥmān</lang>
+    festschreibt, liegt es nahe zu vermuten, eine solche Gleichsetzung könne nicht trivial gewesen
+    sein. Tatsächlich scheinen die beiden Gottesnamen aus unterschiedlichen religiösen Kontexten zu
+    stammen. Allāh wird auch von den Gegnern der koranischen Verkündigung als Schöpfer, als
+    Nothelfer sowie als Gottheit des mekkanischen Heiligtums anerkannt, wobei ihm allerdings
+    verschiedene Lokalgottheiten als Mittler und Fürsprecher untergeordnet werden (s. die <q
+     type="anmerkung" versstart="095:008" versend="095:008">Anmerkung zu 95:8</q> sowie <bibl
+     Zotero_Id_1="GDGEKI8F">Crone 2010</bibl>). Der auf rabbinischen Sprachgebrauch zurückgehende Gottesname
+    <lang xml:lang="ar-Latn">ar-Raḥmān</lang> (s. ausführlich die <q type="anmerkung"
+     versstart="055:001" versend="055:001">Anmerkung zu 55:1</q>) hingegen dürfte über den jüdisch
+    geprägten ḥimyaritischen Monotheismus in das koranische Milieu gelangt sein (ein ähnlicher Weg –
+    nämlich die Vermittlung einer rabbinischen Begrifflichkeit über Südarabien –ist auch für den
+    polemischen Begriff der „Beigesellung“,<lang xml:lang="ar-Latn">š-r-k</lang>, wahrscheinlich,
+    vgl. die <q type="anmerkung" versstart="068:041" versend="068:041">Anmerkung zu 68:41</q>). Da
+    er im Koran verschiedentlich auch in drohenden Zusammenhängen auftritt, hält Arne Ambros es für
+    fraglich, dass der Ausdruck zum Zeitpunkt der Koranverkündigung in erster Linie mit
+    Barmherzigkeit assoziiert worden ist (<bibl Zotero_Id_1="89WAAM3P">Ambros, Dictionary, 305</bibl>). Doch auch
+    wenn die Assoziation der Wurzel <lang xml:lang="ar-Latn">r-ḥ-m</lang> mit Barmherzigkeit den
+    koranischen Hörern auf latente Weise bewusst war, so dürfte der Ausdruck
+    <lang xml:lang="ar-Latn">ar-Raḥmān</lang> doch primär den Charakter eines Eigennamens (‚der
+    Raḥmān’) gehabt haben. Möglicherweise war er aufgrund seiner Herkunft enger als
+    <lang xml:lang="ar-Latn">Allāh</lang> mit der biblischen Tradition verbunden, wiewohl Allāh auch
+    von den koranischen Gegnern mit dem biblischen Gott identifiziert worden zu sein scheint (s. o.)
+    und die traditionelle Annahme, der Ausdruck <lang xml:lang="ar-Latn">ar-Raḥmān</lang> sei ihnen
+    unvertraut gewesen, durch Crone in Frage gestellt worden ist (s. <bibl Zotero_Id_1="GDGEKI8F">Crone 2010, 166
+     ff.</bibl> sowie die <q type="anmerkung" versstart="055:001" versend="055:001">Anmerkung zu
+     55:1</q>). Die erstmals gegen Ende der frühmekkanischen Periode – nämlich in <q type="koran"
+     versstart="055:001" versend="055:001">55:1</q> – dokumentierte Verwendung des Gottesnamens
+    <lang xml:lang="ar-Latn">ar-Raḥmān</lang> könnte insofern der terminologischen Abgrenzung von
+    den <lang xml:lang="ar-Latn">mušrikūn</lang> gedient haben, deren Anerkennung von engelartigen
+    Mittlergottheiten in etwa zur selben Zeit zum Gegenstand heftiger koranischer Kritik wird (vgl.
+     <q type="koran" versstart="053:019" versend="053:022">Q 53:19–22</q>.<q type="koran"
+     versstart="053:024" versend="053:025">24.25</q> und ähnlich <q type="koran" versstart="052:039"
+     versend="052:039">52:39</q> sowie die kategorischeren Feststellungen in <q type="koran"
+     versstart="073:009" versend="073:009">73:9</q> und <q type="koran" versstart="051:051"
+     versend="051:051">51:51</q>). Geht man davon aus, dass
+    <lang xml:lang="ar-Latn">ar-Raḥmān</lang> zunächst eher Namenscharakter hatte (‚der Raḥmān’), so
+    wird auch verständlich, warum er in der Basmala durch das auf den ersten Blick redundant
+    erscheinende Adjektiv <lang xml:lang="ar-Latn">raḥīm</lang> (das neben der Basmala noch in <q
+     type="koran" versstart="002:163" versend="002:163">2:163</q>, <q type="koran"
+     versstart="027:030" versend="027:030">27:30</q>, <q type="koran" versstart="041:002"
+     versend="041:002">41:2</q> und <q type="koran" versstart="059:022" versend="059:022">59:22</q>
+    auf <lang xml:lang="ar-Latn">raḥmān</lang> folgt; s. <bibl Zotero_Id_1="RF8JH6HZ">GdQ, Bd. 1, 112–114, Anm. 1, Abschn. IV</bibl>) erklärt wird;
+    vgl. <bibl Zotero_Id_1="89WAAM3P">Ambros,
+     Dictionary, 305</bibl> , wonach <lang xml:lang="ar-Latn">raḥīm</lang> „may be thought to
+    explicate the meaning of <lang xml:lang="ar-Latn">ar-raḥmān</lang>“ (Nöldeke und Schwally
+    vermuten in <bibl Zotero_Id_1="RF8JH6HZ">GdQ, Bd. 1, 112–114,
+     Anm. 1, Abschn. III</bibl> hingegen, <lang xml:lang="ar-Latn">raḥīm</lang> sei „behufs
+    Steigerung des Begriffes zu dem Substantiv <lang xml:lang="ar-Latn">raḥmān</lang> gesetzt
+    worden“, während <bibl Zotero_Id_1="TC6E428J">Greenfield 2000, 390</bibl>
+    die Verbindung <lang xml:lang="ar-Latn">ar-raḥmāni r-raḥīm</lang> mit dem biblischen
+    <lang xml:lang="hbo-Latn">raḥûm wǝ-ḥannûn</lang> aus <q type="bibel" buch="Ex"
+     versstart="034:006" versend="034:006">Exodus 34:6</q> zusammenstellt, das eine wichtige Rolle
+    in der jüdischen Liturgie spielt). In der Basmala werden die beiden unterschiedlichen Kontexten
+    entstammenden Gottesbezeichnungen <lang xml:lang="ar-Latn">Allāh</lang> und
+    <lang xml:lang="ar-Latn">ar-Raḥmān</lang> dann „amalgamiert“ (<bibl Zotero_Id_1="7ASD2TIZ">Böwering, „God and his attributes“, EQ</bibl> , mit Verweis
+    auf <bibl Zotero_Id_1="VG8KGHNQ">van Ess, 1975</bibl>): Der
+    Ausdruck <lang xml:lang="ar-Latn">Raḥmān</lang> wird von einem eigenständigen Gottesnamen zu
+    einem Epitheton Allāhs.</p>
+   <p>Die Struktur der Basmala mit der Einleitung „im Namen …“ und drei darauf folgenden Nomina legt
+    darüberhinaus jedoch noch eine weitere Aussageabsicht nahe. Die Formel erinnert nämlich
+    frappierend an das christliche „Im Namen des Vaters, des Sohnes und des Heiligen Geistes“ (ich
+    verdanke diese Beobachtung David Kiltz; als neutestamentliche Quelle der christlichen Formel
+    vgl. <q type="bibel" buch="Mt" versstart="028:019" versend="028:019">Matthäus 28:19</q>:
+    <lang xml:lang="gr-Grek">πορευθέντες οὖν μαθητεύσατε πάντα τὰ ἔθνη, βαπτίζοντες αὐτοὺς εἰς τὸ ὄνομα τοῦ πατρὸς καὶ τοῦ υἱοῦ καὶ τοῦ ἁγίου πνεύματος …</lang>,
+    „Darum geht zu allen Völkern und macht alle Menschen zu meinen Jüngern; tauft sie auf den Namen
+    des Vaters und des Sohnes und des Heiligen Geistes …“). Zugleich fällt jedoch ein wichtiger
+    Unterschied in der theologischen Aussage ins Auge: Während die christliche Formel die drei
+    Personen der Dreifaltigkeit nennt – Vater, Sohn, Heiliger Geist –, stehen in der Basmala zwei
+    Gottesnamen und ein Attribut, die nach koranischem Verständnis allesamt auf ein und dieselbe
+    göttliche Person Bezug nehmen. Offenbar fungiert also gerade die formale Analogie zur
+    christlicher Taufformel als Hintergrund für eine um so nachdrücklichere inhaltliche Absetzung. –
+    Daneben existiert auch eine mittelpersische Parallele zur Basmala, nämlich die zu Beginn der
+    „Chronik des Ardaschir“ zu findende Formel
+    <lang xml:lang="pal-Latn">Pat nām i dātār Ohurmazd i rāyōmand i xwarrahōmand</lang>, „Im Namen
+    des Schöpfers Ohurmazd, des Glänzenden, des Lichtvollen“ (Hinweis von A. I. Mohr; vgl. TUK, Nr.
+    418). Sofern dieser Text wirklich aus vorkoranischer Zeit stammt (was keineswegs sicher ist),
+    wäre er ein Indiz dafür, dass die Basmala einem im Nahen Osten des 6. und 7. Jh. verbreiteten
+    Typus von Segensformeln entspricht.</p>
+   <p><hi rend="italic">Zur Übersetzung des Gottesnamens</hi>
+    <lang xml:lang="ar-Latn">raḥmān</lang>: Die weitgehende semantische Äquivalenz von
+    <lang xml:lang="ar-Latn">raḥmān</lang> und <lang xml:lang="ar-Latn">raḥīm</lang> ist im
+    Deutschen nicht ganz einfach wiederzugeben. Obwohl in der gewählten Übersetzung von
+    <lang xml:lang="ar-Latn">ar-raḥmān ar-raḥīm</lang> mit „der barmherzige Erbarmer“ dem
+    Gottesnamen <lang xml:lang="ar-Latn">ar-raḥmān</lang> eigentlich das Substantiv „der Erbarmer“
+    entspricht, wird der Ausdruck <lang xml:lang="ar-Latn">ar-raḥmān</lang> dennoch in allen anderen
+    Fällen, in denen er ohne das Attribut <lang xml:lang="ar-Latn">raḥīm</lang> erscheint, mit „der
+    Barmherzige“ wiedergegeben. Das hat vor allem stilistische Gründe: „Im Namen Gottes, des
+    erbarmenden Barmherzigen“ o. Ä. klingt sprachlich wenig glücklich.</p>
+  </text>
+  <text versstart="001" versend="002" verfasser="nisi">
+   <p><lem>wa-ḍ-ḍuḥā / wa-l-laili ʾiḏā saǧā]</lem> Zu <q type="koran" versstart="093:001"
+     versend="093:001">V. 1</q> vgl. <q type="koran" versstart="091:001" versend="091:001">91:1</q>
+    (<lang xml:lang="ar-Latn">wa-š-šamsi wa-ḍuḥāhā</lang>), zu <q type="koran" versstart="093:002"
+     versend="093:002">V. 2</q> vgl. <q type="koran" versstart="092:001" versend="092:001">92:1</q>
+    (<lang xml:lang="ar-Latn">wa-l-laili ʾiḏā yaġšā</lang>), <q type="koran" versstart="091:004"
+     versend="091:004">91:4</q> (<lang xml:lang="ar-Latn">wa-l-laili ʾiḏā yaġšāhā</lang>), <q
+     type="koran" versstart="089:004" versend="089:004">89:4</q>
+    (<lang xml:lang="ar-Latn">wa-l-laili ʾiḏā yasr</lang>), <q type="koran" versstart="084:017"
+     versend="084:017">84:17</q> (<lang xml:lang="ar-Latn">wa-l-laili wa-mā wasaq</lang>), <q
+     type="koran" versstart="081:017" versend="081:017">81:17</q>
+    (<lang xml:lang="ar-Latn">wa-l-laili ʾiḏā ʿasʿas</lang>), <q type="koran" versstart="074:033"
+     versend="074:033">74:33</q> (<lang xml:lang="ar-Latn">wa-l-laili ʾiḏ ʾadbar</lang>). Zu
+    grundsätzlichen Hinweisen zu den koranischen Schwüren sowie ihrer wahrscheinlichen, aber bis
+    dato noch nicht hinreichend untersuchten Anlehnung an ein charakteristisches Ausdrucksmittel
+    altarabischer Seher (<lang xml:lang="ar-Latn">kuhhān</lang>) s. die <q type="anmerkung"
+     versstart="100:001" versend="100:005">Anmerkung zu 100:1–5</q>. Einen ausführlichen Abriss
+    sowohl der westlichen Forschungsgeschichte als auch islamischer Deutungsansätze bietet <bibl
+     Zotero_Id_1="3A44PMK9">Kandil 1996, 16–158</bibl>.</p>
+   <p><hi rend="italic">Grundsätzliches zu ‚akkumulativen’ Schwurserien im Koran</hi>: Generell
+    lassen sich im Koran zwei distinkte Typen von Schwüren unterscheiden: einerseits die erstmals in
+     <q type="koran" versstart="100:001" versend="100:005">100:1–5</q> (Gruppe I) belegten
+    <lang xml:lang="ar-Latn">fāʿilāt</lang>-Serien, die metonymisch verschiedene Stadien eines
+    dynamischen Bewegungsablaufs umschreiben, andererseits wie im vorliegenden Verspaar
+    ‚akkumulative’ Schwurserien, die eine Reihe separater und (bis auf eine Ausnahme, vgl. <q
+     type="koran" versstart="081:015" versend="081:016">81:15.16</q>) explizit benannter
+    Einzelphänomene auflisten. Die frühesten Belege für diese zweite Kategorie sind das vorliegende
+    Verspaar sowie der einzelne Schwur beim Nachmittag in <q type="koran" versstart="103:001"
+     versend="103:001">103:1</q> (s. die <q type="anmerkung" versstart="103:001" versend="103:001"
+     >Anmerkung ebd.</q>), die beide zu Gruppe I gehören. Fast alle in Gruppe II begegnenden Schwüre
+    ähneln strukturell stark <q type="koran" versstart="093:001" versend="093:002">93:1.2</q>: Als
+    Schwurgegenstände erscheinen gewöhnlich grundlegende kosmische Gegebenheiten wie Tageszeiten
+    oder Gestirne, die – wie im vorliegenden Verspaar – fast immer zu antithetischen Paaren wie
+    Sonne und Mond oder Nacht und Morgen kombiniert sind. Im Einzelnen handelt es sich um die
+    folgenden Stellen:</p>
+   <p>
+    <list rend="bold" type="numbered">
+     <label n="1"/>
+     <item n="1">
+      <q type="koran" versstart="092:001" versend="092:003">92:1–3</q> (Nacht und Tag, Männliches
+      und Weibliches),</item>
+     <label n="2"/>
+     <item n="2">
+      <q type="koran" versstart="091:001" versend="091:008">91:1–8</q> (Sonne und Mond, Tag und
+      Nacht, Himmel und Erde, Seele mit Sünde und Gottesfurcht),</item>
+     <label n="3"/>
+     <item n="3">
+      <q type="koran" versstart="089:001" versend="089:004">89:1–4</q> (Tagesanbruch und Nacht,
+      Gerades und Ungerades),</item>
+     <label n="4"/>
+     <item n="4">
+      <q type="koran" versstart="086:001" versend="086:003">86:1–3</q> (Himmel und nächtlicher
+      Stern),</item>
+     <label n="4"/>
+     <item n="5">
+      <q type="koran" versstart="086:011" versend="086:012">86:11.12</q> (Himmel und Erde),</item>
+     <label n="6"/>
+     <item n="6">
+      <q type="koran" versstart="084:016" versend="084:018">84:16–18</q> (Abenddämmerung, Nacht,
+      Mond),</item>
+     <label n="7"/>
+     <item n="7">
+      <q type="koran" versstart="081:015" versend="081:018">81:15–18</q> (metonymische Umschreibung
+      der Planeten, Nacht, Morgen),</item>
+     <label n="8"/>
+     <item n="8">
+      <q type="koran" versstart="074:032" versend="074:034">74:32–34</q> (Mond, Nacht,
+      Morgen).</item>
+    </list>
+   </p>
+   <p>Auch in den Gruppen IIIa und IIIb erscheinen noch ähnliche Schwüre bei Himmelsphänomenen, die
+    z. T. auch Gegensatzpaare bilden, doch beschränken sich die fraglichen Stellen auf einzelne
+    Verse und sind deshalb literarisch sehr viel weniger prominent als die für Gruppe II
+    charakteristischen Serien (vgl. <q type="koran" versstart="070:040" versend="070:040">70:40</q>:
+    „beim Herr des Ostens und des Westens“, <q type="koran" versstart="056:075" versend="056:075"
+     >56:75</q>: „bei den Orten, an denen die Sterne untergehen“, <q type="koran"
+     versstart="053:001" versend="053:001">53:1</q>: „Beim Stern, wenn er untergeht!“, <q
+     type="koran" versstart="051:007" versend="051:007">51:7</q>: „Beim Himmel mit seinen Bahnen!“,
+     <q type="koran" versstart="051:023" versend="051:023">51:23</q>: „Beim Herrn des Himmels und
+    der Erde!“; vgl. noch <q type="koran" versstart="069:038" versend="069:039">69:38.39</q>: „was
+    ihr seht und was ihr nicht seht“, den man ebenfalls als Schwur bei einer grundlegenden
+    kosmischen Opposition auffassen kann).</p>
+   <p>Eine zweite Art von akkumulativen Schwüren tritt mit <q type="koran" versstart="095:001"
+     versend="095:003">95:1–3</q> (Feigen- und Olivenbaum, Berg Sinai und „dieser sichere Ort“ =
+    Mekka) ebenfalls bereits ab Gruppe I auf. Sie lassen sich am ehesten als ‚ikonische’ Schwüre
+    beschreiben, die keine kosmischen, sondern sakral oder eschatologisch konnotierte Gegebenheiten
+    benennen. In Gruppe II zählen dazu die beiden Passagen <q type="koran" versstart="085:001"
+     versend="085:003">85:1–3</q> (Himmel, Jüngster Tag, „Zeuge und Bezeugtes”) und <q type="koran"
+     versstart="090:001" versend="090:003">90:1–3</q> („dieser Ort“ = Mekka, Erzeuger und
+    Gezeugtes), die in <q type="koran" versstart="085:001" versend="085:001">85:1</q> und <q
+     type="koran" versstart="090:003" versend="090:003">90:3</q> allerdings auch kosmische Elemente
+    enthalten. Weitere ikonische Schwüre begegnen dann auch in den Gruppen IIIa und IIIb (<q
+     type="koran" versstart="075:001" versend="075:002">75:1.2</q>: Tag der Auferstehung, Seele, <q
+     type="koran" versstart="068:001" versend="068:001">68:1</q>: Schreibrohr und
+    Geschriebenes).</p>
+   <p>Interpretative Probleme werfen nun vor allem die weiter oben aufgeführten kosmischen
+    Schwurpassagen auf: Anders als bei religiösen oder eschatologischen Schwurgegenständen wie dem
+    Jüngsten Tag (<q type="koran" versstart="085:002" versend="085:002">85:2</q>, <q type="koran"
+     versstart="075:001" versend="075:001">75:1</q>) oder dem Berg Sinai (<q type="koran"
+     versstart="095:002" versend="095:002">95:2</q>) liegt der inhaltliche Bezug zum Rest der Sure
+    hier nicht immer ohne weiteres zutage. Grundsätzlich ist dabei in Rechnung zu stellen, dass
+    gerade nicht eschatologisch konnotierte koranische Schwurgegenstände wie Tag und Nacht oder
+    Sonne und Mond bereits aus altarabischen Orakelsprüchen vertraut gewesen sein dürften, ihre
+    Nennung also auch den Konventionen der Redeform Schwur geschuldet sein könnte. So belegen die in
+    der islamischen Tradition überlieferten Beispiele für
+    <lang xml:lang="ar-Latn">kuhhān</lang>-Sprüche – deren Authentizität vorerst allerdings nicht
+    sicher zu beurteilen ist (s. die <q type="anmerkung" versstart="100:001" versend="100:005"
+     >Anmerkung zu 100:1–5</q>) – die Nennung von grundlegenden kosmischen Gegensätzen wie Licht und
+    Dunkelheit (<bibl Zotero_Id_1="DS4XUK9M">Ibn Ḥabīb 1964, 96, Z.
+     7</bibl>; Übersetzung der Stelle in <bibl Zotero_Id_1="7VF4E8VD">Serjeant 1983, 126</bibl>; vgl. a. die bekannte Prophezeiung des Dammbruchs von Marib in <bibl
+     Zotero_Id_1="3A44PMK9">Kandil 1996, 171</bibl>) oder Tageszeiten (<bibl Zotero_Id_1="3A44PMK9">Kandil 1996, 173</bibl>), von Himmelsphänomenen wie Mond und Sternen (<bibl
+     Zotero_Id_1="DS4XUK9M">Ibn Ḥabīb 1964, 99, Z. 13 f.</bibl> , und
+     <bibl Zotero_Id_1="DS4XUK9M">ebd., 103, Z. 1 f.</bibl>; letzterer
+    Passus übersetzt in <bibl Zotero_Id_1="HS38H4D6">Hoyland 2001, 220
+     f.</bibl> ; vgl. erneut die Marib-Prophezeitung in <bibl Zotero_Id_1="3A44PMK9">Kandil 1996, 171</bibl> , wo Himmel und Erde genannt werden), aber auch der mekkanischen Kaʿba
+    (s. ebenfalls <bibl Zotero_Id_1="DS4XUK9M">Ibn Ḥabīb 1964, 96, Z.
+     7</bibl> ; s. a. <bibl Zotero_Id_1="3A44PMK9">Kandil 1996, 166–170</bibl>). Die Wahl derartiger Schwurgegenstände ist letzten Endes kaum
+    überraschend: Sie stellen Gegebenheiten von schlechthinniger Evidenz dar, die sich als solche
+    zur Bekräftigung bedeutsamer Äußerungen anbieten (‚So wahr die Sonne aufgeht …’).</p>
+   <p>Die Konstatierung einer wahrscheinlichen literargeschichtlichen Kontinuität zwischen
+    koranischen und vorkoranischen Schwüren sollte allerdings nicht dazu verleiten, die koranischen
+    Schwüre einfach nur als Relikte vorkoranischer Orakelsprüche zu betrachten. Insbesondere bei
+    längeren koranischen Schwurserien wie <q type="koran" versstart="092:001" versend="092:003"
+     >92:1–3</q>, <q type="koran" versstart="091:001" versend="091:008">91:1–8</q> oder <q
+     type="koran" versstart="089:001" versend="089:004">89:1–4</q> ist zu fragen, ob die Verwendung
+    der Schwurform hier nicht mehr leistet als nur eine äußerliche Affirmation der folgenden Aussage
+    bzw. ob die durch die Schwurgegenstände transportierten Bildsetzungen nicht selbst Teil der
+    getroffenen Aussage sind. Den bisher einzigen systematischen Versuch einer solchen literarischen
+    Deutung der koranischen Schwüre hat Angelika Neuwirth entwickelt (<bibl Zotero_Id_1="8BMDDSSC">Neuwirth, „Horizont“</bibl>; zu den hier betrachteten ‚akkumulativen’ Schwurpassagen s. ebd.,
+    18–28; zu ihrer Analyse der <lang xml:lang="ar-Latn">fāʿilāt</lang>-Serien s. die <q
+     type="anmerkung" versstart="100:001" versend="100:005">Anmerkungen zu 100:1 ff.</q>, <q
+     type="anmerkung" versstart="077:001" versend="077:006">77:1 ff.</q> und <q type="anmerkung"
+     versstart="051:001" versend="051:004">51:1 ff.</q>). Neuwirth weist u. a. darauf hin, dass die
+    in <q type="koran" versstart="093:002" versend="093:002">93:2</q> genannte Nacht anderswo
+    (frühmekkanisch <q type="koran" versstart="073:001" versend="073:009">73:1–9</q> und <q
+     type="koran" versstart="052:049" versend="052:049">52:49</q>, mittelmekkanisch <q type="koran"
+     versstart="050:040" versend="050:040">50:40</q>) ausdrücklich als Zeitpunkt von Andachtsübungen
+    erwähnt wird, und dass auch der in <q type="koran" versstart="093:001" versend="093:001"
+     >93:1</q> figurierende Tagesanbruch (<lang xml:lang="ar-Latn">aḍ-ḍuḥā</lang>) – wenn auch unter
+    anderer Bezeichnung – in mittelmekkanischer Zeit als Gebetszeit belegt ist (<q type="koran"
+     versstart="017:078" versend="017:078">17:78</q>:
+    <lang xml:lang="ar-Latn">qurʾān al-faǧr</lang>, die „Koranrezitation bei Sonnenaufgang“, und <q
+     type="koran" versstart="050:039" versend="050:039">50:39</q>, wo der Lobpreis Gottes
+    <lang xml:lang="ar-Latn">qabla ṭulūʿi š-šamsi</lang> gefordert wird; beide Stellen nennen neben
+    Nacht und Tagesanbruch noch den Sonnenuntergang als zusätzliche Gebetszeit). Die islamische
+    Tradition weiß überdies zu berichten, dass der Tagesanbruch bereits in vorislamischer Zeit für
+    Dankgebete genutzt worden sei (<bibl Zotero_Id_1="PIS2RPK5">Rubin 1987</bibl>). Vor diesem Hintergrund
+    formuliert Neuwirth die Hypothese, die Zeitangaben in den weiter oben aufgeführten kosmischen
+    Schwurpassagen würden auf Gebets- oder Andachtszeiten anspielen: Die durch sie eröffneten Suren
+    seien „als Kompositionen zu begreifen, bei denen die einleitende Schwurserie die Funktion hat,
+    die durch Nennung bestimmter Gottesdienstzeiten evozierbaren liturgischen Erfahrungen des
+    Offenbarungs-Empfängers festzuhalten, sie durch Präsenthaltung bestimmter, die
+    gottesdienstlichen Übungen begleitenden Licht-Dunkel-Wahrnehmungen ins Bewußtsein zu ‚bannen’
+    und damit der gesamten Sure einen hymnischen Grund-Tenor zu unterlegen“ (<bibl
+     Zotero_Id_1="8BMDDSSC">Neuwirth, „Horizont“, 21</bibl>).</p>
+   <p>Neuwirths liturgischer Deutungsversuch ist allerdings zwei Einwänden ausgesetzt. Erstens sind
+    alle koranischen Belege für zu bestimmten Tageszeiten abgehaltene Andachts- oder Gebetsübungen
+    später als Gruppe II der frühmekkanischen Suren, zu der die fraglichen Schwurserien ja allesamt
+    gehören. Dies gilt sogar für <q type="koran" versstart="073:001" versend="073:010">73:1 ff.</q>,
+    den einzigen frühmekkanischen Beleg, der wohl Gruppe IIIb zuzuordnen ist (zur Frage der
+    Datierung s. den <q type="kommentar" versstart="073:000" versend="073:020">Kommentar zu Q
+    73</q>). Es ist insofern mit der Möglichkeit zu rechnen, dass die in <q type="koran"
+     versstart="073:000" versend="073:020">Q 73</q> dokumentierten Vigilien erst gegen Ende der
+    frühmekkanischen Zeit mit dem allmählichen Anwachsen von Muḥammads Anhängerschaft und der
+    beginnenden Herausbildung einer koranischen Urgemeinde aufgekommen sind. Zweitens legen die auf
+    die betreffenden Schwüre folgenden Schwuraussagen sowie die jeweils im weiteren Textverlauf
+    angesprochenen Themen häufig keineswegs eine liturgische Interpretation nahe. In der Regel
+    schließen sich nämlich Aussagen an, welche die Überwachung und endzeitliche
+    Rechenschaftsablegung der menschlichen Seele festhalten, vgl. <q type="koran"
+     versstart="092:004" versend="092:004">92:4</q>: „Euer Mühen ist verschieden“, <q type="koran"
+     versstart="091:009" versend="091:010">91:9.10</q>: „Es gedeiht, wer sie (die Seele) läutert; /
+    zuschande wird, wer sie zugrunde richtet“, <q type="koran" versstart="086:004" versend="086:004"
+     >86:4</q>: „Es gibt keine Seele, über der nicht ein Hüter ist“, <q type="koran"
+     versstart="084:019" versend="084:019">84:19</q>: „Ihr werdet in Notlage um Notlage geraten“.
+    Auch wenn an einer Stelle eine Offenbarungsbestätigung folgt, welche die göttliche Herkunft der
+    koranischen Verkündigungen bekräftigt (<q type="koran" versstart="081:019" versend="081:021"
+     >81:19 ff.</q>), und in der vorliegenden <q type="koran" versstart="093:000" versend="093:011"
+     >Sure 93</q> als Schwuraussage ein Zuspruch an den Verkünder steht, so sind kosmische
+    Schwurserien doch zumindest in der Mehrzahl der Fälle mit ausdrücklichen Verweisen auf die
+    eschatologische Kernbotschaft der frühmekkanischen Texte assoziiert und münden in eine warnende
+    oder drohende Pointe. Neuwirths Feststellung, dass sich „in den mit Schwüren bei Tag- und
+    Nachtzeiten eingeleiteten Suren“ generell eine „enge Annäherung von Gott und Mensch“ mitteilt
+     (<bibl Zotero_Id_1="8BMDDSSC">„Horizont“, 20</bibl>), scheint mir insofern weiterer Überprüfung bedürftig (vgl. aber die <q
+     type="anmerkung" versstart="089:001" versend="089:002">Anmerkung zu 89:1.2</q>, wo eine
+    kultische Deutung der dort genannten „zehn Nächte“ weiterhin diskutabel bleibt; auch in der
+    gegen Ende der frühmekkanischen Zeit und in etwa gleichzeitig mit <q type="koran"
+     versstart="073:000" versend="073:020">Q 73</q> anzusetzenden Stelle <q type="koran"
+     versstart="053:001" versend="053:001">53:1</q> könnte vielleicht eine Anspielung auf Vigilien
+    vorliegen).</p>
+   <p>Welchen Sinn haben die fraglichen Schwüre aber dann? Zu den für die Gruppen IIIa und IIIb
+    typischen kürzeren Schwüre (vgl. <q type="koran" versstart="056:075" versend="056:075"
+    >56:75</q>: „bei den Orten, an denen die Sterne untergehen“, <q type="koran" versstart="053:001"
+     versend="053:001">53:1</q>: „Beim Stern, wenn er untergeht!“, <q type="koran"
+     versstart="051:007" versend="051:007">51:7</q>: „Beim Himmel mit seinen Bahnen!“) ist
+    vielleicht nicht mehr zu sagen, als dass es sich um rhetorische Mittel zur Erzeugung von Emphase
+    und zur Markierung von Textzäsuren handelt. Anders verhält es sich mit den für Gruppe II
+    charakteristischen Schwurserien. Einen exegetischen Anhaltspunkt bietet die Beobachtung, dass
+    kosmische Schwurgegenstände in Gruppe II zumindest gelegentlich mit Verweisen auf ihren
+    göttlichen Schöpfer verbunden sind (<q type="koran" versstart="092:003" versend="092:003"
+     >92:3</q>: „Bei dem, was Männliches und Weibliches erschuf!“; vgl. ausführlicher <q
+     type="koran" versstart="091:005" versend="091:008">91:5–8</q>) und Gottes Herrschaft über
+    entsprechende Phänomene in Gruppe IIIb sogar ganz explizit formuliert wird (<q type="koran"
+     versstart="051:023" versend="051:023">51:23</q>: „Beim Herrn des Himmels und der Erde!“). Die
+    grundlegende Aussage solcher kosmischen Schwurpassagen ist deshalb wohl darin zu erblicken, dass
+    die sich in der Schöpfung erweisende göttliche Allmacht als Argument für die grundsätzliche
+    Möglichkeit einer Auferweckung und Aburteilung der Toten dienen soll. In späteren Texten mit
+    ihren viel argumentativeren Ausdrucksmöglichkeiten wird der zugrundeliegende Gedankengang dann
+    explizit formuliert, vgl. etwa den zu Gruppe IIIb zählenden Passus <q type="koran"
+     versstart="075:037" versend="075:040">75:37–40</q>: „War er (der Mensch) nicht ein Tropfen von
+    ausgestoßenem Samen, / und darauf etwas Klebriges? Dann schafft und formt er ihn / und macht
+    daraus die beiden Geschlechter, Mann und Frau. / Ist der nicht imstande, die Toten zu beleben?“
+    Schwüre bei Tag und Nacht oder Sonne und Mond sind deshalb nicht in erster Linie als
+    Anspielungen auf liturgische Übungen zu interpretieren, sondern – analog zu den ebenfalls
+    bereits in Gruppe I belegten Werkaffirmationen – als Verweise auf die monumentalen Ausmaße des
+    von Gott geschaffenen und am Ende der Welt wieder abgetragenen Kosmos. Bereits in altarabischen
+    Orakelsprüchen auftretende Schwurgegenstände wie Himmelskörper oder grundlegende kosmische
+    Gegensätze erhalten so eine neuartige theologische Signifikanz – eine für den Koran auch sonst
+    charakteristische Indienstnahme älterer literarischer Formen und Topoi.</p>
+   <p>Der allgemeine Zusammenhang von kosmischen Schwurserien und eschatologischer Pointe ist also
+    einigermaßen einsichtig. Auch das in den meisten längeren Schwurpassagen besonders prominente
+    Motiv binärer Kontraste (Sonne und Mond, Nacht und Tag, männlich und weiblich etc.) passt in die
+    gerade entwickelte Deutung hinein. Besonders deutlich wird dies in <q type="koran"
+     versstart="091:000" versend="091:015">Q 91</q> und <q type="koran" versstart="092:000"
+     versend="092:021">92</q>, wo jeweils auf eine Schwurserie eine auf der Grundlage von Verheißung
+    und Drohwort gebildete Antithese folgt (<q type="koran" versstart="091:009" versend="091:010"
+     >91:9.10</q>, <q type="koran" versstart="092:005" versend="092:011">92:5–11</q>) – das den
+    gesamten natürlichen Kosmos durchziehende Phänomen der Dualität erscheint hier als
+    makrokosmisches Gegenstück des moralischen Kontrasts von gut und böse und der diesen beiden
+    moralischen Valenzen entsprechenden Jenseitsschicksale (Seligkeit und Verdammnis), wie Neuwirth
+    dies exemplarisch für <q type="koran" versstart="092:000" versend="092:021">Q 92</q> feststellt:
+    „Die beiden elementaren Gegensatzpaare der Schwurserie Tag/Nacht, männlich/weiblich bilden die
+    strukturelle Matrix für die Gegensätzlichkeit der Bestrebungen der angesprochenen Menschen, die
+    wiederum gegensätzliche Arten der Vergeltung nach sich ziehen.“ (<bibl Zotero_Id_1="8BMDDSSC">Neuwirth, „Horizont“, 24</bibl>).</p>
+   <p>Das Motiv der Dualität ist es auch, welches die ansonsten eher ungewöhnliche Kombination von
+    kosmischem Schwur und Zuspruch an den Verkünder in der vorliegenden <q type="koran"
+     versstart="093:000" versend="093:011">Sure 93</q> verständlich macht. Denn der Surenfortgang
+    ist maßgeblich durch Kontrastierungen geprägt: Dies gilt bereits für <q type="koran"
+     versstart="093:004" versend="093:004">V. 4</q> mit seiner Entgegensetzung von Jenseits und
+    Diesseits, insbesondere aber für die Rückblicke auf dem Verkünder in der Vergangenheit erwiesene
+    Wohltaten in <q type="koran" versstart="093:005" versend="093:008">V. 5–8</q>, die jeweils
+    Zustände des Mangels und der gottgewirkten Erfüllung gegenüberstellen (s. u.). Auch hier
+    präludiert der Schwur also einer zentralen Aussage der Sure bzw. unterlegt ihr eine „Bildmatrix“
+    (Neuwirth). Ob der Gegensatz von Tagesanbruch und Nacht allerdings bereits in der neben <q
+     type="koran" versstart="103:001" versend="103:001">103:1</q> frühesten akkumulativen
+    Schwurfolge <q type="koran" versstart="093:001" versend="093:002">93:1.2</q>
+    schöpfungstheologisch zu verstehen ist, wie dies in <q type="koran" versstart="091:000"
+     versend="091:015">Q 91</q> und <q type="koran" versstart="092:000" versend="092:021">92</q> der
+    Fall ist, lässt sich nicht sicher feststellen. Gleichwohl erscheint in Ermangelung von mit <q
+     type="koran" versstart="093:000" versend="093:011">Q 93</q> kontemporären koranischen
+    Zeugnissen für die in <q type="koran" versstart="073:000" versend="073:020">Q 73</q>
+    reflektierten Vigilien auch für <q type="koran" versstart="093:001" versend="093:002">93:1.2</q>
+    eine spezifisch liturgische Deutung des Gegensatzes von Morgen und Nacht problematisch.</p>
+  </text>
+  <text versstart="003" versend="003" verfasser="nisi">
+   <p><lem>mā waddaʿaka rabbuka wa-mā qalā]</lem> Vgl. dazu <q type="bibel" buch="Ps"
+     versstart="022:025" versend="022:025">Psalm 22:25</q>:
+    <lang xml:lang="hbo-Hebr">כִּ֤י לֹֽא־בָזָ֙ה וְלֹ֪א שִׁקַּ֡ץ עֱנ֬וּת עָנִ֗י וְלֹא־הִסְתִּ֣יר פָּנָ֣יו מִמֶּ֑נּוּ</lang>,
+    „Denn er hat nicht verachtet noch verschmäht das Elend des Armen und sein Antlitz vor ihm nicht
+    verborgen“ (<bibl Zotero_Id_1="X6J8ZZSZ">Neuwirth, Frühmekkanische Suren, 79</bibl>). – Andrew Rippin hat zu bedenken gegeben, dass das
+    „Du“ der Sure nicht notwendigerweise auf Muḥammad oder irgendeine andere singuläre historische
+    Persönlichkeit bezogen werden muss, sondern dass es sich auch um das generischen „Du“ handeln
+    könnte, das etwa in den Zehn Geboten auftritt (<bibl Zotero_Id_1="W5CEWNZS">Rippin
+     2004, 299</bibl>). Da sich die zweite Person Singular aber zumindest in späteren Texten ganz
+    offensichtlich an ein konkretes und mit der Verlautbarung der koranischen Verkündigungen
+    beauftragtes Individuum richtet, erscheint es allerdings
+    <lang xml:lang="lat-Latn">prima facie</lang> keineswegs unwahrscheinlich, dass auch das „Du“ der
+     <q type="koran" versstart="093:000" versend="093:011">Trostsuren 93</q>, <q type="koran"
+     versstart="094:000" versend="094:008">94</q> und <q type="koran" versstart="108:000"
+     versend="108:003">108</q> Muḥammad intendiert. Doch auch wenn man aus gutem Grund bei der
+    üblichen Identifikation des „Du“ mit dem koranischen Verkünder bleibt, so kommt diesem doch
+    zugleich eine exemplarische Stellung zu: Indem die Sure an seinem Lebenslauf Gottes Zuwendung
+    und Obhut demonstriert, lädt sie ihre Hörerschaft zugleich dazu ein, in ihrer eigenen Biographie
+    ähnliche Spuren göttlicher Involviertheit aufzufinden. Diese über die Person Muḥammads
+    hinausgreifende Intention des Textes zeigt sich deutlich am allgemeinen Anspruch der
+    abschließenden Verhaltensnormen, die ja keinesfalls den Status von nur für den prophetischen
+    Verkünder geltenden Privatinstruktionen haben. Rippin hat insofern Recht damt, dass eine Sure
+    wie <q type="koran" versstart="093:000" versend="093:011">Q 93</q> nicht lediglich in ihrer
+    Bezogenheit auf das (sowieso nur hypothetisch zu erschließende) Seelenleben Muḥammads, etwa als
+    Ermunterung nach einer nicht näher beschriebenen Enttäuschung o. Ä., interpretiert werden
+    sollte. Die angesprochenen persönlichen Erfahrungen könnten deswegen auch als textreferentielle
+    Topoi zu verstehen sein, die sich nicht notwendigerweise auf spezifische biographische
+    Geschehnisse projizieren lassen. S. a. die <q type="anmerkung" versstart="108:003"
+     versend="108:003">Anmerkungen zu 108:3</q> und <q type="anmerkung" versstart="111:002"
+     versend="111:002">111:2</q>. – Zum Gottestitel <lang xml:lang="ar-Latn">rabb</lang> vgl. die <q
+     type="anmerkung" versstart="095:008" versend="095:008">Anmerkung zu 95:8</q>.</p>
+  </text>
+  <text versstart="004" versend="004" verfasser="nisi">
+   <p><lem>wa-la-l-ʾāḫiratu ḫairun laka mina l-ʾūlā]</lem> Vgl. insbesondere <q type="koran"
+     versstart="087:017" versend="087:017">87:17</q>
+    (<lang xml:lang="ar-Latn">wa-l-ʾāḫiratu ḫairun wa-ʾabqā</lang>). Als Gegenbegriff zu
+    <lang xml:lang="ar-Latn">al-ʾāḫira</lang> findet sich in frühmekkanischer Zeit entweder wie hier
+    <lang xml:lang="ar-Latn">al-ʾūlā</lang>, „das Diesseits“ (vgl. noch <q type="koran"
+     versstart="092:013" versend="092:013">92:13</q>, <q type="koran" versstart="079:025"
+     versend="079:025">79:25</q> und <q type="koran" versstart="053:025" versend="053:025"
+    >53:25</q>), oder aber das räumlich konnotierte
+    <lang xml:lang="ar-Latn">al-ḥayāt ad-dunyā</lang> („das Leben hienieden“, „das Leben auf der
+    niedersten Sphäre“; vgl. <q type="koran" versstart="087:016" versend="087:017">87:16.17</q>, <q
+     type="koran" versstart="079:038" versend="079:038">79:38</q>, <q type="koran"
+     versstart="053:029" versend="053:029">53:29</q>; s. <bibl Zotero_Id_1="X6J8ZZSZ">Neuwirth, Frühmekkanische Suren,
+    80</bibl>). In der jüdisch-christlichen Tradition liegt ein analoges Begriffspaar insbesondere
+    mit dem rabbinischen Kontrast von <lang xml:lang="hbo-Latn">ha-ʿolam ha-ze</lang> („diese Welt“)
+    und <lang xml:lang="hbo-Latn">ha-ʿolam ha-ba</lang> („die kommende Welt“) vor; vgl. exemplarisch
+    die in der Mischna, Sanhedrin, Kap. 10, erörterte Frage, wer „keinen Anteil an der kommenden
+    Welt hat“, und die sich im babylonischen Talmud daran anknüpfenden Debatten (insb. fol. 90b
+    unten, wo beide Begriffe kontrastierend verwendet werden). Zumindest
+    <lang xml:lang="ar-Latn">ad-dunyā</lang> ist bereits in der vorkoranischen Dichtung geläufig
+     (<bibl Zotero_Id_1="4CXBNM94">Izutsu 1964, 86–88</bibl>) und
+    setzt implizit die Vorstellung von einem ‚Jenseits’ (<lang xml:lang="ar-Latn">al-ʾāḫira</lang>)
+    voraus, auch wenn der Dichter dessen reale Existenz ausdrücklich bestreiten mag. Möglicherweise
+    setzt sich der poetische <lang xml:lang="ar-Latn">dunyā</lang>-Diskurs also bewusst und
+    terminologisch pointiert von jüdisch-christlichen Jenseitsvorstellungen ab, während das
+    koranische Insistieren auf der Höherwertigkeit des Jenseits (<q type="koran" versstart="093:004"
+     versend="093:004">93:4</q>, <q type="koran" versstart="087:017" versend="087:017">87:17</q>
+    etc.) wiederum Stellung gegen die Dichtung bezieht.</p>
+  </text>
+  <text versstart="005" versend="005" verfasser="nisi">
+   <p><lem>wa-la-saufa yuʿṭīka rabbuka fa-tarḍā]</lem> Zu der durchgängig eschatologisch
+    konnotierten Wurzel <lang xml:lang="ar-Latn">r-ḍ-y</lang> s. die <q type="anmerkung"
+     versstart="101:007" versend="101:007">Anmerkung zu 101:7</q>. Zum gesamten Vers vgl. die
+    allerdings nicht eschatologisch zu deutende Verheißung in <q type="bibel" buch="Ps"
+     versstart="020:005" versend="020:005">Psalm 20:5</q>:
+    <lang xml:lang="hbo-Hebr">יִֽתֶּן־לְךָ֥ כִלְבָבֶ֑ךָ וְֽכָל־עֲצָתְךָ֥ יְמַלֵּֽא</lang>, „Er gebe
+    dir, was dein Herz begehrt, und erfülle alles, was du vorhast!“ (<bibl Zotero_Id_1="X6J8ZZSZ">Neuwirth, Frühmekkanische Suren,
+    80</bibl>)</p>
+  </text>
+  <text versstart="007" versend="007" verfasser="nisi">
+   <p><lem>wa-waǧadaka ḍāllan fa-hadā]</lem> Formen von <lang xml:lang="ar-Latn">hadā</lang> bzw.
+    das Verbalsubstantiv <lang xml:lang="ar-Latn">hudā</lang> erscheinen in frühmekkanischer Zeit
+    noch in <q type="koran" versstart="096:011" versend="096:011">96:11</q>
+    (<lang xml:lang="ar-Latn">ʾa-raʾaita ʾin kāna ʿală l-hudā</lang>), <q type="koran"
+     versstart="092:012" versend="092:012">92:12</q>
+    (<lang xml:lang="ar-Latn">ʾinna ʿalainā la-l-hudā</lang>), <q type="koran" versstart="090:010"
+     versend="090:010">90:10</q> (<lang xml:lang="ar-Latn">wa-hadaināhu n-naǧdain</lang>), <q
+     type="koran" versstart="087:003" versend="087:003">87:3</q>
+    (<lang xml:lang="ar-Latn">wa-llaḏī qaddara fa-hadā</lang>) und <q type="koran"
+     versstart="079:018" versend="079:019">79:18.19</q>
+    (<lang xml:lang="ar-Latn">fa-qul hal laka ʾilā ʾan tazakkā / wa-ʾahdiyaka ʾilā rabbika fa-taḫšā</lang>;
+    Verkündigungsauftrag an Mose gegenüber Pharao); <q type="koran" versstart="074:031"
+     versend="074:031">74:31</q>
+    (<lang xml:lang="ar-Latn">ka-ḏālika yuḍillu llāhu man yašāʾu wa-yahdī man yašāʾu</lang>) und <q
+     type="koran" versstart="053:023" versend="053:023">53:23</q>
+    (<lang xml:lang="ar-Latn">wa-la-qad ǧāʾahum min rabbihimu l-hudā</lang>) gehören zu späteren
+    Einschüben, sind also keine genuin frühmekkanischen Belege. Da neben <q type="koran"
+     versstart="093:007" versend="093:007">93:7</q> keiner dieser Belege zu Gruppe I zu rechnen ist,
+    dürfte es sich beim vorliegenden Vers um das früheste koranische Vorkommnis von
+    <lang xml:lang="ar-Latn">hadā</lang> handeln. Die durch das Verb ausgedrückte Vorstellung einer
+    persönlichen göttlichen Wegeleitung, die allein ein gelingendes menschliches Leben verbürgt, ist
+    biblisch und besonders im Psalter prominent, vgl. nur <q type="bibel" buch="Ps"
+     versstart="023:002" versend="020:003">Psalm 23:2.3</q>, <q type="bibel" buch="Ps"
+     versstart="025:004" versend="025:005">25:4.5</q>.<q type="bibel" buch="Ps" versstart="025:008"
+     versend="025:009">8.9</q>, <q type="bibel" buch="Ps" versstart="027:011" versend="027:011"
+     >27:11</q> etc., aber auch <q type="bibel" buch="Gen" versstart="024:048" versend="024:048"
+     >Genesis 24:48</q>. Im Hebräischen stehen hier zumeist <lang xml:lang="hbo-Latn">hidrīk</lang>
+    oder auch <lang xml:lang="hbo-Latn">hinḥâ</lang>, im Griechischen
+    <lang xml:lang="gr-Latn">hodēgeō</lang> bzw. <lang xml:lang="gr-Latn">euodoō</lang>; am
+    einheitlichsten ist die Diktion im Syrischen, wo <lang xml:lang="syc-Latn">dbar</lang> bzw.
+    <lang xml:lang="syc-Latn">dabbar</lang> die Regel ist und insofern genau wie
+    <lang xml:lang="ar-Latn">hadā</lang> den Status eines theologischen
+    <lang xml:lang="lat-Latn">terminus technicus</lang> hat. Für einen psalmischen Hintergrund von
+    koranisch <lang xml:lang="ar-Latn">hadā</lang> spricht auch die Tatsache, dass <q type="koran"
+     versstart="093:000" versend="093:011">Sure 93</q> – also derjenige Korantext, in dem hadā
+    erstmals im Koran erscheint – weitere motivische und strukturelle Bezüge zu psalmischen
+    Klagegebeten aufweist (s. die übrigen Anmerkungen sowie die Gegenüberstellung von <q
+     type="koran" versstart="093:000" versend="093:011">Q 93</q> und <q type="bibel" buch="Ps"
+     versstart="013:001" versend="013:006">Psalm 13</q> weiter unten).</p>
+  </text>
+  <text versstart="009" versend="009" verfasser="nisi">
+   <p><lem>fa-ʾammă l-yatīma fa-lā taqhar]</lem> Die Forderung, Waisen – die paradigmatischen
+    Schwächsten der Gesellschaft – nicht ungerecht zu behandeln, gehört „zum allgemeinen Themenkreis
+    prophetischer Rede“ (<bibl Zotero_Id_1="EWEAEW72">Bobzin 2005, 65</bibl> , der auf <q
+     type="bibel" buch="Sach" versstart="007:010" versend="007:010">Sacharja 7:10</q>, <q
+     type="bibel" buch="Ex" versstart="022:021" versend="022:022">Exodus 22:21.22</q>, <q
+     type="bibel" buch="Jes" versstart="001:017" versend="001:017">Jesaja 1:17</q> und <q
+     type="bibel" buch="Jer" versstart="007:005" versend="007:006">Jeremia 7:5.6</q> verweist). Vgl.
+    auch die <q type="anmerkung" versstart="107:002" versend="107:003">Anmerkungen zu 107:2.3</q>
+    und <q type="anmerkung" versstart="090:011" versend="090:016">90:11–16</q> mit weiteren
+    Bibelstellen und frühmekkanischen Parallelen.</p>
+   <p>Ibn Masʿūd liest <lang xml:lang="ar-Latn">takhar</lang>, „schelten“, statt
+    <lang xml:lang="ar-Latn">taqhar</lang>, „unterdrücken, Unrecht tun“ (<bibl
+     Zotero_Id_1="KVFTU3XN">Muʿǧam, ad loc.</bibl> ; vgl. <bibl
+     Zotero_Id_1="JM6WUWTX">Birkeland 1956,
+     34</bibl>). Die Variante ist offenkundig aus mündlicher Textweitergabe zu erklären. Welche
+    Lesart ursprünglicher ist, lässt sich kaum entscheiden. Allerdings entspricht
+    <lang xml:lang="ar-Latn">taqhar</lang> eher dem prophetischen Topos der Unterdrückung von Witwen
+    und Waisen (s. den Kommentar zu Q 107).</p>
+  </text>
+  <text versstart="011" versend="011" verfasser="nisi">
+   <p><lem>wa-ʾammă bi-niʿmati rabbika fa-ḥaddiṯ]</lem> Die Gedankenfigur der aus der erfahrenen
+    Wohltat erwachsenden Verpflichtung formuliert auch <q type="bibel" buch="Ps" versstart="009:014"
+     versend="009:015">Psalm 9:14.15</q>:
+    <lang xml:lang="hbo-Hebr">חָֽנְנֵ֬נִי יְהוָ֗ה רְאֵ֣ה עָ֭נְיִי מִשֹּׂנְאָ֑י מְ֜רוֹמְמִ֗י מִשַּׁ֥עֲרֵי מָֽוֶת׃ לְמַ֥עַן אֲסַפְּרָ֗ה כָּֽל־תְּהִלָּ֫תֶ֥יךָ</lang>,
+    „YHWH sei mir gnädig, sieh mein Elend an, hebe mich empor aus des Todes Toren, / damit ich all
+    deine Ruhmestaten erzähle …“ (<bibl Zotero_Id_1="X6J8ZZSZ">Neuwirth, Frühmekkanische Suren,
+    85</bibl>).</p>
+   <p>Zur Wurzel <lang xml:lang="ar-Latn">ḥ-d-ṯ</lang> s. die <q type="anmerkung" versend="077:050"
+     versstart="077:050">Anmerkung zu 77:50</q>. – Der Vers wandelt den Reim <hi rend="italic"
+     >3(K)K3r</hi> aus <q type="koran" versend="093:009" versstart="093:010">V. 9.10</q> zu <hi
+     rend="italic">3KK3ṯ</hi> ab. Auch angesichts des inhaltlichen Zusammenhangs ist dies nicht als
+    genuiner Reimwechsel, sondern eher als Reimvariation zu verstehen.</p>
+  </text>
+ </anmerkungen>
+ <kommentar>
+  <text versstart="001" versend="002" verfasser="nisi">
+   <p>Anders als die verwandten <q type="koran" versstart="094:000" versend="094:008">Suren 94</q>
+    und <q type="koran" versstart="108:000" versend="108:003">108</q>, die ihren
+    Offenbarungsanspruch durch einen unvermittelten Einsatz im Register göttlicher Wir-Rede deutlich
+    machen, bedient der vorliegende Text sich hierzu der für die altarabische Seherpraxis
+    charakteristischen Textsorte der Schwurserie. Wenn im Folgenden von Gott durchgängig in der 3.
+    Person Singular (anstatt wie in <q type="koran" versstart="094:000" versend="094:008">Q 94</q>
+    und <q type="koran" versstart="108:000" versend="108:003">108</q> in der 1. Person Plural) die
+    Rede ist, so hat dies wohl auch den Grund, dass die Sure durch ihre Schwureinleitung bereits mit
+    hinreichender Deutlichkeit als ‚mantische’ bzw. übernatürlich inspirierte Rede gekennzeichnet
+    ist. Als Schwurgegenstände erscheinen wie in einer Reihe anderer frühmekkanischer Suren
+    Tageszeiten, genauer: Tagesanbruch und Nacht. Der Kontrast zwischen diesen beiden
+    gegensätzlichen Zeitangaben präfiguriert den im weiteren Textverlauf erscheinenden
+    Gegensatzpaaren: Bereits in <q type="koran" versstart="093:004" versend="093:004">V. 4</q>
+    werden Jenseits in Diesseits genannt, und die Rückblenden in <q type="koran" versstart="093:006"
+     versend="093:008">V. 6–8</q> stellen jeweils einem vorgängigen Zustand des Mangels einen
+    anschließenden Zustand gottgewirkter Fülle entgegen (<bibl Zotero_Id_1="8BMDDSSC">Neuwirth, „Horizont“, 22</bibl>; vgl. ähnlich die gnomische Entgegensetzung von
+    <lang xml:lang="ar-Latn">ʿusr</lang> und <lang xml:lang="ar-Latn">yusr</lang>, „Schwere“ und
+    „Leichtigkeit“, in <q type="koran" versstart="094:005" versend="094:006">94:5.6</q>).</p>
+  </text>
+  <text versstart="003" versend="008" verfasser="nisi">
+   <p>Dem einleitenden Verspaar folgt als Schwuraussage die Zusicherung, dass Gott den Verkünder
+    „nicht verlassen und nicht verworfen“ hat, an die sich eine Verheißung jenseitiger (<q
+     type="koran" versstart="093:004" versend="093:004">V. 4</q>) Erfüllung (<q type="koran"
+     versstart="093:005" versend="093:005">V. 5</q> spricht von „Zufriedenheit“,
+    <lang xml:lang="ar-Latn">r-ḍ-y</lang>) anschließt. Diese eschatologische Verheißung wird dann
+    durch einen wie in <q type="koran" versstart="094:001" versend="094:004">94:1–4</q> in Frageform
+    gehaltenen Rückblick auf bereits vorausgegangene Überführungen von Zuständen des Mangels in
+    solche der Erfüllung untermauert; die entsprechenden Verse sind allesamt antithetisch gebaut
+    (<lang xml:lang="ar-Latn">yatīm</lang> vs. <lang xml:lang="ar-Latn">ʾawā</lang>,
+    <lang xml:lang="ar-Latn">ḍāll</lang> vs. <lang xml:lang="ar-Latn">hadā</lang>,
+    <lang xml:lang="ar-Latn">ʿāʾil</lang> vs. <lang xml:lang="ar-Latn">ʾaġnā</lang>). Lehnte sich
+    das einleitende Schwurpaar noch an eine altarabische Redeform an, so weist der Text in <q
+     type="koran" versstart="093:003" versend="093:003">V. 3</q>, <q type="koran"
+     versstart="093:005" versend="093:005">5</q> und <q type="koran" versstart="093:007"
+     versend="093:007">7</q> nun deutliche Bezüge zu den biblischen Psalmen auf.</p>
+  </text>
+  <text versstart="009" versend="011" verfasser="nisi">
+   <p>Ein Psalmenbezug zeigt sich auch in der Gedankenfigur der sich aus den erfahrenen göttlichen
+    Zuwendungen ergebenden ethisch-religiösen Verpflichtungen, wie sie die drei letzten Verse der
+    Sure aufzählen. Obwohl die Sure sich primär an den koranischen Verkünder richten dürfte, sind
+    gerade die Schlussimperative in ihrer Anwendbarkeit offensichtlich nicht auf diesen begrenzt und
+    gelten auch für den gewöhnlichen Gläubigen (vgl. <bibl Zotero_Id_1="EWEAEW72">Bobzin 2005, 65</bibl>). Die ersten
+    beiden, die Behandlung von Waisen und Bettlern betreffenden Anweisungen verweisen auf einen
+    bereits zuvor in <q type="koran" versstart="107:002" versend="107:003">107:2.3</q>
+    aufgegriffenen biblischen Topos zurück. Zugleich sind die beiden Verse jedoch auch
+    ‚intratextuell’ mit dem Rückblick <q type="koran" versstart="093:006" versend="093:008">V.
+     6–8</q> verknüpft, die Forderung nach gerechter Behandlung von Waisen und Armen wird organisch
+    aus dem Textzusammenhang entwickelt (zur Korrespondenz von <q type="koran" versstart="093:006"
+     versend="093:008">V. 6–8</q> und <q type="koran" versstart="093:009" versend="093:011">V.
+     9–11</q> s. a. <bibl Zotero_Id_1="SBVMAM5Z">Cuypers 2000, 104 f.</bibl>).
+    Insbesondere <q type="koran" versstart="093:009" versend="093:009">V. 9</q> („So tu der Waise
+    nicht Unrecht“) verweist in seiner Wortwahl auf <q type="koran" versstart="093:006"
+     versend="093:006">V. 6</q> („Fand er dich nicht als Waise und nahm dich auf?“) zurück und macht
+    so terminologisch den allgemeineren Sachzusammenhang von <q type="koran" versstart="093:006"
+     versend="093:008">V. 6–8</q> und <q type="koran" versstart="093:009" versend="093:010">V.
+     9.10</q> deutlich: Dem Angesprochenen werden den von ihm erfahrenen Gnadenerweisen
+    entsprechende Wohltaten gegenüber anderen, gleichfalls Mangel leidenden Mitmenschen abgefordert.
+    Ist damit bereits ein Brückenschlag von der individuellen Rettungserfahrung zur Öffentlichkeit
+    gesellschaftlicher Interaktion vollzogen, so steigert der Schlussvers diese Dimension der
+    Öffentlichkeit noch einmal: Die Imperativserie kulminiert in dem Auftrag, von der persönlich
+    erfahrenen Zuwendung Gottes zu „erzählen“ und hebt so hervor, auf welchem Weg göttliche
+    Rechtleitung (<q type="koran" versstart="093:007" versend="093:007">V. 7</q>:
+    <lang xml:lang="ar-Latn">hadā</lang>) weitergegeben wird: nicht nur durch Wohltaten an anderen,
+    sondern insbesondere auch durch Verkündigung.</p>
+  </text>
+ </kommentar>
+</korankommentar>

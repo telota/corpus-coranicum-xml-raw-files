@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Quran xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="Textstruktur.xsd">
+    <Sure id="093" webtauglich="true" translator="Nicolai Sinai">
+        <Hauptteil id="0">
+            <Abschnitt id="0">
+                <Gesaetz n="0">
+                    <Vers n="000">
+                        <Teilvers n="000" reim="2n/m">
+                            <Kolon lang="ar" Einschub="false" n="0">بِسۡمِ ٱللَّهِ ٱلرَّحۡمَٰنِ ٱلرَّحِيمِ</Kolon>
+                            <Kolon lang="de" Einschub="false" n="0">Im Namen Gottes, des barmherzigen Erbarmers!</Kolon>
+                        </Teilvers>
+                    </Vers>
+                </Gesaetz>
+                <Gesaetz n="1">
+                    <Vers n="001">
+                        <Teilvers n="001" reim="3(K)Kā">
+                            <Kolon Einschub="false" lang="ar" n="1">وَٱلضُّحَىٰ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="1">Beim hellen Morgen</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="002">
+                        <Teilvers n="002" reim="3(K)Kā">
+                            <Kolon Einschub="false" lang="ar" n="2">وَٱلَّيۡلِ إِذَا سَجَىٰ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="2">und bei der Nacht, wenn sie still ist!</Kolon>
+                        </Teilvers>
+                    </Vers>
+                </Gesaetz>
+                <Gesaetz n="2">
+                    <Vers n="003">
+                        <Teilvers n="003" reim="3(K)Kā">
+                            <Kolon Einschub="false" lang="ar" n="3">مَا وَدَّعَكَ رَبُّكَ وَمَا قَلَىٰ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="3">Dein Herr hat dich nicht verlassen und nicht verworfen;</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="004">
+                        <Teilvers n="004" reim="3(K)Kā">
+                            <Kolon Einschub="false" lang="ar" n="4">وَلَلۡٴَاخِرَةُ خَيۡرٌۭ لَّكَ مِنَ ٱلۡأُولَىٰ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="4">das Jenseits ist besser für dich als das Diesseits;</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="005">
+                        <Teilvers n="005" reim="3(K)Kā">
+                            <Kolon Einschub="false" lang="ar" n="5">وَلَسَوۡفَ يُعۡطِيكَ رَبُّكَ فَتَرۡضَىٰۤ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="5">dein Herr wird dir geben, dass du zufrieden sein wirst.</Kolon>
+                        </Teilvers>
+                    </Vers>
+                </Gesaetz>
+                <Gesaetz n="3">
+                    <Vers n="006">
+                        <Teilvers n="006" reim="3(K)Kā">
+                            <Kolon Einschub="false" lang="ar" n="6">أَلَمۡ يَجِدۡكَ يَتِيمًۭا فَـَٔاوَىٰ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="6">Fand er dich nicht als Waise und nahm dich auf?</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="007">
+                        <Teilvers n="007" reim="3(K)Kā">
+                            <Kolon Einschub="false" lang="ar" n="7">وَوَجَدَكَ ضَآلًّۭا فَهَدَىٰ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="7">Fand er dich nicht irrend und leitete dich?</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="008">
+                        <Teilvers n="008" reim="3(K)Kā">
+                            <Kolon Einschub="false" lang="ar" n="8">وَوَجَدَكَ عَآئِلًۭا فَأَغۡنَىٰ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="8">Fand er dich nicht bedürftig und machte dich reich?</Kolon>
+                        </Teilvers>
+                    </Vers>
+                </Gesaetz>
+                <Gesaetz n="4">
+                    <Vers n="009">
+                        <Teilvers n="009" reim="3(K)K3r">
+                            <Kolon Einschub="false" lang="ar" n="9">فَأَمَّا ٱلۡيَتِيمَ فَلَا تَقۡهَرۡ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="9">So tu der Waise nicht Unrecht,</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="010">
+                        <Teilvers n="010" reim="3(K)K3r">
+                            <Kolon Einschub="false" lang="ar" n="10">وَأَمَّا ٱلسَّآئِلَ فَلَا تَنۡهَرۡ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="10">weise den Bittenden nicht ab</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="011">
+                        <Teilvers n="011" reim="3KK3ṯ">
+                            <Kolon Einschub="false" lang="ar" n="11">وَأَمَّا بِنِعۡمَةِ رَبِّكَ فَحَدِّثۡ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="11">und kündige von der Gnade deines Herrn!</Kolon>
+                        </Teilvers>
+                    </Vers>
+                </Gesaetz>
+            </Abschnitt>
+        </Hauptteil>
+    </Sure>
+</Quran>

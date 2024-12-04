@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<korankommentar xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:noNamespaceSchemaLocation="Kommentar.xsd">
+ <sure id="111" webtauglich="true"/>
+ <surentitel>
+  <text versstart="000" versend="005" verfasser="tjj">
+   <p>Sure 111 — <lang xml:lang="ar-Latn">al-Masad</lang> — »Die Palmfasern«</p>
+  </text>
+ </surentitel>
+ <autorenkurz>
+  <text versstart="000" versend="005" verfasser="tjj">
+   <p>Übersetzt und analysiert von Nicolai Sinai</p>
+  </text>
+ </autorenkurz>
+ <datierungkurz>
+  <text versstart="000" versend="005" verfasser="nisi">
+   <p>Mekka I (Gruppe I)</p>
+  </text>
+ </datierungkurz>
+ <datierung>
+  <text versstart="000" versend="005" verfasser="nisi">
+   <p>Die Kürze des Textes insgesamt sowie der einzelnen Verse (im Durchschnitt 10,4 Silben) legen
+    nahe, ihn zu Beginn der frühmekkanischen Periode anzusetzen – am ehesten innerhalb der Gruppe
+    kurzer, aus kleinen Versgruppen bestehender Droh- und Scheltworte <q type="koran"
+     versstart="095:000" versend="095:008">Q 95</q>, <q type="koran" versstart="102:000"
+     versend="102:008">102</q>, <q type="koran" versstart="103:000" versend="103:003">103</q>, <q
+     type="koran" versstart="104:000" versend="104:009">104</q> und <q type="koran"
+     versstart="107:000" versend="107:007">107</q>, die chronologisch nach <q type="koran"
+     versstart="105:000" versend="105:005">Q 105</q> und <q type="koran" versstart="106:000"
+     versend="106:004">Q 106</q> und vor detaillierteren Ausmalungen des Jüngsten Gerichts wie <q
+     type="koran" versstart="100:000" versend="100:011">Q 100</q> und <q type="koran"
+     versstart="101:000" versend="101:011">101</q> stehen dürften (vgl. die Einleitung zu <q
+     type="koran" versstart="105:000" versend="111:005">Q 105</q>). Insbesondere dürfte die Sure
+    älter als <q type="koran" versstart="085:000" versend="085:022">Q 85</q> sein, wo in <q
+     type="koran" versstart="085:004" versend="085:006">V. 4 ff.</q> eine dem Eröffnungsvers
+    ähnelnde Verwünschung als Teilform innerhalb eines umfassenderen Kompositionszusammenhanges
+    begegnet. – Zu Neuwirths fraglicher Annahme, <q type="koran" versstart="111:000"
+     versend="111:005">Q 111</q> sei früher anzusetzen als etwa <q type="koran" versstart="095:000"
+     versend="095:008">Q 95</q>, <q type="koran" versstart="102:000" versend="102:008">102</q>, <q
+     type="koran" versstart="103:000" versend="103:003">103</q> oder <q type="koran"
+     versstart="104:000" versend="104:009">104</q> s. die <q type="anmerkung" versstart="111:003"
+     versend="111:003">Anmerkung zu V. 3</q> weiter unten sowie den <q type="datierung"
+     versstart="108:000" versend="108:003">Abschnitt zur Datierung von Q 108</q>.</p>
+  </text>
+ </datierung>
+ <literarkritikkurz>
+  <text versstart="000" versend="005" verfasser="nisi">
+   <p>Keine Einschübe</p>
+  </text>
+ </literarkritikkurz>
+ <literarkritik>
+  <text versstart="000" versend="005" verfasser="nisi">
+   <p>Der Korankodex Ibn Masʿūds soll zwischen <q type="koran" versstart="111:001" versend="111:001"
+     >V. 1</q> und <q type="koran" versstart="111:002" versend="111:002">2</q> einen zusätzlichen
+    Vers enthalten haben:
+    <lang xml:lang="ar-Latn">ḥālafa l-baita l-waḍīʿa ʿală l-baiti r-rafīʿi fa-šuġila bi-nafsihi ṯumma šuġila</lang>
+     (<bibl Zotero_Id_1="4HR2RHA3">Jeffery 1937, 180</bibl>; <bibl Zotero_Id_1="UJV6GJPZ">Rubin
+     1979, 15</bibl>: „He became allied to the inferior house against the exalted house, and he was
+    occupied only with himself, and indeed he was“). Wie bei verschiedenen anderen im Namen von Ibn
+    Masʿūd tradierten Lesevarianten handelt es sich um eine deutende Erweiterung, die auch aufgrund
+    ihrer Verslänge kein ursprünglicher Textbestandteil sein dürfte. Der zusätzliche Vers trägt die
+    im <hi rend="italic">textus receptus</hi> nicht ausgeführte Ursache für die Verfluchung Abū
+    Lahabs nach: Er spielt darauf an, dass dieser sich während des auf die Isolierung Muḥammads
+    zielenden Boykotts des Hāšim-Klans durch die übrigen Quraischiten von den Hāschimiten losgesagt
+    haben solllll (vgl. <bibl Zotero_Id_1="GSTHCMSR">Montgomery Watt, „Abū Lahab“, EI1</bibl>).</p>
+  </text>
+ </literarkritik>
+ <aufbauinhalt>
+  <text versstart="000" versend="005" verfasser="nisi">
+   <p/>
+  </text>
+ </aufbauinhalt>
+ <ueberblick>
+  <text versstart="000" versend="005" verfasser="tjj">
+   <p>
+    <table cols="2" rend="boxed" rows="2">
+     <head/>
+     <row>
+      <cell>
+       <hi rend="superscript"><q type="koran" versstart="111:001" versend="111:002">1.2</q></hi>
+       <hi rend="italic">3K3b(b)</hi>
+      </cell>
+      <cell>
+       <hi rend="bold">1</hi>
+       <hi rend="superscript"><q type="koran" versstart="111:001" versend="111:001">1</q></hi>
+       Verfluchung, <hi rend="superscript"><q type="koran" versstart="111:002" versend="111:002"
+         >2</q></hi> erstes Drohwort</cell>
+     </row>
+     <row>
+      <cell>
+       <hi rend="superscript"><q type="koran" versstart="111:003" versend="111:004">3.4</q></hi>
+       <hi rend="italic">3K3b</hi>, <hi rend="superscript"><q type="koran" versstart="111:005"
+         versend="111:005">5</q></hi>
+       <hi rend="italic">3K3d</hi>
+      </cell>
+      <cell>
+       <hi rend="bold">2</hi>
+       <hi rend="superscript"><q type="koran" versstart="111:003" versend="111:005">3–5</q></hi>
+       weiteres Drohwort</cell>
+     </row>
+    </table>
+   </p>
+   <p>Proportionen: 2+3.</p>
+  </text>
+ </ueberblick>
+ <anmerkungen>
+  <text versstart="000" versend="000" verfasser="nisi">
+   <p><lem>bi-smi llāhi r-raḥmāni r-raḥīm]</lem> Zur Basmala s. die entsprechende <q
+     type="anmerkung" versstart="093:000" versend="093:000">Anmerkung zu 93</q>; zum Gottesnamen
+    <lang xml:lang="ar-Latn">raḥmān</lang> s. die <q type="anmerkung" versstart="055:001"
+     versend="055:001">Anmerkung zu 55:1</q>.</p>
+  </text>
+  <text versstart="001" versend="001" verfasser="nisi">
+   <p><lem>tabbat yadā ʾabī lahabin]</lem> Die Verbindung <lang xml:lang="ar-Latn">ʾabū</lang> +
+    Substantiv im Genitiv dient dazu, jemanden als Besitzer einer bestimmten Eigentümlichkeit zu
+    charakterisieren (so kann ein gastfreundlicher Mann z. B. als
+    <lang xml:lang="ar-Latn">ʾabŭ l-ʾaḍyāf</lang>, „Gastvater“, bezeichnet werden; <bibl
+     Zotero_Id_1="8WQ6CTDE">Lane, Bd. 1, 11c</bibl>); eine ähnliche Funktion hat im Plural
+    <lang xml:lang="ar-Latn">ʾaṣḥāb</lang> + Genitiv, vgl. etwa <q type="koran" versend="085:004"
+     versstart="085:004">Q 85:4</q>, wo von den „Leuten des Grabens“
+    (<lang xml:lang="ar-Latn">ʾaṣḥāb al-ʾuḫdūd</lang>) die Rede ist. Horovitz vermutet, dass die
+    Wendung „Vater der Flamme“ (<lang xml:lang="ar-Latn">ʾabū lahab</lang>) „kein eigentlicher Name“
+    sei, sondern eine erst von <q type="koran" versstart="111:000" versend="111:005">Q 111</q>
+    geprägte „uneigentliche Kunja“, die den Betreffenden „als der Hölle verfallen kennzeichnet“
+     (<bibl Zotero_Id_1="TJNE7TP3">Horovitz, Koranische Untersuchungen, 88 und 78</bibl>). Falls der
+    Ausdruck wirklich mit der islamischen Exegese auf Muḥammads Onkel ʿAbd al-ʿUzzā zu beziehen ist,
+    der sich öffentlich von Muḥammad losgesagt haben soll (zu ihm s. <bibl Zotero_Id_1="R4BF8T8Q"
+     >Montgomery Watt, „Abū Lahab“, EI2</bibl>), so dürfte der Beiname „Vater der Flamme“ ihm erst
+    im Gefolge der vorliegenden Koransure beigelegt worden sein (so bereits Lohmann, vgl. <bibl
+     Zotero_Id_1="UJV6GJPZ">Rubin 1979, 18</bibl>). Aus diesem Grund und auch um den Bezug zur
+    <lang xml:lang="ar-Latn">nār ḏāt lahab</lang> aus <q type="koran" versstart="111:003"
+     versend="111:003">V. 3</q> zu erhalten sollte der Ausdruck nicht, wie bei Paret, unübersetzt
+    gelassen werden (die Übersetzung "Flammenmann" ist von Neuwirth inspiriert, vgl. <bibl
+     Zotero_Id_1="X6J8ZZSZ">Neuwirth, Frühmekkanische Suren, 142</bibl>). Keineswegs auszuschließen
+    ist allerdings, dass sich die Sure ursprünglich gar nicht gegen eine bestimmte Einzelperson
+    richtet, sondern lediglich das jenseitige Ergehen eines prototypischen Verdammten, eben eines
+    „Mannes der Flammen“ beschreibt, so wie es etwa in <q type="koran" versstart="092:015"
+     versend="092:015">Q 92:15</q> heißt, „der Unselige“ (<lang xml:lang="ar-Latn">ʾal-ʾašqā</lang>)
+    würde im Höllenfeuer brennen (vgl. zu einer ähnlichen Problematik den <q type="kommentar"
+     versstart="108:003" versend="108:003">Kommentar zu 108:3</q>). Die Einengung der Verfluchung
+    auf ʿAbd al-ʿUzzā wäre dann eine spätere, erst im Verlaufe der frühislamischen Koranrezeption
+    eingetretene Entwicklung, die durchaus im Einklang mit der auch anderswo zu beobachtenden
+    anekdotischen Tendenz des frühen <lang xml:lang="ar-Latn">tafsīr</lang> stünde.</p>
+   <p>Rubin, der die Sure primär im Rückgriff auf außerkoranische Traditionen deutet, will
+    <lang xml:lang="ar-Latn">yad</lang> im Sinne von „Verdienst“ verstehen und übersetzt: „Verloren
+    sind Abū Lahabs Verdienste“ („Abū Lahab’s credit for his grand deeds has been lost“; <bibl
+     Zotero_Id_1="UJV6GJPZ">Rubin 1979, 18</bibl>); er beruft sich dafür auf eine von al-Wāqidī
+    überlieferte Tradition, derzufolge ʿAbd al-ʿUzzā sein Gelübde, die Pflege des Heiligtums von
+    al-ʿUzzā zu übernehmen, mit den Worten begründet haben soll: „Ich habe dann ein Verdienst bei
+    ihr gut“ (<lang xml:lang="ar-Latn">kuntu qad ittaḫḏtu yadan ʿindahā</lang>; vgl. <bibl
+     Zotero_Id_1="UJV6GJPZ">Rubin 1979, 13 und Anm. 7</bibl>). Zwar kann
+    <lang xml:lang="ar-Latn">yad</lang> tatsächlich im Sinne von
+    <lang xml:lang="ar-Latn">niʿma</lang>, „Verdienst“, gebraucht werden (vgl. die Belege <bibl
+     Zotero_Id_1="UJV6GJPZ">Rubin 1979, 15 f.</bibl>), doch ist August Fischers Verständnis der
+    beiden Hände von <lang xml:lang="ar-Latn">ʾabū lahab</lang>“ als einer Synekdoche für die
+    gesamte Person des Verfluchten wahrscheinlicher, da der Dual nicht gut zu der von Rubin
+    angenommenen abstrakteren Bedeutung <lang xml:lang="ar-Latn">yad</lang> = „Verdienst“ passt. Der
+    Einwand, dass bei einer synekdochischen Interpretation unverständlich würde, warum der Koranvers
+    dann im Folgenden mit den Worten <lang xml:lang="ar-Latn">wa-tabba</lang> noch einmal eigens auf
+    den Verfluchten selbst Bezug nimmt, ist nicht stichhaltig: Das den Vers abschließende
+    <lang xml:lang="ar-Latn">wa-tabba</lang> ist am ehesten als eine bekräftigende Wiederholung der
+    vorangehenden Verwünschung aufzufassen (s. u.), die keineswegs eine „clear distinction between
+    the ‚hands’ of Abū Lahab and the person himself“ impliziert (<bibl Zotero_Id_1="UJV6GJPZ">Rubin
+     1979, 22, Anm. 53</bibl>).</p>
+   <p>Das Verb <lang xml:lang="ar-Latn">tabba</lang> selbst wird von islamischen Exegeten sowohl mit
+    <lang xml:lang="ar-Latn">ḫasira</lang> („Verlust erleiden“ oder „verloren gehen“) als auch mit
+    <lang xml:lang="ar-Latn">halaka</lang> („verderben, zu Grunde gehen“) umschrieben. Rubin
+    konstatiert hier eine Überlagerung der seiner Ansicht nach ursprünglichen Bedeutung
+    <lang xml:lang="ar-Latn">ḫasira</lang>, „verloren gehen“ durch das sekundäre
+    <lang xml:lang="ar-Latn">halaka</lang> (<bibl Zotero_Id_1="UJV6GJPZ">Rubin 1979, 21</bibl>).
+    Diese These setzt jedoch offensichtlich seine Interpretation von
+    <lang xml:lang="ar-Latn">yadā ʾabī lahabin</lang> als „Abū Lahabs Verdienste“ voraus. Auf der
+    Grundlage von Fischers synekdochischem Verständnis des Verses hingegen wäre sowohl die
+    Paraphrase von <lang xml:lang="ar-Latn">tabba</lang> mit <lang xml:lang="ar-Latn">halaka</lang>
+    als auch die mit <lang xml:lang="ar-Latn">ḫasira</lang> = „Verlust erleiden“ möglich; es handelt
+    sich bei den beiden Glossen deshalb wohl eher um unterschiedliche semantische Nuancen als um
+    miteinander konkurrierende Bedeutungen.</p>
+   <p><lem>wa-tabba]</lem> Von Ibn Masʿūd, al-Aʿmaš und Ubayy b. Kaʿb wird die Lesart
+    <lang xml:lang="ar-Latn">wa-qad tabba</lang> überliefert (<bibl Zotero_Id_1="KVFTU3XN">Muʿǧam,
+     ad loc.</bibl>), die sicherlich als nachträgliche Vereindeutigung des sowohl als Verwünschung
+    („verderben soll …“) wie auch als Feststellung („verdorben ist …“) interpretierbaren
+    <lang xml:lang="ar-Latn">wa-tabba</lang> anzusehen ist; <lang xml:lang="ar-Latn">wa-tabba</lang>
+    muss deshalb aufgrund seiner Ambivalenz als die
+    <lang xml:lang="lat-Latn">lectio difficilior</lang> gelten (<bibl Zotero_Id_1="X9T7RF7R">Paret,
+     Kommentar, 529</bibl>). August Fischer übersetzt das zweite
+    <lang xml:lang="ar-Latn">tabba</lang> nicht als Imprekativ („verderben soll …“), sondern
+    präterital mit „und tatsächlich hat ihn bereits das Verderben getroffen“: „[D]ie Verwünschung
+    wird emphatisiert durch die ihr unmittelbar folgende Behauptung, dass sie bereits in Erfüllung
+    gegangen sei“ (s. <bibl Zotero_Id_1="B6INA7PI">Fischer, Sure 111</bibl>; vgl. <bibl
+     Zotero_Id_1="X9T7RF7R">Paret, Kommentar, ad loc.</bibl>). Paret macht jedoch zu recht geltend,
+    dass dieses zweite <lang xml:lang="ar-Latn">wa-tabba</lang> eher als bekräftigende Wiederholung
+    aufzufassen ist; vgl. ähnlich die Wiederholung von <lang xml:lang="ar-Latn">qutila</lang>
+    („getötet sei …“ bzw. „Tod über …“) in <q type="koran" versstart="074:019" versend="074:020">Q
+     74:19.20</q>, dort allerdings mit vorangehendem <lang xml:lang="ar-Latn">ṯumma</lang>.</p>
+  </text>
+  <text versstart="002" versend="002" verfasser="nisi">
+   <p><lem>mā ʾaġnā ʿanhu māluhū]</lem> Auf die Nutzlosigkeit irdischen Reichtums im Jenseits
+    insistieren frühmekkanisch – z. T. in wörtlicher Überschneidung mit dem vorliegenden Vers – auch
+     <q type="koran" versstart="069:028" versend="069:028">69:28</q>
+    (<lang xml:lang="ar-Latn">mā ʾaġnā ʿannī māliya</lang>), <q type="koran" versstart="092:011"
+     versend="069:028">92:11</q>
+    (<lang xml:lang="ar-Latn">wa-mā yuġnī ʿanhu māluhū ʾiḏā taraddā</lang>) und <q type="koran"
+     versstart="104:001" versend="104:003">104:1–3</q>
+    (<lang xml:lang="ar-Latn">wailun li-kulli humazatin lumazah / allaḏī ǧamaʿa mālan wa-ʿaddadah / yaḥsabu ʾanna mālahū ʾaḫladah</lang>).
+    Vgl. a. die allgemeineren Besitzkritiken in <q type="koran" versstart="100:008"
+     versend="100:008">100:8</q>
+    (<lang xml:lang="ar-Latn">wa-ʾinnahū li-ḥubbi l-ḫairi la-šadīd</lang>), <q type="koran"
+     versstart="102:001" versend="102:002">102:1.2</q> und <q type="koran" versstart="107:000"
+     versend="107:007">Q 107</q>. Die letztendliche Nutzlosigkeit irdischer Reichtümer ist bereits
+    ein biblischer Topos, vgl. <q type="bibel" buch="Ps" versstart="039:007" versend="039:007">Psalm
+     39:7</q> („er sammelt Reichtümer und weiß nicht, wer sie ernten wird“) sowie im Neuen Testament
+    den <q type="bibel" buch="1Tim" versstart="006:017" versend="006:019">1. Brief an Timotheus
+     6:17–19</q> („Ermahne die, die in dieser Welt reich sind, nicht überheblich zu werden und ihre
+    Hoffnung nicht auf den unsicheren Reichtum zu setzen, sondern auf Gott, der uns alles gibt, was
+    wir brauchen“) und <q type="bibel" buch="Lk" versstart="018:018" versend="018:030">Lukas
+     18:18–30</q> = <q type="bibel" buch="Mk" versstart="010:017" versend="010:031">Markus
+     10:17–31</q>.</p>
+   <p><hi rend="italic">Grammatik</hi>: Wie auch in <q type="koran" versstart="069:028"
+     versend="069:028">69:28</q> und <q type="koran" versstart="092:011" versend="092:011">92:11</q>
+    kann <lang xml:lang="ar-Latn">mā</lang> hier sowohl als Fragepronomen („Was hat ihm sein Besitz
+    geholfen?“) wie auch als Verneinungspartikel („Sein Besitz hat ihm nichts geholfen“) aufgefasst
+    werden (vgl. <bibl Zotero_Id_1="N6JCJVT4">Bergsträßer 1914, 29</bibl>), doch ist mit Bergsträßer
+    davon auszugehen, dass „die große Anzahl der Parallelen 〈…〉 auch hier die Negation als
+    wahrscheinlicher erscheinen“ lässt (<bibl Zotero_Id_1="N6JCJVT4">ebd., 31, Anm. 2</bibl>). Mit
+    Paret ist das Perfekt wohl resultativ zu verstehen und hat somit einen Gegenwartsbezug (<bibl
+     Zotero_Id_1="X9T7RF7R">Kommentar, ad loc.</bibl>), zumal die ganz ähnliche, ebenfalls im
+    Kontext jenseitiger Verdammnis stehende Aussage <q type="koran" versstart="092:011"
+     versend="092:011">92:11</q> (s. den vorangehenden Absatz) statt des Perfekts das Imperfekt
+    enthält, ohne dass ein offenkundiger Bedeutungsunterschied spürbar wäre.</p>
+   <p><lem>mā kasab]</lem> Es wäre <lang xml:lang="lat-Latn">prima facie</lang> auch möglich,
+    <lang xml:lang="ar-Latn">māluhū</lang> und <lang xml:lang="ar-Latn">mā kasab</lang> synonym
+    aufzufassen, <lang xml:lang="ar-Latn">mā kasab</lang> also wörtlich als „was er erworben hat“ zu
+    deuten; vgl. a. <q type="koran" versstart="007:048" versend="007:048">7:48</q>, wo in ganz
+    ähnlichem Zusammenhang <lang xml:lang="ar-Latn">ǧamaʿa</lang> statt
+    <lang xml:lang="ar-Latn">kasaba</lang> verwendet wird
+    (<lang xml:lang="ar-Latn">mā ʾaġnā ʿankum ǧamʿukum</lang>, „euer Ansammeln nützt euch nichts“).
+    Doch würde eine solche Lesart der sonst im Koran dominierenden übertragenen Bedeutung von
+    <lang xml:lang="ar-Latn">kasaba</lang> „begehen“ zuwiderlaufen, die auch schon in der
+    vorkoranischen Dichtung belegt ist (vgl. dazu die <q type="anmerkung" versstart="074:038"
+     versend="074:038">Anmerkung zu 74:38</q>). Rubin geht noch einen Schritt weiter und will die
+    mit <lang xml:lang="ar-Latn">mā kasab</lang>, „was er begangen hat“, intendierten Handlungen auf
+    der Grundlage der prophetenbiographischen Tradition näher bestimmen: „The phrase
+    <lang xml:lang="ar-Latn">wa-mā kasaba</lang> refers to Abū Lahab’s grand deeds, namely his
+    service to al-ʿUzzā and his protection of Muḥammad [die er später aufkündigte]“ (<bibl
+     Zotero_Id_1="UJV6GJPZ">Rubin 1979, 22</bibl>). Genau wie in anderen frühkoranischen Texten
+    (vgl. die <q type="anmerkung" versstart="093:003" versend="093:003">Anmerkungen zu 93:3</q>, <q
+     type="anmerkung" versstart="093:006" versend="093:008">93:6–8</q> sowie zu <q type="anmerkung"
+     versstart="108:003" versend="108:003">108:3</q>) besteht hier aber die Gefahr einer letztlich
+    in der anekdotischen Tendenz der frühislamischen Koranrezeption wurzelnden übertriebenen
+    Konkretisierung koranischer Aussagen.</p>
+  </text>
+  <text versstart="003" versend="003" verfasser="nisi">
+   <p><lem>sa-yaṣlā nāran ḏāta lahab]</lem> „Das Feuer“ (<lang xml:lang="ar-Latn">an-nār</lang>) ist
+    in Gruppe I und II der frühmekkanischen Texte die vorherrschende Bezeichnung für die Hölle (<q
+     type="koran" versstart="111:003" versend="111:003">111:3</q>, <q type="koran"
+     versstart="104:006" versend="104:006">104:6</q>, <q type="koran" versstart="101:011"
+     versend="101:011">101:11</q>, <q type="koran" versstart="092:014" versend="092:014">92:14</q>,
+     <q type="koran" versstart="090:020" versend="090:020">90:20</q>, <q type="koran"
+     versstart="088:004" versend="088:004">88:4</q>, <q type="koran" versstart="087:012"
+     versend="087:012">87:12</q>, <q type="koran" versstart="085:005" versend="085:005">85:5</q>)
+    und bleibt noch bis in medinensische Zeit häufig; frühmekkanisch s. noch <q type="koran"
+     versstart="052:013" versend="052:014">52:13.14</q> und <q type="koran" versstart="051:013"
+     versend="051:013">51:13</q> (alle Gruppe IIIb) sowie den Einschub <q type="koran"
+     versstart="074:031" versend="074:031">74:31</q>. Neben <lang xml:lang="ar-Latn">an-nār</lang>
+    erscheinen bereits ab Gruppe I noch die Begriffe <lang xml:lang="ar-Latn">ǧaḥīm</lang> (vgl. <q
+     type="koran" versstart="102:006" versend="102:006">102:6</q> mit <q type="anmerkung"
+     versstart="102:006" versend="102:006">Anmerkung</q>) und <lang xml:lang="ar-Latn">saʿīr</lang>
+     (<q type="koran" versstart="084:012" versend="084:012">84:12</q>), ab Gruppe IIIa dann auch das
+    biblische Wort <lang xml:lang="ar-Latn">ǧahannam</lang> (erstmals in <q type="koran"
+     versstart="078:021" versend="078:021">78:21</q>, s. die <q type="anmerkung" versstart="078:021"
+     versend="078:021">Anmerkung ebd.</q>). – Neuwirths Annahme, bei dem hier erwähnten „flammenden
+    Feuer“ handele es sich „ noch nicht um die Hölle als kollektiven Ort für die Verdammten“ und die
+    Sure ‚spiele‘ lediglich mit dem Bild der Flamme (<bibl Zotero_Id_1="X6J8ZZSZ">Neuwirth,
+     Frühmekkanische Suren, 144</bibl> ist gerade im Lichte dieser Parallelen überhaupt nur dann
+    haltbar, wenn man mit ihr davon ausgeht, dass <q type="koran" versstart="111:000"
+     versend="111:005">Q 111</q> aufgrund seiner Anklänge an die altarabische Spottdichtung
+    notwendigerweise früher als die oben genannten Suren zu datieren und einer vor-eschatologischen
+    Phase der Koranverkündigungen zuzuweisen sei (<bibl Zotero_Id_1="X6J8ZZSZ">Neuwirth,
+     Frühmekkanische Suren, 45</bibl>). Angesichts der Tatsache, dass der Ausdruck
+    <lang xml:lang="ar-Latn">an-nār</lang> sonst durchweg das Höllenfeuer bezeichnet, erscheint es
+    jedoch wenig überzeugend, <q type="koran" versstart="111:000" versend="111:005">Q 111</q> nicht
+    als genuine Jenseitsbeschreibung gelten zu lassen, auch wenn der Text Motive der altarabischen
+    Schmähdichtung aufgreift.</p>
+  </text>
+  <text versstart="004" versend="004" verfasser="nisi">
+   <p><lem>ḥammālata l-ḥaṭab]</lem> Überliefert wird sowohl die Lesung im Nominativ als auch die im
+    Akkusativ (vgl. <bibl Zotero_Id_1="KVFTU3XN">Muʿǧam, ad loc.</bibl>). Die erstere Variante ist
+    dabei zweifellos die <lang xml:lang="lat-Latn">lectio facilior</lang> (vgl. <bibl
+     Zotero_Id_1="X6J8ZZSZ">Neuwirth, Frühmekkanische Suren, 141</bibl>): „Seine Frau“
+    (<lang xml:lang="ar-Latn">imrāʾatuhū</lang>) wäre Subjekt eines gegenüber <q type="koran"
+     versstart="111:003" versend="111:003">V. 3</q> eigenständigen Nominalsatzes mit
+    <lang xml:lang="ar-Latn">ḥammālatu l-ḥaṭab</lang> als Prädikat („Seine Frau ist die
+    Brennholzträgerin“). Folgt man der zweiten Variante, so ist der Akkusativ
+    <lang xml:lang="ar-Latn">ḥammālata l-ḥaṭab</lang> am ehesten als Interjektion zu erklären (<bibl
+     Zotero_Id_1="7CQS5C2X">Wright, Bd. 2, 86</bibl>. <lang xml:lang="ar-Latn">Imrāʾatuhū</lang>
+    kann entweder als zum folgenden Vers gehörige Topikalisierung aufgefasst werden („Seine Frau …,
+    um ihren Hals ein Strick aus Palmfasern“) oder aber als zweites Subjekt des vorangehenden Verses
+    (vgl. <bibl Zotero_Id_1="B6INA7PI">Fischer 1937</bibl>): „Er wird in flammendem Feuer schmoren /
+    und [ebenso] seine Frau – Brennholzträgerin!“. In letzterem Fall dürfte <q type="koran"
+     versstart="111:003" versend="111:003">V. 5</q> am ehesten einen Relativsatz darstellen, s. die
+    folgende Anmerkung.</p>
+  </text>
+  <text versstart="005" versend="005" verfasser="nisi">
+   <p><lem>fī ǧīdihā ḥablum min masad]</lem> „The word <lang xml:lang="ar-Latn">jīd</lang> usually
+    denotes a woman’s neck from the aesthetic viewpoint, i.e. the place on which ornaments and the
+    like are hanging“ (<bibl Zotero_Id_1="UJV6GJPZ">Rubin 1979, 27, mit Anm. 78</bibl>). Daraus
+    folgt jedoch keineswegs, dass es sich bei dem „Palmfaserstrick“
+    (<lang xml:lang="ar-Latn">ḥabl min masad</lang>) um eine regelrechte Halskette handelt (<bibl
+     Zotero_Id_1="UJV6GJPZ">ebd., 27</bibl>). Die Verwendung von <lang xml:lang="ar-Latn">ǧīd</lang>
+    dürfte die Erwartung der Hörer sicherlich auf die Nennung eines wertvollen Schmuckstücks gelenkt
+    haben – eine Erwartung, die sich gleich im Anschluss als Ironie entpuppt. Die Übersetzung
+    versucht, diesen Effekt durch das Prädikat „ist geschmückt“ nachzubilden. – Der gesamte Vers
+    lässt sich auch, mit August Fischer, als an <lang xml:lang="ar-Latn">imrāʾatuhū</lang>
+    anschließender Relativsatz auffassen (vgl. <bibl Zotero_Id_1="X9T7RF7R">Paret, Kommentar,
+     530</bibl>): „Er wird in flammendem Feuer schmoren / und [ebenso] seine Frau –
+    Brennholzträgerin! –, deren Hals ein Strick aus Palmfasern schmückt“).</p>
+  </text>
+ </anmerkungen>
+ <kommentar>
+  <text versstart="001" versend="002" verfasser="nisi">
+   <p>Der Text entwickelt sich aus der einleitenden Verwünschung eines als „Vater der Flammen“
+    bezeichneten Gegners heraus, auf die sich mit Ausnahme von <q type="koran" versstart="111:005"
+     versend="111:005">V. 5</q> alle Verse der Sure pronominal zurückbeziehen. An den <q
+     type="koran" versstart="111:001" versend="111:001">Eröffnungsvers</q> schließt sich ein erstes,
+    unbestimmtes Drohwort (<q type="koran" versstart="111:002" versend="111:002">V. 2</q>) an,
+    welches die Nutzlosigkeit des durch den Verfluchten angesammelten Besitzes aussagt – ein
+    Jenseitsverweis, wie in <q type="koran" versstart="111:003" versend="111:003">V. 3</q> („Er wird
+    in flammendem Feuer schmoren“) deutlich wird. Die Sure greift damit wie auch andere
+    frühmekkanische Texte den Topos prophetischer Besitzkritik auf, der auch in der Hebräischen
+    Bibel eine wichtige Rolle spielt (vgl. die Verweise in den Anmerkungen).</p>
+  </text>
+  <text versstart="003" versend="005" verfasser="nisi">
+   <p>Es folgt ein zweites Drohwort, das zu einer knappen Höllenbeschreibung erweitert ist (<q
+     type="koran" versstart="111:003" versend="111:005">V. 3–5</q>). Während <q type="koran"
+     versstart="111:001" versend="111:002">V. 1.2</q> noch offen lassen, von welcher Art das dem
+    „Vater der Flamme“ angesagte Unheil ist (und insbesondere ob es im Diesseits oder Jenseits zu
+    lokalisieren ist), löst das folgende Jenseitsbild diese Unbestimmtheit eschatologisch auf.
+    Dieser strukturelle Zusammenang zwischen <q type="koran" versstart="111:001" versend="111:002"
+     >V. 1.2</q> und <q type="koran" versstart="111:003" versend="111:005">V. 3–5</q> zeigt sich
+    auch in der Wortwahl: Die zentrale sprachliche Pointe des Textes besteht darin, dass „das
+    prägnante <lang xml:lang="ar-Latn">Abū Lahab</lang> von <q type="koran" versstart="111:001"
+     versend="111:001">V. 1</q> erst durch <q type="koran" versstart="111:003" versend="111:003">V.
+     3</q> ‚ausgeredet’“ wird (<bibl Zotero_Id_1="4WEWN8NZ">Neuwirth, Studien, 235</bibl>); die
+    zunächst änigmatische Bezeichnung <lang xml:lang="ar-Latn">ʾabū lahab</lang>, „Vater der
+    Flamme“, wird also durch die Höllenbeschreibung in <q type="koran" versstart="111:003"
+     versend="111:003">V. 3</q>, in der vom „flammenden Feuer“
+    (<lang xml:lang="ar-Latn">nār ḏāt lahab</lang>) die Rede ist, nachträglich motiviert. Eine
+    vergleichbare Aufeinanderfolge zweier Drohworte, bei der die erste, referentiell noch
+    unbestimmte Drohung durch eine zweite konkretisiert wird, findet sich in <q type="koran"
+     versstart="102:003" versend="102:008">Q 102:3–8</q>; auf dem Einsatz von Änigmatisierung zur
+    Erzeugung rhetorischer Spannung basieren aber auch Schwurserien wie zu Beginn von <q
+     type="koran" versstart="100:000" versend="100:011">Q 100</q> sowie die u. a. in <q type="koran"
+     versstart="090:012" versend="090:016">90:12–16</q>, <q type="koran" versstart="097:002"
+     versend="097:004">97:2–4</q>, <q type="koran" versstart="101:001" versend="101:009"
+    >101:1–9</q>, <q type="koran" versstart="101:010" versend="101:011">101:10.11</q> und <q
+     type="koran" versstart="104:005" versend="104:009">104:5–9</q> stehenden Lehrfragen.</p>
+   <p>Interpretative Fragen werfen insbesondere <q type="koran" versstart="111:004"
+     versend="111:005">V. 4.5</q> auf. Rubin, dessen Deutung einzelner Textstücke bereits in den
+    Anmerkungen referiert wurde, erblickt das thematische Zentrum der Sure in dem götzendienerischen
+    Kultverhalten des Verfluchten und seiner Ehefrau; er bezieht deshalb neben <q type="koran"
+     versstart="111:001" versend="111:002">V. 1.2</q> auch <q type="koran" versstart="111:004"
+     versend="111:005">V. 4.5</q> auf den besonderen Eifer, mit dem Muḥammads Onkel ʿAbd al-ʿUzzā
+    und seine Frau den ʿUzzā-Kult gepflegt haben sollen. Sowohl das Sammeln von Brennholz (<q
+     type="koran" versstart="111:004" versend="111:004">V. 4</q>) als auch das Anlegen magischer
+    Halsketten aus Palmfaserstrick (<q type="koran" versstart="111:005" versend="111:005">V. 5</q>)
+    seien Bestandteile dieses Kults gewesen: „both verses reprove the pagan practices carried out by
+    the wife of Abū Lahab who participated with her husband in the veneration of al-ʿUzzā“ (<bibl
+     Zotero_Id_1="UJV6GJPZ">Rubin 1979, 27</bibl>). Allerdings wird der Vorwurf des Götzendienstes
+    von der Sure selbst gar nicht erhoben, sondern <q type="koran" versstart="111:002"
+     versend="111:002">V. 2</q> zufolge scheint das Fehlverhalten des „Vaters der Flammen“ vor allem
+    mit seinem Reichtum zusammenzuhängen; und auch in anderen frühmekkanischen Texten ist die
+    Verurteilung paganer Rituale nicht prominent.</p>
+   <p>Nicht als Kultkritik, sondern als <lang xml:lang="ar-Latn">hiǧāʾ</lang> im Stile der
+    altarabischen Dichtung deutet August Fischer die beiden fraglichen <q type="koran"
+     versstart="111:004" versend="111:005">Verse 4 und 5</q>: Ihm zufolge wird die Frau des
+    Verfluchten hier „in dem bekannten Stile beschimpft, in dem die alten Dichter ihre Gegner,
+    Männer wie Frauen, zu verunglimpfen pflegten: sie sei keine Frau vornehmen Standes, sondern eine
+    verächtliche Brennholzträgerin, d. h. eine Sklavin oder sonst eine Frau in tiefster sozialer
+    Stellung“ (<bibl Zotero_Id_1="B6INA7PI">Fischer 1937, 35</bibl>). Diese Interpretation hat
+    allerdings das Manko, die thematische Bindung von <q type="koran" versstart="111:004"
+     versend="111:005">V. 4.5</q> an <q type="koran" versstart="111:003" versend="111:003">V. 3</q>
+    zu zerschneiden: <q type="koran" versstart="111:004" versend="111:005">V. 4.5</q> erscheinen als
+    vom vorangehenden Vers losgelöste und auf die irdische Gegenwart, nicht auf die jenseitige
+    Verdammnis zu beziehende Schmähung des sozialen Standes der Frau. Eine befriedigendere, weil den
+    Sinnzusammenhang des Textes maximierende Deutung bestünde darin, <q type="koran"
+     versstart="111:004" versend="111:005">V. 4.5</q> als Fortführung des in <q type="koran"
+     versstart="111:003" versend="111:003">V. 3</q> begonnenen eschatologischen Bildes zu werten,
+    welche die Frau des Verdammten auf perfide Weise in die jenseitige Bestrafung ihres Gatten
+    einbezieht: Der Mann brennt im Höllenfeuer, während seine Frau das Brennholz dafür
+    heranschleppen muss. Wichtig bleibt auf jeden Fall Fischers Beobachtung, dass der abschließend
+    erwähnte Palmfaserstrick angesichts der in <q type="koran" versstart="111:005" versend="111:005"
+     >V. 5</q> verwendeten Bezeichnung für Hals (<lang xml:lang="ar-Latn">ǧīd</lang>) mit ihrer
+    Konnotation von Schmuck (s. o.) sicher auch als polemisches Gegenstück zu einem „Perlen- oder
+    Juwelen-Collier“ fungiert, wie es eine Frau von hohem gesellschaftlichen Stand im Diesseits
+    tragen würde (<bibl Zotero_Id_1="B6INA7PI">Fischer 1937, 35</bibl>). Neuwirth verweist in diesem
+    Zusammenhang auf die „Prominenz der Darstellungen von schmucktragenden Frauen in der
+    Ikonographie der hellenistischen Göttinenbilder“ (<bibl Zotero_Id_1="X6J8ZZSZ">Neuwirth,
+     Frühmekkanische Suren, 143, mit weiteren Literaturverweisen</bibl>).</p>
+  </text>
+ </kommentar>
+</korankommentar>

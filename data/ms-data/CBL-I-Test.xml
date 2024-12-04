@@ -1,0 +1,644 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:svg="http://www.w3.org/2000/svg" xmlns:math="http://www.w3.org/1998/Math/MathML" version="5.031" xml:id="xmlfol">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:lang="de">
+                    <msIdentifier>
+                        <country>Irland</country>
+                        <settlement>Dublin</settlement>
+                        <institution>Chester Beatty Library</institution>
+                        <repository/>
+                        <collection>The Islamic Collection</collection>
+                        <idno>Is. 1615I</idno>
+                        <altIdentifier>
+                            <idno>Arberry No. 40</idno>
+                        </altIdentifier>
+                        <msName>al-Qurʾān</msName>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="377">
+                            <title>al-Qurʾān</title>
+                            <textLang mainLang="ar-Ara">Arabisch in arabischer Schrift</textLang>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc form="Codex">
+                            <supportDesc material="parch">
+                                <support>
+                                    <material>Pergament</material>
+                                </support>
+                                <extent>
+                                    <dimensions scope="all" type="leaf" unit="mm">
+                                        <height>363</height>
+                                        <width>276</width>
+                                    </dimensions>
+                                </extent>
+                                <foliation>Die recto-Seiten sind von neuerer Hand mit Bleistiftzahlen am Bund markiert.</foliation>
+                                <condition>Teilweise starke Beschädigungen am äußeren und unteren Rande, vereinzelt falsch restaurierte Randstellen.</condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout writtenLines="21 26">Die Blätter enthalten zwischen 21 und 26 Zeilen.</layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc hands="4">
+                            <handNote xml:id="CBL-1a" script="ḥiǧāzī" scope="sole">Diese Hand hat den überwiegenden Teil des Textes geschrieben.</handNote>
+                            <handNote xml:id="CBL-1b" script="ḥiǧāzī" scope="minor">Vermutlich die gleiche Hand wie CBL-1a, der vereinzelt palimpsest-artige Fehlerkorrektueren durchgeführt hat.</handNote>
+                            <handNote xml:id="CBL-2" script="ḥiǧāzī" scope="minor">Diese etwas spätere Hand hat vor allem einzelne Langvokal-setzungen korrigiert.</handNote>
+                            <handNote xml:id="CBL-3" script="nasḫī" scope="major">Diese deutlich spätere Hand korrigiert die Hände CBL-1a, CBL-1b und vor allem CBL-2, wobei sie möglicherweise auch noch für einige Nachziehungen unleserlich gewordener Stelle verantwortlich zeichnet.</handNote>
+                        </handDesc>
+                        <bindingDesc>
+                            <binding contemporary="false">
+                                <ab>Neu gebunden 2004/2005 im Labor des Trinity College Dublin</ab>
+                                <condition>mittelmäßige Restaurierung</condition>
+                            </binding>
+                        </bindingDesc>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition>
+                            <p>Erworben von <persName>Sir Chester Beatty</persName> im <date evidence="external" from="1957-05-01" to="1957-05-31" when="2016-03-10">Mai 1957</date>, möglicherweise in
+                                    <placeName>Ägypten</placeName>?</p>
+                        </acquisition>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <custodialHist>
+                                <ab/>
+                            </custodialHist>
+                        </adminInfo>
+                        <listBibl>
+                            <bibl>Arberry, Arthur John: The Koran Illuminated. A Handlist of the Korans in the Chester Beatty Library. Hodges, Figgis &amp; Co., Ltd., Dublin 1967</bibl>
+                            <bibl>James, David Lewis: Qurʾans and Bindings from the Chester Beatty Library. A Facsimilie Edition. World of Islam Festival Trust, London 1980</bibl>
+                        </listBibl>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <tagsDecl>
+            </tagsDecl>
+        </encodingDesc>
+    </teiHeader>
+    <facsimile>
+        <surface>
+            <zone start="f01r" ulx="0" uly="0" lrx="100" lry="100">
+                <graphic url="CBLI-01r.jpg"/>
+                <!-- Enthält den gesamten Text der Seite -->
+            </zone>
+        </surface>
+        <surface>
+            <graphic url="CBLI-01v.jpg"/>
+            <zone start="f01v" ulx="0" uly="0" lrx="100" lry="100">
+                <!-- Enthält den gesamten Text der Seite -->
+            </zone>
+        </surface>
+    </facsimile>
+    <text>
+        <body>
+            <pb xml:id="f01r"/>
+            <l n="01">
+                <w n="028-006-005">ونرى</w>
+                <w n="028-006-006">ڡرعوں</w>
+                <w n="028-006-007">وهم<add type="rasm">ا</add>ں</w>
+                <w n="028-006-008">وجٮود<damage agent="material">هما</damage>
+                </w>
+                <w n="028-006-009">منهم</w>
+                <w n="028-006-010">ما</w>
+                <w n="028-006-011">کانوا</w>
+                <w n="028-006-012">حذروں</w>
+                <w n="028-007-001">واوحٮنا</w>
+                <w n="028-007-002">
+                    <add>ا</add>لے</w>
+                <w n="028-007-003">ام</w>
+                <w n="028-007-004">مو<damage agent="material">سى</damage>
+                </w>
+                <w n="028-007-005">
+                    <damage agent="material">اں</damage>
+                </w>
+            </l>
+            <l n="02">
+                <w n="028-007-006">ارضعٮه</w>
+                <w n="028-007-007">ڡاذا</w>
+                <w n="028-007-008">خڡت</w>
+                <w n="028-007-009">علٮه</w>
+                <w n="028-007-010">ڡا<damage agent="material">لٯ</damage>ٮه</w>
+                <w n="028-007-011">ڡے</w>
+                <w n="028-007-012">الٮم</w>
+                <w n="028-007-013">ولا</w>
+                <w n="028-007-014">تخڡ<supplied reason="cairo">ا</supplied>ى</w>
+                <w n="028-007-015">ولا</w>
+                <w n="028-007-016">تحزٮے</w>
+                <w n="028-007-017">انا</w>
+                <w n="028-007-018">ر<supplied reason="cairo">ا</supplied>دوه</w>
+                <w n="028-007-019">الٮک</w>
+                <w n="028-007-020">وح<damage agent="material">اعلوه</damage>
+                </w>
+            </l>
+            <l n="03">
+                <w n="028-007-021">مں</w>
+                <w n="028-007-022">المر<damage agent="material">س</damage>ل<damage agent="material">ٮ</damage>ں</w>
+                <w n="028-008-001">ڡالتڧطه</w>
+                <w n="028-008-002">ال</w>
+                <w n="028-008-003">
+                    <damage agent="material">ڡ</damage>رعوں</w>
+                <w n="028-008-004">لٮکوں</w>
+                <w n="028-008-005">لهم</w>
+                <w n="028-008-006">عدو<damage agent="material">ا</damage>
+                </w>
+                <w n="028-008-007">
+                    <damage agent="material">وح</damage>
+                    <unclear reason="diacrit">ز</unclear>ٮا</w>
+                <w n="028-008-008">اں</w>
+                <w n="028-008-009">ڡرعوں</w>
+                <w n="028-008-010">و<add type="corr" hand="#CBL-2">ا</add>ه<del hand="#CBL-2">م</del>ں<add hand="#CBL-2">ا</add>
+                </w>
+                <w n="028-008-011">و</w>
+            </l>
+            <l n="04">
+                <w n="028-008-011">جنودهم<damage agent="material">ا</damage>
+                </w>
+                <w n="028-008-012">کانوا</w>
+                <w n="028-008-013">خ<add type="rasm">ا</add>طٮں</w>
+                <w n="028-009-001">وڧ<supplied reason="cairo">ا</supplied>
+                    <add type="rescribtion" hand="#CBL-2">لت</add>
+                </w>
+                <w n="028-009-002">امر<supplied reason="cairo">ا</supplied>ت</w>
+                <w n="028-009-003">ڡرعوں</w>
+                <w n="028-009-004">ڧرت</w>
+                <w n="028-009-005">عٮں</w>
+                <w n="028-009-006">لے</w>
+                <w n="028-009-007">ولک</w>
+                <w n="028-009-008">لا</w>
+                <w n="028-009-009">
+                    <supplied reason="cairo">ه</supplied>تڧٮلو</w>
+                <w n="028-009-010">ع<damage agent="material">سے</damage>
+                </w>
+            </l>
+            <l n="05">
+                <w n="028-009-011">اں</w>
+                <w n="028-009-012">ٮنڡعنا</w>
+                <w n="028-009-013">او</w>
+                <w n="028-009-014">نتخذه</w>
+                <w n="028-009-015">ولدا</w>
+                <w n="028-009-016">وهم</w>
+                <w n="028-009-017">لا</w>
+                <w n="028-009-018">ٮشعروں</w>
+                <w n="028-010-001">واصب<unclear reason="qalam">ح</unclear>
+                </w>
+                <w n="028-010-002">ڡواد</w>
+                <w n="028-010-003">ام</w>
+                <w n="028-010-004">موسے</w>
+                <w n="028-010-005">ڡرغا</w>
+                <w n="028-010-006">اں</w>
+                <w n="028-010-007">کاد</w>
+            </l>
+            <l n="06">
+                <w n="028-010-007">ت</w>
+                <w n="028-010-008">لتٮدے</w>
+                <w n="028-010-009">به</w>
+                <w n="028-010-010">لو</w>
+                <w n="028-010-011">لا</w>
+                <w n="028-010-012">اں</w>
+                <w n="028-010-013">رٮظنا</w>
+                <w n="028-010-014">علے</w>
+                <w n="028-010-015">ڧلبها</w>
+                <w n="028-010-016">لتکوں</w>
+                <w n="028-010-017">مں</w>
+                <w n="028-010-018">المومنٮں</w>
+                <w n="028-011-001">وڧ<supplied reason="cairo">ا</supplied>
+                    <add type="rescription" hand="#CBL-2">لت</add>
+                </w>
+                <w n="028-011-002">لا<unclear reason="qalam">خ</unclear>ته</w>
+                <w n="028-011-003">ڧصٮه</w>
+            </l>
+            <l n="07">
+                <w n="028-011-004">ڡبصرت</w>
+                <w n="028-011-005">
+                    <unclear reason="legilibilität">به</unclear>
+                </w>
+                <w n="028-011-006">عں</w>
+                <w n="028-011-007">جنب</w>
+                <w n="028-011-008">و هم</w>
+                <w n="028-011-009">لا</w>
+                <w n="028-011-010">ٮشعروں</w>
+                <w n="028-012-001">وحرمنا</w>
+                <w n="028-012-002">علٮه</w>
+                <w n="028-012-003">المر<supplied reason="cairo">ا</supplied>ص<del type="rasur">
+                        <add type="cairo">ٮ</add>
+                    </del>ع</w>
+                <w n="028-012-004">مں</w>
+                <w n="028-012-005">ڧٮل</w>
+                <w n="028-012-006">ڡڧالٮ</w>
+            </l>
+            <l n="08">
+                <w n="028-012-007">هل</w>
+                <w n="028-012-008">ادلکم</w>
+                <w n="028-012-009">علے</w>
+                <w n="028-012-010">اهل</w>
+                <w n="028-012-011">بٮت</w>
+                <w n="028-012-012">ٮکڡلونه</w>
+                <w n="028-012-013">لکم</w>
+                <w n="028-012-014">وهم</w>
+                <w n="028-012-015">له</w>
+                <w n="028-012-016">ٮصحو<unclear reason="legilibilität">ں</unclear>
+                </w>
+                <w n="028-013-001">ڡرددٮه</w>
+                <w n="028-013-002">الے</w>
+                <w n="028-013-003">امه</w>
+                <w n="028-013-004">کے</w>
+            </l>
+            <l n="09">
+                <w n="028-013-005">تڧر</w>
+                <w n="028-013-006">عٮنها</w>
+                <w n="028-013-007">ولا</w>
+                <w n="028-013-008">تحزں</w>
+                <w n="028-013-009">ولتعلم</w>
+                <w n="028-013-010">اں</w>
+                <w n="028-013-011">وعد</w>
+                <w n="028-013-012">الل‍ه</w>
+                <w n="028-013-013">حٯ</w>
+                <w n="028-013-014">ولکں</w>
+                <w n="028-013-015">اکثرهم</w>
+                <w n="028-013-016">لا</w>
+                <w n="028-013-017">ٮعلموں</w>
+                <w n="028-014-001">ولما</w>
+                <w n="028-014-002">ٮ<unclear reason="legilibilität">لع</unclear>
+                </w>
+            </l>
+            <l n="10">
+                <w n="028-014-003">
+                    <add type="rasm">ن</add>اشده</w>
+                <w n="028-014-004">واستوے</w>
+                <w n="028-014-005">اتٮنه</w>
+                <w n="028-014-006">حکما</w>
+                <w n="028-014-007">وعلما</w>
+                <w n="028-014-008">وکذلک</w>
+                <w n="028-014-009">نحزے</w>
+                <w n="028-014-010">المحسنٮں</w>
+                <w n="028-015-001">ودخل</w>
+                <w n="028-015-002">المد<unclear reason="legiglibilität">ٮٮ</unclear>
+                    <damage agent="material">ه</damage>
+                </w>
+            </l>
+            <l n="11">
+                <w n="028-015-003">على</w>
+                <w n="028-015-004">حٮں</w>
+                <w n="028-015-005">عڡله</w>
+                <w n="028-015-006">مں</w>
+                <w n="028-015-007">اهلها</w>
+                <w n="028-015-008">ڡوجد</w>
+                <w n="028-015-009">ڡٮها</w>
+                <w n="028-015-010">رجلٮں</w>
+                <w n="028-015-011">ٮڧتتل<supplied reason="cairo">ا</supplied>ں</w>
+                <w n="028-015-012">هذا</w>
+                <w n="028-015-013">مں</w>
+                <w n="028-015-014">سٮعته</w>
+                <w n="028-015-015">وهذا</w>
+                <w n="028-015-016">مں</w>
+            </l>
+            <l n="12">
+                <w n="028-015-017">عدوه</w>
+                <w n="028-015-018">ڡاستغثه</w>
+                <w n="028-015-019">الدے</w>
+                <w n="028-015-020">مں</w>
+                <w n="028-015-021">شٮع<unclear reason="diacrit">ت</unclear>ه</w>
+                <w n="028-015-022">علے</w>
+                <w n="028-015-023">الدى</w>
+                <w n="028-015-024">مں</w>
+                <w n="028-015-025">عدوه</w>
+                <w n="028-015-026">ڡوکزه</w>
+                <w n="028-015-027">موسے</w>
+                <w n="028-015-028">ڡڧصے</w>
+            </l>
+            <l n="13">
+                <w n="028-015-029">علٮه</w>
+                <w n="028-015-030">ڧ<supplied reason="cairo">ا</supplied>
+                    <add type="rescription">ل</add>
+                </w>
+                <w n="028-015-031">هذا</w>
+                <w n="028-015-032">مں</w>
+                <w n="028-015-033">عمل</w>
+                <w n="028-015-034">الشٮطں</w>
+                <w n="028-015-035">انه</w>
+                <w n="028-015-036">عدو</w>
+                <w n="028-015-037">مضل</w>
+                <w n="028-015-038">مبٮں</w>
+                <w n="028-016-001">
+                    <del type="rasur">ڧل</del>
+                </w>
+                <w n="028-016-002">
+                    <add hand="#CBL-2">رٮ</add>
+                </w>
+                <w n="028-016-003">
+                    <del type="rasur">انے</del>
+                </w>
+                <w n="028-016-004">طلمت</w>
+                <w n="028-016-005">ن<damage agent="material">ڡسے</damage>
+                </w>
+            </l>
+            <l n="14">
+                <w n="028-016-006">ڡاغڡر</w>
+                <w n="028-016-007">لى</w>
+                <w n="028-016-008">ڡغڡر</w>
+                <w n="028-016-009">له</w>
+                <w n="028-016-010">انه</w>
+                <w n="028-016-011">هو</w>
+                <w n="028-016-012">الغڡور</w>
+                <w n="028-016-013">الرحٮم</w>
+                <w n="028-017-001">ڧ<supplied reason="cairo">
+                        <add hand="#CBL-2">ا</add>
+                    </supplied>
+                    <add type="rescription" hand="#CBL-2">ل</add>
+                </w>
+                <w n="028-017-002">رب</w>
+                <w n="028-017-003">بما</w>
+                <w n="028-017-004">انعمت</w>
+                <w n="028-017-005">علے</w>
+                <w n="028-017-006">ڡلں</w>
+                <w n="028-017-007">اکو<damage agent="material">ں</damage>
+                </w>
+            </l>
+            <l n="15">
+                <w n="028-017-008">طهٮر<supplied reason="cairo">ا</supplied>
+                </w>
+                <w n="028-017-009">للمحرمٮں</w>
+                <w n="028-018-001">ڡاصٮح</w>
+                <w n="028-018-002">ڡے</w>
+                <w n="028-018-003">المدٮنه</w>
+                <w n="028-018-004">خ<del hand="#CBL-2">ا</del>ڡا<supplied reason="cairo">ى</supplied>
+                </w>
+                <w n="028-018-005">ٮترڧب</w>
+                <w n="028-018-006">ڡاذا</w>
+                <w n="028-018-007">الذے</w>
+                <w n="028-018-008">استنصر<damage agent="material">ه</damage>
+                </w>
+            </l>
+            <l n="16">
+                <w n="028-018-009">بالامس</w>
+                <w n="028-018-010">ٮستصرخه</w>
+                <w n="028-018-011">ٯ<supplied reason="cairo">ا</supplied>
+                    <add type="rescription" hand="#CBL-2">ل</add>
+                </w>
+                <w n="028-018-012">له</w>
+                <w n="028-018-013">موسے</w>
+                <w n="028-018-014">انک</w>
+                <w n="028-018-015">لعوے</w>
+                <w n="028-018-016">مبٮں</w>
+                <w n="028-019-001">ڡلما</w>
+                <w n="028-019-002">اں</w>
+                <w n="028-019-003">اراد</w>
+                <w n="028-019-004">اں</w>
+                <w n="028-019-005">ٮبطش</w>
+                <w n="028-019-006">
+                    <damage agent="material">ٮالدے</damage>
+                </w>
+            </l>
+            <l n="17">
+                <w n="028-019-007">هو</w>
+                <w n="028-019-008">عدو</w>
+                <w n="028-019-009">لهما</w>
+                <w n="028-019-010">ٯ<supplied reason="cairo">ا</supplied>
+                    <add type="rescription" hand="#CBL-2">ل</add>
+                </w>
+                <w n="028-019-011">ٮموسى</w>
+                <w n="028-019-012">اترٮد</w>
+                <w n="028-019-013">اں</w>
+                <w n="028-019-014">تڧ<unclear reason="diacrit">ت</unclear>لنے</w>
+                <w n="028-019-015">کما</w>
+                <w n="028-019-016">ڧتلت</w>
+                <w n="028-019-017">نڡسا</w>
+                <w n="028-019-018">ٮالامس</w>
+                <w n="028-019-019">اں<damageSpan agent="material" xml:id="kaputt"/>
+                </w>
+                <w n="028-019-020">ٮرٮد<damageSpan agent="material" spanTo="#kaputt"/>
+                </w>
+            </l>
+            <l n="18">
+                <w n="028-019-021">الا</w>
+                <w n="028-019-022">اں</w>
+                <w n="028-019-023">تکوں</w>
+                <w n="028-019-024">ج<add type="rescription" hand="#CBL-2">ٮ</add>را<supplied reason="cairo">
+                        <add hand="#CBL-2">ا</add>
+                    </supplied>
+                </w>
+                <w n="028-019-025">ڡے</w>
+                <w n="028-019-026">الارص</w>
+                <w n="028-019-027">وما</w>
+                <w n="028-019-028">ترٮد</w>
+                <w n="028-019-029">اں</w>
+                <w n="028-019-030">تکوں</w>
+                <w n="028-019-031">مں</w>
+                <w n="028-019-032">المصلحٮں</w>
+                <w n="028-020-001">وجا</w>
+                <w n="028-020-002">
+                    <damage agent="material">رحل</damage>
+                </w>
+                <w n="028-020-003">
+                    <damage agent="material">مں</damage>
+                </w>
+                <w n="028-020-004">
+                    <damage agent="material">ا</damage>
+                </w>
+            </l>
+            <l n="19">
+                <w n="028-020-005">ڧصا</w>
+                <w n="028-020-006">المدٮنه</w>
+                <w n="028-020-007">ٮسعے</w>
+                <w n="028-020-008">ڧ<supplied reason="cairo">
+                        <add hand="#CBL-2">ا</add>
+                    </supplied>
+                    <add type="rescription" hand="#CBL-2">ل</add>
+                </w>
+                <w n="028-020-009">ٮموسے</w>
+                <w n="028-020-010">اں</w>
+                <w n="028-020-011">الملا</w>
+                <w n="028-020-012">ٮاتمروں</w>
+                <w n="028-020-013">بک</w>
+                <w n="028-020-014">لٮ<unclear reason="diacrit">ڧ</unclear>ٮل<damage type="material">وک</damage>
+                </w>
+                <w n="028-020-015">
+                    <damage type="material">ڡاحرح</damage>
+                </w>
+                <w n="028-020-016">
+                    <damage type="material">اٮى</damage>
+                </w>
+            </l>
+            <l n="20">
+                <w n="028-020-017">لک</w>
+                <w n="028-020-018">مں</w>
+                <w n="028-020-019">النصح<unclear reason="diacrit">ٮ</unclear>ں</w>
+                <w n="028-021-001">ڡخرج</w>
+                <w n="028-021-002">منها</w>
+                <w n="028-021-003">خ<supplied reason="cairo">ا</supplied>ٮڡا</w>
+                <w n="028-021-004">ٮترڧب</w>
+                <w n="028-021-005">ڧ<supplied reason="cairo">ا</supplied>
+                    <add type="rescription" hand="#CBL-2">ل</add>
+                </w>
+                <w n="028-021-006">رب</w>
+                <w n="028-021-007">نجنى</w>
+                <w n="028-021-008">مں</w>
+                <w n="028-021-009">ال<damage agent="material">ٯوم</damage>
+                </w>
+                <w n="028-021-010">
+                    <damage agent="material">الطلمٮں</damage>
+                </w>
+            </l>
+            <l n="21">
+                <w n="028-021-011">ولما</w>
+                <w n="028-021-012">توجه</w>
+                <w n="028-021-013">تلڧا</w>
+                <w n="028-021-014">مد<damage agent="material">ٮں</damage>
+                </w>
+                <w n="028-021-015">ٯ<supplied reason="cairo">ا</supplied>ل</w>
+                <w n="028-021-016">
+                    <damage agent="material">ع</damage>سے</w>
+                <w n="028-021-017">ربى</w>
+                <w n="028-021-018">اں</w>
+                <w n="028-021-019">ٮهدٮنے</w>
+                <w n="028-021-020">سوا</w>
+                <w n="028-021-021">الس<damage agent="material">ٮٮل</damage>
+                </w>
+                <w n="028-022-001">
+                    <damage agent="material">ولما</damage>
+                </w>
+                <w n="028-022-002">
+                    <damage agent="material">ورد</damage>
+                </w>
+            </l>
+            <l n="22">
+                <w n="028-022-003">
+                    <damage agent="material">م</damage>ا</w>
+                <w n="028-022-004">مدٮں</w>
+                <w n="028-022-005">وح<damage agent="material">د</damage>
+                </w>
+                <w n="028-022-006">
+                    <damage agent="material">علٮه</damage>
+                </w>
+                <w n="028-022-007">
+                    <damage agent="material">امه</damage>
+                </w>
+                <w n="028-022-008">
+                    <damage agent="material">مں</damage>
+                </w>
+                <w n="028-022-009">
+                    <damage agent="material">ا</damage>لناس</w>
+                <w n="028-022-010">ٮسڧوں</w>
+                <w n="028-022-011">ووجد</w>
+                <w n="028-022-012">م<damage agent="material">ں</damage>
+                </w>
+                <w n="028-022-013">
+                    <damage agent="material">دوٮهم</damage>
+                </w>
+                <w n="028-022-014">
+                    <damage agent="material">امراٮٮں</damage>
+                </w>
+                <w n="028-022-015">
+                    <damage agent="material">ٮد</damage>
+                </w>
+            </l>
+            <l n="23">
+                <w n="028-022-015">
+                    <damage agent="material">و</damage>د<supplied reason="cairo">ا</supplied>ں</w>
+                <w n="028-022-016">ٯ<supplied reason="cairo">ا</supplied>
+                    <add type="rescription" hand="#CBL-2">ل</add>
+                </w>
+                <w n="028-022-017">
+                    <damage agent="material">ما</damage>
+                </w>
+                <w n="028-022-018">
+                    <damage agent="material">حطٮکما</damage>
+                </w>
+                <w n="028-022-019">
+                    <damage agent="material">ٯالٮا</damage>
+                </w>
+                <w n="028-022-020">
+                    <damage agent="material">لا</damage>
+                </w>
+                <w n="028-022-021">
+                    <damage agent="material">ٮسٯى</damage>
+                </w>
+                <w n="028-022-022">ح<unclear reason="legilibilität">تى</unclear>
+                </w>
+                <w n="028-022-023">ٮصدر</w>
+                <w n="028-022-024">ال<damage agent="material">رع</damage>ا</w>
+                <w n="028-022-025">
+                    <damage agent="material">واٮوٮا</damage>
+                </w>
+                <w n="028-022-026">
+                    <damage agent="material">سٮح</damage>
+                </w>
+            </l>
+            <l n="24">
+                <w n="028-022-027">
+                    <damage agent="material">کٮٮر</damage>
+                </w>
+                <w n="028-023-001">
+                    <damage agent="material">ڡسٯى</damage>
+                </w>
+                <w n="028-023-002">
+                    <damage agent="material">لهما</damage>
+                </w>
+                <w n="028-023-003">
+                    <damage agent="material">ٮم</damage>
+                </w>
+                <w n="028-023-004">
+                    <damage agent="material">ٮولى</damage>
+                </w>
+                <w n="028-023-005">
+                    <damage agent="material">الى</damage>
+                </w>
+                <w n="028-023-006">
+                    <damage agent="material">الطل</damage>
+                </w>
+                <w n="028-023-007">
+                    <damage agent="material">ڡٯال</damage>
+                </w>
+                <w n="028-023-008">
+                    <damage agent="material">ر</damage>ٮ</w>
+                <w n="028-023-009">اٮى</w>
+                <w n="028-023-010">لما</w>
+                <w n="028-023-011">
+                    <damage agent="material">اٮرلٮ</damage>
+                </w>
+                <w n="028-023-012">
+                    <damage agent="material">الى</damage>
+                </w>
+                <w n="028-023-013">
+                    <damage agent="material">مں</damage>
+                </w>
+            </l>
+            <l n="25">
+                <w n="028-023-014">
+                    <damage agent="material">حٮر</damage>
+                </w>
+                <w n="028-023-015">
+                    <damage agent="material">ڡٯٮر</damage>
+                </w>
+                <w n="028-024-001">
+                    <damage agent="material">ڡحاٮه</damage>
+                </w>
+                <w n="028-024-002">
+                    <damage agent="material">احدىهما</damage>
+                </w>
+                <w n="028-024-003">
+                    <damage agent="material">ٮمسى</damage>
+                </w>
+                <w n="028-024-004">
+                    <damage agent="material">على</damage>
+                </w>
+                <w n="028-024-005">
+                    <damage agent="material">اسٮحٮا</damage>
+                </w>
+            </l>
+            <pb xml:id="f01v"/>
+        </body>
+    </text>
+</TEI>

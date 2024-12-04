@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Quran xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="Textstruktur.xsd">
+    <Sure id="097" webtauglich="true" translator="Nicolai Sinai">
+        <Hauptteil id="0">
+            <Abschnitt id="0">
+                <Gesaetz n="0">
+                    <Vers n="000">
+                        <Teilvers n="000" reim="2n/m">
+                            <Kolon lang="ar" Einschub="false" n="0">بِسۡمِ ٱللَّهِ ٱلرَّحۡمَٰنِ ٱلرَّحِيمِ</Kolon>
+                            <Kolon lang="de" Einschub="false" n="0">Im Namen Gottes, des barmherzigen Erbarmers!</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="001">
+                        <Teilvers n="001" reim="3Kr">
+                            <Kolon Einschub="false" lang="ar" n="1">إِنَّآ أَنزَلۡنَٰهُ فِی لَيۡلَةِ ٱلۡقَدۡرِ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="1">Wir sandten es herab in der Nacht der Vorherbestimmung.</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="002">
+                        <Teilvers n="002" reim="3Kr">
+                            <Kolon Einschub="false" lang="ar" n="2">وَمَآ أَدۡرَىٰكَ مَا لَيۡلَةُ ٱلۡقَدۡرِ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="2">Was lässt dich wissen, was die Nacht der Vorherbestimmung ist?</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="003">
+                        <Teilvers n="003" reim="3Kr">
+                            <Kolon Einschub="false" lang="ar" n="3">لَيۡلَةُ ٱلۡقَدۡرِ خَيۡرٌۭ مِّنۡ أَلۡفِ شَهۡرٍۢ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="3">Die Nacht der Vorherbestimmung ist besser als tausend Monate.</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="004">
+                        <Teilvers n="004" reim="3Kr">
+                            <Kolon Einschub="true" lang="ar" n="4">تَنَزَّلُ ٱلۡمَلَٰٓئِكَةُ وَٱلرُّوحُ فِيهَا</Kolon>
+                            <Kolon Einschub="true" lang="de" n="4">In ihr steigen die Engel und der Geist herab</Kolon>
+                            <Kolon Einschub="true" lang="ar" n="5">بِإِذۡنِ رَبِّهِم مِّن كُلِّ أَمۡرٍۢ</Kolon>
+                            <Kolon Einschub="true" lang="de" n="5">mit der Erlaubnis ihres Herrn in jeder Sache.</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="005">
+                        <Teilvers n="005" reim="3Kr">
+                            <Kolon Einschub="false" lang="ar" n="6">سَلَٰمٌ هِیَ حَتَّىٰ مَطۡلَعِ ٱلۡفَجۡرِ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="6">Friede ist sie bis zum Beginn der Morgenröte!</Kolon>
+                        </Teilvers>
+                    </Vers>
+                </Gesaetz>
+            </Abschnitt>
+        </Hauptteil>
+    </Sure>
+</Quran>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Quran xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="Textstruktur.xsd">
+    <Sure id="104" webtauglich="true" translator="Nicolai Sinai">
+        <Hauptteil id="0">
+            <Abschnitt id="0">
+                <Gesaetz n="0">
+                    <Vers n="000">
+                        <Teilvers n="000" reim="2n/m">
+                            <Kolon lang="ar" Einschub="false" n="0">بِسۡمِ ٱللَّهِ ٱلرَّحۡمَٰنِ ٱلرَّحِيمِ</Kolon>
+                            <Kolon lang="de" Einschub="false" n="0">Im Namen Gottes, des barmherzigen Erbarmers!</Kolon>
+                        </Teilvers>
+                    </Vers>
+                </Gesaetz>
+                <Gesaetz n="1">
+                    <Vers n="001">
+                        <Teilvers n="001" reim="3K(K)3Kah">
+                            <Kolon Einschub="false" lang="ar" n="1">وَيۡلٌۭ لِّكُلِّ هُمَزَةٍۢ لُّمَزَةٍ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="1">Wehe einem jeden Verleumder und Schmähredner,</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="002">
+                        <Teilvers n="002" reim="3K(K)3Kah">
+                            <Kolon Einschub="false" lang="ar" n="2">ٱلَّذِی جَمَعَ مَالًۭا وَعَدَّدَهُۥ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="2">der Besitz hortet und ihn zählt.</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="003">
+                        <Teilvers n="003" reim="3K(K)3Kah">
+                            <Kolon Einschub="false" lang="ar" n="3">يَحۡسَبُ أَنَّ مَالَهُۥٓ أَخۡلَدَهُۥ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="3">Er meint, sein Besitz würde ihn unsterblich machen.</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="004">
+                        <Teilvers n="004" reim="3K(K)3Kah">
+                            <Kolon Einschub="false" lang="ar" n="4">كَلَّا لَيُنۢبَذَنَّ فِی ٱلۡحُطَمَةِ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="4">Nein! Gewiss wird er in den Trümmerer geworfen!</Kolon>
+                        </Teilvers>
+                    </Vers>
+                </Gesaetz>
+                <Gesaetz n="2">
+                    <Vers n="005">
+                        <Teilvers n="005" reim="3K(K)3Kah">
+                            <Kolon Einschub="false" lang="ar" n="5">وَمَآ أَدۡرَىٰكَ مَا ٱلۡحُطَمَةُ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="5">Was lässt dich wissen, was der Trümmerer ist?</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="006">
+                        <Teilvers n="006" reim="3K(K)3Kah" reimkommentar="in V. 6 variiert zu 2K3dah mit vorherrschenden Explosiven">
+                            <Kolon Einschub="false" lang="ar" n="6">نَارُ ٱللَّهِ ٱلۡمُوقَدَةُ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="6">Das entfachte Feuer Gottes,</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="007">
+                        <Teilvers n="007" reim="3K(K)3Kah">
+                            <Kolon Einschub="false" lang="ar" n="7">ٱلَّتِی تَطَّلِعُ عَلَى ٱلۡأَفۡـِٔدَةِ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="7">welches die Herzen umfasst!</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="008">
+                        <Teilvers n="008" reim="3K(K)3Kah">
+                            <Kolon Einschub="false" lang="ar" n="8">إِنَّهَا عَلَيۡهِم مُّؤۡصَدَةٌۭ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="8">Es umschließt sie</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="009">
+                        <Teilvers n="009" reim="3K(K)3Kah">
+                            <Kolon Einschub="false" lang="ar" n="9">فِی عَمَدٍۢ مُّمَدَّدَةٍ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="9">in langgestreckten Säulen.</Kolon>
+                        </Teilvers>
+                    </Vers>
+                </Gesaetz>
+            </Abschnitt>
+        </Hauptteil>
+    </Sure>
+</Quran>

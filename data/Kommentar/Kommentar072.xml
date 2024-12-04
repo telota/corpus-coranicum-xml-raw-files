@@ -1,0 +1,956 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<korankommentar xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:noNamespaceSchemaLocation="Kommentar.xsd">
+ <sure id="072" webtauglich="true"/>
+ <surentitel>
+  <text versstart="000" versend="028" verfasser="an">
+   <p>Sure 72 — <lang xml:lang="ar-Latn">al-Ǧinn</lang> — »Die Dämonen«</p>
+  </text>
+ </surentitel>
+ <autorenkurz>
+  <text versstart="000" versend="028" verfasser="an">
+   <p>Übersetzt und analysiert von Dirk Hartwig und Angelika Neuwirth</p>
+  </text>
+ </autorenkurz>
+ <datierungkurz>
+  <text versstart="000" versend="028" verfasser="an">
+   <p>Mekka II</p>
+  </text>
+ </datierungkurz>
+ <literarkritikkurz>
+  <text versstart="000" versend="028" verfasser="an">
+   <p/>
+  </text>
+ </literarkritikkurz>
+ <literarkritik>
+  <text versstart="000" versend="028" verfasser="an">
+   <p>Die Sure ist Einheit. Spätere Einschübe sind in der Tradition nicht überliefert (siehe <bibl
+     Zotero_Id_1="3RWFQBDU">Nagel 1995:87f.</bibl>). Doch werfen einzelne Verse erzähllogisch so
+    starke Probleme auf, daß eine sekundäre Erweiterung zu erwägen ist. <bibl Zotero_Id_1="ZNVIBIDF"
+     >Richard Bell (1939:610)</bibl> sieht die <q type="koran" versstart="072:014" versend="072:015"
+     >Verse 14 und 15</q> als medinische Erweiterung an — wohl gestützt auf das schwache Argument,
+    daß <lang xml:lang="ar-Latn">muslimūna</lang> erst medinisch üblich wird, ungeachtet früherer
+    Vorkommen wie in <q type="koran" versstart="015:002" versend="015:002">Q 15:2</q>
+    (frühmittelmekkanisch) und <q type="koran" versstart="027:031" versend="027:031">Q 27:31</q>, <q
+     type="koran" versstart="027:091" versend="027:091">91</q> (spätmittelmekkanisch). Plausibler
+    ist sein Umgang mit den <q type="koran" versstart="072:016" versend="072:019">Versen 16–19</q>,
+    die offenkundig Gottesrede sind und nicht von den Dämonen gesprochen sein können: Sie seien
+    nachträglich hinter den von ihm postulierten Einschub <q type="koran" versstart="072:014"
+     versend="072:015">V. 14–15</q> gestellt worden. Man wird den Bruch zwischen Gottes- und
+    Dämonenrede nicht ignorieren können, er muß aber nicht als redaktionelle Erweiterung der Sure um
+    die <q type="koran" versstart="072:016" versend="072:019">Verse 16–19</q> erklärt werden. Bells
+    weitere Emendationsvorschläge (<bibl Zotero_Id_1="ZNVIBIDF">1939:610</bibl>) sind wenig
+    stichhaltig, eher könnte die rigorose Parenthese in <q type="koran" versstart="072:023"
+     versend="072:023">V. 23</q>: »wer sich Gott und seinem Gesandten widersetzt 〈…〉« auf ein
+    späteres Prophetenbild verweisen. Angesichts der lockeren Kompositionsstruktur der Sure, die vor
+    allem durch ihren — syntaktisch schwer erreichbaren — phonetisch homogenen Reim zusammengehalten
+    wird, sind Texteingriffe aber problematisch. Wir behandeln die Sure daher als Einheit.</p>
+   <p><hi rend="bold">Versabteilungsdifferenzen</hi>
+   </p>
+   <p>Die von der islamischen Tradition benannten Versabteilungsdifferenzen betreffen <q
+     type="koran" versstart="072:022" versend="072:022">V. 22</q> (siehe <bibl
+     Zotero_Id_1="4WEWN8NZ"><hi rend="italic">SKMS</hi>, S. 49</bibl>). In <q type="koran"
+     versstart="072:022" versend="072:022">V. 22</q> ergibt <lang xml:lang="ar-Latn">aḥadun</lang>
+    keinen Reim nach dem Muster 3C3Cā; die unmotivierte Abteilung wird bereits von Nöldeke/Schwally
+    in <bibl Zotero_Id_1="RF8JH6HZ"><hi rend="italic">GdQ<hi rend="superscript">2</hi></hi> (S.
+     132)</bibl> zurückgewiesen. In <q type="koran" versstart="072:022" versend="072:022">V. 22</q>
+    ist <lang xml:lang="ar-Latn">multaḥadā</lang> Reim, von Mekka wohl nur im Hinblick auf die
+    vorgegebene Gesamtverszahl 28 — bei allen Lesern — als Versschluß nicht anerkannt. In <q
+     type="koran" versstart="072:025" versend="072:025">V. 25</q>
+    <lang xml:lang="ar-Latn">amadā</lang> wurde Flügels Zusammenziehung von <q type="koran"
+     versstart="072:025" versend="072:025">V. 25</q> und <q type="koran" versstart="072:026"
+     versend="072:026">V. 26</q> (siehe <bibl Zotero_Id_1="7S6YI2AF">Flügel <hi rend="superscript"
+      >2</hi>1881:312</bibl>) schon in <bibl Zotero_Id_1="RF8JH6HZ"><hi rend="italic">GdQ<hi
+       rend="superscript">2</hi></hi> (S. 132)</bibl> richtiggestellt (vgl. <bibl
+     Zotero_Id_1="4WEWN8NZ"><hi rend="italic">SKMS</hi>, S. 49</bibl>).</p>
+  </text>
+ </literarkritik>
+ <textkritik>
+  <text versstart="000" versend="028" verfasser="an">
+   <p>Eine Reihe von abweichenden Lesarten ist erhalten (vgl. <bibl Zotero_Id_1="GCSZJCBR">Khoury,
+     Bd. 12 [2001], S. 254</bibl>; siehe auch <bibl Zotero_Id_1="NXGPM5Z8">al-Sharfī
+     2016:276–283</bibl>). Sie betreffen Vokalvarianten bzw. orthographische und grammatikalische
+    Abweichungen, z.B. <lang xml:lang="ar-Latn">ġadaq</lang> &gt;
+    <lang xml:lang="ar-Latn">ġadiq</lang> (<q type="koran" versstart="072:016" versend="072:016">V.
+     16</q>), <lang xml:lang="ar-Latn">libad</lang> &gt; <lang xml:lang="ar-Latn">lubad</lang> (<q
+     type="koran" versstart="072:019" versend="072:019">V. 19</q>),
+    <lang xml:lang="ar-Latn">rašad</lang> &gt; <lang xml:lang="ar-Latn">rušud</lang> (<q
+     type="koran" versstart="072:021" versend="072:021">V. 21</q>) und
+    <lang xml:lang="ar-Latn">aḥadā[an]</lang> &gt; <lang xml:lang="ar-Latn">aḥadun</lang> (<q
+     type="koran" versstart="072:026" versend="072:026">V. 26</q>). Zu den Lesarten von semantischer
+    Relevanz zählen: <lang xml:lang="ar-Latn">yahdī</lang> &gt;
+    <lang xml:lang="ar-Latn">yadʿū</lang>, »der ruft« (<q type="koran" versstart="072:002"
+     versend="072:002">V. 2</q>), <lang xml:lang="ar-Latn">taqūla</lang> &gt;
+    <lang xml:lang="ar-Latn">taqauwala</lang>, »erdichten« (<q type="koran" versstart="072:005"
+     versend="072:005">V. 5</q>), <lang xml:lang="ar-Latn">ḍarrā</lang> &gt;
+    <lang xml:lang="ar-Latn">ġaiyā</lang>, »Verirrung« (<q type="koran" versstart="072:021"
+     versend="072:021">V. 21</q>), <lang xml:lang="ar-Latn">wa-risālātihi</lang> &gt;
+    <lang xml:lang="ar-Latn">risālatihi</lang>, »seiner Botschaft« (<q type="koran"
+     versstart="072:023" versend="072:023">V. 23</q>),
+    <lang xml:lang="ar-Latn">ʿālimu l-ġaibi</lang> &gt;
+    <lang xml:lang="ar-Latn">ʿalima l-ġaiba</lang>, »er kennt das Verborgene« (<q type="koran"
+     versstart="072:026" versend="072:026">V. 26</q>), und <lang xml:lang="ar-Latn">risālāt</lang>
+    &gt; <lang xml:lang="ar-Latn">risāla</lang>, »Botschaft« (<q type="koran" versstart="072:028"
+     versend="072:028">V. 28</q>; vgl. auch <q type="koran" versstart="072:023" versend="072:023">V.
+     23</q>). Sie tangieren jedoch das Verständnis der Sure nicht.</p>
+  </text>
+ </textkritik>
+ <komposition>
+  <text versstart="000" versend="028" verfasser="an">
+   <p>
+    <table cols="3" rows="13">
+     <head/>
+     <row>
+      <cell/>
+      <cell/>
+      <cell><hi rend="bold">I Einleitung: Wirkung einer
+        <lang xml:lang="ar-Latn">qurʾān</lang>-Rezitation auf Dämonen</hi>
+      </cell>
+     </row>
+     <row>
+      <cell><hi rend="bold">3</hi></cell>
+      <cell><hi rend="superscript"><q type="koran" versstart="072:001" versend="072:003"
+        >1–3</q></hi></cell>
+      <cell><lang xml:lang="ar-Latn">Qurʾān</lang>, den Dämonen vorgetragen, Annahme der Einheit
+       Gottes</cell>
+     </row>
+     <row>
+      <cell/>
+      <cell/>
+      <cell/>
+     </row>
+     <row>
+      <cell/>
+      <cell/>
+      <cell><hi rend="bold">II Früher bestehende Irrmeinungen unter Dämonen</hi></cell>
+     </row>
+     <row>
+      <cell>/</cell>
+      <cell><hi rend="superscript"><q type="koran" versstart="072:004" versend="072:010"
+        >4–10</q></hi></cell>
+      <cell>a Referat von Irrmeinungen</cell>
+     </row>
+     <row>
+      <cell><hi rend="bold">16</hi></cell>
+      <cell><hi rend="superscript"><q type="koran" versstart="072:011" versend="072:015"
+        >11–15</q></hi></cell>
+      <cell>b Fromme und nicht Fromme unter den Dämonen</cell>
+     </row>
+     <row>
+      <cell>|</cell>
+      <cell><hi rend="superscript"><q type="koran" versstart="072:016" versend="072:017"
+        >16–17</q></hi></cell>
+      <cell>Lohn- und Strafverheißung</cell>
+     </row>
+     <row>
+      <cell>\</cell>
+      <cell><hi rend="superscript"><q type="koran" versstart="072:018" versend="072:019"
+        >18–19</q></hi></cell>
+      <cell>c Aufforderung zur Alleinverehrung Gottes, Folgeleistung zahlreicher Dämonen</cell>
+     </row>
+     <row>
+      <cell/>
+      <cell/>
+      <cell/>
+     </row>
+     <row>
+      <cell/>
+      <cell/>
+      <cell><hi rend="bold">III Empfohlene Selbstdarstellung des Propheten; Drohung</hi></cell>
+     </row>
+     <row>
+      <cell>/</cell>
+      <cell><hi rend="superscript"><q type="koran" versstart="072:020" versend="072:020"
+       >20</q></hi></cell>
+      <cell>Empfohlenes Glaubensbekenntnis</cell>
+     </row>
+     <row>
+      <cell><hi rend="bold">9</hi></cell>
+      <cell><hi rend="superscript"><q type="koran" versstart="072:021" versend="072:024"
+        >21–24</q></hi></cell>
+      <cell>Empfohlene Eingrenzung der eigenen Aufgabe, Drohung</cell>
+     </row>
+     <row>
+      <cell>|</cell>
+      <cell><hi rend="superscript"><q type="koran" versstart="072:025" versend="072:028"
+        >25–28</q></hi></cell>
+      <cell>Zeitpunkt des Gerichts steht bei Gott, seine Allwissenheit, seine Behandlung der
+       Gesandten, Allregistrierung</cell>
+     </row>
+    </table></p>
+   <p><hi rend="bold">Strukturformel/Proportionen</hi></p>
+   <p>
+    <table cols="3" rows="2">
+     <head/>
+     <row>
+      <cell>Teil I: 3 Verse</cell>
+      <cell>Teil II: 16 Verse</cell>
+      <cell>Teil III: 9 Verse</cell>
+     </row>
+     <row>
+      <cell>3</cell>
+      <cell>7+5+2+2</cell>
+      <cell>1+4+4</cell>
+     </row>
+    </table>
+   </p>
+  </text>
+ </komposition>
+ <kommentar>
+  <text versstart="000" versend="000" verfasser="an">
+   <p><hi rend="italic">Vorbemerkung:</hi> Das Junktim Dämonen/Schriftverse hat eine lange
+    Geschichte. In der monastisch geprägten Atmosphäre der Spätantike waren Dämonenübergriffe etwas
+    Vertrautes. Wie ließ sich den Dämonen beikommen? Hier hat vor allem der Kirchenlehrer Evagrios
+    Ponticos (gest. 398), ein Schüler Gregors von Nazianz, mit seinem Werk <hi rend="italic"
+     >Antirhēticos</hi> einen wichtigen Weg zur Lösung des Problems gebahnt. Es stellt Schriftverse
+    zusammen, die bei einem Dämonenübergriff zur Abwehr besonders geeignet sind. Es ist
+    bemerkenswert, daß auch die Sure die gefürchteten Dämonen in eine unmittelbare Umgebung zur
+    Schriftlesung stellt, sie nämlich selbst als Hörer der Schrift darstellt, die sich dann auch zum
+    monotheistischen Glauben bekehren.</p>
+  </text>
+  <text versstart="001" versend="001" verfasser="an">
+   <p><lem>qul ʾūḥiya ʾilayya ʾannahu stamaʿa nafarun mina l-ǧinni fa-qālū ʾinnā samiʿnā qurʾānan ʿaǧabā]</lem>
+    Die Sure beginnt mit einer Offenbarungsbestätigung —
+    <lang xml:lang="ar-Latn">ūḥiya ilaiya anna</lang>, »Mir wurde offenbart, daß« —, die hier
+    allerdings nicht wie sonst üblich für einen anschließend zu rezitierenden Vortrag gilt, sondern
+    als Beglaubigung für einen individuellen Vorfall, der anschließend berichtet werden soll. Sie
+    dient als Affirmation der transzendenten Herkunft des Gesagten (vgl. <bibl
+     Zotero_Id_1="R7C4TXP6"><hi rend="italic">HK 2/1</hi>, S. 328</bibl> zu <q type="koran"
+     versstart="020:002" versend="020:002">Q 20:2</q>). <lang xml:lang="ar-Latn">Ūḥiya ilā</lang>
+    begegnet auch in <q type="koran" versstart="020:048" versend="020:048">Q 20:48</q>
+    (frühmittelmekkanisch) und <q type="koran" versstart="043:043" versend="043:043">Q 43:43</q>
+    (spätmittelmekkanisch) und ist stets zu übersetzen mit »offenbart wurde« — Bobzins (<bibl
+     Zotero_Id_1="Q9EDU63R">2010:527</bibl>) Wiedergabe »bedeutet wurde mir« verunklärt die
+    transzendente Dimension des Gesagten. <lang xml:lang="ar-Latn">Waḥy</lang> ist seit früher Zeit
+    in Gebrauch, vgl. <q type="koran" versstart="053:004" versend="053:004">Q 53:4</q>:
+    <lang xml:lang="ar-Latn">in huwa illā waḥyun yūḥā</lang>, »Er ist vielmehr inspirierte
+    Eingebung« (vgl. <bibl Zotero_Id_1="4CXBNM94">Izutsu 1964:156–165</bibl> und <bibl
+     Zotero_Id_1="EIYMF4J4">Neuwirth 2015a</bibl>).</p>
+   <p>Protagonisten der berichteten Handlung sind Geistwesen, arab. Ǧinnen, am besten mit
+    »Dämonen/Ǧinnen« zu übersetzen, da die oft im Deutschen belassene Form »Dschinne« (<bibl
+     Zotero_Id_1="Q9EDU63R">Bobzin 2010:527</bibl>) oder auch »Dschinn« (<bibl
+     Zotero_Id_1="J6TM6UHR">Paret, <hi rend="italic">KÜ</hi>, S. 409</bibl>; <bibl
+     Zotero_Id_1="J7GZ5X57">Zirker 2003:359</bibl>) folkloristisch klingt. Die ältere Forschung sah
+    in diesen Wesen arabische Wüstengeister (vgl. <bibl Zotero_Id_1="UZYUXI2E">Tritton 1934</bibl>;
+     <bibl Zotero_Id_1="VKIT2JX6">Wellhausen <hi rend="superscript">2</hi>1897:148–159</bibl>; <bibl
+     Zotero_Id_1="JGMJQQ8M">Chabbi 2003:43–50</bibl>), die in der Tat in den narrativen
+    Darstellungen altarabischer Verhältnisse eine Rolle spielen, man denke an eine der bekanntesten
+    Geschichten über den vorislamischen Dichter Taʾabbaṭa Sharran (erste Hälfte des 6. Jh.s), der
+    seinen Spitznamen »er hat Übles unter den Achseln getragen« einer Begegnung mit von ihm nicht
+    als solchen erkannten Dämonen/Ǧinnen verdankt (siehe
+     <?oxy_comment_start author="Tobias J. Jocham" timestamp="20230912T104906+0200" comment="Literaturangabe korrekt? Dann in Zotero ergänzen!"?><bibl
+     Zotero_Id_1="IB6IS523"><hi rend="italic">Kitāb al-Aghānī</hi>, hg. von Aḥmad al-Shinqīṭī, Bd.
+     18, S. 209–218</bibl><?oxy_comment_end?>; vgl. dazu <bibl Zotero_Id_1="ZU4KPZG6">S.P.
+     Stetkevych 1993:87–118</bibl>, insbesondere <bibl Zotero_Id_1="ZU4KPZG6">S. 94</bibl>).</p>
+   <p>Die Identifikation der koranischen Dämonen/Ǧinnen mit Wüstengeistern ist aber problematisch.
+    Sie mag frühmekkanisch noch gerechtfertigt sein, wo die Polemik gegen den Verkünder in der
+    Unterstellung seitens der paganen Gegner gipfelte, er sei von ›Ǧinnen inspiriert‹, d.h., seine
+    Rede verdanke sich einer durch Dämonen ausgelösten Ekstase (<q type="koran" versstart="088:022"
+     versend="088:022">Q 88:22</q>; <q type="koran" versstart="068:002" versend="068:002">68:2</q>;
+     <q type="koran" versstart="052:029" versend="052:029">52:29</q> [frühmekkanisch] und <q
+     type="koran" versstart="037:036" versend="037:036">Q 37:36</q>; <q type="koran"
+     versstart="015:006" versend="015:006">15:6</q>; <q type="koran" versstart="044:014"
+     versend="044:014">44:14</q> [frühmittelmekkanisch], vgl. <bibl Zotero_Id_1="GG85BMXE">Radscheit
+     1996:37</bibl>). Intendiert war damit, den Verkünder als Dichter,
+    <lang xml:lang="ar-Latn">šāʿir</lang>, und damit <lang xml:lang="ar-Latn">maǧnūn</lang>,
+    »besessen« (<q type="koran" versstart="069:041" versend="069:041">Q 69:41</q>, <q type="koran"
+     versstart="052:030" versend="052:030">52:30</q> [frühmekkanisch] und <q type="koran"
+     versstart="037:036" versend="037:036">37:36</q> [frühmittelmekkanisch] und <q type="koran"
+     versstart="021:005" versend="021:005">Q 21:5</q>) zu disqualifizieren, dessen Mitteilung keinen
+    Wahrheitswert beanspruchen kann; siehe zu dieser Vorstellung der Dichterinspiration <bibl
+     Zotero_Id_1="ME4NDBFR">Goldziher (1891)</bibl> und <bibl Zotero_Id_1="GG85BMXE">Radscheit
+     1996:48–56</bibl>. Zwar steht Dichtung unleugbar im Hintergrund der frühen Verkündigungen,
+     <bibl Zotero_Id_1="2CWT7FNR">Thomas Bauer (2010)</bibl> hat jedoch auf ihre prekäre Präsenz im
+    Koran hingewiesen, für die eher von ›negativer‹ als von positiver Intertextualität zu sprechen
+    sei (siehe auch <bibl Zotero_Id_1="6I96FAXT"><hi rend="italic">KTS</hi>, S. 672–722</bibl>).</p>
+   <p>Die koranischen Dämonen/Ǧinnen sind viel enger mit den dämonischen Geistwesen (griechisch
+    <lang xml:lang="gr-Latn">pneumata</lang> oder hebräisch <lang xml:lang="hbo-Latn">shedim</lang>)
+    aus den Umweltkulturen verwandt (siehe <bibl Zotero_Id_1="2FUIBP9D">Eichler 1928:8</bibl>, vgl.
+    auch schon <bibl Zotero_Id_1="EB2XN3AS">Geiger 1833:82–85</bibl>). Die Wiedergabe mit dem
+    folkloristisch-arabisch klingenden Namen ›Ǧinnen‹ ist daher mißverständlich. Sie sind vielmehr
+    Wissensträger und -vermittler.</p>
+   <p>Sie erscheinen bereits in <q type="koran" versstart="037:006" versend="037:010">Q 37:6–10</q>
+    als in dieser Funktion bedroht:
+    <lang xml:lang="ar-Latn">innā zaiyannā l-samāʾa l-dunyā bi-zīnatini l-kawākib / wa-ḥifẓan min kulli šaiṭānin mārid / lā yassammaʿūna ilā l-malaʾi l-aʿlā wa-yuqdhafūna min kulli ǧānib / duḥūran wa-lahum ʿaḏābun wāṣib / illā man ḫaṭifa l-ḫatfata fa-atbaʿahu šihābun ṯāqib</lang>,
+    »Wir schmückten den niedersten Himmel mit dem Schmuck der Sterne / und zum Schutz vor jedwedem
+    rebellischen Satan. / Es gelingt ihnen nicht, den höchsten Rat abzuhören, sie werden von allen
+    Seiten beworfen / zu ihrer Vertreibung. Sie erwartet dauernde Strafe. / Wenn einer dennoch etwas
+    aufschnappen kann, folgt ihm eine helleuchtende Sternschnuppe« (vgl. auch <bibl
+     Zotero_Id_1="R7C4TXP6"><hi rend="italic">HK 2/1</hi>, S. 171–173</bibl>). <bibl
+     Zotero_Id_1="UPKQZ38U">Hawting (2006)</bibl> schlägt überzeugend vor, in der
+    <lang xml:lang="ar-Latn">malaʾ al-aʿlā</lang> (<q type="koran" versstart="037:008"
+     versend="037:008">Q 37:8</q>) die aus der frühjüdischen Literatur bekannte
+    <lang xml:lang="hbo-Latn">yešivah shel maʿalah</lang>, die »himmlische Ratsversammlung« (siehe
+     <bibl Zotero_Id_1="29MB6I8J">Freedman 2007:253</bibl>), zu sehen, die sich aus Engeln
+    konstituiert. Die dämonischen Geistwesen wollen in den Himmel emporsteigen, wohl um den
+    Gesprächen — zwischen Gott und den Engeln — zu lauschen. Dem Menschen nicht unähnlich, haben sie
+    nämlich keine Kenntnis von Gottes Plänen. Die bereits von A. Geiger angeführte Stelle aus dem
+    Babylonischen Talmud (<hi rend="italic">bḤagigah</hi> 16a) stellt die dämonischen Geistwesen als
+    solche Zwischenwesen (zwischen Engeln und Menschen) dar:</p>
+   <p>Die Weisen lehrten: Sechserlei wird über die Dämonen gesagt: In dreierlei ähneln sie den
+    Dienstengeln (<lang xml:lang="hbo-Latn">malʾakhe ha-sharet</lang>), und in dreierlei ähneln sie
+    dem Menschen. In dreierlei sind sie wie die Dienstengel: Sie haben Flügel wie die Dienstengel;
+    und sie fliegen von einem Ende der Welt zum anderen, wie es die Dienstengel tun; und sie wissen
+    wie die Dienstengel, was die Zukunft bereithält. — »Sie wissen« — wie kommt man darauf? —
+    Vielmehr, sie hörten es hinter dem himmlischen Vorhang
+    (<lang xml:lang="hbo-Latn">me-aḥore ha-pargod</lang>) wie die Dienstengel. In dreierlei ähneln
+    sie dem Menschen: Sie essen und trinken wie die Menschen; sie pflanzen sich fort wie die
+    Menschen, und sie sterben wie die Menschen.</p>
+   <p><hi rend="italic">bGiṭṭin</hi> 68a-b spricht allerdings auch von dem Dämonenkönig Asmodeus
+    (siehe auch <hi rend="italic">bPesaḥim</hi> 110a; dazu <bibl Zotero_Id_1="ARJ2NYZY">C. Roth
+     2007</bibl>), der täglich in der himmlischen Akademie — hier: aramäisch
+    <lang xml:lang="arc-Latn">metivtaʾ de-raqiʿaʾ</lang> — lernt und nach seiner Bezwingung sein
+    Wissen, welches er ebenfalls beim Belauschen der himmlischen Ratsversammlung erfahren hat, an
+    Salomo weitergibt und indirekt am Bau des Jerusalemer Tempels Anteil hat (so schon bei Flavius
+    Josephus, <hi rend="italic">Antiquitates Judaicae</hi> VIII 44–46). Schließlich usurpiert der
+    Dämonenfürst den salomonischen Thron; erst nach dem Eingreifen der jüdischen Gelehrten, die
+    nicht nur den falschen Salomo erkennen, sondern ihn auch durch einen Test entlarven, wird das
+    salomonische Königtum wiederhergestellt; zum möglichen Hintergrund der Legende siehe <bibl
+     Zotero_Id_1="RIKT7XAV">A. Kaminka (1922)</bibl>. Die Salomo-Asmodeus-Tradition ist unabhängig
+    auch in dem frühchristlichen <hi rend="italic">Testament Salomos</hi> (siehe <bibl
+     Zotero_Id_1="LHKSDRL5">Busch 2006:117–129</bibl>) — datiert in das vierte Jahrhundert —
+    überliefert. Auch hier gilt Salomo als ›Exorzist‹, als »frommer Beter, der seine exorzistische
+    Kraft allein aus der Gabe Gottes, dem Siegel, bezieht« (<bibl Zotero_Id_1="LHKSDRL5">Busch
+     2006:42</bibl>). Siehe zu Analyse und Vergleich der rabbinischen Erzählung mit dem <hi
+     rend="italic">Testament Salomos</hi> auch <bibl Zotero_Id_1="FKJAZBQD">Richard Kalmin
+     (2014:95–129)</bibl>. Was in den Evangelien auf die Realität einer von Dämonen beherrschten
+    Gegenwelt (<bibl Zotero_Id_1="B9UY9XYD">Pagels 1995</bibl>) deutet, nämlich Jesu Austreibungen
+    von ›unreinen‹ Geistern (z.B. <q type="bibel" versstart="001:021" versend="001:028" buch="Mk">Mk
+     1,21–28</q>; <q type="bibel" versstart="005:001" versend="005:020" buch="Mk">5,1–20</q>; <q
+     type="bibel" versstart="007:024" versend="007:030" buch="Mk">7,24–30</q>; <q type="bibel"
+     versstart="009:014" versend="009:029" buch="Mk">9,14–29</q>; <q type="bibel"
+     versstart="011:014" versend="011:014" buch="Lk">Lk 11,14</q>; <q type="bibel"
+     versstart="009:032" versend="009:033" buch="Mt">Mt 9,32–33</q>) — siehe dazu <bibl
+     Zotero_Id_1="GHD5UGHW">G.S. Oegema (2003)</bibl> —, wird im Koran weniger narrativ als durch
+    verbale Diskriminierung der Geistwesen reflektiert.</p>
+   <p>In <q type="koran" versstart="072:001" versend="072:028">Sure 72</q>, die in ihrer Hauptmasse
+    den Dämonen gewidmet ist, werden sie eingeblendet, als sie einer Koranrezitation zuhören. Ohne
+    daß präzisiert würde, unter welchen Umständen dies geschieht, ist doch die Disposition des
+    Horchens, des aufmerksamen Zuhörens, auffallend. Dämonen, im Koran ›Satane‹, sind für ihre
+    Versuche zu lauschen notorisch, <q type="koran" versstart="015:016" versend="015:018">Q
+     15:16–18</q>:
+    <lang xml:lang="ar-Latn">wa-la-qad ǧaʿalnā fī l-samāʾi burūǧan wa-zaiyannāhā li-l-nāẓirīn / wa-ḥafiẓnāhā min kulli šaiṭānin raǧīm / illā mani staraqa l-samʿa fa-atbaʿahu šihābun mubīn</lang>,
+    »An den Himmel setzten wir Sternbilder und schmückten ihn für die Betrachtenden. / Wir
+    beschützten ihn vor jedwedem verfluchten Satan / außer dem, der heimlich lauscht; doch dem wird
+    eine deutlich sichtbare Sternschnuppe folgen« (dazu vgl. <bibl Zotero_Id_1="R7C4TXP6"><hi
+      rend="italic">HK 2/1</hi>, S. 238</bibl>). Zentral ist hier die Frage nach der Beteiligung der
+    Geistwesen an der Offenbarung (siehe dazu <bibl Zotero_Id_1="QVE9D8QB">Schäfer
+    1975:10–17</bibl>). In <q type="koran" versstart="072:001" versend="072:028">Q 72</q>. wird ihr
+    Lauschen aber nicht wie sonst — etwa im Falle der Salomo-Asmodeus-Legende — durch Wissensgewinn,
+    sondern durch eine neue Ergriffenheit belohnt. Ihre Reaktion erinnert an diejenige
+    frühislamischer, uns durch die Tradition bekannter Personen — am prominentesten ist wohl die
+    Geschichte des späteren Kalifen ʿUmar ibn al-Ḫaṭṭāb (gest. 23/644) —, die durch das Hörerlebnis
+    einer Koranrezitation bekehrt wurden (siehe dazu <bibl Zotero_Id_1="L8QCYDXE">Kermani
+     1999:34f.</bibl>). Die erstaunt-verwunderte Reaktion der Dämonen läßt an die byzantinischen
+    Kommentare zum — ebenfalls offenbarungsrelevanten — Pfingstereignis denken, dessen Wirkung als
+    »fremdartig-bewundernswertes Hör- und Sehereignis« —
+    <lang xml:lang="gr-Latn">xenon akousma, xenon theama</lang> — gefeiert wird, siehe den Hymnus
+    von Gregor von Nazianz (329–390) im Pentekostarion zum Pfingstsonntag. Der Koranvortrag wird von
+    den Dämonen als »wundersam, merkwürdig« (<lang xml:lang="ar-Latn">ʿaǧab</lang>) wahrgenommen.
+    Auch den ungläubigen Hörern des Verkünders stellte sich die Betonung des strikten
+    Eingottglaubens als »merkwürdig« dar, siehe ihre Reaktion frühmittelmekkanisch <q type="koran"
+     versstart="038:005" versend="038:005">Q 38:5</q>:
+    <lang xml:lang="ar-Latn">a-ǧaʿala l-ālihata ilāhan wāḥidan inna hādhā la-šaiʾun uǧāb</lang>,
+    »Will er denn aus den (verschiedenen) Göttern einen einzigen Gott machen? Das ist doch
+    merkwürdig«.</p>
+  </text>
+  <text versstart="002" versend="003" verfasser="an">
+   <p><lem>yahdī ʾila r-rušdi fa-ʾāmannā bihī wa-lan nušrika bi-rabbinā ʾaḥadā / wa-ʾannahū taʿālā ǧaddu rabbinā ma ttaḫaḏa ṣāḥibatan wa-lā waladā]</lem>
+    Die Dämonen glauben an die gehörte Botschaft und ganz konkret an die Einzigkeit Gottes. Die
+    plakativ-doppelte Negierung <lang xml:lang="ar-Latn">mā ttakhadha ṣāḥibatan wa-lā waladā</lang>
+    erinnert an das doppelt negative <lang xml:lang="ar-Arab">lam yalid wa-lam yūlad</lang> (<q
+     type="koran" versstart="112:003" versend="112:003">Q 112:3</q>). So assoziiert auch al-Wāḥidī
+    (gest. 1075) (<hi rend="italic">Asbāb al-Nuzūl</hi>, hg. von Aḥmad Ṣaqr) zu <q type="koran"
+     versstart="112:001" versend="112:004">Q 112</q>:
+    <lang xml:lang="ar-Latn">lam yalid wa-lam yūlad</lang>, »er ist nicht und hat nicht gezeugt« (<q
+     type="koran" versstart="112:003" versend="112:003">Q 112:3</q>). Offenbar ist die
+    ›Familienlosigkeit‹ Gottes für die Dämonen das zentrale Glaubenszeugnis. Auch dürfte die
+    expressive Stellung von <lang xml:lang="ar-Latn">waladā</lang> im Reim, die ja in einer Polemik
+    gegen den Mehrgottglauben auch anderswo begegnet (<q type="koran" versstart="019:092"
+     versend="019:092">Q 19:92</q>:
+    <lang xml:lang="ar-Latn">wa-mā yanbaghī li-l-raḥmāni an yattakhidha waladā</lang>, »Es steht dem
+    Erbarmer nicht an, daß er sich ein Kind annimmt!«, vgl. <bibl Zotero_Id_1="R7C4TXP6"><hi
+      rend="italic">HK 2/1</hi>, S. 635</bibl>), auf eine Referenz zu früheren Polemiken verweisen.
+    — Die Dämonen bedienen sich einer spezifisch altertümlichen Sprache. In ihrer Eulogie
+    <lang xml:lang="ar-Latn">taʿālā ǧaddu rabbinā</lang> rekurrieren sie auf eine Verwendung von
+    <lang xml:lang="ar-Latn">ǧadd</lang> im Altsüdarabischen, wo es in der Bedeutung »Schicksal,
+    Glück« oder »Majestät, Erhabenheit« belegt ist. Es findet sich häufig als Epitheton, das als
+    Beiname eines Stammes geläufig ist (siehe <bibl Zotero_Id_1="K45ZXJYD">Biella 1982:65</bibl>).
+    Bereits <bibl Zotero_Id_1="8WQ6CTDE">Lane (1863:358)</bibl> hatte die Eulogie erkannt und als
+    »Exalted be the greatness/majesty (of our Lord)« gedeutet.</p>
+   <p>Nur der Kuriosität halber sei hier auf eine Emendation hingewiesen: <bibl
+     Zotero_Id_1="4TLXFI46">Manfred Kropp (2011:260)</bibl> hat in einem Artikel zu
+    antitrinitarischen Formeln die rekonstruierte Lesung vorgeschlagen:
+    <lang xml:lang="ar-Latn">〈…〉 innahu — taʿālā — ḥad! Rabbinā mā ttakhad — ṣaḥaba wa-lā walad</lang>,
+    »〈…〉 Er — gepriesen sei er — ist einer! Unser Herr hat sich niemanden zugelegt — weder Partner
+    noch Sohn!«, parallel zu <q type="koran" versstart="112:001" versend="112:001">Q 112:1</q>:
+    <lang xml:lang="ar-Latn">allāhu aḥad</lang> bzw. <lang xml:lang="ar-Latn">allāhu ḥad</lang>,
+    »Gott ist einer«.</p>
+  </text>
+  <text versstart="004" versend="005" verfasser="an">
+   <p><lem>wa-ʾannahū kāna yaqūlu safīhunā ʿala llāhi šaṭaṭā / wa-ʾannā ẓanannā ʾan lan taqūla l-ʾinsu wa-l-ǧinnu ʿala llāhi kaḏibā]</lem>
+    Mit <q type="koran" versstart="072:004" versend="072:004">V. 4</q> beginnt eine Serie von
+    <lang xml:lang="ar-Latn">anna</lang>-Sätzen, bei denen die Konjunktion offenbar nicht semantisch
+    funktional ist, sondern direkte Rede anzeigen soll; sie braucht nicht übersetzt zu werden,
+    sondern wird durch Anführungsstriche wiedergegeben, so auch die Mehrheit der modernen
+    Übersetzer: <bibl Zotero_Id_1="J6TM6UHR">Paret (<hi rend="italic">KÜ</hi>, S. 439)</bibl>, <bibl
+     Zotero_Id_1="J7GZ5X57">Zirker (2003:360)</bibl>, <bibl Zotero_Id_1="Q9EDU63R">Bobzin
+     (2010:527f.)</bibl> und <bibl Zotero_Id_1="K3XVV34A">Abdel Haleem (2004:393)</bibl>. Der im
+    Singular vorgeführte »Törichte« steht wohl für ein Kollektiv, da das Lexem
+    <lang xml:lang="ar-Latn">safīh</lang> sonst nur im Plural
+    <lang xml:lang="ar-Latn">sufahāʾ</lang> begegnet, siehe die medinischen Verse <q type="koran"
+     versstart="007:155" versend="007:155">Q 7:155</q> (medinischer Zusatz); <q type="koran"
+     versstart="004:005" versend="004:005">4:5</q>; <q type="koran" versstart="002:013"
+     versend="002:013">2:13</q>, <q type="koran" versstart="002:142" versend="002:142">142</q>, <q
+     type="koran" versstart="002:282" versend="002:282">282</q>. Nach der Konversion der Dämonen
+    werden die nunmehr obsolet gewordenen Meinungen referiert. Die Sprecher erblicken darin
+    Abwegiges, Ungereimtes (<lang xml:lang="ar-Latn">šaṭaṭ</lang>);
+    <lang xml:lang="ar-Latn">šaṭaṭ</lang> begegnet ein weiteres Mal in einem verwandten Kontext, <q
+     type="koran" versstart="018:014" versend="018:014">Q 18:14</q>:
+    <lang xml:lang="ar-Latn">wa-rabaṭnā ʿalā qulūbihim īdh qāmū fa-qālū rabbunā rabbu l-samāwāti wa-l-arḍi lan nadʿuwa min dūnihi ilāhan la-qad qulnā idhan šaṭaṭā</lang>,
+    »Wir machten ihnen [d.h. den ›Siebenschläfern‹] das Herz stark. Als sie aufstanden und sprachen:
+    Unser Herr ist der Herr von Himmel und Erde. Wir werden zu keinem anderen Gott als zu ihm beten.
+    Sonst würden wir etwas behaupten, was weit abliegt« (vgl. den <q type="kommentar"
+     versstart="018:014" versend="018:014">Kommentar zum Vers</q>). Ähnlich wird in <q type="koran"
+     versstart="018:001" versend="018:001">Q 18:1</q> die Offenbarung an den Propheten affirmiert:
+    <lang xml:lang="ar-Latn">al-ḥamdu li-llāhi lladhī anzala ʿalā ʿabdihi l-kitāba wa-lam yaǧʿal lahu iwaǧā</lang>,
+    »Preis sei Gott, der die Schrift auf seinen Diener herabgesandt und daran nichts
+    Abweichendes/Krummes gemacht hat«.</p>
+  </text>
+  <text versstart="006" versend="007" verfasser="an">
+   <p><lem>wa-ʾannahū kāna riǧālun mina l-ʾinsi yaʿūḏūna bi-riǧālin mina l-ǧinni fa-zādūhum rahaqā / wa-ʾannahum ẓannū ka-mā ẓanantum ʾan lan yabʿaṯa llāhu ʾaḥadā]</lem>
+    <q type="koran" versstart="072:006" versend="072:006">V. 6</q> spielt offenbar auf die pagane
+    Praxis der Konsultierung von Dämonen an, wie sie etwa von Personen wie dem Kāhin oder auch dem
+    Dichter (<lang xml:lang="ar-Latn">šāʿir</lang>) geübt wurde. — In <q type="koran"
+     versstart="072:007" versend="072:007">V. 7</q> ist die Formulierung
+    <lang xml:lang="ar-Latn">baʿaṯa</lang> problematisch. Die Wurzel
+    <lang xml:lang="ar-Latn">BʿṮ</lang> ist mehrdeutig (vgl. <bibl Zotero_Id_1="89WAAM3P">Ambros
+     2004:40</bibl>; <bibl Zotero_Id_1="LYS2E2PY">Badawi und Abdel Haleem 2008:99f.</bibl>), das
+    Verb kann »jemanden (etwa einen Gesandten) aussenden« (vgl. <q type="koran" versstart="002:129"
+     versend="002:129">Q 2:129</q>) meinen oder auch »jemanden zurück zum Leben bringen« (vgl. <q
+     type="koran" versstart="016:038" versend="016:038">Q 16:38</q>). Die Übersetzer entscheiden
+    sich für die Bedeutung »Auferstehung«: <bibl Zotero_Id_1="J6TM6UHR">Paret (<hi rend="italic"
+      >KÜ</hi>, S. 429)</bibl>: »〈…〉 daß Gott niemand (von den Toten) auferwecken würde«, <bibl
+     Zotero_Id_1="J7GZ5X57">Zirker (2003:360)</bibl>: »daß Gott niemanden auferwecken werde«, <bibl
+     Zotero_Id_1="Q9EDU63R">Bobzin (2010:527)</bibl>: »daß Gott keinen auferstehen lassen wird«. Es
+    könnte aber auch — zumal in Verbindung mit dem Koranvortrag — an die Sendung des Propheten
+    selbst gedacht sein, dessen Auftreten ja für die nun gefährdete Funktion der Dämonen von
+    Bedeutung ist. Es ist sein Auftreten, das ihre Art der Wissensvermittlung überflüssig macht
+    (siehe auch unten <q type="inhaltstruktur" versstart="072:001" versend="072:028">»Inhalt und
+     Struktur«</q>).</p>
+  </text>
+  <text versstart="008" versend="009" verfasser="an">
+   <p><lem>wa-ʾannā lamasna s-samāʾa fa-waǧadnāhā muliʾat ḥarasan šadīdan wa-šuhubā / wa-ʾannā kunnā naqʿudu minhā maqāʿida li-s-samʿi fa-man yastamiʿi l-ʾāna yaǧid lahū šihāban raṣadā]</lem>
+    Die Schöpfung von Gestirnen wird als Ausstattung des aufgespannten Himmelszeltes verstanden. —
+    Ihnen kommt gleichzeitig die Funktion zu, die Dämonen zu vertreiben, siehe die benachbarte Sure
+     <q type="koran" versstart="067:005" versend="067:005">Q 67:5 </q>:
+    <lang xml:lang="ar-Latn">wa-la-qad zaiyannā l-samāʾa l-dunyā bi-maṣābiḥā wa-ǧaʿalnāhā ruǧūman li-l-šayāṭīni wa-aʿtadnā lahum ʿadhāba l-saʿīr</lang>,
+    »Wir haben den untersten Himmel mit Leuchten geschmückt und sie (zugleich) zu Wurfgeschossen
+    gemacht — gegen die Satane; für sie halten wir die Strafe des Flammenmeers bereit«. Die
+    Sternschnuppen, <lang xml:lang="ar-Latn">šihāb</lang>, Plural
+    <lang xml:lang="ar-Latn">šuhub</lang>, dienen offensichtlich als »flammende« Geschosse
+    (<lang xml:lang="ar-Latn">ruǧūm</lang>) — <bibl Zotero_Id_1="J6TM6UHR">Paret (<hi rend="italic"
+      >KÜ</hi>, S. 410)</bibl> übersetzt »Feuerbrände«, <bibl Zotero_Id_1="J7GZ5X57">Zirker
+     (2003:360)</bibl> »Feuerkugeln«, <bibl Zotero_Id_1="Q9EDU63R">Bobzin (2010:528)</bibl>
+    »Sternschnuppen«, die den Dämonen verwehren, zu nah an den Himmel zu gelangen —, der
+    Sternschnuppenmythos war bereits in <q type="koran" versstart="015:016" versend="015:018">Q
+     15:16–18</q> Thema (vgl. <bibl Zotero_Id_1="R7C4TXP6"><hi rend="italic">HK 2/1</hi>, S.
+     238</bibl>). Daß Zwischenwesen aus Feuer nur durch Feuer vernichtet werden können, berichtet
+    bereits die rabbinische Literatur, z.B. <hi rend="italic">bYoma</hi> 21b, wo das Feuer der
+    Schechina (<lang xml:lang="hbo-Latn">esh de-shekhinah</lang>) die Engel verbrennt, die sich
+    gegen die Schöpfung des Menschen aufgelehnt hatten (vgl. <hi rend="italic">bSanhedrin</hi> 38b).
+    Die Feuersglut der herabfallenden Sterne dient auch hier als wirksames Mittel gegen die Dämonen
+    und Satane. Offensichtlich sollen sie daran gehindert werden, in den Himmel aufzusteigen.
+    Ähnliche Aussagen finden sich schon frühmittelmekkanisch in <q type="koran" versstart="037:006"
+     versend="037:010">Q 37:6–10</q> und <q type="koran" versstart="015:016" versend="015:018">Q
+     15:16–18</q> (vgl. <bibl Zotero_Id_1="R7C4TXP6"><hi rend="italic">HK 2/1</hi>, S. 171–173 und
+     238</bibl>).</p>
+  </text>
+  <text versstart="010" versend="010" verfasser="an">
+   <p><lem>wa-ʾannā lā nadrī ʾa-šarrun ʾurīda bi-man fi l-ʾarḍi ʾam ʾarāda bihim rabbuhum rašadā]</lem>
+    Die Dämonen/Ǧinnen kennen Gottes Plan nicht; sie sind nicht über ihre Geschicke oder die der
+    Menschen unterrichtet.</p>
+  </text>
+  <text versstart="011" versend="012" verfasser="an">
+   <p><lem>wa-ʾannā minna ṣ-ṣāliḥūna wa-minnā dūna ḏālika kunnā ṭarāʾiqa qidadā / wa-ʾannā ẓanannā ʾan lan nuʿǧiza llāha fi l-ʾarḍi wa-lan nuʿǧizahū harabā]</lem>
+    Die hier wiedergegebene Meinung — <lang xml:lang="ar-Latn">zann</lang> — ist offenbar nicht wie
+    die vorausgehend erwähnten eine ›überholte‹ Meinung, sondern die jetzt in der Sprechzeit
+    erreichte Einsicht. Entgegen der sinnwidrigen Deutung der Übersetzer (<bibl
+     Zotero_Id_1="J6TM6UHR">Paret</bibl>, <bibl Zotero_Id_1="J7GZ5X57">Zirker</bibl>, <bibl
+     Zotero_Id_1="Q9EDU63R">Bobzin</bibl>, <bibl Zotero_Id_1="K3XVV34A">Abdel Haleem</bibl>) ist zu
+    übersetzen mit »wir kamen zu der Einsicht«. Einzig <bibl Zotero_Id_1="I5FDI3AP">Rubin
+     (2005:490)</bibl> erkennt die subtile Erkenntnis der Dämonen: »Und uns wurde klar, daß wir es
+    nicht in der Hand haben, Gott im Lande zu bezwingen, noch ihm zu entkommen durch Flucht.« Es
+    wird offenbar angespielt auf die für die koranische Dämonenlehre grundlegende <q type="koran"
+     versstart="055:001" versend="055:078">Sure 55</q>, in der es in einer Anrede an Menschen und
+    Dämonen/Ǧinnen, faktisch wohl aber gemünzt auf letztere, heißt, <q type="koran"
+     versstart="055:033" versend="055:035">Q 55:33–35</q>:
+    <lang xml:lang="ar-Latn">yā maʿšara l-ǧinni wa-l-insi ini staṭaʿtum an tanfudhū min aqṭāri l-samāwāti wa-l-arḍi fa-nfudhū lā tanfudhūna illā bi-sultān / fa-bi-aiyi ālāʾi rabbikumā tukadhdhibān / yursalu ʿalaikumā šuwāẓun min nārin wa-nuḥāsun fa-lā tantaṣirān</lang>,
+    »O ihr Schar der Geister und Menschen! Wenn ihr vermögt, die Regionen der Himmel und der Erde zu
+    durchdringen, so dringt hindurch! Ihr werdet nicht hindurchdringen, es sei denn kraft einer
+    Vollmacht. / Welche der Zeichen eures Herrn wollt ihr beiden leugnen? / Gegen euch werden
+    Feuerflammen und Erz gesandt, so daß ihr euch nicht zu helfen wißt«. Den Dämonen wird
+    bescheinigt, daß sie entgegen ihrer Praxis der Besetzung des Himmels nunmehr auch ihre
+    Überzeugung geändert haben, indem sie bekennen, die ihnen gesetzten kosmischen Grenzen gerade
+    nicht überschreiten zu können. Zu der Erwägung, die Dämonen könnten — zusammen mit den Menschen
+    — Gottes verbale Schöpfung, die koranische Verkündigung, ›außer Gefecht setzen‹, siehe <q
+     type="koran" versstart="017:088" versend="017:088">Q 17:88</q>:
+    <lang xml:lang="ar-Latn">qul la-ini ǧtamaʿati l-insu wa-l-ǧinnu ʿalā an yaʾtū bi-mithli hādhā l-qurʾāni lā yaʾtūna bi-mithlihi wa-lau kāna baʿḍuhum li-baʿḍin ẓahīrā</lang>,
+    »Wenn Menschen und Dämonen/Ǧinnen sich zusammentäten, um etwas beizubringen, was dieser Lesung
+    gleichkommt, sie könnten nichts beibringen, was ihr gleichkommt, auch wenn sie einander dabei
+    Helfer wären«. In <q type="koran" versstart="072:012" versend="072:012">V. 12</q> geht es aber
+    um die kosmischen Strukturen.</p>
+  </text>
+  <text versstart="013" versend="013" verfasser="an">
+   <p><lem>wa-ʾannā lammā samiʿna l-hudā ʾāmannā bihī fa-man yuʾmin bi-rabbihī fa-lā yaḫāfu baḫsan wa-lā rahaqā]</lem>
+    <q type="koran" versstart="072:013" versend="072:013">V. 13</q> erinnert an die bekannte
+    Projektion des Jüngsten Tages, wo den Gerechten Freiheit von Furcht vor ungerechter Behandlung
+    zugesichert wird. <q type="koran" versstart="020:111" versend="020:112">Q 20:111–112</q>:
+    <lang xml:lang="ar-Latn">wa-ʿanati l-wuǧūhu li-l-ḥaiyi l-qaiyūmi wa-qad khāba man ḥamala ẓulmā / wa-man yaʿmal mina l-ṣāliḥāti wa-huwa muʾminun fa-lā yakhāfu ẓulman wa-lā haḍmā</lang>,
+    »Die Angesichter neigen sich vor dem Lebendigen und Beständigen. Gescheitert ist, wer Frevel mit
+    sich trägt. / Wer aber Gutes tut und dabei gläubig ist, hat kein Unrecht und keine Willkür zu
+    befürchten« (vgl. dazu <bibl Zotero_Id_1="R7C4TXP6"><hi rend="italic">HK 2/1</hi>, S.
+    351</bibl>).</p>
+  </text>
+  <text versstart="014" versend="015" verfasser="an">
+   <p><lem>wa-ʾannā minna l-muslimūna wa-minna l-qāsiṭūna fa-man ʾaslama fa-ʾulāʾika taḥarrau rašadā / wa-ʾamma l-qāsiṭūna fa-kānū li-ǧahannama ḥaṭabā]</lem>
+    Durch das Akzeptieren der Rechtleitung (<lang xml:lang="ar-Latn">hudā</lang>) — siehe den
+    vorherigen Vers — werden die Dämonen/Ǧinnen Gottergebene
+    (<lang xml:lang="ar-Latn">muslimūn</lang>). Es gibt unter ihnen aber auch solche, die sich der
+    Botschaft verweigern (<lang xml:lang="ar-Latn">qāsiṭūn</lang>).
+    <lang xml:lang="ar-Latn">Qāsiṭūn</lang> begegnet in dieser Form nur in Q 72 (<q type="koran"
+     versstart="072:014" versend="072:015">V. 14 und 15</q>); die arabische Wurzel
+    <lang xml:lang="ar-Latn">QSṬ</lang> im Stamm I ist mehrdeutig, ein
+    <lang xml:lang="ar-Latn">ḍidd</lang> (ein Wort mit Gegenbedeutung, vgl. <bibl
+     Zotero_Id_1="8FV32BC2">Nöldeke 1910:98</bibl>). Die Wurzel bedeutet »zusprechen«, »das Rechte
+    tun«, aber in ihrer Gegenbedeutung auch »verweigern«, »abweichen vom rechten Weg« (vgl. <bibl
+     Zotero_Id_1="89WAAM3P">Ambros 2004:224</bibl>; <bibl Zotero_Id_1="LYS2E2PY">Badawi und Abdel
+     Haleem 2008:756</bibl>) — die islamischen Exegeten verstehen bei
+    <lang xml:lang="ar-Latn">qāsiṭūn</lang> den negativen Gegensinn, z.B. Ibn ʿAbbās (gest. 68/687):
+    <lang xml:lang="ar-Latn">kāfirūn</lang>, Muǧāhid (gest. 104/722):
+    <lang xml:lang="ar-Latn">ẓālimūn</lang>.</p>
+   <p>Die Bedeutung des Partizips Aktiv <lang xml:lang="ar-Latn">qāsiṭūna</lang> läßt sich mit einem
+    Blick auf die religiöse Umwelt auch anders erklären. Der <q type="bibel" versstart="091:005"
+     versend="091:005" buch="Ps">Psalmvers 91,5</q> wird in der rabbinischen Exegese auf die Dämonen
+    gedeutet: »Es sagt Rabbi Beraḥya: Es gibt Dämonen, die schießen (durch die Luft) wie Pfeile
+    (<lang xml:lang="hbo-Latn">qosheṭ ke-ḥeṣ</lang>) und fliegen wie Vögel
+    (<lang xml:lang="hbo-Latn">ṭas ke-ʿof</lang>). (Aus welchem Vers) ist das abzuleiten? <hi
+     rend="italic">Du brauchst dich nicht zu fürchten vor dem Grauen der Nacht noch vor dem Pfeil,
+     der am Tag fliegt</hi> (<q type="bibel" versstart="091:005" versend="091:005" buch="Ps">Ps
+     91,5</q>)« (<hi rend="italic">Deuteronomium Rabba</hi> 6,6). Die Dämonen bedrängen die Menschen
+    wie abgeschossene Pfeile und versuchen sie so vom rechten Weg abzubringen; vgl. auch <ref
+     target="#TUK1565">TUK_1565 [Dirk Hartwig]</ref> mit weiteren etymologischen Erklärungen.</p>
+  </text>
+  <text versstart="016" versend="017" verfasser="an">
+   <p><lem>wa-ʾallawi staqāmū ʿala ṭ-ṭarīqati la-ʾasqaināhum māʾan ġadaqā / li-naftinahum fīhi wa-man yuʿriḍ ʿan ḏikri rabbihī yaslukhu ʿaḏāban ṣaʿadā]</lem>
+    <q type="koran" versstart="072:016" versend="072:016">V. 16</q> schließt mit
+    <lang xml:lang="ar-Latn">wa-an lau &gt; wa-allawi</lang> direkt an die Rede der Verkündigung (<q
+     type="koran" versstart="072:001" versend="072:001">V. 1</q>) an und nicht an die Rede der
+    Dämonen/Ǧinnen, wie bereits <bibl Zotero_Id_1="ZNVIBIDF">Bell (1939:610)</bibl> bemerkt hat.
+    Denjenigen, die sich für den (rechten) Weg entscheiden, wird reichlich Wasser versprochen. Hier
+    wäre an eine metaphorische Verwendung von <lang xml:lang="ar-Latn">māʾ</lang>, «Wasser”, als
+    <lang xml:lang="ar-Latn">hudan</lang>, «Rechtleitung”, zu denken, siehe auch den zeitlich
+    benachbarten — auf den möglichen Tod des Propheten anspielenden — Vers in <q type="koran"
+     versstart="067:030" versend="067:030">Q 67:30</q>:
+    <lang xml:lang="ar-Latn">qul a-raʾaitum in aṣbaḥa māʾukum ghauran fa-man yaʾtikum bi-māʾin maʿīn</lang>,
+    »Sprich; ›Was meint ihr wohl, wenn euer Wasser eines Morgens versiegt ist, wer könnte euch dann
+    klares Quellwasser bringen.‹«</p>
+   <p>Die <q type="koran" versstart="072:016" versend="072:017">Verse 16–17</q> haben mit ähnlichem
+    syntaktischen Anschluß doch ein neues Redesubjekt, nämlich Gott; die Verse sind daher nur schwer
+    zu erklären (vgl. auch <bibl Zotero_Id_1="X9T7RF7R">Paret, <hi rend="italic">KKK</hi>, S.
+     491</bibl>), doch ergibt sich bei metaphorischer Deutung von
+    <lang xml:lang="ar-Latn">māʾ</lang> im Sinne von ›Rechtleitung‹ ein organischer
+    Zusammenhang.</p>
+  </text>
+  <text versstart="018" versend="018" verfasser="an">
+   <p><lem>wa-ʾanna l-masāǧida li-llāhi fa-lā tadʿū maʿa llāhi ʾaḥadā]</lem> Die semantisch
+    isolierte Aussage steht auffallend nahe einem Psalmvers, der aber nicht als solcher, sondern in
+    seiner liturgischen Einbettung präsent gewesen sein sollte. Er wird in der Chrysostomos-Liturgie
+    unmittelbar vor der Schriftlesung gesungen: <q type="bibel" versstart="026:012"
+     versend="026:012" buch="Ps">Ps 26, zweiter Halbvers von V. 12</q>, griechisch:
+    <lang xml:lang="gr-Latn">en ekklēsiais eulogēsō se kyrie</lang> (hebräisch:
+    <lang xml:lang="hbo-Latn">be-maqhelim avarekh YHWH</lang>), »Dich, Herr, will ich in den
+    Versammlungen preisen«. Im Munde der Dämonen nimmt sich diese Rede polemisch aus: Die an den
+    Anbetungsstätten mit angerufenen Mittelwesen (zu denen sie selbst gehören) sollen ja gerade
+    eliminiert werden. Der Halbvers erinnert innerkoranisch an vorausgehende Suren, <q type="koran"
+     versstart="025:068" versend="025:068">Q 25:68a</q>:
+    <lang xml:lang="ar-Latn">wa-llaḏīna lā yadʿūna maʿa llāhi ilāhan āḫara</lang>, »und die neben
+    Gott keinen anderen Gott anrufen«, und präziser <q type="koran" versstart="023:117"
+     versend="023:117">Q 23:117</q>:
+    <lang xml:lang="ar-Latn">wa-man yadʿu maʿa llāhi ilāhan āḫara lā burhāna lahu bihi fa-innamā ḥisabuhu ʿinda rabbihi innahu lā yufliḥu l-kāfirūn</lang>,
+    »Wer außer Gott noch eine andere Gottheit anruft, für die er keinen Beweis beibringen kann, für
+    den gibt es die Abrechnung bei seinem Herrn. Den Leugnern wird es nicht wohl ergehen«. — Der
+    Plural von <lang xml:lang="ar-Latn">masǧid</lang>, <lang xml:lang="ar-Latn">masāǧid</lang>,
+    begegnet hier erstmals. Das Wort selbst ist bereits altsüdarabisch belegt und bezeichnet
+    jüdische bzw. christliche Gebetshäuser (vgl. <ref target="#TUK1427">TUK_1427 [Michael
+     Marx]</ref>).</p>
+  </text>
+  <text versstart="019" versend="019" verfasser="an">
+   <p><lem>wa-ʾannahū lammā qāma ʿabdu llāhi yadʿūhu kādū yakūnūna ʿalaihi libadā]</lem> Der Vers
+    wendet den Blick zurück zum Beginn der Sure: Die Dämonen/Ǧinnen belauschen einen Koranvortrag.
+    Abschließend beobachten sie, wie der Gesandte Gottes das Gebet verrichtet, vielleicht während
+    einer Vigil, vgl. den Aufruf zum Gebet <lang xml:lang="ar-Latn">qumi l-laila</lang>, »Stehe die
+    Nacht über (im Gebet)«, in <q type="koran" versstart="073:002" versend="073:002">Q 73:2</q> in
+    Erinnerung an <q type="bibel" versstart="119:062" versend="119:062" buch="Ps">Ps 119,62</q>:
+    <lang xml:lang="hbo-Latn">ḥaṣot layla aqum le-hodot lakh</lang>, »Um Mitternacht stehe ich auf,
+    dich zu preisen« (vgl. auch <bibl Zotero_Id_1="X6J8ZZSZ"><hi rend="italic">HK 1</hi>, S.
+     351</bibl>). Die Dämonen/Ǧinnen bedrängen den Propheten, wobei offenbleibt, ob in positiver
+    oder negativer Absicht. Zu einem ähnlichen Szenario siehe <q type="koran" versstart="070:036"
+     versend="070:037">Q 70:36–37</q>:
+    <lang xml:lang="hbo-Latn">fa-mā li lladhīna kafarū qibalaka muhṭiʿīn / ʿani l-yamīni wa-ʿani l-šimāli ʿizīn</lang>,
+    »Was haben die Leugner, daß sie den Hals nach dir recken, / von rechts her und links in Gruppen
+    herbeikommen?« (vgl. dazu <bibl Zotero_Id_1="X6J8ZZSZ"><hi rend="italic">HK 1</hi>, S.
+     442</bibl>), siehe auch <q type="koran" versstart="054:008" versend="054:008">Q 54:8</q>.</p>
+  </text>
+  <text versstart="020" versend="020" verfasser="an">
+   <p><lem>qul ʾinnamā ʾadʿū rabbī wa-lā ʾušriku bihī ʾaḥadā]</lem> Wechsel der Perspektive mit dem
+    Beginn von Teil III: Auftrag an den Propheten bzw. in seiner Nachfolge auch an den Menschen,
+    Gottes Allmacht zu erkennen und ihm keine Götter und Mittelwesen an die Seite zu stellen. Es
+    handelt sich um die Übernahme des Mottos der Dämonen — <q type="koran" versstart="072:002"
+     versend="072:002">V. 2b-c</q>:
+    <lang xml:lang="ar-Latn">fa-āmanna bihi wa-lan nušrika bi-rabbinā aḥadā</lang>, »Da glaubten wir
+    an ihn. Nie werden wir unserem Herrn jemanden beigesellen« — durch den Propheten. — Die
+    ›Beigesellung‹ erhält in spätmittelmekkanischer Zeit zunehmende Bedeutung (siehe die verwandten
+    Suren <q type="koran" versstart="023:059" versend="023:059">Q 23:59</q>, <q type="koran"
+     versstart="023:092" versend="023:092">92</q>; <q type="koran" versstart="027:059"
+     versend="027:059">27:59</q>, <q type="koran" versstart="027:063" versend="027:063">63</q> und
+     <q type="koran" versstart="018:026" versend="018:026">18:26</q>, <q type="koran"
+     versstart="018:042" versend="018:042">42</q>, <q type="koran" versstart="018:110"
+     versend="018:110">110</q>).</p>
+  </text>
+  <text versstart="021" versend="021" verfasser="an">
+   <p><lem>qul ʾinnī lā ʾamliku lakum ḍarran wa-lā rašadā]</lem> Wiederaufnahme einer Aussage der
+    Dämonen durch den Propheten, siehe <q type="koran" versstart="072:010" versend="072:010">V.
+     10</q>:
+    <lang xml:lang="ar-Latn">wa-annā lā nadrī a-šarrun urīda bi-man fī l-arḍi am arāda bihim rabbuhum rašadā</lang>,
+    »Wir wissen nicht, ob Übel gewollt wird für die auf der Erde oder ob ihr Herr Rechtleitung für
+    sie will«.</p>
+  </text>
+  <text versstart="022" versend="022" verfasser="an">
+   <p><lem>qul ʾinnī lan yuǧīranī mina llāhi ʾaḥadun wa-lan ʾaǧida min dūnihī multaḥadā]</lem> Es
+    gibt keine Zuflucht außer bei Gott, vgl. auch <q type="koran" versstart="018:027"
+     versend="017:027">Q 18:27</q>:
+    <lang xml:lang="ar-Latn">wa-lan taǧida min dūnihi multaḥadā</lang>, »Und du wirst außer ihm
+    keine Zuflucht finden«, eine Sure, die in die gleiche Verkündigungsszeit fällt. Die Frage der
+    Zuflucht beschäftigt die Gemeinde seit längerem; sie war bereits Thema in der wenig früheren
+    Sure <q type="koran" versstart="023:050" versend="023:050">Q 23:50</q>:
+    <lang xml:lang="ar-Latn">wa-ǧaʿalnā bna Maryama wa-ummahu āyatan wa-āwaināhumā ilā rabwatin ḏāti qarārin wa-maʿīn</lang>,
+    »Wir machten den Sohn Marias und seine Mutter zu einem Zeichen und ließen sie Zuflucht finden
+    auf einer Höhe«. Noch wichtiger ist allerdings ihre Einbettung in die katechetische Frage in <q
+     type="koran" versstart="023:088" versend="023:088">Q 23:88</q>:
+    <lang xml:lang="ar-Latn">qul man bi-yadihi malakūtu kulli šaiʾin wa-huwa yuǧīru wa-lā yuǧāru ʿalaihi in kuntum taʿlamūn</lang>,
+    »Sprich: ›In wessen Hand ist die Herrschaft über alle Dinge, der Schutz gewährt und selbst des
+    Schutzes nicht bedarf, wenn ihr es wißt?‹«. Es sollte hier auch wieder an die sich zuspitzende
+    Krise gedacht sein, die die spätmittelmekkanische Zeit auszeichnet. Die Gemeinde steht vor der
+    ungelösten Frage nach ihrer Zukunft: Werden sie die Bestrafung der Gegner erleben (Modell Noah)
+    oder ihr zum Opfer fallen (Modell Pharao), oder gibt es eine Zuflucht bei Gott (Modell Maria und
+    Jesus)? Siehe zu dem Komplex den Kommentar zu <q type="inhaltstruktur" versstart="023:001"
+     versend="023:118">Q 23 (unter »Inhalt und Struktur«)</q>. Das zentrale Thema der Zuflucht bei
+    Gott findet sich bereits in den Psalmen, <q type="bibel" versstart="091:001" versend="091:002"
+     buch="Ps">Ps 91,1–2</q>:
+    <lang xml:lang="hbo-Latn">yoshev be-seter ʿelyon be-ṣel shadday yitlonan / omer la-YHWH maḥsi u-meṣudati elohay evṭaḥ bo</lang>,
+    »Wer im Schutz des Höchsten wohnt und ruht im Schatten des Allmächtigen, / der sagt zum Herrn:
+    ›Du bist für mich Zuflucht und Burg, mein Gott, dem ich vertraue‹«. Das Gottesprädikat »Schutz«,
+    »Zuflucht«, <lang xml:lang="gr-Latn">katafygē</lang>, begegnet in den ostkirchlichen Liturgien
+    häufig, siehe <q type="kommentar" versstart="023:084" versend="023:089">Kommentar zu Q
+     23:84–89</q>. Der Terminus (<lang xml:lang="ar-Latn">muǧīr</lang>) stammt aber aus der
+    Lebenswelt der altarabischen Stammesgesellschaft (vgl. <bibl Zotero_Id_1="CMG5QLFD">LeCerf
+     1965</bibl>). Bereits Georg Jacob hat darauf hingewiesen: »Sicherheit und Besitz des Einzelnen
+    wurde durch die Autorität des <hi rend="italic">Stammes</hi> garantiert. Die Habe dessen, der
+    sich nicht unter dem Schutze (<lang xml:lang="ar-Latn">giwâr</lang>) eines Stammes befindet, ist
+    in der Wüste vogelfrei« <bibl Zotero_Id_1="4KPXNK64">(Jacob <hi rend="superscript"
+     >2</hi>1897:211)</bibl>.</p>
+  </text>
+  <text versstart="023" versend="023" verfasser="an">
+   <p><lem>ʾillā balāġan mina llāhi wa-risālātihī wa-man yaʿṣi llāha wa-rasūlahū fa-ʾinna lahū nāra ǧahannama ḫālidīna fīhā ʾabadā]</lem>
+    Das Kolon <lang xml:lang="ar-Latn">man yaʿṣi llāha wa-rasūlahu</lang> ist verdächtig, denn das
+    Junktim (<lang xml:lang="ar-Latn">allāh — rasūl</lang>, »Gott — Gesandter«) begegnet in Medina
+    über 80mal, und zwar nur dort. Es könnte hierin ein Hinweis auf einen medinischen Zusatz
+    vorliegen.</p>
+  </text>
+  <text versstart="024" versend="024" verfasser="an">
+   <p><lem>ḥattā ʾiḏā raʾau mā yūʿadūna fa-sa-yaʿlamūna man ʾaḍʿafu nāṣiran wa-ʾaqallu ʿadadā]</lem>
+    Die enttäuschende Eröffnung der eigenen Schwäche wird sich erst am Jüngsten Tag enthüllen, wenn
+    die als militärisch vorgestellte Hilfeleistung durch die Nebengötter ausbleibt: in <q
+     type="koran" versstart="037:167" versend="037:177">Q 37:167–177</q> heißt es:
+    <lang xml:lang="ar-Latn">wa-in kānū la-yaqūlūn / lau anna ʿindanā ḏikran mina l-auwalīn / la-kunnā ʿibāda llāhi l-muḫlaṣīn / fa-kafarū bihi fa-saufa yaʿlamūn / wa-la-qad sabaqat kalimatunā li-ʿibādina l-mursalīn / innahum la-humu l-manṣūrūn / wa-inna ǧundanā la-humu l-ġālibūn 〈…〉</lang>,
+    »Sie pflegten zu sagen: ›Gäbe es bei uns nur eine Mahnung von den Vorvätern, / so wären wir die
+    auserkorenen Diener Gottes!‹ / Sie glaubten nicht daran — sie werden es schon erfahren! / Schon
+    zuvor ist unser Wort an unsere gesandten Diener ergangen: / Sie sind es, denen Beistand
+    (<lang xml:lang="ar-Latn">al-manṣūrūn</lang>) zuteil wird, / und unser Heer ist es, welches
+    obsiegen wird. 〈…〉« (siehe <bibl Zotero_Id_1="R7C4TXP6"><hi rend="italic">HK 2/1</hi>, S.
+     204</bibl>). Die frühmittelmekkanische Sure hat bereits ein Vorbild in der ihr unmittelbar
+    vorausgehenden Sure <q type="koran" versstart="054:043" versend="054:048">Q 54:43–48</q>:
+    <lang xml:lang="ar-Latn">a-kuffārukum khairun min ulāʾikum am lakum barāʾatun fī l-zubur / am yaqūlūna naḥnu ǧamīʿun muntaṣir / sa-yuhzamu l-ǧamʿu wa-yuwallūna l-dubur 〈…〉</lang>,
+    »Sind die Ungläubigen unter euch etwa besser als jene, oder verfügt ihr über einen Freibrief in
+    den Schriften? / Sagen sie etwa: ›Wir sind ein Heer, dem Hilfe geleistet wird
+    (<lang xml:lang="ar-Latn">muntaṣir</lang>)?‹ / Doch ihre Schar wird besiegt werden und die
+    Flucht ergreifen. 〈…〉« (siehe <bibl Zotero_Id_1="R7C4TXP6"><hi rend="italic">HK 2/1</hi>, S.
+     131–133</bibl>).</p>
+  </text>
+  <text versstart="025" versend="025" verfasser="an">
+   <p><lem>qul ʾin ʾadrī ʾa-qarībun mā tūʿadūna ʾam yaǧʿalu lahū rabbī ʾamadā]</lem> Es wird erneut
+    die Frage aufgeworfen, ob die — innerweltliche — Strafe bald (noch zu Lebzeiten des Verkünders)
+    oder erst später eintreffen wird. Es schließt damit an einen Diskurs an, der bereits Thema von
+     <q type="koran" versstart="023:001" versend="023:118">Q 23</q> war.</p>
+  </text>
+  <text versstart="026" versend="027" verfasser="an">
+   <p><lem>ʿālimu l-ġaibi fa-lā yuẓhiru ʿalā ġaibihī ʾaḥadan ʾillā mani rtaḍā min rasūlin fa-ʾinnahū yasluku min baini yadaihi wa-min ḫalfihī raṣadā]</lem>
+    Wie in <q type="koran" versstart="072:025" versend="072:025">V. 25</q> wird das geheime Wissen
+    Gottes betont, welches er nur auserwählten Empfängern mitteilt (siehe auch <bibl
+     Zotero_Id_1="TFQQNYBK">Neuwirth 2020</bibl>). Die spätmekkanische Sure <q type="koran"
+     versstart="042:051" versend="042:051">Q 42:51</q> nennt hier Offenbarungen und Traumvisionen:
+    <lang xml:lang="ar-Latn">wa-mā kāna li-bašarin an yukallimahu llāhu illā waḥyan aw min warāʾi ḥiǧābin aw yursila rasūlān fa-yūḥiya bi-idhnihi mā yašāʿu 〈…〉</lang>,
+    »Und es steht keinem Sterblichen an, daß Gott mit ihm spricht, es sei denn (mittelbar) durch
+    Eingebung oder hinter einem Vorhang oder indem er einen Boten sendet, der (ihm) dann mit seiner
+    Erlaubnis eingibt, was er will 〈…〉«. Die von dieser Exklusion ausgenommenen Gott wohlgefälligen
+    Gesandten werden von Wächtern — gemeint scheinen die Lichter am Himmelszelt zu sein (vgl. <q
+     type="koran" versstart="072:008" versend="072:009">V. 8–9</q>) — begleitet, so daß kein Dämon
+    sich ihnen nähern kann. — <lang xml:lang="ar-Latn">Ġaib</lang>, »das Verborgene«, wird ein
+    zentrales, auch narratives Thema in <q type="koran" versstart="018:001" versend="018:110">Sure
+     18</q>, die die spätmittelmekkanische Phase beschließt.</p>
+  </text>
+  <text versstart="028" versend="028" verfasser="an">
+   <p><lem>li-yaʿlama ʾan qad ʾablaġū risālāti rabbihim wa-ʾaḥāṭa bi-mā ladaihim wa-ʾaḥṣā kulla šaiʾin ʿadadā]</lem>
+    Gott will sicherstellen, daß die Gesandten das Gehörte auch ausrichten. Der Schutz der Wächter
+    alleine (vgl. <q type="koran" versstart="072:027" versend="072:027">V. 27</q>) scheint kein
+    Garant für die Integrität der Botschaft zu sein, Gott selbst umfaßt ihr Wissen und zählt alles
+    nach. — Das die Sure beschließende Satzglied ist Echo von <q type="koran" versstart="019:094"
+     versend="019:094">Q 19:94</q>:
+    <lang xml:lang="ar-Latn">la-qad aḥṣāhum wa-ʿaddahum ʿaddā</lang>, »Er hat sie (alle Wesen)
+    berechnet und genau abgezählt« (vgl. <bibl Zotero_Id_1="R7C4TXP6"><hi rend="italic">HK 2/1</hi>,
+     S. 633</bibl>).</p>
+  </text>
+ </kommentar>
+ <analysedeutungkurz>
+
+  <text versstart="000" versend="028" verfasser="an">
+   <p/>
+  </text>
+ </analysedeutungkurz>
+ <analysedeutung>
+  <EntwicklungsgeschichtlicheEinordnungkurz>
+   <text versstart="000" versend="028" verfasser="an">
+    <p/>
+   </text>
+  </EntwicklungsgeschichtlicheEinordnungkurz>
+  <EntwicklungsgeschichtlicheEinordnung>
+   <text versstart="000" versend="028" verfasser="an">
+    <p>Die Einordnung von <q type="koran" versstart="072:001" versend="072:028">Q 72</q> ist
+     umstritten: <bibl Zotero_Id_1="8JJ8PWXF">Gustav Weil (1844:72)</bibl> hat sie in die letzten
+     Jahre in Mekka datiert, sie paßt allerdings besser zu den umfassenderen Engel- und
+     Dämonendiskursen der spätmittelmekkanischen Zeit, denen <bibl Zotero_Id_1="RF8JH6HZ"
+      >Nöldeke/Schwally (<hi rend="italic">GdQ<hi rend="superscript">2</hi></hi>, S. 117)</bibl> zu
+     Unrecht jeden ›gemeinschaftlichen Charakter‹ absprechen. Man wird angesichts des
+     problematischen Textzustands von <q type="koran" versstart="072:001" versend="072:028">Q 72</q>
+     (siehe oben <q type="textkritik" versstart="072:001" versend="072:028">»Textkritik«</q>) nicht
+     zu einer sicheren Anordnung finden; <bibl Zotero_Id_1="RF8JH6HZ">Nöldeke/Schwally (<hi
+       rend="italic">GdQ<hi rend="superscript">2</hi></hi>, S. 132f.)</bibl> stellen <q type="koran"
+      versstart="072:001" versend="072:028">Q 72</q> nach <q type="koran" versstart="043:001"
+      versend="043:089">Q 43</q>, aber vor <q type="koran" versstart="067:001" versend="067:030">Q
+      67</q>; die drei Suren weisen sachlich deutliche Gemeinsamkeiten auf, insofern sie nach Gottes
+     Allmacht im Verhältnis zu den Geistwesen fragen. <q type="koran" versstart="072:001"
+      versend="072:028">Q 72</q> führt die Diskussion von <q type="koran" versstart="043:016"
+      versend="043:020">Q 43:16–20</q> (Polemik um pagane Göttinnen/weiblich vorgestellte Engel) und
+      <q type="koran" versstart="023:001" versend="023:118">Q 23</q> (detailliert ausgearbeitete
+     Variante von <q type="koran" versstart="043:001" versend="043:089">Q 43</q>) weiter und spielt
+     auf den <lang xml:lang="ar-Latn">iʿǧāz</lang>-Anspruch aus <q type="koran" versstart="017:088"
+      versend="017:088">Q 17:88</q> an (<lang xml:lang="ar-Latn">iʿǧāz</lang>, »Unnachahmlichkeit« —
+     die Dämonen könnten nichts Vergleichbares beibringen). Die in <q type="koran"
+      versstart="072:001" versend="072:028">Q 72</q> fokussierte Geisterwelt ist in <q type="koran"
+      versstart="027:001" versend="027:093">Q 27</q> narrativ Thema. Formal folgt <q type="koran"
+      versstart="072:001" versend="072:028">Q 72</q> dem seltenen Reim 3C3Cā aus <q type="koran"
+      versstart="018:001" versend="018:110">Q 18</q>, der auch weite Teile von <q type="koran"
+      versstart="019:001" versend="019:098">Q 19</q> beherrscht. Man wird über die sehr vage
+     Klassifizierung, daß <q type="koran" versstart="072:001" versend="072:028">Q 72</q> in die
+     zweite Hälfte der spätmittelmekkanischen Periode gehört, nicht hinauskommen.</p>
+    <p>Die Ausfüllung einer langen Versfolge (<q type="koran" versstart="072:001" versend="072:015"
+      >Q 72:1–15</q>) mit Ausführungen über die Geistwesen, <lang xml:lang="ar-Latn">al-ǧinn</lang>,
+     die sich sogar in direkter Rede zu ihrem Status gegenüber den Menschen und ihren
+     Glaubenswahrheiten äußern, geht weit über alle vorausgehenden Thematisierungen von
+     Dämonen/Ǧinnen hinaus. Mit <q type="koran" versstart="072:001" versend="072:028">Q 72</q> ist
+     offenbar eine Richtigstellung beabsichtigt: Die in den frühmekkanischen Suren bestehende
+     Verbindung der Geistwesen mit dem für Dichter charakteristischen Zustand der ›kreativen
+     Ekstase‹, des <lang xml:lang="ar-Latn">ǧunūn</lang>, tritt nun gänzlich in den Hintergrund: Die
+     Geistwesen in <q type="koran" versstart="072:001" versend="072:028">Q 72</q> sind keine
+     Wüstengeister mehr, sondern verstehen sich als Wissensträger. Sie vertreten theologische
+     Positionen, sie geben Auskunft über die Art ihres — über lange Zeit hinweg praktizierten —
+     Wissenserwerbs, ihr in <q type="koran" versstart="037:006" versend="037:010">Q 37:6–10</q>, <q
+      type="koran" versstart="015:016" versend="015:018">15:16–18</q> und <q type="koran"
+      versstart="026:210" versend="026:222">26:210–222</q> thematisiertes Lauschen an den
+     Sphärenrändern, um Wissen aus der himmlischen Ratsversammlung aufnehmen zu können. Sie
+     begründen ihren Verzicht auf diese Vermittlerrolle mit ihrer ›Konversion‹, ihrer aus einer
+     Koranrezitation gewonnenen Überzeugung von den Glaubensinhalten der Verkündigung. Daß mit dem
+     Kommen der Verkündigung die Ära des dämonisch vermittelten Wissens ein Ende hat, wurde bereits
+     in <q type="koran" versstart="015:016" versend="015:018">Q 15:16–18</q> dargestellt, wo von der
+     Verfolgung der Lauscher mit feurigen Geschossen (»Sternschnuppen«) die Rede war. Dieser Mythos
+     sollte nicht sogleich als folkloristisch abgetan werden. Die Vorstellung von beseelten
+     Bewohnern der Himmelssphären — Sterne oder Engel, nach <bibl Zotero_Id_1="QVE9D8QB">Schäfer
+      (1975)</bibl> nicht immer klar zu unterscheiden — ist auch im frühen Judentum geläufig (siehe
+     jetzt auch <bibl Zotero_Id_1="CJXJ78JD">Beate Ego 2004</bibl>). Daß diese Geistwesen eine
+     Gefährdung der kosmischen Ordnung darstellen, wurde in <q type="koran" versstart="055:001"
+      versend="055:078">Q 55</q>, der ›Grundschrift einer Dämonen/Ǧinnen-Theologie‹, deutlich
+     gemacht, wo die Geistwesen zu einem Herausspringen aus den kosmischen Grenzen provoziert, aber
+     sogleich wieder zurückgerufen wurden (<q type="koran" versstart="055:033" versend="055:035">Q
+      55:33–35</q>, siehe oben zu <q type="kommentar" versstart="072:012" versend="072:012">V.
+      12</q>).</p>
+    <p>Daß sie nach <q type="koran" versstart="055:001" versend="055:078">Q 55</q> und <q
+      type="koran" versstart="038:001" versend="038:088">Q 38</q> aus einem gegenüber der
+     menschlichen Schöpfungsmaterie edleren Stoff stammen, nämlich Feuer, wurde programmatisch für
+     die dann folgende Diskussion gleich zu Anfang der Dämonen/Ǧinnen-Thematisierung in <q
+      type="koran" versstart="055:001" versend="055:078">Q 55</q> festgestellt, <q type="koran"
+      versstart="055:014" versend="055:015">Q 55:14–15</q>:
+     <lang xml:lang="ar-Latn">ḥalaqa l-insāna min ṣalṣālin ka-l-faḫḫār / wa-ḫalaqa l-ǧānna min māriǧin min nār</lang>,
+     »Er schuf den Menschen aus feuchter Erde wie Töpferware / und schuf die Geister aus einem
+     Gemisch von Feuer«. Folglich werden sie die gesamte <q type="koran" versstart="055:001"
+      versend="055:078">Sure 55</q> hindurch mit den Menschen als offenbar gleichgewichtig in einem
+     Atemzug genannt, beide werden im Refrain der Sure zusammen im Dual angesprochen:
+     <lang xml:lang="ar-Latn">fa-bi-aiyi ālāʾi rabbikumā takaḏḏibān</lang>, »Welche Zeichen eures
+     Herrn wollt ihr beiden leugnen?« (<q type="koran" versstart="055:013" versend="055:013">Q
+      55:13</q> usw.). Gewiß, die Kraft, Gottes Ordnung zu durchkreuzen, ein Anspruch, der ihnen
+     offenbar unterstellt wird, wird ihnen abgesprochen, ein Gedanke, der auch in <q type="koran"
+      versstart="072:001" versend="072:028">Q 72</q> wieder begegnet. Sie bleiben jedoch Realität.
+     Mit dem einen herausragenden Vertreter der Geistwesen, Diabolos/Iblīs, der in <q type="koran"
+      versstart="015:026" versend="015:048">Q 15:26–48</q> und <q type="koran" versstart="038:071"
+      versend="038:085">38:71–85</q> sich listenreich sogar die Einflußnahme auf das Geschick der
+     Menschen erschleicht, sind die Dämonen/Ǧinnen seit mittelmekkanischer Zeit auch theologisch
+     eine nicht zu übersehende Größe. <lang xml:lang="ar-Latn">Aš-šaiṭān</lang>, manchmal
+     <lang xml:lang="ar-Latn">aš-šayāṭīn</lang>, ist Gegenstand persönlicher Ängste selbst von
+     Gläubigen, die in <q type="koran" versstart="023:097" versend="023:098">Q 23:97–98</q> benannt
+     werden:
+     <lang xml:lang="ar-Latn">wa-qul rabbi aʿūdhu bika min hamazāti l-shayāṭīn / wa-aʿūdhu bika rabbi an yaḥḍurūni</lang>,
+     »Und sprich: ›Mein Herr, ich suche meine Zuflucht bei dir vor den stichelnden Einflüsterungen
+     der Satane. / Und ich suche meine Zuflucht bei dir, mein Herr, davor, daß sie zu mir kommen!‹«,
+     und die sich sogar in einer kurzen apotropäischen Sure, <q type="koran" versstart="114:001"
+      versend="114:006">Q 114</q> (<q type="koran" versstart="072:001" versend="072:028">siehe
+      oben</q>), niedergeschlagen haben.</p>
+    <p>Seit dem Zusatz zu <q type="koran" versstart="019:001" versend="072:028">Q 19</q> und damit
+      <q type="koran" versstart="043:001" versend="043:089">Q 43</q> ist Jesus eine vertraute Figur
+     im Koran, gelegentlich sogar ein <lang xml:lang="fr-Latn">present absentee</lang> (dazu die
+     <?oxy_comment_start author="Tobias J. Jocham" timestamp="20230905T130022+0200" comment="Verknüpfung ergänzen!"?>»Einleitung«
+     oben S. 34–38<?oxy_comment_end?>), etwa wenn bestimmte aus den Evangelien bekannten Textsorten
+     wie die Gleichnisreden oder die Seligpreisungen eine Rolle spielen (siehe den <q
+      type="kommentar" versstart="023:000" versend="023:118">Kommentar zu Q 23</q> und <bibl
+      Zotero_Id_1="UC3T9FVT">Neuwirth 2015b</bibl>) — auch wenn sein Name dabei nicht fällt. Jesu
+     durch die Evangelien kanonisierten Wunder, sind zwar im Koran nicht präsent, haben aber eine
+     Entsprechung in der verbalen Zurückweisung der Geistwesen, wie etwa in unserer Sure.</p>
+    <p>Wie der dritte — nunmehr wieder im Mund des Verkünders vorzustellende — Surenteil (<q
+      type="koran" versstart="072:020" versend="072:028">V. 20–28</q>) bezeugt, erweisen sich die
+     Geistwesen sogar selbst als beispielgebend für die Formulierung bestimmter Überzeugungen, die
+     der Verkünder wiederholt.</p>
+    <p>Neben dieser im Koran einzigartigen Redesituation ist auch die ungewöhnliche Markierung einer
+     größeren Anzahl von Aussagen als »wörtlich«, nämlich mit <lang xml:lang="ar-Latn">anna</lang>
+     eingeführter Rede der Geistwesen (<q type="koran" versstart="072:001" versend="072:001">V.
+      1</q> bzw. <q type="koran" versstart="072:003" versend="072:013">V. 3–13</q>) ein
+     Alleinstellungsmerkmal der Sure, ein Zug, der den Übersetzern Schwierigkeiten bereitet hat.
+     Angesichts der schnellen Folge von 3C3Cā-Reimen, die ja nur durch ein begrenztes Arsenal von
+     syntaktischen Mitteln erreicht werden kann, tritt auch so manche Aussage semantisch hinter dem
+     beherrschenden Klang des Reims in den Hintergrund, so daß das Nachverfolgen des Gedankengangs
+     öfters erschwert wird.</p>
+   </text>
+  </EntwicklungsgeschichtlicheEinordnung>
+  <Inhaltstrukturkurz>
+   <text versstart="000" versend="028" verfasser="an">
+    <p/>
+   </text>
+  </Inhaltstrukturkurz>
+  <Inhaltstruktur>
+   <text versstart="000" versend="028" verfasser="an">
+    <p>Die Sure ist einzigartig, da sie sich durch eine doppelte Autorisierung auszeichnet,
+     einerseits durch den Verkünder, andererseits durch die Dämonen. Ob man der Sure eine
+     dreiteilige Struktur unterlegen will (so <bibl Zotero_Id_1="4WEWN8NZ"><hi rend="italic"
+       >SKMS</hi>, S. 288</bibl>, wo die ersten drei Verse, als Rahmenerzählung <hi rend="italic">in
+      nuce</hi> als Surenteil gerechnet werden) oder ob man von zwei Teilen sprechen will, einem
+     gefüllt mit Rede der Geistwesen (<q type="koran" versstart="072:001" versend="072:013">V.
+      1–13</q>) und einem formal den Konventionen der Verkündigung entsprechenden (<q type="koran"
+      versstart="072:020" versend="072:023">V. 20–23</q>, <q type="koran" versstart="072:025"
+      versend="072:026">25–26</q>), ist wenig relevant. Die Sure als ganze fällt aus dem Rahmen,
+     insofern sie über längere Textstrecken hinweg andere Redner als Gott selbst bzw. Protagonisten
+     eines biblischen Narrativs sprechen läßt. Denn selbst wenn man <q type="koran"
+      versstart="072:001" versend="072:003">V. 1–3</q> als kurze (Rahmen-)Erzählung gelten läßt,
+     bleibt das Auftreten von Geistwesen, die anderswo als ›Partnerwesen‹ der Menschen figurieren,
+     ihr Auftreten als Träger bestimmten Wissens, die sich über Gott und über die Menschen äußern,
+     außergewöhnlich. Die Rede der Geistwesen wird durch den Verkünder vermittelt, der wiederum zu
+     dieser Vermittlung durch den Imperativ <lang xml:lang="ar-Latn">qul</lang> autorisiert wird:
+     eine doppelte Einbettung der Dämonen/Ǧinnenrede also. Was die Geistwesen erzählen, ist ein
+     Konversionsbericht und eine Darlegung ihrer Glaubensmeinungen. Ausgelöst ist das Ereignis durch
+     das Mithören einer Koranrezitation. Daß solche akustischen Erlebnisse eine Umkehr bei Hörern
+     auslösen können, wird später zu einem Topos der islamischen Frömmigkeitsliteratur (siehe <bibl
+      Zotero_Id_1="L8QCYDXE">Kermani 1999</bibl>). Daß auch bei den Dämonen ein geistiges Erwachen
+     durch ein akustisches Erlebnis bewirkt wird, ist angesichts ihrer notorischen Lauschtätigkeit
+     wenig erstaunlich. Bei ihrem Urteil
+     <lang xml:lang="ar-Latn">innā samiʿnā qurʾānan ʿaǧabā</lang>, »Wir hörten einen (fremdartig)
+     wundersamen Vortrag« mag man an das große Hör-Erlebnis
+     <lang xml:lang="fr-Latn">par excellence</lang> denken, das in der byzantinischen Hymnik als
+     <lang xml:lang="gr-Latn">xenon akousma, xenon theama</lang>, »fremdartige Hör-, fremdartige
+     Seherfahrung«, gefeiert wird, siehe das Pentekostarion zum Pfingstsonntag. Der Effekt zeigt
+     sich auch bei den Geistwesen sofort, die Sprechergruppe wird zu Gläubigen, die geloben, das
+     offenbar wichtigste Theologumenon ernst zu nehmen, nämlich Gott keine Familie zuzuschreiben.
+     Das ist offenbar der Stand der Dinge, der für ihre weiteren Ausführungen vorauszusetzen ist.
+     Auf dieser Basis werden die früheren Wahrnehmungen ihrer Funktion als Menschen irreführende
+     bzw. illegitim himmlisches Wissen weitergebende Geister referiert, wobei der Akzent auf den
+     nunmehr — nach dem Durchdringen des neuen, prophetischen Wissens — veränderten Verhältnissen
+     liegt. Nicht nur wird die Unfähigkeit, die kosmischen Grenzen zu durchbrechen, eingestanden,
+     auch die Abgeschnittenheit von dem arkanen Wissen Gottes wird offengelegt. Dadurch fällt auf
+     die ›Grundschrift der koranischen Dämonentheologie‹, <q type="koran" versstart="055:001"
+      versend="055:078">Q 55</q>, ein neues Licht: Die Dämonen sind nicht nur faktisch unfähig, die
+     Grenzen des Kosmos zu durchbrechen, sie sind sich auch dessen bewußt. Wie im Neuen Testament
+     (Evangelien und Apokalypse), siehe <bibl Zotero_Id_1="B9UY9XYD">Pagels 1995</bibl>, ist die
+     antagonistische Vorstellung von einer Dämonen- und einer Menschenwelt auch im Koran, wo die
+     Geistwesen kontinuierlich ihre Rolle behaupten, damit aber nicht nachhaltig bewältigt worden.
+     Interessant ist, daß wie bei dem byzantinischen Theologen Evagrios, der die Dämonen mit
+     Schriftversen zu vertreiben suchte, auch im Koran Verse der Offenbarung bei der Überwältigung
+     der Dämonen instrumental sind. <q type="koran" versstart="072:001" versend="072:028">Q 72</q>
+     ist ein einzigartiger Versuch der Intervention in diese Debatte.</p>
+   </text>
+  </Inhaltstruktur>
+  <situativitätkurz>
+   <text versstart="000" versend="028" verfasser="an">
+    <p/>
+   </text>
+  </situativitätkurz>
+  <Situativität>
+   <text versstart="000" versend="028" verfasser="an">
+    <p>Die Sure autorisiert sich als göttliche Eingebung (<lang xml:lang="ar-Latn">waḥy</lang>):
+     <lang xml:lang="ar-Latn">uḥiya ilaiya inna</lang>, »offenbart wurde mir«. Es ist jedoch ein
+     ungewöhnlicher Einstieg, insofern als er an eine Erwähnung der gängigen Verhaltensweise der
+     Dämonen, nämlich das Lauschen am Himmelsgewölbe, anschließt. Die Dämonen wollen an dem
+     verborgenen Wissen (<lang xml:lang="ar-Latn">al-ġaib</lang>) Anteil haben. Die vom Verkünder
+     erfahrene Koranrezitation ist anders als das Erlauschte der Dämonen eine — seit Frühmekka — von
+     Gott legitimierte Botschaft, vgl. <q type="koran" versstart="053:010" versend="053:010">Q
+      53:10</q>: <lang xml:lang="ar-Latn">fa-auḥā ilā ʿabdihi mā auḥā</lang>, »da gab er seinem
+     Diener ein, was er ihm eingab«. Sie ist durch Wächter geschützt, so daß sie im
+     Verkündigungsprozeß nicht korrumpiert werden kann (<q type="koran" versstart="072:027"
+      versend="072:027">Q 72:27</q>). Es ist überraschend zu sehen, daß die Bekenntnisse der Dämonen
+     als Vorlagen für die Aussagen des Verkünders fungieren, so in <q type="koran"
+      versstart="072:020" versend="072:020">V. 20</q>, wo der Prophet die Allmacht Gottes anerkennt
+     und so den Grundsatz der Dämonen übernimmt, nämlich Gott nichts beizugesellen (<q type="koran"
+      versstart="072:003" versend="072:003">V. 3</q>/<q type="koran" versstart="072:020"
+      versend="072:020">20</q>). Den Dämonen gleich erkennt auch der Prophet an, daß er nicht der
+     Herr über das Schicksal der Menschen ist (<q type="koran" versstart="072:010" versend="072:010"
+      >V. 10</q>/<q type="koran" versstart="072:021" versend="072:021">21</q>).</p>
+    <p>Die Ǧinnen/Dämonen gehören als Wüstengeister in die Vorstellungswelt der paganen Araber; die
+     paganen Hörer assoziieren mit ihnen in erster Linie Dichtung. Sie sind als solche auch im Koran
+     präsent, und zwar in Form der Anwürfe der mekkanischen Gegner des Verkünders, die wiederholt
+     insistieren, er sei von einem Ǧinn besessen (<lang xml:lang="ar-Latn">maǧnūn</lang>) —
+     frühmekkanisch. Erst in Mittelmekka kontert der Verkünder und verweist auf die
+     ›Außer-Gefecht-Setzerei‹ seiner Botschaft (<lang xml:lang="ar-Latn">iʿǧāz</lang>), die weder
+     Dämonen/ Ǧinnen noch Menschen hervorbringen könnten (siehe <q type="koran" versstart="017:088"
+      versend="017:088">Q 17:88</q>). Auch zu Beginn von <q type="koran" versstart="072:001"
+      versend="072:028">Q 72</q> geht es um die ästhetische Qualität des Koran. Die Dämonen
+     belauschen — jetzt gänzlich von den altarabischen Wüstengeistern unterschieden — einen
+     Koranvortrag, der von ihnen als wundersam wahrgenommen wird. Sie sind so ergriffen von dem
+     Gehörten, daß sie sogleich den einen Gott bekennen. Sie schwören der Beigesellung ab. Ihre
+     Bekenntnisse füllen den ersten und zweiten Teil der Sure. Im ersten/zweiten, narrativen Teil
+     der Sure werden die Geistwesen nach dem Vorbild der jüdisch-christlichen Tradition vorgestellt,
+     als Sprecher und Berichterstatter — sie werden sogleich in ihrer Macht beschnitten. Sie (oder
+     zumindest eine Gruppe von ihnen) konvertiert. Ihre Hörer sind offenbar die Hörer des Propheten.
+     Die Reden enden abrupt. Der Fokus verlagert sich dann auf den Propheten. Der Verkünder tritt im
+     dritten Hauptteil jetzt in einen Gott-Mensch-Dialog ein, in dem ihm durch
+     <lang xml:lang="ar-Latn">qul</lang> eingeleitete Anweisungen gegeben werden.</p>
+   </text>
+  </Situativität>
+
+ </analysedeutung>
+
+</korankommentar>

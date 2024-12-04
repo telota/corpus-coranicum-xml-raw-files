@@ -1,0 +1,1073 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc src="1188Vatikan1605XXV-TEI.xml" ms="1188">
+    <pb xml:id="f.25r"/><!-- Page ID: 1188,f. 25r,088:024:002-089:016:010 --><!-- Lines: 17; Valid Lines: 17 -->
+    <l n="1">
+        <note>إِيَابَهُمۡ</note>
+        <w n="088-024-002">
+            <supplied reason="omitted-in-original" source="#cairo_rasm">الل‍ه</supplied>
+        </w>
+        <pc>
+            <supplied reason="omitted-in-original" source="#cairo_rasm"> </supplied>
+        </pc>
+        <w n="088-024-003">
+            <supplied reason="omitted-in-original" source="#cairo_rasm">العذاب</supplied>
+        </w>
+        <pc>
+            <supplied reason="omitted-in-original" source="#cairo_rasm"> </supplied>
+        </pc>
+        <w n="088-024-004">
+            <supplied reason="omitted-in-original" source="#cairo_rasm">الاکبر</supplied>
+        </w>
+        <pc>
+            <supplied reason="omitted-in-original" source="#cairo_rasm"> </supplied>
+        </pc><!-- Vers Break: '24'-->
+        <w n="000-000-000">
+            <supplied reason="omitted-in-original" source="#cairo_rasm">۝٢٤</supplied>
+        </w>
+        <pc>
+            <supplied reason="omitted-in-original" source="#cairo_rasm"> </supplied>
+        </pc>
+        <w n="088-025-001">
+            <supplied reason="omitted-in-original" source="#cairo_rasm">ا</supplied>
+            <unclear>ن</unclear>
+        </w>
+        <pc> </pc>
+        <w n="088-025-002">الينا</w>
+        <pc> </pc>
+        <w n="088-025-003">ا<supplied reason="illigible" source="#cairo_rasm">ي</supplied>بهم
+        </w>
+        <pc> </pc><!-- Vers Break: '25'-->
+        <w n="000-000-000">۝
+            <supplied reason="omitted-in-original" source="#cairo_rasm">٢٥</supplied>
+        </w>
+        <pc> </pc>
+    </l>
+    <l n="2">
+        <note/>
+        <w n="088-026-001">
+            <supplied reason="omitted-in-original" source="#cairo_rasm">ٮم</supplied>
+        </w>
+        <pc>
+            <supplied reason="omitted-in-original" source="#cairo_rasm"> </supplied>
+        </pc>
+        <w n="088-026-002">
+            <supplied reason="omitted-in-original" source="#cairo_rasm">اں</supplied>
+        </w>
+        <pc>
+            <supplied reason="omitted-in-original" source="#cairo_rasm"> </supplied>
+        </pc>
+        <w n="088-026-003">
+            <supplied reason="omitted-in-original" source="#cairo_rasm">علىںا</supplied>
+        </w>
+        <pc>
+            <supplied reason="omitted-in-original" source="#cairo_rasm"> </supplied>
+        </pc>
+        <w n="088-026-004">
+            <supplied reason="omitted-in-original" source="#cairo_rasm">حساٮهم</supplied>
+        </w>
+        <pc> </pc><!-- Vers Break: '26'-->
+        <w n="000-000-000">
+            <unclear>۝</unclear>
+            <supplied reason="omitted-in-original" source="#cairo_rasm">٢٦</supplied>
+        </w>
+        <pc> </pc>
+    </l>
+    <l n="3">
+        <note/>
+        <w n="089-000-000">
+            <add type="rasm">ڡىحه</add>
+        </w>
+        <pc>
+            <add type="rasm"> </add>
+        </pc>
+        <w n="089-000-001">
+            <add type="rasm">والڡحر</add>
+        </w>
+        <pc>
+            <add type="rasm"> </add>
+        </pc>
+        <w n="089-000-002">
+            <add type="rasm">ٮلٮوں</add>
+        </w>
+        <pc>
+            <add type="rasm"> </add>
+        </pc>
+        <w n="089-000-003">
+            <add type="rasm">اىه</add>
+        </w>
+    </l>
+    <l n="4">
+        <note/><!-- Continued from last line -->
+        <w n="089-000-003">
+            <supplied reason="omitted-in-original" source="#cairo_rasm">بسم</supplied>
+        </w>
+        <pc>
+            <supplied reason="omitted-in-original" source="#cairo_rasm"> </supplied>
+        </pc>
+        <w n="089-000-004">
+            <supplied reason="omitted-in-original" source="#cairo_rasm">الل‍ه</supplied>
+        </w>
+        <pc> </pc>
+        <w n="089-000-005" type="unclear">
+            <unclear>ال</unclear>
+            <supplied reason="omitted-in-original" source="#cairo_rasm">ر</supplied>حمں
+        </w>
+        <pc> </pc>
+        <w n="089-000-006" type="unclear">الرحيم</w>
+        <pc> </pc><!-- Vers Break: '0'-->
+        <w n="000-000-000">
+            <add type="rasm">۝</add>
+            <supplied reason="omitted-in-original" source="#cairo_rasm">٠</supplied>
+        </w>
+        <pc> </pc>
+        <w n="089-001-001">والڢ
+            <supplied reason="omitted-in-original" source="#cairo_rasm">حر</supplied>
+        </w>
+        <pc>
+            <supplied reason="omitted-in-original" source="#cairo_rasm"> </supplied>
+        </pc><!-- Vers Break: '1'-->
+        <w n="000-000-000">
+            <supplied reason="omitted-in-original" source="#cairo_rasm">۝١</supplied>
+        </w>
+        <pc>
+            <supplied reason="omitted-in-original" source="#cairo_rasm"> </supplied>
+        </pc>
+    </l>
+    <l n="5">
+        <note/>
+        <w n="089-002-001">
+            <supplied reason="omitted-in-original" source="#cairo_rasm">وليال</supplied>
+        </w>
+        <pc>
+            <supplied reason="omitted-in-original" source="#cairo_rasm"> </supplied>
+        </pc>
+        <w n="089-002-002"><supplied reason="omitted-in-original" source="#cairo_rasm">ع</supplied>شر
+        </w>
+        <pc> </pc><!-- Vers Break: '2'-->
+        <w n="000-000-000">۝
+            <supplied reason="omitted-in-original" source="#cairo_rasm">٢</supplied>
+        </w>
+        <pc> </pc>
+        <w n="089-003-001">و
+            <unclear>ا</unclear>
+            <supplied reason="omitted-in-original" source="#cairo_rasm">ل</supplied>شڢع
+        </w>
+        <pc> </pc>
+        <w n="089-003-002">والوتر</w>
+        <pc> </pc><!-- Vers Break: '3'-->
+        <w n="000-000-000">۝
+            <supplied reason="omitted-in-original" source="#cairo_rasm">٣</supplied>
+        </w>
+        <pc> </pc>
+        <w n="089-004-001">وال
+            <supplied reason="omitted-in-original" source="#cairo_rasm">يل</supplied>
+        </w>
+        <pc> </pc>
+    </l>
+    <l n="6">
+        <note/>
+        <w n="089-004-002">
+            <supplied reason="omitted-in-original" source="#cairo_rasm">اذا</supplied>
+        </w>
+        <pc>
+            <supplied reason="omitted-in-original" source="#cairo_rasm"> </supplied>
+        </pc>
+        <w n="089-004-003">
+            <supplied reason="omitted-in-original" source="#cairo_rasm">يسر</supplied>
+        </w>
+        <pc>
+            <supplied reason="omitted-in-original" source="#cairo_rasm"> </supplied>
+        </pc><!-- Vers Break: '4'-->
+        <w n="000-000-000">
+            <supplied reason="omitted-in-original" source="#cairo_rasm">۝٤</supplied>
+        </w>
+        <pc>
+            <supplied reason="omitted-in-original" source="#cairo_rasm"> </supplied>
+        </pc>
+        <w n="089-005-001">
+            <supplied reason="omitted-in-original" source="#cairo_rasm">هل</supplied>
+        </w>
+        <pc>
+            <supplied reason="omitted-in-original" source="#cairo_rasm"> </supplied>
+        </pc>
+        <w n="089-005-002">
+            <supplied reason="omitted-in-original" source="#cairo_rasm">ڢ</supplied>
+            <unclear>ے</unclear>
+        </w>
+        <pc> </pc>
+        <w n="089-005-003">ذلک</w>
+        <pc> </pc>
+        <w n="089-005-004">فس
+            <unclear>م</unclear>
+        </w>
+        <pc> </pc>
+        <w n="089-005-005">لذى</w>
+        <pc> </pc>
+        <w n="089-005-006">ح
+            <supplied reason="omitted-in-original" source="#cairo_rasm">حر</supplied>
+        </w>
+        <pc>
+            <supplied reason="omitted-in-original" source="#cairo_rasm"> </supplied>
+        </pc><!-- Vers Break: '5'-->
+        <w n="000-000-000">
+            <supplied reason="omitted-in-original" source="#cairo_rasm">۝٥</supplied>
+        </w>
+        <pc>
+            <supplied reason="omitted-in-original" source="#cairo_rasm"> </supplied>
+        </pc>
+    </l>
+    <l n="7">
+        <note/>
+        <w n="089-006-001">
+            <supplied reason="omitted-in-original" source="#cairo_rasm">الم</supplied>
+        </w>
+        <pc>
+            <supplied reason="omitted-in-original" source="#cairo_rasm"> </supplied>
+        </pc>
+        <w n="089-006-002">
+            <supplied reason="omitted-in-original" source="#cairo_rasm">ٮر</supplied>
+        </w>
+        <pc>
+            <supplied reason="omitted-in-original" source="#cairo_rasm"> </supplied>
+        </pc>
+        <w n="089-006-003">
+            <supplied reason="omitted-in-original" source="#cairo_rasm">کى</supplied>
+            <unclear>ڢ</unclear>
+        </w>
+        <pc> </pc>
+        <w n="089-006-004">ڢعل</w>
+        <pc> </pc>
+        <w n="089-006-005">ربک</w>
+        <pc> </pc>
+        <w n="089-006-006">بعاد</w>
+        <pc> </pc><!-- Vers Break: '6'-->
+        <w n="000-000-000">۝
+            <supplied reason="omitted-in-original" source="#cairo_rasm">٦</supplied>
+        </w>
+        <pc> </pc>
+        <w n="089-007-001">ارم</w>
+        <pc> </pc>
+        <w n="089-007-002">
+            <unclear>ذ</unclear>
+            <supplied reason="omitted-in-original" source="#cairo_rasm">ات</supplied>
+        </w>
+        <pc>
+            <supplied reason="omitted-in-original" source="#cairo_rasm"> </supplied>
+        </pc>
+    </l>
+    <l n="8">
+        <note/>
+        <w n="089-007-003"><supplied reason="omitted-in-original" source="#cairo_rasm">الع</supplied>ماد
+        </w>
+        <pc> </pc><!-- Vers Break: '7'-->
+        <w n="000-000-000">۝
+            <supplied reason="omitted-in-original" source="#cairo_rasm">٧</supplied>
+        </w>
+        <pc> </pc>
+        <w n="089-008-001">التے</w>
+        <pc> </pc>
+        <w n="089-008-002">لم</w>
+        <pc> </pc>
+        <w n="089-008-003">يحلڧ</w>
+        <pc> </pc>
+        <w n="089-008-004">مثلها</w>
+        <pc> </pc>
+        <w n="089-008-005">ڢے</w>
+        <pc> </pc>
+    </l>
+    <l n="9">
+        <note/>
+        <w n="089-008-006">
+            <supplied reason="omitted-in-original" source="#cairo_rasm">البلد</supplied>
+        </w>
+        <pc>
+            <supplied reason="omitted-in-original" source="#cairo_rasm"> </supplied>
+        </pc><!-- Vers Break: '8'-->
+        <w n="000-000-000">
+            <supplied reason="omitted-in-original" source="#cairo_rasm">۝٨</supplied>
+        </w>
+        <pc> </pc>
+        <w n="089-009-001">
+            <supplied reason="omitted-in-original" source="#cairo_rasm">وٮم</supplied>
+            <unclear>و</unclear>د
+        </w>
+        <pc> </pc>
+        <w n="089-009-002">الدين</w>
+        <pc> </pc>
+        <w n="089-009-003">حابوا</w>
+        <pc> </pc>
+        <w n="089-009-004">الصحر</w>
+        <pc> </pc>
+    </l>
+    <l n="10">
+        <note>ذِی</note>
+        <w n="089-009-005">
+            <supplied reason="omitted-in-original" source="#cairo_rasm">ٮ</supplied>
+            <unclear>ال</unclear>
+            <supplied reason="omitted-in-original" source="#cairo_rasm">و</supplied>اد
+        </w>
+        <pc> </pc><!-- Vers Break: '9'-->
+        <w n="000-000-000">۝
+            <supplied reason="omitted-in-original" source="#cairo_rasm">٩</supplied>
+        </w>
+        <pc> </pc>
+        <w n="089-010-001">وڢرعون</w>
+        <pc> </pc>
+        <w n="089-010-002">ذ
+            <add type="rasm" subtype="variant">ا</add>
+        </w>
+        <pc> </pc>
+        <w n="089-010-003">الا
+            <supplied reason="omitted-in-original" source="#cairo_rasm">وٮاد</supplied>
+        </w>
+        <pc>
+            <supplied reason="omitted-in-original" source="#cairo_rasm"> </supplied>
+        </pc><!-- Vers Break: '10'-->
+        <w n="000-000-000">
+            <supplied reason="omitted-in-original" source="#cairo_rasm">۝١٠</supplied>
+        </w>
+        <pc>
+            <supplied reason="omitted-in-original" source="#cairo_rasm"> </supplied>
+        </pc>
+    </l>
+    <l n="11">
+        <note/>
+        <w n="089-011-001"><supplied reason="omitted-in-original" source="#cairo_rasm">ال</supplied>ذين
+        </w>
+        <pc> </pc>
+        <w n="089-011-002">طغوا</w>
+        <pc> </pc>
+        <w n="089-011-003">ڢے</w>
+        <pc> </pc>
+        <w n="089-011-004">البلد</w>
+        <pc> </pc><!-- Vers Break: '11'-->
+        <w n="000-000-000">۝
+            <supplied reason="omitted-in-original" source="#cairo_rasm">١١</supplied>
+        </w>
+        <pc> </pc>
+        <w n="089-012-001">
+            <supplied reason="omitted-in-original" source="#cairo_rasm">ڡاکٮر</supplied>
+        </w>
+    </l>
+    <l n="12">
+        <note/><!-- Continued from last line -->
+        <w n="089-012-001">
+            <supplied reason="omitted-in-original" source="#cairo_rasm">وا</supplied>
+        </w>
+        <pc> </pc>
+        <w n="089-012-002">ڢيها</w>
+        <pc> </pc>
+        <w n="089-012-003">الڡساد</w>
+        <pc> </pc><!-- Vers Break: '12'-->
+        <w n="000-000-000">۝
+            <supplied reason="omitted-in-original" source="#cairo_rasm">١٢</supplied>
+        </w>
+        <pc> </pc>
+        <w n="089-013-001">ڢصب</w>
+        <pc> </pc>
+        <w n="089-013-002">
+            <supplied reason="omitted-in-original" source="#cairo_rasm">علىهم</supplied>
+        </w>
+        <pc>
+            <supplied reason="omitted-in-original" source="#cairo_rasm"> </supplied>
+        </pc>
+    </l>
+    <l n="13">
+        <note>عَذَابٍ</note>
+        <w n="089-013-003"><supplied reason="omitted-in-original" source="#cairo_rasm">ر</supplied>بک
+        </w>
+        <pc> </pc>
+        <w n="089-013-004"><supplied reason="omitted-in-original" source="#cairo_rasm">س</supplied>وط
+        </w>
+        <pc> </pc>
+        <w n="089-013-005">ع<supplied reason="illigible" source="#cairo_rasm">د</supplied>ب
+        </w>
+        <pc> </pc><!-- Vers Break: '13'-->
+        <w n="000-000-000">۝
+            <supplied reason="omitted-in-original" source="#cairo_rasm">١٣</supplied>
+        </w>
+        <pc> </pc>
+        <w n="089-014-001">ان</w>
+        <pc> </pc>
+        <w n="089-014-002">
+            <supplied reason="omitted-in-original" source="#cairo_rasm">ربک</supplied>
+        </w>
+        <pc> </pc>
+    </l>
+    <l n="14">
+        <note/>
+        <w n="089-014-003">
+            <supplied reason="omitted-in-original" source="#cairo_rasm">لبالمرصاد</supplied>
+        </w>
+        <pc>
+            <supplied reason="omitted-in-original" source="#cairo_rasm"> </supplied>
+        </pc><!-- Vers Break: '14'-->
+        <w n="000-000-000">
+            <supplied reason="omitted-in-original" source="#cairo_rasm">۝١٤</supplied>
+        </w>
+        <pc> </pc>
+        <w n="089-015-001"><unclear>ڡا</unclear>ما
+        </w>
+        <pc> </pc>
+        <w n="089-015-002">الانسن</w>
+        <pc> </pc>
+        <w n="089-015-003">اذ
+            <unclear>ا</unclear>
+        </w>
+        <pc> </pc>
+        <w n="089-015-004">
+            <supplied reason="omitted-in-original" source="#cairo_rasm">ما</supplied>
+        </w>
+        <pc>
+            <supplied reason="omitted-in-original" source="#cairo_rasm"> </supplied>
+        </pc>
+        <w n="089-015-005">
+            <supplied reason="omitted-in-original" source="#cairo_rasm">اٮٮلىه</supplied>
+        </w>
+        <pc> </pc>
+    </l>
+    <l n="15">
+        <note/>
+        <w n="089-015-006">
+            <supplied reason="omitted-in-original" source="#cairo_rasm">رٮه</supplied>
+        </w>
+        <pc>
+            <supplied reason="omitted-in-original" source="#cairo_rasm"> </supplied>
+        </pc>
+        <w n="089-015-007"><supplied reason="omitted-in-original" source="#cairo_rasm">ڡاکر</supplied>مه
+        </w>
+        <pc> </pc>
+        <w n="089-015-008">وںع<unclear>م</unclear>ه
+        </w>
+        <pc> </pc>
+        <w n="089-015-009">ڢي
+            <unclear>ف</unclear>
+            <supplied reason="omitted-in-original" source="#cairo_rasm">ول</supplied>
+        </w>
+        <pc>
+            <supplied reason="omitted-in-original" source="#cairo_rasm"> </supplied>
+        </pc>
+        <w n="089-015-010">
+            <supplied reason="omitted-in-original" source="#cairo_rasm">ربى</supplied>
+        </w>
+        <pc>
+            <supplied reason="omitted-in-original" source="#cairo_rasm"> </supplied>
+        </pc>
+    </l>
+    <l n="16">
+        <note/>
+        <w n="089-015-011">
+            <supplied reason="omitted-in-original" source="#cairo_rasm">اکرمں</supplied>
+        </w>
+        <pc>
+            <supplied reason="omitted-in-original" source="#cairo_rasm"> </supplied>
+        </pc><!-- Vers Break: '15'-->
+        <w n="000-000-000">
+            <supplied reason="omitted-in-original" source="#cairo_rasm">۝١٥</supplied>
+        </w>
+        <pc> </pc>
+        <w n="089-016-001"><supplied reason="omitted-in-original" source="#cairo_rasm">وام</supplied>ا
+        </w>
+        <pc> </pc>
+        <w n="089-016-002">اذا</w>
+        <pc> </pc>
+        <w n="089-016-003">ما</w>
+        <pc> </pc>
+        <w n="089-016-004">
+            <supplied reason="omitted-in-original" source="#cairo_rasm">ابتلىه</supplied>
+        </w>
+        <pc>
+            <supplied reason="omitted-in-original" source="#cairo_rasm"> </supplied>
+        </pc>
+    </l>
+    <l n="17">
+        <note/>
+        <w n="089-016-005">
+            <supplied reason="omitted-in-original" source="#cairo_rasm">ڢفدر</supplied>
+        </w>
+        <pc>
+            <supplied reason="omitted-in-original" source="#cairo_rasm"> </supplied>
+        </pc>
+        <w n="089-016-006">
+            <supplied reason="omitted-in-original" source="#cairo_rasm">عليه</supplied>
+        </w>
+        <pc>
+            <supplied reason="omitted-in-original" source="#cairo_rasm"> </supplied>
+        </pc>
+        <w n="089-016-007">
+            <supplied reason="omitted-in-original" source="#cairo_rasm">ررفه</supplied>
+        </w>
+        <pc>
+            <supplied reason="omitted-in-original" source="#cairo_rasm"> </supplied>
+        </pc>
+        <w n="089-016-008">
+            <supplied reason="omitted-in-original" source="#cairo_rasm">ڢيفول</supplied>
+        </w>
+        <pc>
+            <supplied reason="omitted-in-original" source="#cairo_rasm"> </supplied>
+        </pc>
+        <w n="089-016-009">
+            <supplied reason="omitted-in-original" source="#cairo_rasm">ربى</supplied>
+        </w>
+        <pc>
+            <supplied reason="omitted-in-original" source="#cairo_rasm"> </supplied>
+        </pc>
+        <w n="089-016-010">
+            <supplied reason="omitted-in-original" source="#cairo_rasm">ا</supplied>
+        </w>
+    </l>
+    <pb xml:id="f.25v"/><!-- Page ID: 1188,f 25v,089:016:010-090:005:006 --><!-- Lines: 17; Valid Lines: 17 -->
+    <l n="1">
+        <note/>
+        <w n="089-016-010">هنن</w>
+        <pc> </pc><!-- Vers Break: '16'-->
+        <w n="000-000-000">۝
+            <supplied reason="omitted-in-original" source="#cairo_rasm">١٦</supplied>
+        </w>
+        <pc> </pc>
+        <w n="089-017-001"><unclear>ک</unclear>لا
+        </w>
+        <pc> </pc>
+        <w n="089-017-002">بل</w>
+        <pc> </pc>
+        <w n="089-017-003">لا</w>
+        <pc> </pc>
+        <w n="089-017-004"><supplied reason="omitted-in-original" source="#cairo_rasm">تک</supplied>ر
+            <supplied reason="omitted-in-original" source="#cairo_rasm">مون</supplied>
+        </w>
+        <pc>
+            <supplied reason="omitted-in-original" source="#cairo_rasm"> </supplied>
+        </pc>
+        <w n="089-017-005">
+            <supplied reason="omitted-in-original" source="#cairo_rasm">اليتيم</supplied>
+        </w>
+        <pc>
+            <supplied reason="omitted-in-original" source="#cairo_rasm"> </supplied>
+        </pc><!-- Vers Break: '17'-->
+        <w n="000-000-000">
+            <supplied reason="omitted-in-original" source="#cairo_rasm">۝١٧</supplied>
+        </w>
+        <pc>
+            <supplied reason="omitted-in-original" source="#cairo_rasm"> </supplied>
+        </pc>
+        <w n="089-018-001">
+            <supplied reason="omitted-in-original" source="#cairo_rasm">ولا</supplied>
+        </w>
+        <pc>
+            <supplied reason="omitted-in-original" source="#cairo_rasm"> </supplied>
+        </pc>
+    </l>
+    <l n="2">
+        <note>طَعَامِ</note>
+        <w n="089-018-002">تحضون</w>
+        <pc> </pc>
+        <w n="089-018-003">على</w>
+        <pc> </pc>
+        <w n="089-018-004">ط
+            <supplied reason="illigible" source="#cairo_rasm">ع</supplied>
+            <supplied reason="omitted-in-original" source="#cairo_rasm">م</supplied>
+        </w>
+        <pc>
+            <supplied reason="omitted-in-original" source="#cairo_rasm"> </supplied>
+        </pc>
+        <w n="089-018-005">
+            <supplied reason="omitted-in-original" source="#cairo_rasm">المسکين</supplied>
+        </w>
+        <pc>
+            <supplied reason="omitted-in-original" source="#cairo_rasm"> </supplied>
+        </pc><!-- Vers Break: '18'-->
+        <w n="000-000-000">
+            <supplied reason="omitted-in-original" source="#cairo_rasm">۝١٨</supplied>
+        </w>
+        <pc>
+            <supplied reason="omitted-in-original" source="#cairo_rasm"> </supplied>
+        </pc>
+        <w n="089-019-001">
+            <supplied reason="omitted-in-original" source="#cairo_rasm">وتاکلو</supplied>
+        </w>
+    </l>
+    <l n="3">
+        <note>ٱلتُّرَاثَ</note><!-- Continued from last line -->
+        <w n="089-019-001">ن</w>
+        <pc> </pc>
+        <w n="089-019-002">الت<supplied reason="illigible" source="#cairo_rasm">ر</supplied>ث
+        </w>
+        <pc> </pc>
+        <w n="089-019-003">اکلا</w>
+        <pc> </pc>
+        <w n="089-019-004">لما</w>
+        <pc> </pc><!-- Vers Break: '19'-->
+        <w n="000-000-000">
+            <unclear>۝</unclear>
+            <supplied reason="omitted-in-original" source="#cairo_rasm">١٩</supplied>
+        </w>
+        <pc> </pc>
+        <w n="089-020-001">
+            <supplied reason="omitted-in-original" source="#cairo_rasm">وتحبون</supplied>
+        </w>
+        <pc>
+            <supplied reason="omitted-in-original" source="#cairo_rasm"> </supplied>
+        </pc>
+        <w n="089-020-002">
+            <supplied reason="omitted-in-original" source="#cairo_rasm">المال</supplied>
+        </w>
+        <pc> </pc>
+    </l>
+    <l n="4">
+        <note/>
+        <w n="089-020-003">حبا</w>
+        <pc> </pc>
+        <w n="089-020-004">حما</w>
+        <pc> </pc><!-- Vers Break: '20'-->
+        <w n="000-000-000">۝
+            <supplied reason="omitted-in-original" source="#cairo_rasm">٢٠</supplied>
+        </w>
+        <pc> </pc>
+        <w n="089-021-001">کلا</w>
+        <pc> </pc>
+        <w n="089-021-002">اذا</w>
+        <pc> </pc>
+        <w n="089-021-003">
+            <supplied reason="omitted-in-original" source="#cairo_rasm">دکت</supplied>
+        </w>
+        <pc>
+            <supplied reason="omitted-in-original" source="#cairo_rasm"> </supplied>
+        </pc>
+        <w n="089-021-004">
+            <supplied reason="omitted-in-original" source="#cairo_rasm">الار</supplied>
+        </w>
+        <pc> </pc>
+    </l>
+    <l n="5">
+        <note/>
+        <w n="089-021-005">ض</w>
+        <pc> </pc>
+        <w n="089-021-006">دکا</w>
+        <pc> </pc><!-- Vers Break: ''-->
+        <w n="000-000-000">
+            <add type="rasm">۝</add>
+        </w>
+        <pc> </pc>
+        <w n="089-022-001">دکا</w>
+        <pc> </pc><!-- Vers Break: '21'-->
+        <w n="000-000-000">۝
+            <supplied reason="omitted-in-original" source="#cairo_rasm">٢١</supplied>
+        </w>
+        <pc> </pc>
+        <w n="089-023-001">و
+            <supplied reason="omitted-in-original" source="#cairo_rasm">ح</supplied>
+            <unclear>ا</unclear>
+        </w>
+        <pc> </pc>
+        <w n="089-023-002">ربک</w>
+        <pc> </pc>
+        <w n="089-023-003"><supplied reason="omitted-in-original" source="#cairo_rasm">و</supplied>ا
+            <supplied reason="omitted-in-original" source="#cairo_rasm">لملک</supplied>
+        </w>
+        <pc> </pc>
+    </l>
+    <l n="6">
+        <note/>
+        <w n="089-023-004">صڢا</w>
+        <pc> </pc>
+        <w n="089-023-005">صڢا</w>
+        <pc> </pc><!-- Vers Break: '22'-->
+        <w n="000-000-000">۝٢٢</w>
+        <pc> </pc>
+        <w n="089-024-001">وحاى</w>
+        <pc> </pc>
+        <w n="089-024-002">ي
+            <supplied reason="omitted-in-original" source="#cairo_rasm">ومٮذ</supplied>
+        </w>
+        <pc>
+            <supplied reason="omitted-in-original" source="#cairo_rasm"> </supplied>
+        </pc>
+        <w n="089-024-003">
+            <supplied reason="omitted-in-original" source="#cairo_rasm">ٮحهںم</supplied>
+        </w>
+        <pc>
+            <supplied reason="omitted-in-original" source="#cairo_rasm"> </supplied>
+        </pc>
+        <w n="089-024-004">
+            <supplied reason="omitted-in-original" source="#cairo_rasm">ىو</supplied>
+        </w>
+    </l>
+    <l n="7">
+        <note>يَوۡمَئِذٍۢ</note><!-- Continued from last line -->
+        <w n="089-024-004">م<add type="rasm" subtype="variant">ي</add>ذ
+        </w>
+        <pc> </pc>
+        <w n="089-024-005" type="unclear">يتذکر</w>
+        <pc> </pc>
+        <w n="089-024-006" type="unclear">الانسن</w>
+        <pc> </pc>
+        <w n="089-024-007" type="unclear"><supplied reason="omitted-in-original" source="#cairo_rasm">و</supplied>ا
+            <supplied reason="omitted-in-original" source="#cairo_rasm">ںى</supplied>
+        </w>
+        <pc>
+            <supplied reason="omitted-in-original" source="#cairo_rasm"> </supplied>
+        </pc>
+        <w n="089-024-008" type="unclear">
+            <supplied reason="omitted-in-original" source="#cairo_rasm">له</supplied>
+        </w>
+        <pc>
+            <supplied reason="omitted-in-original" source="#cairo_rasm"> </supplied>
+        </pc>
+        <w n="089-024-009" type="unclear">
+            <supplied reason="omitted-in-original" source="#cairo_rasm">الذ</supplied>
+        </w>
+    </l>
+    <l n="8">
+        <note/><!-- Continued from last line -->
+        <w n="089-024-009" type="unclear">کرى</w>
+        <pc> </pc><!-- Vers Break: '23'-->
+        <w n="000-000-000">۝
+            <supplied reason="omitted-in-original" source="#cairo_rasm">٢٣</supplied>
+        </w>
+        <pc> </pc>
+        <w n="089-025-001">يفول</w>
+        <pc> </pc>
+        <w n="089-025-002">يليتنى</w>
+        <pc> </pc>
+        <w n="089-025-003">فدمت</w>
+        <pc> </pc>
+        <w n="089-025-004">ل
+            <supplied reason="omitted-in-original" source="#cairo_rasm">حياتى</supplied>
+        </w>
+        <pc>
+            <supplied reason="omitted-in-original" source="#cairo_rasm"> </supplied>
+        </pc><!-- Vers Break: '24'-->
+        <w n="000-000-000">
+            <supplied reason="omitted-in-original" source="#cairo_rasm">۝٢٤</supplied>
+        </w>
+        <pc>
+            <supplied reason="omitted-in-original" source="#cairo_rasm"> </supplied>
+        </pc>
+        <w n="089-026-001">
+            <supplied reason="omitted-in-original" source="#cairo_rasm">ڡىو</supplied>
+        </w>
+    </l>
+    <l n="9">
+        <note>فَيَوۡمَئِذٍۢ | عَذَابَهُ</note><!-- Continued from last line -->
+        <w n="089-026-001">م<add type="rasm" subtype="variant">ي</add>ذ
+        </w>
+        <pc> </pc>
+        <w n="089-026-002">لا</w>
+        <pc> </pc>
+        <w n="089-026-003">يعدب</w>
+        <pc> </pc>
+        <w n="089-026-004">ع<supplied reason="illigible" source="#cairo_rasm">د</supplied>به
+        </w>
+        <pc> </pc>
+        <w n="089-026-005" type="unclear">ا
+            <supplied reason="omitted-in-original" source="#cairo_rasm">حد</supplied>
+        </w>
+        <pc>
+            <supplied reason="omitted-in-original" source="#cairo_rasm"> </supplied>
+        </pc><!-- Vers Break: '25'-->
+        <w n="000-000-000">
+            <supplied reason="omitted-in-original" source="#cairo_rasm">۝٢٥</supplied>
+        </w>
+        <pc>
+            <supplied reason="omitted-in-original" source="#cairo_rasm"> </supplied>
+        </pc>
+        <w n="089-027-001">
+            <supplied reason="omitted-in-original" source="#cairo_rasm">ولا</supplied>
+        </w>
+    </l>
+    <l n="10">
+        <note>وَثَاقَهُ</note><!-- Continued from last line -->
+        <w n="089-027-001">ىوثٯ</w>
+        <pc> </pc>
+        <w n="089-027-002">و<supplied reason="illigible" source="#cairo_rasm">ث</supplied>فه
+        </w>
+        <pc> </pc>
+        <w n="089-027-003"><unclear>ا</unclear>حد
+        </w>
+        <pc> </pc><!-- Vers Break: '26'-->
+        <w n="000-000-000">۝
+            <supplied reason="omitted-in-original" source="#cairo_rasm">٢٦</supplied>
+        </w>
+        <pc> </pc>
+        <w n="089-028-001">يايتها</w>
+        <pc> </pc>
+        <w n="089-028-002">النڢ
+            <supplied reason="omitted-in-original" source="#cairo_rasm">س</supplied>
+        </w>
+        <pc> </pc>
+        <w n="089-028-003">
+            <supplied reason="omitted-in-original" source="#cairo_rasm">المطمٮںه</supplied>
+        </w>
+        <pc>
+            <supplied reason="omitted-in-original" source="#cairo_rasm"> </supplied>
+        </pc><!-- Vers Break: '27'-->
+        <w n="000-000-000">
+            <supplied reason="omitted-in-original" source="#cairo_rasm">۝٢٧</supplied>
+        </w>
+        <pc> </pc>
+    </l>
+    <l n="11">
+        <note>رَاضِيَةًۭ</note>
+        <w n="089-029-001"><unclear>ار</unclear>حعى
+        </w>
+        <pc> </pc>
+        <w n="089-029-002">الے</w>
+        <pc> </pc>
+        <w n="089-029-003">ربک</w>
+        <pc> </pc>
+        <w n="089-029-004" type="unclear">
+            <supplied reason="illigible" source="#cairo_rasm">ر</supplied>
+            <unclear>ض</unclear>يه
+        </w>
+        <pc> </pc>
+        <w n="089-029-005" type="unclear">مر
+            <supplied reason="omitted-in-original" source="#cairo_rasm">ضىه</supplied>
+        </w>
+        <pc>
+            <supplied reason="omitted-in-original" source="#cairo_rasm"> </supplied>
+        </pc><!-- Vers Break: '28'-->
+        <w n="000-000-000">
+            <supplied reason="omitted-in-original" source="#cairo_rasm">۝٢٨</supplied>
+        </w>
+        <pc>
+            <supplied reason="omitted-in-original" source="#cairo_rasm"> </supplied>
+        </pc>
+    </l>
+    <l n="12">
+        <note/>
+        <w n="089-030-001"><supplied reason="omitted-in-original" source="#cairo_rasm">ڢاد</supplied>حلى
+        </w>
+        <pc> </pc>
+        <w n="089-030-002">ڢے</w>
+        <pc> </pc>
+        <w n="089-030-003" type="unclear">عبدى</w>
+        <pc> </pc><!-- Vers Break: '29'-->
+        <w n="000-000-000">
+            <supplied reason="illigible" source="#cairo_rasm">۝</supplied>
+            <supplied reason="omitted-in-original" source="#cairo_rasm">٢٩</supplied>
+        </w>
+        <pc> </pc>
+        <w n="090-000-000">واد
+            <supplied reason="omitted-in-original" source="#cairo_rasm">حلى</supplied>
+        </w>
+        <pc>
+            <supplied reason="omitted-in-original" source="#cairo_rasm"> </supplied>
+        </pc>
+        <w n="090-000-001">
+            <supplied reason="omitted-in-original" source="#cairo_rasm">حںٮى</supplied>
+        </w>
+        <pc>
+            <supplied reason="omitted-in-original" source="#cairo_rasm"> </supplied>
+        </pc><!-- Vers Break: '30'-->
+        <w n="000-000-000">
+            <supplied reason="omitted-in-original" source="#cairo_rasm">۝٣٠</supplied>
+        </w>
+        <pc>
+            <supplied reason="omitted-in-original" source="#cairo_rasm"> </supplied>
+        </pc>
+    </l>
+    <l n="13">
+        <note/>
+        <w n="090-001-001">
+            <add type="rasm">ڡىحه</add>
+        </w>
+        <pc>
+            <add type="rasm"> </add>
+        </pc>
+        <w n="090-001-002">
+            <add type="rasm">لا</add>
+        </w>
+        <pc>
+            <add type="rasm"> </add>
+        </pc>
+        <w n="090-001-003">
+            <add type="rasm">اٯسم</add>
+        </w>
+        <pc>
+            <add type="rasm"> </add>
+        </pc>
+        <w n="090-001-004">
+            <add type="rasm">عسروں</add>
+        </w>
+        <pc>
+            <add type="rasm"> </add>
+        </pc>
+        <w n="090-001-005" type="unclear">
+            <add type="rasm">اىه</add>
+        </w>
+    </l>
+    <l n="14">
+        <note/><!-- Continued from last line -->
+        <w n="090-001-005" type="unclear">
+            <supplied reason="omitted-in-original" source="#cairo_rasm">ٮس</supplied>
+            <unclear>م</unclear>
+        </w>
+        <pc> </pc>
+        <w n="090-001-006" type="unclear">الل‍ه</w>
+        <pc> </pc>
+        <w n="090-001-007" type="unclear">الرحمں</w>
+        <pc> </pc>
+        <w n="090-001-008" type="unclear">ال
+            <supplied reason="omitted-in-original" source="#cairo_rasm">رحىم</supplied>
+        </w>
+        <pc>
+            <supplied reason="omitted-in-original" source="#cairo_rasm"> </supplied>
+        </pc><!-- Vers Break: ''-->
+        <w n="000-000-000">
+            <supplied reason="omitted-in-original" source="#cairo_rasm">۝</supplied>
+        </w>
+        <pc>
+            <supplied reason="omitted-in-original" source="#cairo_rasm"> </supplied>
+        </pc>
+        <w n="090-002-001">
+            <supplied reason="omitted-in-original" source="#cairo_rasm">لا</supplied>
+        </w>
+        <pc>
+            <supplied reason="omitted-in-original" source="#cairo_rasm"> </supplied>
+        </pc>
+        <w n="090-002-002">
+            <supplied reason="omitted-in-original" source="#cairo_rasm">افسم</supplied>
+        </w>
+        <pc> </pc>
+    </l>
+    <l n="15">
+        <note/>
+        <w n="090-002-003">
+            <supplied reason="omitted-in-original" source="#cairo_rasm">ب</supplied>
+            <unclear>هد</unclear>ا
+        </w>
+        <pc> </pc>
+        <w n="090-002-004">البلد</w>
+        <pc> </pc><!-- Vers Break: '1'-->
+        <w n="000-000-000">
+            <supplied reason="illigible" source="#cairo_rasm">۝</supplied>
+            <supplied reason="omitted-in-original" source="#cairo_rasm">١</supplied>
+        </w>
+        <pc> </pc>
+        <w n="090-003-001">وا
+            <unclear>نت</unclear>
+        </w>
+        <pc> </pc>
+        <w n="090-003-002">
+            <supplied reason="omitted-in-original" source="#cairo_rasm">حل</supplied>
+        </w>
+        <pc>
+            <supplied reason="omitted-in-original" source="#cairo_rasm"> </supplied>
+        </pc>
+        <w n="090-003-003">
+            <supplied reason="omitted-in-original" source="#cairo_rasm">بهدا</supplied>
+        </w>
+        <pc>
+            <supplied reason="omitted-in-original" source="#cairo_rasm"> </supplied>
+        </pc>
+        <w n="090-003-004" type="unclear">
+            <supplied reason="omitted-in-original" source="#cairo_rasm">البلد</supplied>
+        </w>
+        <pc>
+            <supplied reason="omitted-in-original" source="#cairo_rasm"> </supplied>
+        </pc><!-- Vers Break: '2'-->
+        <w n="000-000-000">
+            <supplied reason="omitted-in-original" source="#cairo_rasm">۝٢</supplied>
+        </w>
+        <pc> </pc>
+    </l>
+    <l n="16">
+        <note/>
+        <w n="090-004-001"><supplied reason="omitted-in-original" source="#cairo_rasm">وو</supplied>ا
+            <unclear>لد</unclear>
+        </w>
+        <pc> </pc>
+        <w n="090-004-002">و<unclear>م</unclear>ا
+        </w>
+        <pc> </pc>
+        <w n="090-004-003">ول
+            <supplied reason="omitted-in-original" source="#cairo_rasm">د</supplied>
+        </w>
+        <pc> </pc><!-- Vers Break: '3'-->
+        <w n="000-000-000">
+            <supplied reason="omitted-in-original" source="#cairo_rasm">۝٣</supplied>
+        </w>
+        <pc>
+            <supplied reason="omitted-in-original" source="#cairo_rasm"> </supplied>
+        </pc>
+        <w n="090-005-001">
+            <supplied reason="omitted-in-original" source="#cairo_rasm">لفد</supplied>
+        </w>
+        <pc>
+            <supplied reason="omitted-in-original" source="#cairo_rasm"> </supplied>
+        </pc>
+        <w n="090-005-002">
+            <supplied reason="omitted-in-original" source="#cairo_rasm">حلفںا</supplied>
+        </w>
+        <pc>
+            <supplied reason="omitted-in-original" source="#cairo_rasm"> </supplied>
+        </pc>
+        <w n="090-005-003">
+            <supplied reason="omitted-in-original" source="#cairo_rasm">الانسن</supplied>
+        </w>
+        <pc> </pc>
+    </l>
+    <l n="17">
+        <note/>
+        <w n="090-005-004">
+            <supplied reason="omitted-in-original" source="#cairo_rasm">ڢے</supplied>
+        </w>
+        <pc>
+            <supplied reason="omitted-in-original" source="#cairo_rasm"> </supplied>
+        </pc>
+        <w n="090-005-005">
+            <supplied reason="omitted-in-original" source="#cairo_rasm">کبد</supplied>
+        </w>
+        <pc>
+            <supplied reason="omitted-in-original" source="#cairo_rasm"> </supplied>
+        </pc><!-- Vers Break: '4'-->
+        <w n="000-000-000">
+            <supplied reason="omitted-in-original" source="#cairo_rasm">۝٤</supplied>
+        </w>
+        <pc>
+            <supplied reason="omitted-in-original" source="#cairo_rasm"> </supplied>
+        </pc>
+        <w n="090-006-001">
+            <supplied reason="omitted-in-original" source="#cairo_rasm">ايحسب</supplied>
+        </w>
+        <pc>
+            <supplied reason="omitted-in-original" source="#cairo_rasm"> </supplied>
+        </pc>
+        <w n="090-006-002">
+            <supplied reason="omitted-in-original" source="#cairo_rasm">ان</supplied>
+        </w>
+        <pc>
+            <supplied reason="omitted-in-original" source="#cairo_rasm"> </supplied>
+        </pc>
+        <w n="090-006-003">
+            <supplied reason="omitted-in-original" source="#cairo_rasm">لن</supplied>
+        </w>
+        <pc>
+            <supplied reason="omitted-in-original" source="#cairo_rasm"> </supplied>
+        </pc>
+        <w n="090-006-004">
+            <supplied reason="omitted-in-original" source="#cairo_rasm">يفدر</supplied>
+        </w>
+        <pc>
+            <supplied reason="omitted-in-original" source="#cairo_rasm"> </supplied>
+        </pc>
+        <w n="090-006-005" type="unclear">
+            <supplied reason="omitted-in-original" source="#cairo_rasm">عليه</supplied>
+        </w>
+        <pc>
+            <supplied reason="omitted-in-original" source="#cairo_rasm"> </supplied>
+        </pc>
+        <w n="090-006-006" type="unclear">
+            <supplied reason="omitted-in-original" source="#cairo_rasm">احد</supplied>
+        </w>
+        <pc>
+            <supplied reason="omitted-in-original" source="#cairo_rasm"> </supplied>
+        </pc><!-- Vers Break: '5'-->
+        <w n="000-000-000">
+            <supplied reason="omitted-in-original" source="#cairo_rasm">۝٥</supplied>
+        </w>
+        <pc>
+            <supplied reason="omitted-in-original" source="#cairo_rasm"> </supplied>
+        </pc>
+    </l>
+</doc>

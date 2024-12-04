@@ -1,0 +1,510 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<korankommentar xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:noNamespaceSchemaLocation="Kommentar.xsd">
+ <sure id="071" webtauglich="true"/>
+ <surentitel>
+  <text versstart="000" versend="028" verfasser="an">
+   <p>Sure 71 — <lang xml:lang="ar-Latn">Nūḥ</lang> — »Noah«</p>
+  </text>
+ </surentitel>
+ <autorenkurz>
+  <text versstart="000" versend="028" verfasser="an">
+   <p>Übersetzt und analysiert von Dirk Hartwig und Angelika Neuwirth unter Mitwirkung von Ali
+    Aghaei und Tolou Khademalsharieh</p>
+  </text>
+ </autorenkurz>
+ <datierungkurz>
+  <text versstart="000" versend="028" verfasser="an">
+   <p>Mekka II</p>
+  </text>
+ </datierungkurz>
+ <literarkritikkurz>
+  <text versstart="000" versend="028" verfasser="an">
+   <p/>
+  </text>
+ </literarkritikkurz>
+ <literarkritik>
+  <text versstart="000" versend="028" verfasser="an">
+   <p>Es ist eine Versumstellung zu erwägen. Die Erzähllogik legt die Annahme nahe, daß die Verse <q
+     type="koran" versstart="071:026" versend="071:027">V. 26–27</q> mit dem Gebet für die
+    Vernichtung des frevlerischen Volkes <lang xml:lang="ar-Latn">vor</lang>
+    <q type="koran" versstart="071:025" versend="071:025">V. 25</q> gehören, der mit der das gesamte
+    Volk treffenden Strafe des Ertrinkens ja bereits die Erfüllung des Gebets attestiert. Die Sure
+    würde bei Umstellung der Verse <q type="koran" versstart="071:026" versend="071:027">V.
+     26–27</q> und <q type="koran" versstart="071:025" versend="071:025">V. 25</q> mit der
+    Feststellung der eingetroffenen Strafe schließen. Allerdings würde dann mit <q type="koran"
+     versstart="071:026" versend="071:026">V. 26</q> eine Fast-Dublette direkt auf <q type="koran"
+     versstart="071:024" versend="071:024">V. 24</q> folgen. Da der Ton mit <q type="koran"
+     versstart="071:026" versend="071:028">V. 26ff</q>. deutlich schärfer wird, ist die Annahme der
+    späteren Ergänzung des Schlusses <q type="koran" versstart="071:026" versend="071:028">V.
+     26–28</q> nicht auszuschließen. Diese Zuordnung drängt sich vor allem für <q type="koran"
+     versstart="071:028" versend="071:028">V. 28</q> auf, bei dem die für Mittelmekka noch nicht
+    vorauszusetzende Differenzierung zwischen männlichen und weiblichen Gemeindemitgliedern sonst
+    auffallen würde.</p>
+   <p><hi rend="bold">Versabteilungsdifferenzen</hi>
+   </p>
+   <p>Die Verszähltradition verzeichnet sechs Differenzen zwischen den Zählern. Keine dieser
+    Abweichungen von der kufischen Zählung ist zu akzeptieren (siehe dazu <bibl
+     Zotero_Id_1="4WEWN8NZ" Titel_1="Studien zur Komposition der mekkanischen Suren"><hi
+      rend="italic">SKMS</hi>, S. 48 f.</bibl>).</p>
+  </text>
+ </literarkritik>
+ <textkritik>
+  <text versstart="000" versend="028" verfasser="an">
+   <p/>
+  </text>
+ </textkritik>
+ <komposition>
+  <text versstart="000" versend="028" verfasser="an">
+   <p>
+    <table cols="2" rend="boxed" rows="16">
+     <head/>
+     <row><cell/>
+      <cell/>
+      <cell/>
+      <cell><hi rend="bold">I Sendung Noahs</hi></cell>
+     </row>
+     <row><cell><hi rend="bold">4</hi>&lt;</cell>
+      <cell><hi rend="bold">4</hi></cell>
+      <cell><hi rend="superscript"><q type="koran" versstart="071:001" versend="071:004"
+        >1-4</q></hi></cell>
+      <cell>Aufruf Noahs an sein Volk</cell>
+     </row>
+     <row><cell/>
+      <cell/>
+      <cell/>
+      <cell/>
+     </row>
+     <row><cell/>
+      <cell/>
+      <cell/>
+      <cell><hi rend="bold">II Rechenschaft Noahs, Referat seiner Predigt</hi></cell>
+     </row>
+     <row><cell>/</cell>
+      <cell><hi rend="bold">4</hi></cell>
+      <cell><hi rend="superscript"><q type="koran" versstart="071:005" versend="071:008"
+        >5–8</q></hi></cell>
+      <cell>Bericht Noahs über seine Predigt und ihre Ablehnung</cell>
+     </row>
+     <row><cell><hi rend="bold">16</hi></cell>
+      <cell><hi rend="bold">6</hi></cell>
+      <cell><hi rend="superscript"><q type="koran" versstart="071:009" versend="071:014"
+        >009–014</q></hi></cell>
+      <cell>Die dem Volk vorgehaltenen Wohltaten; Ermahnungen</cell>
+     </row>
+     <row><cell>\</cell>
+      <cell><hi rend="bold">6</hi></cell>
+      <cell><hi rend="superscript"><q type="koran" versstart="071:015" versend="071:020"
+        >15–20</q></hi></cell>
+      <cell><lang xml:lang="ar-Latn">ʾāyāt:</lang> Himmelsphänomene; Entstehung aus Erde, Rückkehr
+       zu ihr, Erweckung aus ihr; Ebnung der Erde, Anlage von Wegen</cell>
+     </row>
+     <row><cell/>
+      <cell/>
+      <cell/>
+      <cell/>
+     </row>
+     <row><cell/>
+      <cell/>
+      <cell/>
+      <cell><hi rend="bold">III Gebete Noahs</hi></cell>
+     </row>
+     <row><cell>/</cell>
+      <cell><hi rend="bold">4</hi></cell>
+      <cell><hi rend="superscript"><q type="koran" versstart="071:021" versend="071:024"
+        >21–24</q></hi></cell>
+      <cell>Klage Noahs zu Gott, Insistieren der Frevler auf Götzendienst</cell>
+     </row>
+     <row><cell><hi rend="bold">8</hi></cell>
+      <cell><hi rend="bold">1</hi></cell>
+      <cell><hi rend="superscript"><q type="koran" versstart="071:025" versend="071:025"
+       >25</q></hi></cell>
+      <cell>Vernichtung des Volkes</cell>
+     </row>
+     <row><cell>|</cell>
+      <cell><hi rend="bold">2</hi></cell>
+      <cell><hi rend="superscript"><q type="koran" versstart="071:026" versend="071:027"
+        >26–27</q></hi></cell>
+      <cell>Gebet Noahs um völlige Vernichtung der Ungläubigen insgesamt (wahrscheinlich vor <q
+        type="koran" versstart="071:025" versend="071:025">V. 25</q> gehörig)</cell>
+     </row>
+     <row><cell>\</cell>
+      <cell><hi rend="bold">1</hi></cell>
+      <cell><hi rend="superscript"><q type="koran" versstart="071:028" versend="071:028"
+       >28</q></hi></cell>
+      <cell>Gebet für Eltern, Haus, Gläubige insgesamt; gegen Frevler</cell>
+     </row>
+    </table>
+   </p>
+   <p>
+    <hi rend="bold">Strukturformel/Proportionen</hi>
+   </p>
+   <p>
+    <table cols="3" rend="boxed" rows="3">
+     <head/>
+     <row>
+      <cell>Teil I: 4 Verse</cell>
+      <cell>Teil II: 16 Verse</cell>
+      <cell>Teil III: 8 Verse</cell>
+     </row>
+     <row>
+      <cell>4</cell>
+      <cell>(4+6+6)</cell>
+      <cell>(4+1+2+1)</cell>
+     </row>
+    </table>
+   </p>
+  </text>
+ </komposition>
+ <kommentar>
+  <text versstart="001" versend="001" verfasser="an">
+   <p><lem>ʾinnā ʾarsalnā nūḥan ʾilā qaumihī ʾan ʾanḏir qaumaka min qabli ʾan yaʾtiyahum ʿaḏābun ʾalīm]</lem>
+    Die Sure beginnt sogleich mit einer Erzählung, die sonst in mittelmekkanischen Texten erst im
+    Surenmittelteil zu erwarten ist. Noahs Auftrag nimmt die frühmekkanische Aufforderung an den
+    Verkünder aus <q type="koran" versstart="074:002" versend="074:002">Q 74:2</q>:
+    <lang xml:lang="ar-Latn">qum fa-ʾanḏir</lang> (»Steh auf und warne!«) wieder auf. </p>
+  </text>
+  <text versstart="002" versend="004" verfasser="an">
+   <p><lem>qāla yā-qaumi ʾinnī lakum naḏīrun mubīn / ʾani ʿbudu llāha wa-ttaqūhu wa-ʾaṭīʿūn / yaġfir lakum min ḏunūbikum wa-yuʾaḫḫirkum ʾilā ʾaǧalin musamman ʾinna ʾaǧala llāhi ʾiḏā ǧāʾa lā yuʾaḫḫaru lau kuntum taʿlamūn]</lem>
+    Die Rede setzt sich weitgehend aus Redeteilen von bereits in früheren Suren eingeführten
+    Propheten zusammen: Die Selbstvorstellung des Gesandten in <q type="koran" versstart="071:002"
+     versend="071:002">V. 2</q> entspricht <q type="koran" versstart="015:089" versend="015:089">Q
+     15:89</q> (vom Verkünder): <lang xml:lang="ar-Latn">wa-qul ʾinnū ʾana n-naḏīru l-mubīn</lang>
+    (»und spricht: Ich bin ein deutlicher Warner«). Eine ähnliche Formel begegnet etwas später
+    stereotyp in <q type="koran" versstart="026:000" versend="026:227">Q 26</q>:
+    <lang xml:lang="ar-Latn">innī lakum rasūlun ʾamīn</lang> (<q type="koran" versstart="026:107"
+     versend="026:107">Q 26:107</q>, <q type="koran" versstart="026:125" versend="026:125">Q
+     26:125</q>, <q type="koran" versstart="026:143" versend="026:143">Q 26:143</q>, <q type="koran"
+     versstart="026:162" versend="026:162">Q 26:162</q>, <q type="koran" versstart="026:178"
+     versend="026:178">Q 26:178</q>), jeweils gefolgt von einem Auftrag zur Gottesfurcht und zum
+    Prophetengehorsam (<lang xml:lang="ar-Latn">fa-ttaqu llāha wa-ʾaṭīʿūn</lang>, »So fürchtet Gott
+    und leistet mir Gehorsam«). Die Forderung aus <q type="koran" versstart="071:003"
+     versend="071:003">V. 3</q> begegnet erneut (siehe besonders <q type="koran" versstart="026:108"
+     versend="026:108">Q 26:108</q>, <q type="koran" versstart="026:110" versend="026:110">Q
+     26:110</q>, ebenfalls im Munde Noahs) und wieder in <q type="koran" versstart="026:126"
+     versend="026:126">Q 26:126</q>, <q type="koran" versstart="026:144" versend="026:144">Q
+     26:144</q>, <q type="koran" versstart="026:163" versend="026:163">Q 26:163</q>, <q type="koran"
+     versstart="026:179" versend="026:179">Q 26:179</q> (im Munde anderer Propheten). — Das Angebot
+    der Sündenvergebung ist dagegen auffällig, da es im Munde eines Warners (<q type="koran"
+     versstart="071:002" versend="071:002">V. 2</q>: <lang xml:lang="ar-Latn">naḏīr</lang>), der
+    üblicherweise zur Alleinverehrung Gottes aufruft, nicht zu erwarten ist. Der Fokus liegt hier
+    bei dieser Szenerie, die an die biblische Jona-Geschichte erinnert, aber offenbar auf dem
+    dringenden Aufruf zur Umkehr angesichts der drohenden innerweltlichen Strafe, vor der auch der
+    Verkünder warnt. Das Streben nach Vergebung der Sünden <lang xml:lang="ar-Latn">(ḫaṭāyā)</lang>
+    ist ein Gedanke, der vielleicht aus dem narrativen Kontext von <q type="koran"
+     versstart="026:000" versend="026:227">Q 26</q>, wo jeweils individuelle Beter die
+    Sündenvergebung für sich selbst erhoffen (<q type="koran" versstart="026:051" versend="026:051"
+     >Q 26:51</q>: die bekehrten ägyptischen Zauberer, und <q type="koran" versstart="026:082"
+     versend="026:082">Q 26:82</q>: Abraham), auf die Predigt Noahs übertragen worden ist. Zum
+    Begriff der Sünde im Koran siehe <bibl Zotero_Id_1="AQ5QP3HJ" Titel_1="Sin, Major and Minor"
+     >Zaman 2006:19–28</bibl>. — Auch im Talmud (<hi rend="italic">bSanhedrin</hi> 108a) ruft Noah,
+    der in <q type="bibel" buch="Gen" versstart="006:009" versend="006:009">Gen 6,9</q> nur als
+    Gerechter unter Frevlern figuriert, zur Buße — freilich nicht zur Vergebungssuche — auf. — Die
+    angestrebte Zusicherung der Frist erinnert an <q type="koran" versstart="015:005"
+     versend="015:005">Q 15:5</q>:
+    <lang xml:lang="ar-Latn">mā tasbiqu min ʾummatin ʾaǧalahā wa-mā yastaʾḫirūn</lang> (»Keine
+    Gemeinschaft kommt ihrer Frist zuvor, noch bleibt sie hinter ihr zurück«).</p>
+  </text>
+  <text versstart="005" versend="007" verfasser="an">
+   <p><lem>qāla rabbi ʾinnī daʿautu qaumī lailan wa-nahārā / fa-lam yazidhum duʿāʾī ʾillā firārā / wa-ʾinnī kullamā daʿautuhum li-taġfira lahum ǧaʿalū ʾaṣābiʿahum fī ʾāḏānihim wa-staġšau ṯiyābahum wa-ʾaṣarrū wa-stakbaru stikbārā]</lem>
+    Mit der Rede Noahs springt der Reim von einfachem 2n/m auf das sonst im gesamten Koran nicht
+    vorkommende -<lang xml:lang="ar-Latn">ārā</lang> über. — Die Bußpredigt Noahs hebt wieder auf
+    die von den Frevlern anzustrebende Sündenvergebung ab. Die in ihrer Körpersprache besonders
+    drastische Beschreibung der von Noah erfahrenen Ablehnung ist ohne Parallele im Koran. Das
+    Mittel, sich die Ohren zu stopfen, um sich gegen unangenehme Nachrichten abzuschotten, begegnet
+    auch im Talmud (<hi rend="italic">bKetubbot</hi> 5a). In einem koranischen Gleichnis (<q
+     type="koran" versstart="002:018" versend="002:018">Q 2:18</q>, medinisch) stecken sich die
+    Ungläubigen die Finger in die Ohren, um bedrohliche Donnerschläge nicht zu hören (siehe <bibl
+     Zotero_Id_1="FTTPNU68" Titel_1="Die biblischen Erzählungen im Qoran"><hi rend="italic"
+     >BEQ</hi>, S. 100</bibl>).</p>
+  </text>
+  <text versstart="008" versend="009" verfasser="an">
+   <p><lem>ṯumma ʾinnī daʿautuhum ǧihārā / ṯumma ʾinnī ʾaʿlantu lahum wa-ʾasrartu lahum ʾisrārā]</lem>
+    Noah setzt alle rhetorischen Mittel ein, der Aufruf erfolgt in lauter Anrede, dann begleitet von
+    Reden ›öffentlich und im geheimen‹ — ein Merismus, der etwas wie ›in jeder denkbaren Weise‹
+    bedeuten dürfte. Die Frage nach dem offenen und eindeutig verbalisierten oder eher vor der
+    Öffentlichkeit zu verbergenden religiösen Bekenntnis spielt in dieser Zeit auch sonst eine Rolle
+    (vgl. dazu aus der verwandten Sure <q type="koran" versstart="020:007" versend="020:008">Q
+     20:7–8</q>:
+    <lang xml:lang="ar-Latn">wa-ʾin taǧhar bi-l-qauli fa-ʾinnahū yaʿlamu s-sirra wa-ʾaḫfā / allāhu lā ʾilāha ʾillā huwa lahu l-ʾasmāʾu l-ḥusnā</lang>,
+    »Ob du laut hörbar oder leise sprichst, er kennt das Geheime und selbst das Verborgenste. / Gott
+    — kein Gott außer ihm! Sein sind die schönsten Namen«).</p>
+  </text>
+  <text versstart="010" versend="012" verfasser="an">
+   <p><lem>fa-qultu staġfirū rabbakum ʾinnahū kāna ġaffārā / yursili s-samāʾa ʿalaikum midrārā / wa-yumdidkum bi-ʾamwālin wa-banīna wa-yaǧʿal lakum ǧannātin wa-yaǧʿal lakum ʾanhārā]</lem>
+    Die Buße bzw. Verzeihungssuche ist versprechend, da Gott der Vergebende
+    schlechthin<lang xml:lang="ar-Latn"> (ġaffār)</lang> ist. Sie soll Segnungen veranlassen;
+    anderswo sind solche Segnungen Auslöser einer dankbaren Hinwendung zu Gott. So erinnert die
+    Segnung mit Regen an <q type="koran" versstart="080:025" versend="080:025">Q 80:25</q>; <q
+     type="koran" versstart="078:014" versend="078:014">Q 78:14</q> und öfter, die mit Vermögen an
+     <q type="koran" versstart="074:012" versend="074:012">Q 74:12</q>, mit Söhnen an <q
+     type="koran" versstart="071:012" versend="071:012">Q 71:12</q>, die Ausstattung mit Gärten und
+    Wasserläufen, d.h. bewässerten Plantagen, an <q type="koran" versstart="071:012"
+     versend="071:012">Q 71:12</q>. — <q type="koran" versstart="071:011" versend="071:011">V.
+     11</q> wird später in <q type="koran" versstart="017:006" versend="017:006">Q 17:6</q>
+    wiederaufgenommen.</p>
+  </text>
+  <text versstart="013" versend="013" verfasser="an">
+   <p><lem>mā lakum lā tarǧūna li-llāhi waqārā]</lem>
+    <lang xml:lang="ar-Latn">Waqar</lang>, arabisch für »Würde, Gravität«, könnte hier auch (nach
+     <bibl Zotero_Id_1="KGW9DBJS" Titel_1="Jewish proper names and derivatives in the Koran"
+     >Horovitz 1925:226</bibl>) im Sinne der jüdischen Entsprechung
+    <lang xml:lang="hbo-Latn">yeqar</lang> als »Herrlichkeit, Glorie« verstanden werden.</p>
+  </text>
+  <text versstart="014" versend="016" verfasser="an">
+   <p><lem>wa-qad ḫalaqakum ʾaṭwārā / ʾa-lam tarau kaifa ḫalaqa llāhu sabʿa samāwātin ṭibāqā / wa-ǧaʿala l-qamara fīhinna nūran wa-ǧaʿala š-šamsa sirāǧā]</lem>
+    <lang xml:lang="ar-Latn">ʾĀyāt</lang>-Serie (siehe zur Textsorte <bibl Zotero_Id_1="4WEWN8NZ"
+     Titel_1="Studien zur Komposition der mekkanischen Suren"><hi rend="italic">SKMS</hi>, S.
+     195–197</bibl>), wie sie sonst außerhalb von Erzählungen als eigenständiger Surenteil begegnet.
+    Sie beginnt konstatierend mit der göttlichen Formung des Menschen in Phasen (<q type="koran"
+     versstart="071:014" versend="071:014">V. 14</q>), diese wurden bereits frühmekkanisch
+    determiniert: <q type="koran" versstart="075:037" versend="075:039">Q 75:37–39</q>:
+    <lang xml:lang="ar-Latn">ʾa-lam yaku nuṭfatan min maniyyin yumnā / ṯumma kāna ʿalaqatan fa-ḫalaqa fa-sawwā / fa-ǧaʿala minhu z-zauǧaini ḏ-ḏakara wa-l-ʾunṯā</lang>
+    (»War er nicht einmal ein Tropfen ausgegossenen Samens / und wurde dann ein Gerinnsel, bis Gott
+    ihn formte und bildete / und die beiden Geschlechter, männlich und weiblich, aus ihm werden
+    ließ?«). Die <lang xml:lang="ar-Latn">ʾāyāt</lang>-Serie nimmt dann aber mit <q type="koran"
+     versstart="071:015" versend="071:016">V. 15–16</q> die übliche Form rhetorischer Fragen an. Zu
+     <q type="koran" versstart="071:015" versend="071:015">V. 15</q> siehe schon frühmekkanisch <q
+     type="koran" versstart="078:012" versend="078:012">Q 78:12</q>:
+    <lang xml:lang="ar-Latn">wa-banainā fauqakum sabʿan šidādā</lang> (»haben wir nicht über euch
+    sieben Festen eingesetzt«) und später <q type="koran" versstart="067:003" versend="067:003">Q
+     67:3</q>:
+    <lang xml:lang="ar-Latn">allaḏi ḫalaqa sabʿa samāwātin tibāqan mā tarā fī ḫalqi r-raḥmāni min tafāwutin 〈…〉</lang>
+    (»der die sieben Himmel übereinander erschuf, so daß du in der Schöpfung des Erbarmers keinen
+    Mangel erkennst«), vgl. <bibl Zotero_Id_1="FTTPNU68"
+     Titel_1="Die biblischen Erzählungen im Qoran"><hi rend="italic">BEQ</hi>, S. 1f</bibl>. — <q
+     type="koran" versstart="071:016" versend="071:016">V. 16</q> rekurriert auf <q type="koran"
+     versstart="078:013" versend="078:013">Q 78:13</q>:
+    <lang xml:lang="ar-Latn">wa-ǧaʿalnā sirāǧan wahhāǧā</lang> (»und [wir setzten an ihn] eine hell
+    leuchtende Lampe«), siehe dazu <bibl Zotero_Id_1="FTTPNU68"
+     Titel_1="Die biblischen Erzählungen im Qoran"><hi rend="italic">BEQ </hi>S. 11</bibl>.</p>
+  </text>
+  <text versstart="017" versend="018" verfasser="an">
+   <p><lem>wa-llāhu ʾanbatakum mina l-ʾarḍi nabātā / ṯumma yuʿīdukum fīhā wa-yuḫriǧukum ʾiḫrāǧā]</lem>
+    Die paronomastischen Konstruktionen in <q type="koran" versstart="071:017" versend="071:017">V.
+     17</q> und <q type="koran" versstart="071:018" versend="071:018">V. 18</q> sind in der
+    Übersetzung nicht wörtlich wiederzugeben. Das Bild der Hervorbringung der Menschen nach der Art
+    von Pflanzen aus der Erde ist neu. Doch wurde die Erschaffung des Menschen aus Erde bereits in
+    einer Predigt Moses an Pharao thematisiert (siehe <q type="koran" versstart="020:055"
+     versend="020:055">Q 20:55</q>:
+    <lang xml:lang="ar-Latn">minhā ḫalaqnākum wa-fīhā nuʿīdukum wa-minhā nuḫriǧukum tāratan ʾuḫrā</lang>,
+    »Aus ihr erschufen wir euch, und in sie bringen wir euch zurück, und aus ihr bringen wir euch
+    abermals hervor«).</p>
+  </text>
+  <text versstart="019" versend="020" verfasser="an">
+   <p><lem>wa-llāhu ǧaʿala lakumu l-ʾarḍa bisāṭā / li-taslukū minhā subulan fiǧāǧā]</lem> Die flache
+    Ausbreitung der Erde begegnete bereits in der an Ps 104 angelehnten Sure <q type="koran"
+     versstart="078:000" versend="078:040">Q 78</q> (siehe dazu <bibl Zotero_Id_1="X6J8ZZSZ"
+     Titel_1="Der Koran : Handkommentar mit Übersetzung von Angelika Neuwirth. Frühmekkanische Suren: poetische Prophetie."
+      ><hi rend="italic">HK 1</hi></bibl> zu <q type="kommentar" versstart="078:000"
+     versend="078:040">Q 78</q>), auf die <q type="koran" versstart="071:000" versend="071:028">Q
+     71</q> schon mit <q type="koran" versstart="071:015" versend="071:015">V. 15</q> und <q
+     type="koran" versstart="071:016" versend="071:016">V. 16</q> zurückgriff (siehe <q type="koran"
+     versstart="078:006" versend="078:006">Q 78:6</q>:
+    <lang xml:lang="ar-Latn">ʾa-lam naǧʿali l-ʾarḍa mihādā</lang>, »Haben wir die Erde nicht zur
+    ebenen Fläche ausgebreitet?«), vgl. für Mittelmekka auch <q type="koran" versstart="020:053"
+     versend="020:053">Q 20:53</q>:
+    <lang xml:lang="ar-Latn">allaḏī ǧaʿala lakumu l-ʾarḍa mahdan wa-salaka lakum fīhā subulan</lang>
+    (»Der euch die Erde zu einem Lager machte und für euch Wege auf ihr bahnte«). Der Blick, der
+    eben noch der sich öffnenden Erde bei der Erweckung der Toten galt, wird jetzt auf die integre
+    Erde als Habitat des Menschen gelenkt. In Frühmekka ist die Reihenfolge zumeist umgekehrt, die
+    im Schöpfungspreis soeben noch als fest und beständig gepriesene Erde wird im Moment der
+    Auflösung des Kosmos in ihrer Kontingenz erkennbar.</p>
+  </text>
+  <text versstart="021" versend="022" verfasser="an">
+   <p><lem>qāla nūḥun rabbi ʾinnahum ʿaṣaunī wa-ttabaʿū man lam yazidhu māluhū wa-waladuhū ʾillā ḫasārā / wa-makarū makran kubbārā]</lem>
+    Die Rede Noahs wendet sich nun zu Gott, das Folgende ist ein Gebet — eine Textsorte, die in
+    Mittelmekka häufiger begegnet. Die eben noch als zu erbittende Segnungen Gottes erklärten
+    sozialen Privilegien, Vermögen und zahlreicher Clan (siehe <q type="koran" versstart="071:012"
+     versend="071:012">V. 12</q>), erscheinen nun als ambivalente Gaben: Sie verleiten zu Hochmut.
+    Die Verirrung der Gegner wird auf den Typus des begüterten und angesehenen Landsmannes als
+    Anstifter zurückgeführt; die Opposition dieser sozialen Elite in Mekka, die hier in die Zeit
+    Noahs projiziert wird, spiegelte sich schon in Frühmekka (siehe <bibl Zotero_Id_1="X6J8ZZSZ"
+     Titel_1="Der Koran : Handkommentar mit Übersetzung von Angelika Neuwirth. Frühmekkanische Suren: poetische Prophetie."
+      ><hi rend="italic">HK 1</hi></bibl> zu <q type="kommentar" versstart="096:000"
+     versend="096:019">Q 96</q>).</p>
+  </text>
+  <text versstart="023" versend="024" verfasser="an">
+   <p><lem>wa-qālū lā taḏarunna ʾālihatakum wa-lā taḏarunna waddan wa-lā suwāʿan wa-lā yaġūṯa wa-yaʿūqa wa-nasrā / wa-qad ʾaḍallū kaṯīran wa-lā tazidi ẓ-ẓālimīna ʾillā ḍalālā]</lem>
+    Dieser hochmütigen Führungsschicht wird eine emphatische Aufforderung (wohl an die Abhängigen)
+    zum Festhalten an den alten Göttern in den Mund gelegt. Die Aufzählung der altarabischen Götter
+    im Kontext der Noah-Begebenheit spiegelt wieder die Technik der Rückprojektion der mekkanischen
+    Situation in die Zeit der alten Gottgesandten. Die einzig an dieser Stelle bei Namen genannten
+    altarabischen Götter sind jedoch nicht spezifisch mekkanisch, sondern fremd, so daß die
+    Noah-Situation wieder in eine gewisse Distanz zur mekkanischen gerückt wird. Die Namen sind auch
+    außerkoranisch bezeugt und werden zum Teil als südarabisch klassifiziert (zu
+    <lang xml:lang="ar-Latn">wadd</lang> siehe Horovitz, <bibl Zotero_Id_1="TJNE7TP3"
+     Titel_1="Koranische Untersuchungen"><hi rend="italic">KU</hi>, S. 150</bibl>, zu dem aus
+    epigraphischen Bezeugungen in Süd- und Nordarabien bekannten Nasr siehe Horovitz, <bibl
+     Zotero_Id_1="TJNE7TP3" Titel_1="Koranische Untersuchungen"><hi rend="italic"/>, S. 144</bibl>,
+    zu Yaġūṯ und Yaʿūq siehe Horovitz, <bibl Zotero_Id_1="TJNE7TP3"
+     Titel_1="Koranische Untersuchungen"><hi rend="italic">KU</hi>, S. 153</bibl> sowie allgemein
+     <bibl Zotero_Id_1="VKIT2JX6" Titel_1="Reste arabischen Heidentums">Wellhausen
+    1897:19–22</bibl>).</p>
+   <p>Der Gottesbote wird einzig in dieser Sure mit seinem Gebet selbst instrumental bei der
+    Vernichtung seines Volkes, die übrigen Noah-Erzählungen kommen ohne diese emotional gesteigerte
+    Reaktion aus.</p>
+  </text>
+  <text versstart="025" versend="025" verfasser="an">
+   <p><lem>mimmā ḫaṭīʾātihim ʾuġriqū fa-ʾudḫilū nāran fa-lam yaǧidū lahum min dūni llāhi ʾanṣārā]</lem>
+    Die Bestrafung durch Ertrinken in der Flut wird — betont durch emphatisches
+    <lang xml:lang="ar-Latn">mimma</lang> statt einfachem <lang xml:lang="ar-Latn">min</lang> — auf
+    ihre Sündhaftigkeit zurückgeführt, womit offenbar auf die verfehlte Bitte um Sündenvergebung
+    rekurriert wird. Die Feststellung der Strafe ist eine Standardform des Schlusses von
+    Straflegenden.</p>
+  </text>
+  <text versstart="026" versend="027" verfasser="an">
+   <p><lem>wa-qāla nūḥun rabbi lā taḏar ʿala l-ʾarḍi mina l-kāfirīna dayyārā ʾinnaka ʾin taḏarhum yuḍillū ʿibādaka wa-lā yalidū ʾillā fāǧiran kaffārā]</lem>
+    Daß nach der Vernichtungsnachricht noch einmal eine Strafe für die nun als Ungläubige
+    identifizierten Volksgenossen erfleht wird, könnte als Zeugnis für die besonders heftige
+    Gegnerschaft, die der Verkünder seinen ungläubigen Zeitgenossen entgegenbringt, gedeutet werden.
+    Es ist jedoch naheliegender anzunehmen, daß die Verse <q type="koran" versstart="071:026"
+     versend="071:027">V. 26–27</q> vor <q type="koran" versstart="071:025" versend="071:025">V.
+     25</q> gehören; dann wäre das Geschick ihres Ertrinkens, das ja tatsächlich die Übeltäter von
+    der Erde auslöscht, die Erfüllung des Noah-Gebets.</p>
+  </text>
+  <text versstart="028" versend="028" verfasser="an">
+   <p><lem>rabbi ġfir lī wa-li-wālidayya wa-li-man daḫala baitiya muʾminan wa-li-l-muʾminīna wa-l-muʾmināti wa-lā tazidi ẓ-ẓālimīna ʾillā tabārā]</lem>
+    Das Gebet — vielleicht nicht mehr Noahs, sondern das eines jeden Gläubigen für seine ungläubig
+    gestorbenen Eltern — erinnert an die Fürbitte Abrahams für den ungläubigen Vater in <q
+     type="koran" versstart="026:086" versend="026:086">Q 26:86</q>. Beide reflektieren die — mit
+    der Differenzierung zwischen Gläubigen und Ungläubigen inzwischen eingetretenen —
+    Statusunterschiede zwischen Familienangehörigen im Umkreis des Verkünders. Die Wahrnehmung der
+    Differenz zwischen gläubigen Männern und Frauen setzt allerdings bereits Gemeindestrukturen
+    voraus, wie sie vor Sure 71 in Mittelmekka nicht reflektiert werden. Der Vers dürfte —
+    vielleicht zusammen mit den beiden vorausgehenden, die auch nicht mehr die Zeitgenossen Noahs
+    betreffen — später hinzugefügt worden sein.</p>
+  </text>
+ </kommentar>
+ <analysedeutungkurz>
+  <text versstart="000" versend="028" verfasser="an">
+   <p></p>
+  </text>
+ </analysedeutungkurz>
+ <analysedeutung>
+  <EntwicklungsgeschichtlicheEinordnungkurz>
+   <text versstart="000" versend="028" verfasser="an">
+    <p></p>
+   </text>
+  </EntwicklungsgeschichtlicheEinordnungkurz>
+  <EntwicklungsgeschichtlicheEinordnung>
+   <text versstart="000" versend="028" verfasser="an">
+    <p>Mit Sure 71 haben wir einen in mehrerer Hinsicht auffälligen Text vor uns: Stilistisch lehnt
+     sie sich mit ihrer <lang xml:lang="ar-Latn">ʾĀyāt</lang>-Serie eng an die frühmekkanische Sure
+      <q type="koran" versstart="078:000" versend="078:040">Q 78</q> an, deren seltenen Reim auf āCā
+     (meist mit explosivem Schlußkonsonant) sie ab <q type="koran" versstart="071:005"
+      versend="071:005">V. 5</q> mit dem im Koran einzigartigen -<lang xml:lang="ar-Latn">ārā</lang>
+     zumindest anklingen läßt. Auch gedankliche Rückgriffe auf <q type="koran" versstart="078:000"
+      versend="078:040">Q 78</q> fallen auf. Offenbar soll die Stimmung der Mahnpredigt des
+     Verkünders in Frühmekka heraufbeschworen werden. Sure 71 ist — wie später auch <q type="koran"
+      versstart="076:000" versend="076:031">Q 76</q> und <q type="koran" versstart="050:000"
+      versend="050:045">Q 50</q> — eine Sure ohne Erzählteil. Sie könnte — angesichts der
+     ungewöhnlich scharfen Verurteilung der Ungläubigen — auf den ersten Blick spätmekkanisch sein.
+     Dagegen spricht aber nicht nur ihre Versstruktur, sondern auch ihre enge gedankliche Verbindung
+     zu mittelmekkanischen Suren; sie ähnelt deutlich <q type="koran" versstart="026:000"
+      versend="026:227">Q 26</q>, mit der sie den prophetischen Anspruch auf den Gehorsam der
+     Gläubigen teilt, der dort mehrfach nachdrücklich artikuliert wird. Ebenso klingen in ihren
+     Gebeten um Vergebung der Sünden Formulierungen aus <q type="koran" versstart="026:000"
+      versend="026:227">Q 26</q> an. Welche der beiden Suren ist früher anzusetzen? Für <q
+      type="koran" versstart="071:000" versend="071:028">Q 71</q> spricht, daß sie anders als <q
+      type="koran" versstart="026:000" versend="026:227">Q 26</q> noch keine formularische
+     Einleitung aufweist. Solche Einleitungen wie
+     <lang xml:lang="ar-Latn">tilka ʾāyātu l-kitābi l-mubīn</lang> (»Das sind die Zeichen der klaren
+     Schrift«) werden mit <q type="koran" versstart="026:000" versend="026:227">Q 26</q> Standard.
+     Andererseits könnte die einleitungslose Sure 71 einfach eine Entfaltung der Noah-Geschichte aus
+      <q type="koran" versstart="026:000" versend="026:227">Q 26</q> darstellen sollen. Einige
+     gemeinsame Elemente erscheinen in <q type="koran" versstart="026:000" versend="026:227">Q
+      26</q> funktional, in <q type="koran" versstart="071:000" versend="071:028">Q 71</q> dagegen
+     nur als Referenzen plausibel. Während etwa das Gebet um Sündenvergebung in <q type="koran"
+      versstart="026:000" versend="026:227">Q 26</q> als Ausdruck individueller Frömmigkeit
+     überzeugend begründet ist, wirkt es in <q type="koran" versstart="071:000" versend="071:028">Q
+      71</q> im Kontext von starrsinnigen Ungläubigen weniger einleuchtend.</p>
+    <p>Das Problem der Bitte um Vernichtung der Gegner in <q type="koran" versstart="071:026"
+      versend="071:026">V. 26</q>, nachdem diese laut <q type="koran" versstart="071:025"
+      versend="071:025">V. 25</q> bereits vernichtet sind, läßt sich am ehesten durch die Annahme
+     einer Versverschiebung lösen: Die extrem animosen Verse <q type="koran" versstart="071:026"
+      versend="071:027">V. 26–27</q>, die eine weit über das bei Straflegenden Übliche hinausgehende
+     Feindseligkeit zum Ausdruck bringen, gehören wahrscheinlich vor den Vers <q type="koran"
+      versstart="071:025" versend="071:025">V. 25</q>, der die Strafe als Erfüllung des Noah-Gebets
+     erscheinen läßt. Dagegen bleibt das Gebet für ungläubig gestorbene Eltern im Noah-Kontext
+     auffällig. Gebete für die Eltern begegnen — nach Abrahams in <q type="koran"
+      versstart="026:000" versend="026:227">Q 26</q> gegebenem Vorbild, der allerdings für einen
+     vorher als Götzendiener eingeführten Vater betet — erst wieder in Spätmekka. Für eine späte
+     Entstehung des Verses spricht aber vor allem die Differenzierung zwischen gläubigen Männern und
+     Frauen, die ja bereits soziale Funktionsunterschiede voraussetzt; sie wird sonst erst in
+     Spätmekka getroffen (vgl. <q type="koran" versstart="014:041" versend="014:041">Q 14:41</q>).
+     Der Vers, eventuell zusammen mit den beiden vorausgehenden, könnte am ehesten spätmekkanischer
+     Zusatz sein.</p>
+    <p>Ganz offenbar ist <q type="koran" versstart="071:000" versend="071:028">Q 71</q> vor allem
+     eine Abbildung der Verhältnisse um den Verkünder selbst. Denn die Sure rekurriert zwar auf
+     ältere Suren, nicht aber direkt auf die frühere, sehr viel detaillierter erzählte
+     Noah-Geschichte in <q type="koran" versstart="037:000" versend="037:182">Q 37</q>. Sie weist
+     vor allem ein hohes Maß an Gegenwartsreferenzen auf: Nicht nur stellen die Namen der alten
+     Gottheiten eine unverkennbare Verbindung zum altarabischen Pantheon dar, wenn auch die Götter
+     selbst nicht spezifisch mekkanisch eingeordnet werden können; auch die Heftigkeit der Klage
+     Noahs und seine unversöhnliche Gegnerschaft zu seinem Volk reflektieren am ehesten die
+     Erfahrung des Propheten selbst. Es geht also weniger um Noah als um einen Spiegel der Situation
+     zur Zeit des Verkünders.</p>
+   </text>
+  </EntwicklungsgeschichtlicheEinordnung>
+  <Inhaltstrukturkurz>
+   <text versstart="000" versend="028" verfasser="an">
+    <p></p>
+   </text>
+  </Inhaltstrukturkurz>
+  <Inhaltstruktur>
+   <text versstart="000" versend="028" verfasser="an">
+    <p>Die Sure entspricht strukturell dem narrativ gefüllten Mittelteil der für Mittelmekka
+     charakteristischen dreiteiligen Suren. Anstelle der sonst den Erzählungen vorangestellten
+     Einleitungen mit Ausführungen zur Gegnerschaft der Ungläubigen — etwa in <q type="koran"
+      versstart="026:001" versend="026:009">Q 26:1–9</q> — sind diese polemischen Elemente in <q
+      type="koran" versstart="071:000" versend="071:028">Q 71</q> in die Erzählung selbst eingebaut.
+     Die Geschichte Noahs, deren Ausgang, die Flut, nur angedeutet wird — von dem schon in <q
+      type="koran" versstart="054:013" versend="054:013">Q 54:13</q> erwähnten Bau der Arche ist gar
+     nicht die Rede —, besteht weitgehend aus seiner Predigt (<q type="koran" versstart="071:002"
+      versend="071:004">V. 2–4</q>, <q type="koran" versstart="071:010" versend="071:020">V.
+      10–20</q>) bzw. seiner Klage über ihre Vergeblichkeit. Die Gegner Noahs sind zum einen ›Typoi‹
+     der Gegner des Verkünders, sie werden zum anderen aber auch als Prototypen verderbter Menschen
+     allgemein stilisiert, die bekämpft und vernichtet werden müssen. Mit dieser radikalen Haltung
+     reflektiert die Geschichte die biblische Vorlage, die die Vernichtung der gesamten verderbten
+     Menschheit thematisiert. Nicht um diese geht es aber in <q type="koran" versstart="071:000"
+      versend="071:028">Q 71</q>, sondern um konkrete Gegner. Anstoß genommen wird zwar auch an
+     kultischen Freveln, der Verehrung von mehreren — aus dem zeitgenössischen Arabien auf Noahs
+     Milieu übertragenen — Göttern, noch mehr aber an der Verstocktheit der Ungläubigen. Daß diese
+     in den ideologischen Fängen von Angehörigen der sozialen Elite sind, entspricht ganz dem auch
+     sonst von den mekkanischen Suren vermittelten Bild der Ungläubigen; man denke etwa an das in <q
+      type="koran" versstart="096:000" versend="096:019">Q 96</q> gezeichnete Szenario der
+     Einmischung eines Mächtigen in den Gebetsritus der Anhänger des Verkünders.</p>
+    <p>Interessant ist die an die Hörer gerichtete Forderung der Gottesfurcht
+     <lang xml:lang="ar-Latn">(taqwā)</lang> im Streben nach Sündenvergebung. Die dem christlichen
+     <lang xml:lang="gr-Latn">eusebeia</lang> auch etymologisch nahestehende Haltung der
+     <lang xml:lang="ar-Latn">taqwā</lang> wird dabei mit dem für die christliche Paränese
+     charakteristischen Gedanken der Sündenvergebung verbunden. Noah, biblisch nicht mehr als ein
+     Gerechter, der gegenüber den Frevlern seiner Zeit die Ausnahme bildet, wird so — wie schon
+     vorher in einigen jüdischen und christlichen Traditionen — zu einem Bußprediger und damit
+     wiederum zum Typus des Verkünders.</p>
+    <p>Auch die Vorstellung von einem gläubigen Hausstand, von der Sitte, gläubigen Männern und
+     Frauen das Haus zu öffnen, reflektiert eine für die Spätantike charakteristische Situation, die
+     in der (wohl spätmekkanischen) Umwelt des Verkünders verwirklicht worden sein mag.</p>
+   </text>
+  </Inhaltstruktur>
+  <situativitätkurz>
+   <text versstart="000" versend="028" verfasser="an">
+    <p></p>
+   </text>
+  </situativitätkurz>
+  <Situativität>
+   <text versstart="000" versend="028" verfasser="an">
+    <p>Die Sure bewegt sich vollständig in dem von der Einleitung abgesteckten Erzählrahmen, ohne
+     daß zeitgenössische Hörer direkt angesprochen werden. Doch ist die gesamte Predigt Noahs eine
+     Projektion der Predigt des Verkünders in die biblische Vergangenheit. Allerdings dürfte mit dem
+     abschließenden Gebet eine allgemein in der Gemeinde zu gebrauchende Formel vorliegen. Von der
+     in Wir-Rede gehaltenen Einleitung (<q type="koran" versstart="071:001" versend="071:001">V.
+      1</q>) und dem Strafbericht (<q type="koran" versstart="071:025" versend="071:025">V. 25</q>)
+     abgesehen ist der Text äußerlich fast ganz Rede Noahs, eines Alter Ego des Verkünders. Den mit
+     Noah/dem Verkünder zeitgenössischen Gegnern wird keine eigene Stimme gegeben. Der einzig
+     Sprechende ist der Prophet selbst.</p>
+   </text>
+  </Situativität>
+ </analysedeutung>
+</korankommentar>

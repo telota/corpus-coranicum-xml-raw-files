@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Quran xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="Textstruktur.xsd">
+    <Sure id="082" translator="Nicolai Sinai" webtauglich="true">
+        <Hauptteil id="0">
+            <Abschnitt id="0">
+                <Gesaetz n="0">
+                    <Vers n="000">
+                        <Teilvers n="000" reim="2n/m">
+                            <Kolon lang="ar" Einschub="false" n="0">بِسۡمِ ٱللَّهِ ٱلرَّحۡمَٰنِ ٱلرَّحِيمِ</Kolon>
+                            <Kolon lang="de" Einschub="false" n="0">Im Namen Gottes, des barmherzigen Erbarmers!</Kolon>
+                        </Teilvers>
+                    </Vers>
+                </Gesaetz>
+            </Abschnitt>
+        </Hauptteil>
+        <Hauptteil id="1">
+            <Abschnitt id="1">
+                <Gesaetz n="1">
+                    <Vers n="001">
+                        <Teilvers n="001" reim="3(K)K3rat">
+                            <Kolon Einschub="false" lang="ar" n="1">إِذَا ٱلسَّمَآءُ ٱنفَطَرَتۡ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="1">Wenn sich der Himmel spaltet,</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="002">
+                        <Teilvers n="002" reim="3(K)K3rat">
+                            <Kolon Einschub="false" lang="ar" n="2">وَإِذَا ٱلۡكَوَاكِبُ ٱنتَثَرَتۡ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="2">wenn sich die Sterne zerstreuen,</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="003">
+                        <Teilvers n="003" reim="3(K)K3rat">
+                            <Kolon Einschub="false" lang="ar" n="3">وَإِذَا ٱلۡبِحَارُ فُجِّرَتۡ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="3">wenn die Meere aufgerissen werden,</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="004">
+                        <Teilvers n="004" reim="3(K)K3rat">
+                            <Kolon Einschub="false" lang="ar" n="4">وَإِذَا ٱلۡقُبُورُ بُعۡثِرَتۡ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="4">und wenn die Gräber freigelegt werden,</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="005">
+                        <Teilvers n="005" reim="3(K)K3rat">
+                            <Kolon Einschub="false" lang="ar" n="5">عَلِمَتۡ نَفۡسٌۭ مَّا قَدَّمَتۡ وَأَخَّرَتۡ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="5">dann weiß eine jede Seele, was sie getan und was sie aufgeschoben hat.</Kolon>
+                        </Teilvers>
+                    </Vers>
+                </Gesaetz>
+                <Gesaetz n="2">
+                    <Vers n="006">
+                        <Teilvers n="006" reim="2n/m">
+                            <Kolon Einschub="false" lang="ar" n="6">يَٰٓأَيُّهَا ٱلۡإِنسَٰنُ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="6">O Mensch,</Kolon>
+                            <Kolon Einschub="false" lang="ar" n="7">مَا غَرَّكَ بِرَبِّكَ ٱلۡكَرِيمِ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="7">was hat dich im Hinblick auf deinen großmütigen Herrn verleitet,</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="007">
+                        <Teilvers n="007" reim="3(K)K3Kak">
+                            <Kolon Einschub="false" lang="ar" n="8">ٱلَّذِی خَلَقَكَ فَسَوَّىٰكَ فَعَدَلَكَ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="8">der dich geschaffen, geformt und geradegerichtet hat</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="008">
+                        <Teilvers n="008" reim="3(K)K3Kak">
+                            <Kolon Einschub="false" lang="ar" n="9">فِیٓ أَىِّ صُورَةٍۢ مَّا شَآءَ رَكَّبَكَ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="9">und dich so zusammengefügt hat, wie er wollte?</Kolon>
+                        </Teilvers>
+                    </Vers>
+                </Gesaetz>
+            </Abschnitt>
+        </Hauptteil>
+        <Hauptteil id="2">
+            <Abschnitt id="1">
+                <Gesaetz n="3">
+                    <Vers n="009">
+                        <Teilvers n="009" reim="2n/m ">
+                            <Kolon Einschub="false" lang="ar" n="10">كَلَّا بَلۡ تُكَذِّبُونَ بِٱلدِّينِ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="10">Aber nein, ihr leugnet das Gericht!</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="010">
+                        <Teilvers n="010" reim="2n/m ">
+                            <Kolon Einschub="false" lang="ar" n="11">وَإِنَّ عَلَيۡكُمۡ لَحَٰفِظِينَ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="11">Doch über euch sind Hüter,</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="011">
+                        <Teilvers n="011" reim="2n/m ">
+                            <Kolon Einschub="false" lang="ar" n="12">كِرَامًۭا كَٰتِبِينَ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="12">edle, die niederschreiben,</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="012">
+                        <Teilvers n="012" reim="2n/m ">
+                            <Kolon Einschub="false" lang="ar" n="13">يَعۡلَمُونَ مَا تَفۡعَلُونَ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="13">die wissen, was ihr tut.</Kolon>
+                        </Teilvers>
+                    </Vers>
+                </Gesaetz>
+                <Gesaetz n="4">
+                    <Vers n="013">
+                        <Teilvers n="013" reim="2n/m ">
+                            <Kolon Einschub="false" lang="ar" n="14">إِنَّ ٱلۡأَبۡرَارَ لَفِی نَعِيمٍۢ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="14">Die Rechtschaffenen sind in einem Zustand der Wonne,</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="014">
+                        <Teilvers n="014" reim="2n/m ">
+                            <Kolon Einschub="false" lang="ar" n="15">وَإِنَّ ٱلۡفُجَّارَ لَفِی جَحِيمٍۢ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="15">die Sünder jedoch in einem Brand,</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="015">
+                        <Teilvers n="015" reim="2n/m ">
+                            <Kolon Einschub="false" lang="ar" n="16">يَصۡلَوۡنَهَا يَوۡمَ ٱلدِّينِ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="16">in dem sie schmoren am Tag des Gerichts</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="016">
+                        <Teilvers n="016" reim="2n/m ">
+                            <Kolon Einschub="false" lang="ar" n="17">وَمَا هُمۡ عَنۡهَا بِغَآئِبِينَ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="17">und dem sie nicht entrinnen.</Kolon>
+                        </Teilvers>
+                    </Vers>
+                </Gesaetz>
+                <Gesaetz n="5">
+                    <Vers n="017">
+                        <Teilvers n="017" reim="2n/m ">
+                            <Kolon Einschub="false" lang="ar" n="18">وَمَآ أَدۡرَىٰكَ مَا يَوۡمُ ٱلدِّينِ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="18">Was lässt dich wissen, was der Tag des Gerichts ist?</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="018">
+                        <Teilvers n="018" reim="2n/m ">
+                            <Kolon Einschub="false" lang="ar" n="19">ثُمَّ مَآ أَدۡرَىٰكَ مَا يَوۡمُ ٱلدِّينِ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="19">Nochmals: Was lässt dich wissen, was der Tag des Gerichts ist?</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="019">
+                        <Teilvers n="019" reim="li-llāh">
+                            <Kolon Einschub="false" lang="ar" n="20">يَوۡمَ لَا تَمۡلِكُ نَفۡسٌۭ لِّنَفۡسٍۢ شَيۡـًۭٔا ۖ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="20">Am Tag, an dem keine Seele etwas für eine andere vermag</Kolon>
+                            <Kolon Einschub="false" lang="ar" n="21">وَٱلۡأَمۡرُ يَوۡمَئِذٍۢ لِّلَّهِ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="21">und an dem die Entscheidung bei Gott liegt.</Kolon>
+                        </Teilvers>
+                    </Vers>
+                </Gesaetz>
+            </Abschnitt>
+        </Hauptteil>
+    </Sure>
+</Quran>

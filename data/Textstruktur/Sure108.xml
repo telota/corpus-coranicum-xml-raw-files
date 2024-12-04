@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Quran xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="Textstruktur.xsd">
+    <Sure id="108" webtauglich="true" translator="Nicolai Sinai">
+        <Hauptteil id="0">
+            <Abschnitt id="0">
+                <Gesaetz n="0">
+                    <Vers n="000">
+                        <Teilvers n="000" reim="2n/m">
+                            <Kolon lang="ar" Einschub="false" n="0">بِسۡمِ ٱللَّهِ ٱلرَّحۡمَٰنِ ٱلرَّحِيمِ</Kolon>
+                            <Kolon lang="de" Einschub="false" n="0">Im Namen Gottes, des barmherzigen Erbarmers!</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="001">
+                        <Teilvers n="001" reim="33K3r">
+                            <Kolon Einschub="false" lang="ar" n="1">إِنَّآ أَعۡطَيۡنَٰكَ ٱلۡكَوۡثَرَ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="1">Wir haben dir die Fülle gegeben.</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="002">
+                        <Teilvers n="002" reim="33K3r">
+                            <Kolon Einschub="false" lang="ar" n="2">فَصَلِّ لِرَبِّكَ وَٱنۡحَرۡ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="2">So bete zu deinem Herrn und opfere!</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="003">
+                        <Teilvers n="003" reim="33K3r">
+                            <Kolon Einschub="false" lang="ar" n="3">إِنَّ شَانِئَكَ هُوَ ٱلۡأَبۡتَرُ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="3">Dein Hasser ist der Abgeschnittene.</Kolon>
+                        </Teilvers>
+                    </Vers>
+                </Gesaetz>
+            </Abschnitt>
+        </Hauptteil>
+    </Sure>
+</Quran>

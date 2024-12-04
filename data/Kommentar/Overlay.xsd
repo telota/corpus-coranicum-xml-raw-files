@@ -1,0 +1,391 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:ns1="http://www.tei-c.org/ns/1.0" xmlns:vc="http://www.w3.org/2007/XMLSchema-versioning" elementFormDefault="qualified" vc:minVersion="1.1">
+ <xs:import namespace="http://www.w3.org/XML/1998/namespace" schemaLocation="xmllang.xsd"/>
+ <xs:element name="overlay">
+ <xs:annotation>
+ <xs:documentation/>
+ </xs:annotation>
+ <xs:complexType>
+ <xs:sequence maxOccurs="unbounded" minOccurs="0">
+ <xs:element maxOccurs="unbounded" minOccurs="0" ref="text"/>
+ <xs:element ref="akkordeon" maxOccurs="unbounded" minOccurs="0"/>
+ </xs:sequence>
+ <xs:attribute name="typ" type="xs:string"/>
+ <xs:attribute name="webtauglich" type="xs:boolean" use="required"/>
+ <xs:attribute name="title" type="xs:string" use="required"/>
+ </xs:complexType>
+ </xs:element>
+ <xs:element name="akkordeon">
+ <xs:annotation>
+ <xs:documentation>Fließtext, </xs:documentation>
+ </xs:annotation>
+ <xs:complexType mixed="false">
+ <xs:sequence maxOccurs="unbounded" minOccurs="1">
+ <xs:element ref="label"/>
+ <xs:element ref="text"/>
+ </xs:sequence>
+ </xs:complexType>
+ </xs:element>
+ <xs:element name="text">
+ <xs:complexType>
+ <xs:sequence maxOccurs="unbounded">
+ <xs:element ref="p"/>
+ </xs:sequence>
+ <xs:attribute name="verfasser" type="xs:NCName" use="required"/>
+ <xs:attribute name="versstart" use="optional">
+ <xs:simpleType>
+ <xs:restriction base="xs:integer">
+ <xs:pattern value="\d\d\d"/>
+ </xs:restriction>
+ </xs:simpleType>
+ </xs:attribute>
+ <xs:attribute name="versend" use="optional">
+ <xs:simpleType>
+ <xs:restriction base="xs:integer">
+ <xs:pattern value="\d\d\d"/>
+ </xs:restriction>
+ </xs:simpleType>
+ </xs:attribute>
+ <xs:attribute name="omitstart">
+ <xs:simpleType>
+ <xs:restriction base="xs:integer">
+ <xs:pattern value="\d\d\d"/>
+ </xs:restriction>
+ </xs:simpleType>
+ </xs:attribute>
+ <xs:attribute name="omitend">
+ <xs:simpleType>
+ <xs:restriction base="xs:integer">
+ <xs:pattern value="\d\d\d"/>
+ </xs:restriction>
+ </xs:simpleType>
+ </xs:attribute>
+ </xs:complexType>
+ </xs:element>
+ <xs:element name="table">
+ <xs:complexType>
+ <xs:sequence>
+ <xs:element name="head" type="xs:string"/>
+ <xs:element form="qualified" maxOccurs="unbounded" name="row">
+ <xs:complexType>
+ <xs:sequence>
+ <xs:element form="qualified" maxOccurs="unbounded" name="cell">
+ <xs:complexType mixed="true">
+ <xs:sequence maxOccurs="unbounded" minOccurs="0">
+ <xs:element ref="q" maxOccurs="unbounded" minOccurs="0"/>
+ <xs:element ref="lang" maxOccurs="unbounded" minOccurs="0"/>
+ <xs:element ref="hi" maxOccurs="unbounded" minOccurs="0"/>
+ <xs:element ref="ref" maxOccurs="unbounded" minOccurs="0"/>
+ <xs:element ref="bibl" maxOccurs="unbounded" minOccurs="0"/>
+ <xs:element ref="note" maxOccurs="unbounded" minOccurs="0"/>
+ </xs:sequence>
+ </xs:complexType>
+ </xs:element>
+ </xs:sequence>
+ </xs:complexType>
+ </xs:element>
+ </xs:sequence>
+ <xs:attribute name="cols" type="xs:integer" use="required"/>
+ <xs:attribute name="rend" type="xs:NCName" use="required"/>
+ <xs:attribute name="rows" type="xs:integer" use="required"/>
+ </xs:complexType>
+ </xs:element>
+ <xs:element name="list">
+ <xs:complexType>
+ <xs:sequence maxOccurs="unbounded">
+ <xs:element ref="label"/>
+ <xs:element ref="item"/>
+ </xs:sequence>
+ <xs:attribute name="rend" type="xs:NCName" use="required"/>
+ <xs:attribute name="type" type="xs:NCName" use="required"/>
+ </xs:complexType>
+ </xs:element>
+ <xs:element name="label" nillable="false">
+ <xs:complexType mixed="true">
+ <xs:sequence maxOccurs="unbounded" minOccurs="0">
+ <xs:element maxOccurs="unbounded" minOccurs="0" ref="lang"/>
+ <xs:element maxOccurs="unbounded" minOccurs="0" ref="q"/>
+ <xs:element maxOccurs="unbounded" minOccurs="0" ref="hi"/>
+ <xs:element maxOccurs="unbounded" minOccurs="0" ref="ref"/>
+ <xs:element maxOccurs="unbounded" minOccurs="0" ref="bibl"/>
+ <xs:element maxOccurs="unbounded" minOccurs="0" ref="note"/>
+ </xs:sequence>
+ <xs:attribute name="n" type="xs:integer" use="required"/>
+ </xs:complexType>
+ </xs:element>
+ <xs:element name="item">
+ <xs:complexType mixed="true">
+ <xs:sequence maxOccurs="unbounded" minOccurs="0">
+ <xs:element maxOccurs="unbounded" minOccurs="0" ref="lang"/>
+ <xs:element maxOccurs="unbounded" minOccurs="0" ref="q"/>
+ <xs:element maxOccurs="unbounded" minOccurs="0" ref="hi"/>
+ <xs:element maxOccurs="unbounded" minOccurs="0" ref="ref"/>
+ <xs:element maxOccurs="unbounded" minOccurs="0" ref="bibl"/>
+ <xs:element maxOccurs="unbounded" minOccurs="0" ref="note"/>
+ </xs:sequence>
+ <xs:attribute name="n" type="xs:integer" use="required"/>
+ </xs:complexType>
+ </xs:element>
+ <xs:element name="p">
+ <xs:annotation>
+ <xs:documentation>Hier werden die Fließtexte abgelegt.</xs:documentation>
+ </xs:annotation>
+ <xs:complexType mixed="true">
+ <xs:choice minOccurs="0" maxOccurs="unbounded">
+ <xs:element ref="hi"/>
+ <xs:element ref="lang"/>
+ <xs:element ref="lem"/>
+ <xs:element ref="q"/>
+ <xs:element ref="ref"/>
+ <xs:element ref="table"/>
+ <xs:element ref="note"/>
+ <xs:element ref="list"/>
+ <xs:element ref="bibl"/>
+ </xs:choice>
+ </xs:complexType>
+ </xs:element>
+ <xs:element name="hi">
+ <xs:annotation>
+ <xs:documentation>Zur Hervorhebung durch Kursivsetzung und Fettung.</xs:documentation>
+ </xs:annotation>
+ <xs:complexType mixed="true">
+ <xs:sequence maxOccurs="unbounded" minOccurs="0">
+ <xs:element ref="lang" maxOccurs="unbounded" minOccurs="0"/>
+ <xs:element ref="q" maxOccurs="unbounded" minOccurs="0"/>
+ <xs:element maxOccurs="unbounded" minOccurs="0" ref="hi"/>
+ <xs:element maxOccurs="unbounded" minOccurs="0" ref="note"/>
+ </xs:sequence>
+ <xs:attribute name="rend">
+ <xs:simpleType>
+ <xs:list itemType="rendering"/>
+ </xs:simpleType>
+ </xs:attribute>
+ </xs:complexType>
+ </xs:element>
+ <xs:element name="note">
+ <xs:complexType mixed="true">
+ <xs:choice maxOccurs="unbounded" minOccurs="0">
+ <xs:element ref="hi"/>
+ <xs:element ref="q"/>
+ <xs:element ref="lang"/>
+ <xs:element ref="ref"/>
+ <xs:element ref="bibl"/>
+ </xs:choice>
+ <xs:attribute name="place" type="xs:string" use="required"/>
+ </xs:complexType>
+ </xs:element>
+ <xs:element name="lang">
+ <xs:annotation>
+ <xs:documentation>Zur Auszeichung der verwandten Sprachen und Schriften, wobei der markierte Text entweder in Originalschrift oder in lateinischer Transcription vorliegt.
+Ein kleine Einführung hier: http://www.w3.org/International/articles/bcp47/
+Zur Verwendung von Sprach- und Schrift-Tags gemäß TEI siehe: http://www.tei-c.org/release/doc/tei-p5-doc/en/html/CH.html
+Zu den Sprachcodes siehe:
+http://www.sil.org/iso639-3/codes.asp
+Eine Tabelle der Schriftcodes: http://unicode.org/iso15924/iso15924-codes.html</xs:documentation>
+ </xs:annotation>
+ <xs:complexType>
+ <xs:simpleContent>
+ <xs:extension base="xs:string">
+ <xs:attribute ref="xml:lang" use="required"/>
+ </xs:extension>
+ </xs:simpleContent>
+ </xs:complexType>
+ </xs:element>
+ <xs:element name="lem" type="xs:string">
+ <xs:annotation>
+ <xs:documentation>Enthält stehts einen arabischen Transcriptionstext, wird durch ein entsprechendes Stylesheet anschließend kursiviert oder anderweitig hervorgehoben!</xs:documentation>
+ </xs:annotation>
+ </xs:element>
+ <xs:element name="q">
+ <xs:annotation>
+ <xs:documentation>Mit diesem Element wird auf die Qurʾān- oder Bibelstellen verwiesen. Deshalb sind "type", "versend" und "versstart" zwingend vorgegeben, während das Attribut "buch" nur bei Verweisen mit dem Attribut 'type="bibel"' benötigt wird.</xs:documentation>
+ </xs:annotation>
+ <xs:complexType mixed="true">
+ <xs:attribute name="type" use="required">
+ <xs:simpleType>
+ <xs:list itemType="quoting"/>
+ </xs:simpleType>
+ </xs:attribute>
+ <xs:attribute name="buch">
+ <xs:annotation>
+ <xs:documentation>Die Auswahl der Biblischen Bücher ist auf eine Kürzelliste beschränkt, welche der deutschen Einheitsübersetzung entnommen ist.</xs:documentation>
+ </xs:annotation>
+ <xs:simpleType>
+ <xs:list itemType="bibleref"/>
+ </xs:simpleType>
+ </xs:attribute>
+ <xs:attribute name="versstart" use="required">
+ <xs:simpleType>
+ <xs:restriction base="xs:NMTOKEN">
+ <xs:pattern value="\d\d\d\:\d\d\d"/>
+ </xs:restriction>
+ </xs:simpleType>
+ </xs:attribute>
+ <xs:attribute name="versend" use="required">
+ <xs:simpleType>
+ <xs:restriction base="xs:NMTOKEN">
+ <xs:pattern value="\d\d\d\:\d\d\d"/>
+ </xs:restriction>
+ </xs:simpleType>
+ </xs:attribute>
+ <xs:attributeGroup ref="omit"/>
+ <xs:attribute name="id" type="xs:decimal" use="optional"/>
+ </xs:complexType>
+ </xs:element>
+ <xs:element name="ref">
+ <xs:annotation>
+ <xs:documentation>Tag zum Markieren von Literaturverweisen, beziehungsweise auf Datenbankeinträge (TuK, lectiones, Glossarium).</xs:documentation>
+ </xs:annotation>
+ <xs:complexType mixed="true">
+ <xs:sequence>
+ <xs:element minOccurs="0" maxOccurs="unbounded" ref="bibl"/>
+ </xs:sequence>
+ <xs:attribute name="target" use="required"/>
+ </xs:complexType>
+ </xs:element>
+ <xs:element name="bibl">
+ <xs:complexType mixed="true">
+ <xs:sequence maxOccurs="unbounded" minOccurs="0">
+ <xs:element ref="hi"/>
+ </xs:sequence>
+ <xs:attribute name="Zotero_Id_1" type="xs:string"/>
+ <xs:attribute name="Titel_1" type="xs:string"/>
+ </xs:complexType>
+ </xs:element>
+ <xs:simpleType name="rendering">
+ <xs:annotation>
+ <xs:documentation>Zur Hervorhebung von Text stehen Kursivierung, Fettung und Hochstellen zur Auswahl.</xs:documentation>
+ </xs:annotation>
+ <xs:restriction base="xs:string">
+ <xs:enumeration value="italic"/>
+ <xs:enumeration value="bold"/>
+ <xs:enumeration value="superscript"/>
+ <xs:enumeration value="text-indent"/>
+ <xs:enumeration value="h1"/>
+ <xs:enumeration value="h2"/>
+ <xs:enumeration value="h3"/>
+ <xs:enumeration value="lemma"/>
+ </xs:restriction>
+ </xs:simpleType>
+ <xs:simpleType name="bibleref">
+ <xs:annotation>
+ <xs:documentation>Die biblischen Bücher werden nach der deutschen Einheitsübersetzung abgekürzt eingetragen; siehe dazu die Liste "bibelbuecher.txt"</xs:documentation>
+ </xs:annotation>
+ <xs:restriction base="xs:string">
+ <xs:enumeration value="Gen"/>
+ <xs:enumeration value="Ex"/>
+ <xs:enumeration value="Lev"/>
+ <xs:enumeration value="Num"/>
+ <xs:enumeration value="Dtn"/>
+ <xs:enumeration value="Jos"/>
+ <xs:enumeration value="Ri"/>
+ <xs:enumeration value="Rut"/>
+ <xs:enumeration value="1Sam"/>
+ <xs:enumeration value="2Sam"/>
+ <xs:enumeration value="1Kön"/>
+ <xs:enumeration value="2Kön"/>
+ <xs:enumeration value="1Chr"/>
+ <xs:enumeration value="2Chr"/>
+ <xs:enumeration value="Esra"/>
+ <xs:enumeration value="Neh"/>
+ <xs:enumeration value="Tob"/>
+ <xs:enumeration value="Jdt"/>
+ <xs:enumeration value="Est"/>
+ <xs:enumeration value="1Makk"/>
+ <xs:enumeration value="2Makk"/>
+ <xs:enumeration value="Ijob"/>
+ <xs:enumeration value="Ps"/>
+ <xs:enumeration value="Spr"/>
+ <xs:enumeration value="Koh"/>
+ <xs:enumeration value="Hld"/>
+ <xs:enumeration value="Weish"/>
+ <xs:enumeration value="Sir"/>
+ <xs:enumeration value="Jes"/>
+ <xs:enumeration value="Jer"/>
+ <xs:enumeration value="Klgl"/>
+ <xs:enumeration value="Bar"/>
+ <xs:enumeration value="Ez"/>
+ <xs:enumeration value="Dan"/>
+ <xs:enumeration value="Hos"/>
+ <xs:enumeration value="Joël"/>
+ <xs:enumeration value="Am"/>
+ <xs:enumeration value="Obd"/>
+ <xs:enumeration value="Jona"/>
+ <xs:enumeration value="Mi"/>
+ <xs:enumeration value="Nah"/>
+ <xs:enumeration value="Hab"/>
+ <xs:enumeration value="Zef"/>
+ <xs:enumeration value="Hag"/>
+ <xs:enumeration value="Sach"/>
+ <xs:enumeration value="Mal"/>
+ <xs:enumeration value="Mt"/>
+ <xs:enumeration value="Mk"/>
+ <xs:enumeration value="Lk"/>
+ <xs:enumeration value="Joh"/>
+ <xs:enumeration value="Apg"/>
+ <xs:enumeration value="Röm"/>
+ <xs:enumeration value="1Kor"/>
+ <xs:enumeration value="2Kor"/>
+ <xs:enumeration value="Gal"/>
+ <xs:enumeration value="Eph"/>
+ <xs:enumeration value="Phil"/>
+ <xs:enumeration value="Kol"/>
+ <xs:enumeration value="1Thess"/>
+ <xs:enumeration value="2Thess"/>
+ <xs:enumeration value="1Tim"/>
+ <xs:enumeration value="2Tim"/>
+ <xs:enumeration value="Tit"/>
+ <xs:enumeration value="Phlm"/>
+ <xs:enumeration value="Hebr"/>
+ <xs:enumeration value="Jak"/>
+ <xs:enumeration value="1Petr"/>
+ <xs:enumeration value="2Petr"/>
+ <xs:enumeration value="1Joh"/>
+ <xs:enumeration value="2Joh"/>
+ <xs:enumeration value="3Joh"/>
+ <xs:enumeration value="Jud"/>
+ <xs:enumeration value="Offb"/>
+ </xs:restriction>
+ </xs:simpleType>
+ <xs:simpleType name="quoting">
+ <xs:annotation>
+ <xs:documentation>Die verschiedenen Verweismöglichkeiten sind:
+ "koran" für einen allgemeien Verweis auf eine bestimmte Qurʾānstelle
+ "bibel" für Verweise auf eine Bibelstelle (hier muß dann zusätzlich zu Kapitel und Vers auch noch das Buch angegeben werden)
+ "anmerkung" für einen Verweis auf einen Anmerkungstext zu einer bestimmten Qurʾānstelle
+ "kommentar" für einen Verweis auf einen Kommentartext zu einer bestimmten Qurʾānstelle
+ "datierung" für einen Verweis auf einen Datierungstext zu einer bestimmten Qurʾānsure (als ganzer)
+ "literarkritik" für einen Verweis auf einen Text der Kategorie 'literarkritik' zu einer bestimmten Qur'ansure (als ganzer)
+ "aufbauinhalt" für einen Verweis auf einen Text der Kategorie 'aufbauinhalt' zu einer bestimmten Qurʾānsure (als ganzer)
+ "ueberblick" für einen Verweis auf einen Text der Kategorie 'ueberblick' zu einer bestimmten Qurʾānsure (als ganzer)
+ "handschrift" für die Übergabe einer Handschriften-ID</xs:documentation>
+ </xs:annotation>
+ <xs:restriction base="xs:NCName">
+ <xs:enumeration value="koran"/>
+ <xs:enumeration value="bibel"/>
+ <xs:enumeration value="anmerkung"/>
+ <xs:enumeration value="kommentar"/>
+ <xs:enumeration value="datierung"/>
+ <xs:enumeration value="literarkritik"/>
+ <xs:enumeration value="aufbauinhalt"/>
+ <xs:enumeration value="ueberblick"/>
+ <xs:enumeration value="handschrift"/>
+ </xs:restriction>
+ </xs:simpleType>
+ <xs:attributeGroup name="omit">
+ <xs:attribute name="omitstart">
+ <xs:simpleType>
+ <xs:restriction base="xs:NMTOKEN">
+ <xs:pattern value="\d\d\d\:\d\d\d"/>
+ </xs:restriction>
+ </xs:simpleType>
+ </xs:attribute>
+ <xs:attribute name="omitend">
+ <xs:simpleType>
+ <xs:restriction base="xs:NMTOKEN">
+ <xs:pattern value="\d\d\d\:\d\d\d"/>
+ </xs:restriction>
+ </xs:simpleType>
+ </xs:attribute>
+ </xs:attributeGroup>
+</xs:schema>

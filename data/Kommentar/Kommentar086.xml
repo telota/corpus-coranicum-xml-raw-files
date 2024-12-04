@@ -1,0 +1,492 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<korankommentar xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:noNamespaceSchemaLocation="Kommentar.xsd">
+ <sure id="086" webtauglich="true"/>
+ <surentitel>
+  <text versstart="000" versend="017" verfasser="tjj">
+   <p>Sure 86 — <lang xml:lang="ar-Latn">aṭ-Ṭāriq</lang> — »Der Nachtgast«</p>
+  </text>
+ </surentitel>
+ <autorenkurz>
+  <text versstart="000" versend="017" verfasser="tjj">
+   <p>Übersetzt und analysiert von Nicolai Sinai</p>
+  </text>
+ </autorenkurz>
+ <datierungkurz>
+  <text versstart="000" versend="017" verfasser="nisi">
+   <p>Mekka I (Gruppe II)</p>
+  </text>
+ </datierungkurz>
+ <datierung>
+  <text versstart="000" versend="017" verfasser="nisi">
+   <p>Die Sure gehört wie z. B. <q type="koran" versstart="091:000" versend="091:015">Q 91</q> und
+     <q type="koran" versstart="092:000" versend="092:021">92</q> zu denjenigen frühmekkanischen
+    Texten, die sich bereits in Gesätze gliedern lassen, und ist damit später als die kurzen Droh-
+    und Scheltworte <q type="koran" versstart="095:000" versend="095:008">Q 95</q>, <q type="koran"
+     versstart="102:000" versend="102:008">102</q>, <q type="koran" versstart="103:000"
+     versend="103:003">103</q>, <q type="koran" versstart="104:000" versend="104:009">104</q>, <q
+     type="koran" versstart="107:000" versend="107:007">107</q>, <q type="koran" versstart="111:000"
+     versend="111:005">111</q> (s. a. die Einleitungen zu Q 89, 91, 92). Mit einer
+    durchschnittlichen Verslänge von 8,7 Silben und einer Länge von 17 bzw. 16 Versen (bei
+    Zusammenziehung von <q type="koran" versstart="086:015" versend="086:016">V. 15.16</q>) ist sie
+    wie auch <q type="koran" versstart="091:000" versend="091:015">Q 91</q> und <q type="koran"
+     versstart="092:000" versend="092:021">92</q> in Gruppe II einzuordnen. Das Schlussgesätz weist
+    strukturelle Bezüge zum zweiten Teil der ebenfalls zu Gruppe II gehörigen <q type="koran"
+     versstart="081:000" versend="081:029">Sure 81</q> auf (s. u. die <q type="anmerkung"
+     versstart="086:011" versend="086:014">Anm. zu V. 11–14</q>). Neuwirth weist insbesondere auf
+    Berührungspunkte mit <q type="koran" versstart="085:000" versend="085:022">Q 85</q> hin (<bibl
+     Zotero_Id_1="X6J8ZZSZ" Titel_1="Frühmekkanische Suren poetische Prophetie">Neuwirth,
+     Frühmekkanische Suren, 339 f.</bibl>), etwa im einleitenden Schwur beim Himmel.</p>
+  </text>
+ </datierung>
+ <literarkritikkurz>
+  <text versstart="000" versend="017" verfasser="nisi">
+   <p>Keine Einschübe</p>
+  </text>
+ </literarkritikkurz>
+ <literarkritik>
+  <text versstart="000" versend="017" verfasser="nisi">
+   <p>Die Sure weist keine Spuren späterer Zusätze auf. Der Neueinsatz des Textes mit einer
+    Schwurserie ab <q type="koran" versstart="086:011" versend="086:011">V. 11</q> ist kein Indiz
+    für sekundäre Redaktionsprozesse: Neben den übrigen koranischen Binnenschwurserien ist es
+    insbesondere das Auftreten von Einzelschwüren im Sureninnern (<q type="koran"
+     versstart="051:023" versend="051:023">Q 51:23</q>, <q type="koran" versstart="070:040"
+     versend="070:040">70:40</q>), welches deutlich macht, „daß Schwüre nicht unbedingt selbständige
+    Einheiten einleiten müssen, sondern innerhalb des Redeverlaufs zur Betonung dienen können“; sie
+    fungieren also nicht notwendigerweise als Sureneinleitungen und können folglich nicht als
+    „Kriterium für ursprüngliche Surenanfänge“ dienen (<bibl Zotero_Id_1="4WEWN8NZ"
+     Titel_1="Studien zur Komposition der mekkanischen Suren">Neuwirth, Studien, 188</bibl>).</p>
+  </text>
+ </literarkritik>
+ <aufbauinhalt>
+  <text versstart="000" versend="017" verfasser="nisi">
+   <p>Die Sure besteht aus drei Gesätzen, die klare numerische Proportionen aufweisen: Das zweite
+    und dritte Gesätz haben mit jeweils 6 Versen die anderthalbfache Länge des Eröffnungsgesätzes (4
+    Verse) – eine numerische Disposition, die sich ähnlich auch in anderen Suren findet, vgl. etwa
+     <q type="koran" versstart="084:000" versend="084:025">Q 84</q>. Der Gestus des Textes ist
+    insgesamt drohend, wobei jedoch im Gegensatz zu anderen Suren aus Gruppe II, die z. T.
+    umfangreiche eschatologische Entwürfe enthalten (vgl. <q type="koran" versstart="081:000"
+     versend="081:029">Q 81</q> oder <q type="koran" versstart="085:000" versend="085:022">85</q>),
+    auffällt, dass der eigentliche Gegenstand der Drohung, das Jüngste Gericht, nur im zweiten
+    Gesätz in <q type="koran" versstart="086:008" versend="086:010">V. 8–10</q> explizit
+    thematisiert wird; ansonsten finden sich nur Anspielungen. Wie andere Texte aus Gruppe II und
+    zahlreiche spätere Korantexte schließt die Sure selbstreferentiell: Das Schlussgesätz enthält
+    eine Offenbarungsbestätigung (vgl. in Gruppe II etwa <q type="koran" versstart="085:021"
+     versend="085:022">85:21.22</q>, <q type="koran" versstart="081:027" versend="081:028"
+     >81:27.28</q>) und einen Aufruf an den Verkünder (vgl. <q type="koran" versstart="088:021"
+     versend="088:022">88:21.22</q> oder <q type="koran" versstart="084:024" versend="084:024"
+     >84:24</q>) und bietet damit einen die eschatologische Ausgangsbotschaft früherer Korantexte
+    autorisierenden Metadiskurs.</p>
+   <p>Im Gegensatz zu der hier vertretenen Gliederung hat Michel Cuypers versucht, <q type="koran"
+     versstart="086:008" versend="086:010">V. 8–10</q> als strukturelles Zentrum der Sure zu
+    erweisen, das von zwei einander korrespondierenden Abschnitten <q type="koran"
+     versstart="086:001" versend="086:007">V. 1–7</q> und <q type="koran" versstart="086:011"
+     versend="086:017">V. 11–17</q> umrahmt werde (<bibl Zotero_Id_1="JADDCP8K"
+     Titel_1="Structures rhétoriques des sourates 85 à 90">Cuypers 2001, 40–45</bibl>). Im Interesse
+    seiner vorgefassten These von im Koran allgegenwärtigen parallelistischen und konzentrischen
+    Textstrukturen (vgl. die kritischen Bemerkungen im Abschnitt „Zum Format des Kommentars“ der
+    Einleitung) setzt er sich dabei u. a. über eine offenkundige kompositorische Fugen hinweg, die
+    sich durch innerkoranische Textvergleich leicht erhärten ließe (nämlich die Zäsur zwischen dem
+    Schwurgesätz <q type="koran" versstart="086:001" versend="086:004">V. 1–4</q> und der
+    <lang xml:lang="ar-Latn">ʾāyāt</lang>-Polemik <q type="koran" versstart="086:005"
+     versend="086:007">V. 5–7</q>).</p>
+  </text>
+ </aufbauinhalt>
+ <ueberblick>
+  <text versstart="000" versend="017" verfasser="tjj">
+   <p>
+    <table cols="2" rend="boxed" rows="10">
+     <head/>
+     <row>
+      <cell>
+       <hi rend="superscript"><q type="koran" versstart="086:001" versend="086:004">1–4</q></hi>
+       <hi rend="italic">āK3K</hi> (mit vorherrschenden Explosiven)</cell>
+      <cell>
+       <hi rend="bold">1</hi>
+       <hi rend="superscript"><q type="koran" versstart="086:001" versend="086:001">1</q></hi>
+       Schwur</cell>
+     </row>
+     <row>
+      <cell/>
+      <cell>
+       <hi rend="superscript"><q type="koran" versstart="086:002" versend="086:003">2.3</q></hi>
+       Lehrfrage und Antwort (parenthetisch)</cell>
+     </row>
+     <row>
+      <cell/>
+      <cell>
+       <hi rend="superscript"><q type="koran" versstart="086:004" versend="086:004">4</q></hi>
+       Schwuraussage: Warnspruch</cell>
+     </row>
+     <row>
+      <cell>
+       <hi rend="superscript"><q type="koran" versstart="086:005" versend="086:005">5</q></hi>
+       <hi rend="italic">uliq</hi>
+       <hi rend="superscript"><q type="koran" versstart="086:006" versend="086:007">6–7</q></hi>
+       <hi rend="italic">āK3K</hi>
+      </cell>
+      <cell>
+       <hi rend="bold">2</hi>
+       <hi rend="superscript"><q type="koran" versstart="086:005" versend="086:007">5–7</q></hi>
+       <lang xml:lang="ar-Latn">ʾāyāt</lang>-Polemik: polemische Aufforderung, <q type="koran"
+        versstart="086:006" versend="086:007">V. 6.7</q> Werkaffirmation im Passiv </cell>
+     </row>
+     <row>
+      <cell>
+       <hi rend="superscript"><q type="koran" versstart="086:008" versend="086:010">8–10</q></hi>
+       <hi rend="italic">āK3r</hi>
+      </cell>
+      <cell>
+       <hi rend="superscript"><q type="koran" versstart="086:008" versend="086:008">8</q></hi>
+       theologische Prädikation (warnend)</cell>
+     </row>
+     <row>
+      <cell/>
+      <cell>
+       <hi rend="superscript"><q type="koran" versstart="086:009" versend="086:010">9.10</q></hi>
+       eschatologischer Temporalsatz (mit Nachsatz)</cell>
+     </row>
+     <row>
+      <cell>
+       <hi rend="superscript"><q type="koran" versstart="086:011" versend="086:012">11.12</q></hi>
+       <hi rend="italic">3Kʿ</hi>
+      </cell>
+      <cell>
+       <hi rend="bold">3</hi>
+       <hi rend="superscript"><q type="koran" versstart="086:011" versend="086:012">11.12</q></hi>
+       Schwüre</cell>
+     </row>
+     <row>
+      <cell>
+       <hi rend="superscript"><q type="koran" versstart="086:013" versend="086:014">13.14</q></hi>
+       <hi rend="italic">3Kl</hi>
+      </cell>
+      <cell>
+       <hi rend="superscript"><q type="koran" versstart="086:013" versend="086:014">13.14</q></hi>
+       Schwuraussage: Offenbarungsbestätigung</cell>
+     </row>
+     <row>
+      <cell>
+       <hi rend="superscript"><q type="koran" versstart="086:015" versend="086:017">15–17</q></hi>
+       <hi rend="italic">3Kdā</hi>
+      </cell>
+      <cell>
+       <hi rend="superscript"><q type="koran" versstart="086:015" versend="086:016">15.16</q></hi>
+       Drohwort</cell>
+     </row>
+     <row>
+      <cell/>
+      <cell>
+       <hi rend="superscript"><q type="koran" versstart="086:017" versend="086:017">17</q></hi>
+       Aufruf zur Standhaftigkeit</cell>
+     </row>
+    </table>
+   </p>
+   <p>Proportionen (ohne Abteilung zwischen <q type="koran" versstart="086:015" versend="086:016">V.
+     15.16</q>): 4+6(=3+3)+6(=2+2+2).</p>
+  </text>
+ </ueberblick>
+ <anmerkungen>
+  <text versstart="000" versend="000" verfasser="nisi">
+   <p><lem>bi-smi llāhi r-raḥmāni r-raḥīm]</lem> Zur Basmala s. die entsprechende <q
+     type="anmerkung" versstart="093:000" versend="093:000">Anmerkung zu 93</q>; zum Gottesnamen
+    <lang xml:lang="ar-Latn">raḥmān</lang> s. die <q type="anmerkung" versstart="055:001"
+     versend="055:001">Anmerkung zu 55:1</q>.</p>
+  </text>
+  <text versstart="001" versend="001" verfasser="nisi">
+   <p>Zu grundsätzlichen Hinweisen zu den koranischen Schwüren sowie ihrer wahrscheinlichen, aber
+    bis dato noch nicht hinreichend untersuchten Anlehnung an ein charakteristisches Ausdrucksmittel
+    altarabischer Seher (<lang xml:lang="ar-Latn">kuhhān</lang>) s. die <q type="anmerkung"
+     versstart="100:001" versend="100:005">Anmerkung zu 100:1–5</q>; zu Aufbau und Funktion des hier
+    vorliegenden Schwurtypus s. die <q type="anmerkung" versstart="093:001" versend="093:002"
+     >Anmerkung zu 93:1.2</q> mit zahlreichen Parallelstellen.</p>
+  </text>
+  <text versstart="003" versend="003" verfasser="nisi">
+   <p><lem>an-naǧmu ṯ-ṯāqib]</lem>
+    <bibl Zotero_Id_1="X9T7RF7R" Titel_1="Der Koran Kommentar und Konkordanz">Paret (Kommentar, ad
+     loc.)</bibl> verweist auf <q type="koran" versstart="037:010" versend="037:010">37:10</q>, wo
+    es über die Satane, die versuchen, die „himmlische Ratsversammlung“ (<q type="koran"
+     versstart="037:008" versend="037:008">37:8</q>) zu belauschen, heißt:
+    <lang xml:lang="ar-Latn">fa-ʾatbaʿahū šihābun ṯāqib</lang>. Die islamischen Exegeten haben
+    sicher Recht mit der Annahme, dass <lang xml:lang="ar-Latn">ṯāqib</lang> (von
+    <lang xml:lang="ar-Latn">ṯaqaba</lang>, „durchstechen, durchbohren“; vgl. <bibl
+     Zotero_Id_1="8WQ6CTDE"
+     Titel_1="An Arabic-English lexicon derived fom the best and the most copious Eastern so">Lane,
+     Bd. 1, 341c</bibl>) in beiden Fällen „von durchdringender Helligkeit“ meint.</p>
+  </text>
+  <text versstart="004" versend="004" verfasser="nisi">
+   <p><lem>ʾin kullu nafsin lammā ʿalaihā ḥāfiẓ]</lem> Ein mit <lang xml:lang="ar-Latn">nafs</lang>
+    gebildeter Warnspruch liegt auch in <q type="koran" versstart="074:038" versend="074:038"
+     >74:38</q> (<lang xml:lang="ar-Latn">kullu nafsin bi-mā kasabat rahīnah</lang>) vor. Zu Sätzen
+    der Form <lang xml:lang="ar-Latn">ʾin kullun / kullu … lammā …</lang> s. <bibl
+     Zotero_Id_1="Z833MEFS"
+     Titel_1="Verneinungs- und Fragepartikeln und Verwandtes im Ḳur'ān: ein Beitrag zur historischen Grammatik des Arabischen"
+     >Bergsträßer 1914, 13 f.</bibl>; sie sind vermutlich sinngleich mit Sätzen der Form
+    <lang xml:lang="ar-Latn">ʾin … ʾillā</lang>, wie etwa <q type="koran" versstart="074:025"
+     versend="074:025">Q 74:25</q>: <lang xml:lang="ar-Latn">ʾin hāḏā ʾillā qaulu l-bašar</lang>
+    (weitere <lang xml:lang="ar-Latn">ʾin</lang>-<lang xml:lang="ar-Latn">ʾillā</lang>-Stellen bei
+     <bibl Zotero_Id_1="Z833MEFS"
+     Titel_1="Verneinungs- und Fragepartikeln und Verwandtes im Ḳur'ān: ein Beitrag zur historischen Grammatik des Arabischen"
+     >Bergsträßer 1914, 28</bibl>). – Die Aufgabe der hier erwähnten „Hüter“ wird in <q type="koran"
+     versstart="082:010" versend="082:012">82:10–12</q>
+    (<lang xml:lang="ar-Latn">wa-ʾinna ʿalaikum la-ḥāfiẓīn / kirāman kātibīn / yaʿlamūna mā tafʿalūn</lang>)
+    präzisiert: Sie führen Buch über die menschlichen Taten. Die von ihnen erstellten Tatenregister
+    sind dann Grundlage des Jüngsten Gerichts (vgl. <q type="koran" versstart="081:010"
+     versend="081:010">81:10</q>: <lang xml:lang="ar-Latn">wa-ʾiḏă ṣ-ṣuḥufu nušširat</lang> mit <q
+     type="anmerkung" versstart="081:010" versend="081:010">Anmerkung</q>). Vgl. a. die <q
+     type="anmerkung" versstart="082:010" versend="082:012">Anmerkung zu 82:10–12</q> mit weiteren
+    Literaturangaben.</p>
+  </text>
+  <text versstart="005" versend="007" verfasser="nisi">
+   <p><lem>fa-l-yanẓuri l-ʾinsānu mimma ḫuliq / ḫuliqa min māʾin dāfiq / yaḫruǧu min baini ṣ-ṣulbi wa-t-tarāʾib]</lem>
+    Verweise auf die Schöpfung des Menschen finden sich in Gruppe II der frühmekkanischen Suren
+    sonst noch in <q type="koran" versstart="091:007" versend="091:007">91:7</q> (Schwur), <q
+     type="koran" versstart="087:002" versend="087:002">87:2</q> (hymnischer Relativsatz) und <q
+     type="koran" versstart="082:007" versend="082:008">82:7.8</q>
+    (<lang xml:lang="ar-Latn">ʾinsān</lang>-Rüge); in Gruppe IIIa und IIIb nehmen solche Verweise
+    dann die Gestalt ausführlicher <lang xml:lang="ar-Latn">ʾāyāt</lang>-Passagen an: s. <q
+     type="koran" versstart="075:037" versend="075:039">75:37–39</q> und <q type="koran"
+     versstart="053:045" versend="053:046">53:45.46</q>. Wie in <q type="koran" versstart="086:008"
+     versend="086:008">V. 8</q> der vorliegenden Sure wird dabei auch in <q type="koran"
+     versstart="075:037" versend="075:040">75:37–40</q> am Ende die intendierte Schlussfolgerung
+    gezogen: Da Gott den Menschen schafft, so hat er auch die Macht
+    (<lang xml:lang="ar-Latn">q-d-r</lang>), ihn zum Zweck einer eschatologischen
+    Rechenschaftsablegung wieder von den Toten aufzuerwecken (<q type="koran" versstart="075:040"
+     versend="075:040">75:40</q>:
+    <lang xml:lang="ar-Latn">ʾa-laisa ḏālika bi-qādirin ʿalā ʾan yuḥyiya l-mautā</lang>). Zum Verb
+    <lang xml:lang="ar-Latn">ḫalaqa</lang> s. die <q type="anmerkung" versstart="096:001"
+     versend="096:002">Anmerkungen zu 96:1.2</q>. Die Anspielung auf den männlichen Samen (anderswo
+    als <lang xml:lang="ar-Latn">nuṭfa</lang> bezeichnet; s. die <q type="anmerkung"
+     versstart="075:037" versend="075:037">Anmerkung zu 75:37</q>; vgl. auch noch – ebenfalls ohne
+    Verwendung des Ausdrucks <lang xml:lang="ar-Latn">nuṭfa</lang> – <q type="koran"
+     versstart="077:020" versend="077:020">77:20</q>:
+    <lang xml:lang="ar-Latn">ʾa-lam naḫluqkum min māʾin mahīn</lang>) in <q type="koran"
+     versstart="086:006" versend="086:007">V. 6.7</q> schließt aus, dass hier die Erschaffung Adams
+    gemeint sein könnte, vielmehr geht es um die gewöhnliche menschliche Fortpflanzung, der
+    allerdings in späteren Stellen wie <q type="koran" versstart="023:012" versend="023:014"
+     >23:12–14</q> und <q type="koran" versstart="040:067" versend="040:067">40:67</q> die biblische
+    Vorstellung einer urzeitlichen Erschaffung des ersten Menschen aus Ton vorangestellt wird (s.
+    wiederum die <q type="anmerkung" versstart="096:001" versend="096:002">Anmerkung zu
+    96:1.2</q>).</p>
+  </text>
+  <text versstart="008" versend="010" verfasser="nisi">
+   <p>Die Übersetzung deutet <q type="koran" versstart="086:009" versend="086:009">V. 9</q> als
+    temporalen Vordersatz zu <q type="koran" versstart="086:010" versend="086:010">V. 10</q>.
+    Alternativ könnte <q type="koran" versstart="086:009" versend="086:009">V. 9</q> jedoch auch als
+    Nebensatz zu <q type="koran" versstart="086:008" versend="086:008">V. 8</q> aufgefasst werden
+    (so Paret): „Er hat die Macht ihn zurückzubringen, / am Tag, da die Herzen geprüft werden. / Er
+    hat dann keine Kraft und keinen Helfer“.</p>
+  </text>
+  <text versstart="009" versend="009" verfasser="nisi">
+   <p><lem>yauma tublă s-sarāʾir]</lem>
+    <lang xml:lang="ar-Latn">Sarīra</lang> kann neben „Herz“ auch „Geheimnis, geheime Handlung“
+    bedeuten (<bibl Zotero_Id_1="8WQ6CTDE">Lane,
+     Bd. 4, 1338a und 1339b</bibl>). Zirker: „Am Tag, da die Geheimnisse geprüft werden“; Paret: „Am
+    Tag, da Herz und Nieren geprüft werden“.</p>
+  </text>
+  <text versstart="011" versend="014" verfasser="nisi">
+   <p>S. die <q type="anmerkung" versstart="086:001" versend="086:001">Anmerkung zu V. 1</q>.
+    Schwüre im Sureninnern stehen sonst noch in <q type="koran" versstart="051:023"
+     versend="051:023">Q 51:23</q>, <q type="koran" versstart="056:075" versend="056:075">56:75</q>,
+     <q type="koran" versstart="068:038" versend="069:039">69:38 f.</q>, <q type="koran"
+     versstart="070:040" versend="070:040">70:40</q>, <q type="koran" versstart="074:032"
+     versend="074:034">74:32–34</q> und <q type="koran" versstart="081:015" versend="081:018"
+     >81:15–18</q>; bis auf <q type="koran" versstart="070:040" versend="070:040">70:40</q> und <q
+     type="koran" versstart="074:032" versend="074:034">74:32–34</q> folgen auf diese Schwüre immer
+    metatextuelle Aussagen, die deiktisch oder wie hier mit einem ‚frei schwebenden’, d. h. kein
+    Antezedens aufnehmenden Personalpronomen (s. die <q type="anmerkung" versstart="087:018"
+     versend="087:019">Anmerkungen zu 87:18.19</q>, <q type="anmerkung" versstart="081:019"
+     versend="081:019">81:19</q> und <q type="koran" versstart="097:001" versend="097:001">97:1</q>)
+    formuliert sind und zumeist den Offenbarungscharakter des Koran affirmieren. Dabei ist die
+    vorliegende Stelle insbesondere mit <q type="koran" versstart="081:015" versend="081:021">81:15
+     ff.</q> (ebenfalls Gruppe II) zu vergleichen: Beide Passagen werden von einem Schwur beim
+    Himmel (<q type="koran" versstart="086:011" versend="086:011">86:11</q>) bzw. bei den am
+    Nachthimmel sichtbaren Planeten (<q type="koran" versstart="081:015" versend="081:016"
+     >81:15.16</q>: <lang xml:lang="ar-Latn">fa-lā ʾuqsimu bi-l-ḫunnas / al-ǧawāri l-kunnas</lang>)
+    eröffnet, worauf mit einem frei schwebenden Personalpronomen gebildete Qualifikationen von
+    Muḥammads Verkündigungen folgen (vgl. <q type="koran" versstart="086:013" versend="086:014"
+     >86:13.14</q>: <lang xml:lang="ar-Latn">ʾinnahū la-qaulun faṣl / wa-mā huwa bi-l-hazl</lang>
+    mit <q type="koran" versstart="081:019" versend="081:021">81:19 ff.</q>:
+    <lang xml:lang="ar-Latn">ʾinnahū la-qaulu rasūlin karīm …</lang>).</p>
+  </text>
+  <text versstart="011" versend="011" verfasser="nisi">
+   <p><lem>wa-s-samāʾi ḏāti r-raǧʿ]</lem> Vgl. <q type="koran" versstart="086:001" versend="086:001"
+     >V. 1</q> (<lang xml:lang="ar-Latn">wa-s-samāʾi wa-ṭ-ṭāriq</lang>). Gemeint ist hier wohl die
+    alljährliche Wiederkehr der Sternkonstellationen.</p>
+  </text>
+  <text versstart="012" versend="012" verfasser="nisi">
+   <p><lem>wa-l-ʾarḍi ḏāti ṣadʿ]</lem> Das Spalten der Erde in <q type="koran" versstart="086:012"
+     versend="086:012">V. 12</q> ist angesichts der in <q type="koran" versstart="086:011"
+     versend="086:011">V. 11</q> erwähnten zyklischen Wiederkehr der Sternkonstellationen
+    wahrscheinlich nicht als eschatologischer Vorgang zu verstehen wie die u. a. in <q type="koran"
+     versstart="084:001" versend="084:001">84:1</q> erwähnte Spaltung des Himmels, sondern meint das
+    – sich wie die Himmelskonstellationen zyklisch wiederholende – Hervorsprießen von Pflanzen (so
+    mit islamischen Exegeten auch <bibl Zotero_Id_1="W242HJS4" Titel_1="A commentary on the Qurān"
+     >Bell, Commentary, ad loc.</bibl>).</p>
+  </text>
+  <text versstart="013" versend="013" verfasser="nisi">
+   <p><lem>ʾinnahū la-qaulun faṣl]</lem>
+    <bibl Zotero_Id_1="X9T7RF7R" Titel_1="Der Koran Kommentar und Konkordanz">Paret (Kommentar, ad
+     loc.)</bibl> verweist auf <q type="koran" versstart="081:019" versend="081:019">81:19</q> = <q
+     type="koran" versstart="069:040" versend="069:040">69:40</q>
+    (<lang xml:lang="ar-Latn">ʾinnahū la-qaulu rasūlin karīm</lang>) und den mittelmekkanischen <q
+     type="koran" versstart="038:020" versend="038:020">Vers 38:20</q>, wo es über David heißt:
+    <lang xml:lang="ar-Latn">wa-ʾātaināhu l-ḥikmata wa-faṣla l-ḫiṭāb</lang>. Zum freischwebenden
+    Personalpronomen (<lang xml:lang="ar-Latn">-hū</lang>) s. die <q type="anmerkung"
+     versstart="087:018" versend="087:019">Anmerkungen zu 87:18.19</q>, <q type="anmerkung"
+     versstart="081:019" versend="081:019">81:19</q> und <q type="anmerkung" versstart="097:001"
+     versend="097:001">97:1</q>.</p>
+  </text>
+  <text versstart="015" versend="016" verfasser="nisi">
+   <p><lem>ʾinnahum yakīdūna kaidā / wa-ʾakīdu kaidā]</lem> Vgl. den früheren <q type="koran"
+     versstart="105:002" versend="105:002">Vers 105:2</q>
+    (<lang xml:lang="ar-Latn">ʾa-lam yaǧʿal kaidahum fī taḍlīl</lang>). Eine Überbietung
+    menschlicher „Machenschaften“ (<lang xml:lang="ar-Latn">kaid</lang>) durch göttliche wird etwas
+    später noch in <q type="koran" versstart="052:042" versend="052:042">52:42</q>
+    (<lang xml:lang="ar-Latn">ʾam yurīdūna kaidan fa-llaḏīna kafarū humu l-makīdūn</lang>)
+    impliziert.</p>
+   <p>Versabteilung: Medina I setzt nach <lang xml:lang="ar-Latn">yakīdūna kaidā</lang> keinen
+    Versschluss (<bibl Zotero_Id_1="WCNUUFAC"
+     Titel_1="Die Verszählung des Koran nach islamischer Überlieferung">Spitaler, Verszählung,
+     69</bibl>), wodurch sich eine überzeugende strukturelle Entsprechung zu <q type="koran"
+     versstart="086:017" versend="086:017">V. 17</q> ergibt: Auch dort folgen zwei Verbformen direkt
+    aufeinander, und zwar innerhalb ein und desselben Verses. <q type="koran" versstart="086:015"
+     versend="086:015">V. 15</q> und <q type="koran" versstart="086:016" versend="086:016">V. 16</q>
+    sind deshalb trotz Reimpotenz wahrscheinlich zu einem einzigen Vers zusammenzuziehen (<bibl
+     Zotero_Id_1="4WEWN8NZ" Titel_1="Studien zur Komposition der mekkanischen Suren">Neuwirth,
+     Studien, 32</bibl>). Hierfür sprechen auch kompositionelle Gesichtspunkte: Folgt man Medina I,
+    so besteht der dritte Abschnitt der Sure aus drei Zweiergruppen, die überdies auch reimlich
+    voneinander abgesetzt sind: <q type="koran" versstart="086:011" versend="086:012">V. 11.12</q>
+    Schwur, <q type="koran" versstart="086:013" versend="086:014">V. 13.14</q> Schwuraussage
+    (Offenbarungsbestätigung), <q type="koran" versstart="086:015" versend="086:017">V. 15.16.17</q>
+    Drohwort und Mahnung zur Geduld.</p>
+  </text>
+  <text versstart="017" versend="017" verfasser="nisi">
+   <p><lem>fa-mahhili l-kāfirīna ʾamhilhum ruwaidā]</lem> Vgl. <q type="koran" versstart="073:011"
+     versend="073:011">73:11</q>
+    (<lang xml:lang="ar-Latn">wa-ḏarnī wa-l-mukaḏḏibīna ʾulĭ n-naʿmati wa-mahhilhum qalīlā</lang>).
+    Zu <lang xml:lang="ar-Latn">kāfir</lang> vgl. die <q type="anmerkung" versstart="084:022"
+     versend="084:022">Anmerkung zu 84:22</q>. Der vorliegende Vers gebraucht zuerst einen Imperativ
+    des II., dann einen des IV. Stammes. Eine Ibn Masʿūd zugeschriebene Variante beseitigt diesen
+    Wechsel, indem sie nicht <lang xml:lang="ar-Latn">ʾamhilhum</lang>, sondern
+    <lang xml:lang="ar-Latn">mahhilhum</lang> (II. Stamm) liest (<bibl Zotero_Id_1="KVFTU3XN"
+     Titel_1="Muʿǧam al-qirāʾāt">Muʿǧam, ad loc.</bibl>), doch handelt es sich dabei sicher um einen
+    nachträglichen Glättungsversuch. <bibl Zotero_Id_1="X9T7RF7R"
+     Titel_1="Der Koran Kommentar und Konkordanz">Paret (Kommentar, ad loc.)</bibl> schlägt vor,
+    <lang xml:lang="ar-Latn">ʾamhilhum</lang> zu <lang xml:lang="ar-Latn">ʾumahhilhum</lang> zu
+    emendieren: „Deshalb gewähre den Ungläubigen Aufschub, dann werde auch ich ihnen ein klein wenig
+    Aufschub gewähren“. Dieser Emendation liegt offenbar das Empfinden zugrunde, dass eine direkte
+    Aufeinanderfolge zweier synonymer Verbformen eine Redundanz darstellt, die nicht ursprünglich
+    sein kann, sondern durch Textverderbnis zu erklären ist. Es ist jedoch äußerst fraglich, ob die
+    Stelle eine wie auch immer geartete Korrektur erfordert (zu Parets Emendationsvorschlag vgl.
+    kritisch <bibl Zotero_Id_1="EFQMDMBH"
+     Titel_1="The D and H stems in Koranic Arabic a comparative study of the function and mea"
+     >Leemhuis 1977, 107</bibl>). Denn die Verwendung einer weitgehend synonymen Form derselben
+    Verbalwurzel ist wohl einfach dadurch motiviert, dass der Schlussvers die Struktur der wohl zu
+    einem einzigen Vers zusammenzuziehenden <q type="koran" versstart="086:015" versend="086:015"
+     >Verse 15</q> und <q type="koran" versstart="086:016" versend="086:016">16</q> (s. o.)
+    nachbildet, wo zweimal das Verb <lang xml:lang="ar-Latn">kāda</lang> verwendet wird. Auf diese
+    Weise entsteht ein als Surenschluss sehr eingängiger Strukturparallelismus zwischen <q
+     type="koran" versstart="086:015" versend="086:016">V. 15.16</q> und <q type="koran"
+     versstart="086:017" versend="086:017">V. 17</q>. Allerdings unterscheiden sich die Subjekte der
+    beiden Verbformen in <q type="koran" versstart="086:015" versend="086:016">V. 15.16</q>; doch
+    ist dies noch kein hinreichender Grund, mit Paret auch für <q type="koran" versstart="086:017"
+     versend="086:017">V. 17</q> einen Subjektwechsel zu statuieren.</p>
+  </text>
+ </anmerkungen>
+ <kommentar>
+  <text versstart="001" versend="004" verfasser="nisi">
+   <p>Die Sure beginnt mit einem Schwur beim Himmel und einem als „Nachtgast“ bezeichneten Stern,
+    wobei das zweite Glied des Schwures in <q type="koran" versstart="086:002" versend="086:003">V.
+     2.3</q> noch einmal durch eine parenthetisch eingeschobene Lehrfrage erläutert wird. Dabei
+    weist die erhöhte, Übersicht garantierende Position von Sternen am Himmel auf die in <q
+     type="koran" versstart="086:004" versend="086:004">V. 4</q> ausgesagte, ebenfalls von oben her
+    erfolgende (<q type="koran" versstart="086:004" versend="086:004">V. 4</q>:
+    <lang xml:lang="ar-Latn">ʿalaihā ḥāfiẓ</lang>, „über ihr ist ein Hüter“) und damit lückenlose
+    Überwachung des Menschen durch engelhafte Beobachter voraus: „In einer gleichsam vom Himmel her
+    ausgeleuchteten Szene ist die Überwachung des Menschen durch den himmlischen Hüter ein Leichtes“
+     (<bibl Zotero_Id_1="8BMDDSSC"
+     Titel_1="Der Horizont der Offenbarung zur Relevanz der einleitenden Schwurserien für die"
+     >Neuwirth, „Horizont“, 27</bibl>). Vgl. a. den <q type="kommentar" versstart="088:017"
+     versend="088:020">Kommentar zu 85:1–3</q>.</p>
+  </text>
+  <text versstart="005" versend="010" verfasser="nisi">
+   <p>Das zweite Gesätz stellt zusammen mit <q type="koran" versstart="088:017" versend="088:020"
+     >88:17–20</q> eine der beiden frühesten koranischen
+    <lang xml:lang="ar-Latn">ʾāyāt</lang>-Passagen dar. Es gliedert sich in zwei Dreiergruppen. Die
+    erste (<q type="koran" versstart="086:005" versend="086:007">V. 5–7</q>) beschreibt die Zeugung
+    des Menschen als einen Akt göttlicher „Schöpfung“ (<lang xml:lang="ar-Latn">ḫalaqa</lang>, <q
+     type="koran" versstart="086:005" versend="086:006">V. 5.6</q>). Wie auch in anderen
+    <lang xml:lang="ar-Latn">ʾāyāt</lang>-Passagen geht es dabei nicht um die anfängliche
+    Erschaffung der Welt, sondern darum, einen weltimmanenten Prozess als einen Vorgang zu deuten,
+    in dem Gott der eigentliche und primär Wirkende ist. Die folgende, durch einen Reimwechsel
+    abgegrenzte Dreiergruppe zieht die intendierte Schlussfolgerung aus diesem Schöpfungsverweis:
+    Wenn Gott der eigentliche Schöpfer jedes einzelnen Menschen ist, so ist er auch „imstande, ihn
+    zurückzubringen“ (<q type="koran" versstart="086:008" versend="086:008">V. 8</q>). Es folgt ein
+    eschatologischer Temporalsatz mit Nachsatz (<q type="koran" versstart="086:009"
+     versend="086:010">V. 9.10</q>), welcher die irreduzible Eigenverantwortung des Menschen für
+    sein Tun bekräftigt. Implizit kontrastiert die in <q type="koran" versstart="086:008"
+     versend="086:008">V. 8</q> unterstrichene Macht Gottes mit der niedrigen Herkunft des Menschen
+     (<q type="koran" versstart="086:005" versend="086:007">V. 5–7</q>; vgl. <bibl
+     Zotero_Id_1="X6J8ZZSZ" Titel_1="Frühmekkanische Suren poetische Prophetie">Neuwirth,
+     Frühmekkanische Suren, 324 und 328</bibl>) und seiner sich am Jüngsten Tag erweisenden Ohnmacht
+     (<q type="koran" versstart="086:010" versend="086:010">V. 10</q>:
+    <lang xml:lang="ar-Latn">fa-mā lahū min quwwatin</lang>). Die in <q type="koran"
+     versstart="086:009" versend="086:009">V. 9</q> angekündigte Offenlegung des gesamten Menschen
+    greift die im Einleitungsgesätz ausgesagte lückenlose Überwachung des menschlichen Tuns und
+    Sinnens auf.</p>
+  </text>
+  <text versstart="011" versend="014" verfasser="nisi">
+   <p>Das dritte Gesätz setzt mit einem Schwur beim Himmel und bei den zyklisch an ihm ablaufenden
+    Gestirnsbewegungen ein, der sicher als steigernde Reprise des gleichfalls den Himmel
+    evozierenden Eingangsverses zu verstehen ist; es folgt ein zweiter Schwur, der das sich
+    ebenfalls periodisch wiederholende Hervorsprießen von Pflanzen aus der Erde nennt. Als
+    Schwuraussage steht eine Offenbarungsbestätigung. Die Schwurpassage verknüpft damit die auch
+    anderswo miteinander verbundenen Themenkomplexe Schöpfung (<q type="koran" versstart="086:011"
+     versend="086:012">V. 11.12</q> evozierten Naturprozesse setzt die als Schwuraussage stehende
+    Offenbarungsbestätigung <q type="koran" versstart="086:013" versend="086:014">V. 13.14</q> einen
+    scharfen Kontrapunkt: „Die nun angelaufene heilsgeschichtliche Zeit durchschneidet
+    (<lang xml:lang="ar-Latn">f-ṣ-l</lang>, <q type="koran" versstart="086:013" versend="086:013">V.
+     13</q>: <lang xml:lang="ar-Latn">faṣl</lang>) den Zyklus des gewohnten und eines
+    Schein-Sicherheit bietenden Naturablaufs …“ (<bibl Zotero_Id_1="8BMDDSSC"
+     Titel_1="Der Horizont der Offenbarung zur Relevanz der einleitenden Schwurserien für die"
+     >Neuwirth, „Horizont“, 27</bibl>). Zugleich verknüpft die Schwurpassage die auch anderswo
+    miteinander verbundenen Themenkomplexe Schöpfung (<q type="koran" versstart="086:011"
+     versend="086:012">V. 11.12</q>) und Offenbarung (<q type="koran" versstart="086:013"
+     versend="086:014">V. 13.14</q>) (vgl. den <q type="kommentar" versstart="096:004"
+     versend="096:005">Kommentar zu 96:4.5</q>). Für die Deutung des Passus erscheint aber vor allem
+    die Beobachtung wichtig, dass sich die Sequenz von im Sureninnern stehender Schwurserie und
+    anschließender Offenbarungsbestätigung noch in weiteren Texten der Gruppen II und III findet
+    (vgl. insb. <q type="koran" versstart="081:015" versend="081:017">81:15 ff.</q>, wo ebenfalls
+    bei einem Himmelsphänomen geschworen wird). Die Sure ist damit wie <q type="koran"
+     versstart="081:000" versend="081:029">Q 81</q> aus den beiden Elementen Gerichtsbotschaft und
+    auf Status, Herkunft und Vermittlungsmodus dieser Botschaft reflektierendem Metadiskurs
+    aufgebaut. Dabei ist es sicher kein Zufall, dass der Gerichtsgedanke bereits ausführlich in
+    Gruppe I der frühmekkanischen Texte entwickelt wird, eine offenbarungstheologische Autorisierung
+    der koranischen Verkündigungen jedoch erstmals in der an der Schwelle zu Gruppe II stehenden <q
+     type="koran" versstart="097:000" versend="097:005">Sure 97</q> stattfindet: Weil die
+    Gerichtsbotschaft früherer Korantexte offenbar eine polemische Debatte um die Zuverlässigkeit
+    des Verkünders und den bereits von den frühesten Korantexten implizierten Offenbarungsanspruch
+    ausgelöst hat, kann sie in Texten wie <q type="koran" versstart="081:000" versend="081:029">Sure
+     81</q> und <q type="koran" versstart="086:000" versend="086:017">86</q> nicht einfach nur
+    reformuliert und variiert werden, sondern bedarf von nun an einer expliziten Autorisierung.
+    Geleistet wird diese durch die auch später noch häufig am Surenende stehenden
+    Offenbarungsbestätigungen, wobei die in frühmekkanischer Zeit noch zu beobachtende Akzentuierung
+    derselben durch sureninterne Schwurserien in mittelmekkanischer Zeit nicht fortgeführt wird.</p>
+  </text>
+  <text versstart="015" versend="017" verfasser="nisi">
+   <p>Die Sure schließt mit einem – urspünglich wohl einversigen – Drohwort (<q type="koran"
+     versstart="086:015" versend="086:016">V. 15.16</q>) und einem Aufruf an den Verkünder (<q
+     type="koran" versstart="086:017" versend="086:017">V. 17</q>), wie ihn auch andere
+    frühmekkanische Suren aufweisen (zu weiteren Stellen s. das formkritische Register, Anreden des
+    Verkünders). Dieser Schlusspassus bildet den rhetorischen Klimax der Sure: Wie auch in anderen
+    frühmekkanischen Suren (vgl. <q type="koran" versstart="088:025" versend="088:026">88:25.26</q>)
+    wird erst jetzt ausdrücklich kenntlich gemacht, dass Gott als Sprecher intendiert ist. Zwischen
+    Drohwort und Aufruf besteht eine sorgfältig konstruierte Strukturkorrespondenz: Beide gebrauchen
+    zweimal dasselbe Verb (<q type="koran" versstart="086:015" versend="086:016">V. 15.16</q>) bzw.
+    zwei synonyme Stämme derselben Verbalwurzel (<q type="koran" versstart="086:017"
+     versend="086:017">V. 17</q>), wobei sich das erste Vorkommnis auf menschliche Akteure bezieht
+    (die Gegner des Verkünders bzw. dieser selbst), während beim zweiten Gott als Subjekt steht.</p>
+  </text>
+ </kommentar>
+</korankommentar>

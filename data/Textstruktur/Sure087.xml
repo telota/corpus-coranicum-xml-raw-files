@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Quran xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="Textstruktur.xsd">
+    <Sure id="087" translator="Nicolai Sinai" webtauglich="true">
+        <Hauptteil id="0">
+            <Abschnitt id="0">
+                <Gesaetz n="0">
+                    <Vers n="000">
+                        <Teilvers n="000" reim="2n/m">
+                            <Kolon lang="ar" Einschub="false" n="0">بِسۡمِ ٱللَّهِ ٱلرَّحۡمَٰنِ ٱلرَّحِيمِ</Kolon>
+                            <Kolon lang="de" Einschub="false" n="0">Im Namen Gottes, des barmherzigen Erbarmers!</Kolon>
+                        </Teilvers>
+                    </Vers>
+                </Gesaetz>
+                <Gesaetz n="1">
+                    <Vers n="001">
+                        <Teilvers n="001" reim="3(K)Kā">
+                            <Kolon Einschub="false" lang="ar" n="1">سَبِّحِ ٱسۡمَ رَبِّكَ ٱلۡأَعۡلَى</Kolon>
+                            <Kolon Einschub="false" lang="de" n="1">Preise den Namen deines höchsten Herrn,</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="002">
+                        <Teilvers n="002" reim="3(K)Kā">
+                            <Kolon Einschub="false" lang="ar" n="2">ٱلَّذِی خَلَقَ فَسَوَّىٰ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="2">der schafft und formt,</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="003">
+                        <Teilvers n="003" reim="3(K)Kā">
+                            <Kolon Einschub="false" lang="ar" n="3">وَٱلَّذِی قَدَّرَ فَهَدَىٰ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="3">der bemisst und leitet,</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="004">
+                        <Teilvers n="004" reim="3(K)Kā">
+                            <Kolon Einschub="false" lang="ar" n="4">وَٱلَّذِیٓ أَخۡرَجَ ٱلۡمَرۡعَىٰ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="4">der die Weide hervorbringt</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="005">
+                        <Teilvers n="005" reim="3(K)Kā">
+                            <Kolon Einschub="false" lang="ar" n="5">فَجَعَلَهُۥ غُثَآءً أَحۡوَىٰ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="5">und sie zu dunkelgrünem Treibgut macht!</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="006">
+                        <Teilvers n="006" reim="3(K)Kā">
+                            <Kolon Einschub="false" lang="ar" n="6">سَنُقۡرِئُكَ فَلَا تَنسَىٰۤ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="6">Wir werden dich verlesen lassen und du wirst nichts vergessen,</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="007">
+                        <Teilvers n="007" reim="3(K)Kā">
+                            <Kolon Einschub="true" lang="ar" n="7">إِلَّا مَا شَآءَ ٱللَّهُ ۚ</Kolon>
+                            <Kolon Einschub="true" lang="de" n="7">außer was Gott will —</Kolon>
+                            <Kolon Einschub="true" lang="ar" n="8">إِنَّهُۥ يَعۡلَمُ ٱلۡجَهۡرَ وَمَا يَخۡفَىٰ</Kolon>
+                            <Kolon Einschub="true" lang="de" n="8">er kennt das Öffentliche und was verborgen ist —</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="008">
+                        <Teilvers n="008" reim="3(K)Kā">
+                            <Kolon Einschub="false" lang="ar" n="9">وَنُيَسِّرُكَ لِلۡيُسۡرَىٰ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="9">und wir machen es dir leicht, zum Leichten zu gelangen.</Kolon>
+                        </Teilvers>
+                    </Vers>
+                </Gesaetz>
+                <Gesaetz n="2">
+                    <Vers n="009">
+                        <Teilvers n="009" reim="3(K)Kā">
+                            <Kolon Einschub="false" lang="ar" n="10">فَذَكِّرۡ إِن نَّفَعَتِ ٱلذِّكۡرَىٰ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="10">So mahne denn, wenn die Mahnung nützt!</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="010">
+                        <Teilvers n="010" reim="3(K)Kā">
+                            <Kolon Einschub="false" lang="ar" n="11">سَيَذَّكَّرُ مَن يَخۡشَىٰ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="11">Mahnen lassen wird sich, wer gottesfürchtig ist,</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="011">
+                        <Teilvers n="011" reim="3(K)Kā">
+                            <Kolon Einschub="false" lang="ar" n="12">وَيَتَجَنَّبُهَا ٱلۡأَشۡقَى</Kolon>
+                            <Kolon Einschub="false" lang="de" n="12">doch meidet sie der Unselige,</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="012">
+                        <Teilvers n="012" reim="3(K)Kā">
+                            <Kolon Einschub="false" lang="ar" n="13">ٱلَّذِی يَصۡلَى ٱلنَّارَ ٱلۡكُبۡرَىٰ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="13">der im großen Feuer schmort</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="013">
+                        <Teilvers n="013" reim="3(K)Kā">
+                            <Kolon Einschub="false" lang="ar" n="14">ثُمَّ لَا يَمُوتُ فِيهَا وَلَا يَحۡيَىٰ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="14">und darin weder stirbt noch lebt.</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="014">
+                        <Teilvers n="014" reim="3(K)Kā">
+                            <Kolon Einschub="false" lang="ar" n="15">قَدۡ أَفۡلَحَ مَن تَزَكَّىٰ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="15">Es gedeiht, wer sich läutert,</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="015">
+                        <Teilvers n="015" reim="3(K)Kā">
+                            <Kolon Einschub="false" lang="ar" n="16">وَذَكَرَ ٱسۡمَ رَبِّهِۦ فَصَلَّىٰ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="16">den Namen seines Herrn anruft und betet.</Kolon>
+                        </Teilvers>
+                    </Vers>
+                </Gesaetz>
+                <Gesaetz n="3">
+                    <Vers n="016">
+                        <Teilvers n="016" reim="3(K)Kā">
+                            <Kolon Einschub="false" lang="ar" n="17">بَلۡ تُؤۡثِرُونَ ٱلۡحَيَوٰةَ ٱلدُّنۡيَا</Kolon>
+                            <Kolon Einschub="false" lang="de" n="17">Doch ihr zieht das diesseitige Leben vor,</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="017">
+                        <Teilvers n="017" reim="3(K)Kā">
+                            <Kolon Einschub="false" lang="ar" n="18">وَٱلۡٴَاخِرَةُ خَيۡرٌۭ وَأَبۡقَىٰۤ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="18">wo doch das Jenseits besser und beständiger ist!</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="018">
+                        <Teilvers n="018" reim="2Kā">
+                            <Kolon Einschub="false" lang="ar" n="19">إِنَّ هَٰذَا لَفِی ٱلصُّحُفِ ٱلۡأُولَىٰ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="19">Wahrlich, dies steht in den früheren Schriften,</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="019">
+                        <Teilvers n="019" reim="2Kā">
+                            <Kolon Einschub="false" lang="ar" n="20">صُحُفِ إِبۡرَٰهِيمَ وَمُوسَىٰ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="20">den Schriften des Abraham und Mose!</Kolon>
+                        </Teilvers>
+                    </Vers>
+                </Gesaetz>
+            </Abschnitt>
+        </Hauptteil>
+    </Sure>
+</Quran>

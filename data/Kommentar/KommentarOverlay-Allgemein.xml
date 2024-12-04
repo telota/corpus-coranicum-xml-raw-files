@@ -1,0 +1,664 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<overlay xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:noNamespaceSchemaLocation="Overlay.xsd" typ="KommentarOverlay" webtauglich="true"
+ title="Chronologisch-literaturwissenschaftlicher Kommentar zum Koran">
+ <text verfasser="tjj">
+  <p><hi rend="h1">Allgemeine Einleitung in den Korankommentar</hi></p>
+ </text>
+  <akkordeon>
+    <label n="1"></label>
+    <text verfasser="tjj">
+      <p>Der Korankommentar des Projektvorhabens »Corpus Coranicum«<note place="end"
+          >Chronologisch-literaturwissenschaftlicher Kommentar zum Koran, herausgegeben. von der
+          Berlin-Brandenburgischen Akademie der Wissenschaften durch Nicolai Sinai unter Mitarbeit
+          von Nora K. Schmid, unter Verwendung von Vorarbeiten Angelika Neuwirths (für Frühmekka);
+          Chronologisch-literaturwissenschaftlicher Kommentar zum Koran, hg. von der
+          Berlin-Brandenburgischen Akademie der Wissenschaften durch Dirk Hartwig und Angelika
+          Neuwirth unter Mitarbeit von Ali Aghaei und Tolou Khademalsharieh (für Mittelmekka);
+          https://corpuscoranicum.de/de/commentary</note>, der sukzessive in seiner digitalen Form
+        Gestalt annimmt — derzeit sind Kommentare zu allen früh- und mittelmekkanischen Suren über
+        die Internetseite des Vorhabens abrufbar — und dabei immer »neue« Sinnschichten sichtbar
+        macht, unterscheidet sich grundsätzlich von bereits vorliegenden »westlichen« Kommentaren
+        zum Koran. Die wichtigsten Kommentare bzw. Teilkommentare, die derzeit vorliegen, sind:</p>
+      <p><hi rend="h1">Theodor Nöldeke<note place=""><bibl Zotero_Id_1="2B3RP55S">Nöldekes <hi
+                rend="italic">Geschichte des Qorâns</hi></bibl> erschien — zusammen mit den
+            Überarbeitungen von Friedrich Schwally, Gotthelf Bergsträßer und Otto Pretzl — in
+            arabischer Sprache: <hi rend="italic">Tāʾrīḫ al-Qurʾān</hi>, Translated into Arabic,
+            with Introduction, Annotations and Register, Beirut 2004, 2. Edition with a New Preface,
+            Beirut 2007.</note></hi>
+      </p>
+      <p><bibl Zotero_Id_1="L598ZTAB">Theodor Nöldeke, <hi rend="italic">De origine et compositione
+            Surarum Qoranicarum ipsiusque Qorani</hi>, Göttingen 1856</bibl>.</p>
+      <p>—, <bibl Zotero_Id_1="2B3RP55S"><hi rend="italic">Geschichte des Qorāns</hi>, Göttingen:
+          Dieterich’sche Verlagsbuchhandlung, 1860 [GdQ<hi rend="superscript">1</hi>]</bibl>.</p>
+      <p>—, <bibl Zotero_Id_1="48GF9DFG">Friedrich Schwally, <hi rend="italic">Geschichte des
+            Qorāns</hi>, Bd. 1: Über den Ursprung des Qorāns, Leipzig: Dieterich’sche
+          Verlagsbuch-handlung, 1909 [GdQ<hi rend="superscript">2</hi> I]</bibl>.</p>
+      <p>—, <bibl Zotero_Id_1="RC3T2Q4H">Friedrich Schwally, <hi rend="italic">Geschichte des
+            Qorāns</hi>, Bd. 2: Die Sammlung des Qorāns mit einem literarhistorischen Anhang über
+          die muhammedanischen Quellen und die neuere christliche Forschung, Leipzig: Dieterich’sche
+          Verlagsbuchhandlung, 1919 [GdQ<hi rend="superscript">2</hi> II]</bibl>.</p>
+      <p>—, <bibl Zotero_Id_1="AEFVBV8P"><hi rend="italic">Geschichte des Qorāns</hi>, Bd. 3: Die
+          Geschichte des Korantextes von G. Bergsträßer und O. Pretzl, Leipzig: Dieterich’sche
+          Verlagsbuchhandlung, 1938 [GdQ<hi rend="superscript">2</hi> III]</bibl>.</p>
+      <p><hi rend="h1">Richard Bell</hi></p>
+      <p><bibl Zotero_Id_1="ZNVIBIDF">Richard Bell, <hi rend="italic">The Qur’ān. Translated, with a
+            critical rearrangement of the Surahs</hi>, 2 Bde., Edinburgh: Edinburgh University
+          Press, 1937–1939</bibl>.</p>
+      <p>—, <bibl Zotero_Id_1="JT3D4HWI"><hi rend="italic">Introduction to the Qur’ān</hi>,
+          Edinburgh: Edinburgh University Press, 1953 [W. Montgomery Watt, <hi rend="italic">Bell’s
+            Introduction to the Qur’ān. Completely revised and enlarged</hi>, Edinburgh: Edinburgh
+          University Press, 1970]</bibl>.</p>
+      <p>—, <bibl Zotero_Id_1="W242HJS4"><hi rend="italic">A Commentary on the Qur’ān</hi>, edited
+          by C. Edmund Bosworth and M.E.J. Richardson, 2 Bde, Manchester: Manchester University
+          Press, 1991</bibl>. </p>
+      <p><hi rend="h1">Régis Blachère</hi></p>
+      <p><bibl Zotero_Id_1="9SHDPK6J">Régis Blachère, <hi rend="italic">Introduction au Coran</hi>,
+          Paris: G.-P. Maisonneuve, 1947</bibl>.</p>
+      <?oxy_comment_start author="Tobias J. Jocham" timestamp="20240308T105124+0100" comment="Davonb gibt es dann aber doch 3 Bände??? TJJ"?>
+      <p>—, <hi rend="italic">Le Coran. Traduction selon un essai de réclassement des sourates</hi>,
+        2 Bde., Paris: G.-P. Maisonneuve, 1949–1950.<?oxy_comment_end?></p>
+      <p><hi rend="h1">Rudi Paret</hi></p>
+      <p><bibl Zotero_Id_1="XHUX9IV2">Rudi Paret, <hi rend="italic">Mohammed und der Koran.
+            Geschichte und Verkündigung des arabischen Propheten</hi>, Stuttgart: Kohlhammer,
+          1957</bibl>, <bibl Zotero_Id_1="PIQNK488"><hi rend="superscript">10</hi>2008</bibl>.</p>
+      <p>—, <hi rend="italic">Der Koran. Übersetzung</hi>,
+        <?oxy_comment_start author="Tobias J. Jocham" timestamp="20240308T110306+0100" comment="Extra anlegen??? TJJ"?>Stuttgart:
+        Kohlhammer, 1966<?oxy_comment_end?>, <bibl Zotero_Id_1="8L6LM74Q"><hi rend="superscript"
+            >12</hi>2014</bibl>.</p>
+      <p>—, <hi rend="italic">Der Koran. Kommentar und Konkordanz</hi>,
+        <?oxy_comment_start author="Tobias J. Jocham" timestamp="20240308T110455+0100" comment="Diese Auflagen hinzufügen? TJJ"?>Stuttgart:
+        Kohlhammer, 1971, <hi rend="superscript">7</hi>2005<?oxy_comment_end?>.</p>
+      <p><hi rend="h1">John Wansbrough</hi></p>
+      <p><bibl Zotero_Id_1="24NPQCBW">John Wansbrough, <hi rend="italic">Quranic Studies. Sources
+            and Methods of Scriptural Interpretation</hi>, Oxford: Oxford University Press,
+          1977</bibl>.</p>
+      <p>—, <bibl Zotero_Id_1="5MNAMQ2E"><hi rend="italic">The Sectarian Milieu. Content and
+            Composition of Islamic Salvation History</hi>, Oxford: Oxford University Press,
+          1978</bibl>.</p>
+      <p><hi rend="h1">Adel Theodor Khoury</hi></p>
+      <p>Adel Theodor Khoury, <hi rend="italic">Der Koran. Arabisch — Deutsch. Übersetzung und
+          wissenschaftlicher Kommentar</hi>, 12 Bde., Gütersloh: Gütersloher Verlagshaus,
+        1990–2001.</p>
+      <p><hi rend="h1">Seyyed Hossein Nasr</hi></p>
+      <p><bibl Zotero_Id_1="JENTTEIU">Seyyed Hossein Nasr (ed.), <hi rend="italic">The Study Quran.
+            A New Translation and Commentary</hi>, New York: HarperOne, 2015</bibl>.</p>
+      <p><hi rend="h1">Gabriel S. Reynolds</hi></p>
+      <p><bibl Zotero_Id_1="DIZPJPU2">Gabriel S. Reynolds, <hi rend="italic">The Qur’an and the
+            Bible. Text and Commentary</hi>, Translation by Ali Quli Qarai, New Haven: Yale
+          University Press, 2018</bibl>.</p>
+      <p><hi rend="h1">Mohammad A. Amir-Moezzi und Guillaume Dye</hi></p>
+      <p><bibl Zotero_Id_1="DSUAMZ5C">Mohammad Ali Amir Moezzi, Guillaume Dye (eds.), <hi
+            rend="italic">Le Coran des historiens</hi>, 3 Bde., Paris: Les éditions du Cerf,
+          2019</bibl>.</p>
+      <p>Theodor Nöldeke (1836–1930), der auch als Gründervater der Koranphilologie bezeichnet
+        werden kann, unternahm eine erste »Gesamtkommentierung« des Koran und entwickelte eine bis
+        heute nicht überholte Chronologie der im Codex versammelten Texteinheiten<note place="">Zu
+          Nöldekes Prinzipien bei der Anordnung der Suren siehe <bibl Zotero_Id_1="8F82MDI9"
+            Titel_1="">Tarek Elkot, »Die Methode Nöldekes zur chronologischen Anordnung der Suren
+            und Verse des Korans in seiner ›Geschichte des Qorâns‹. Eine analytisch-kritische
+            Studie«, Dissertation an der Georg-August-Universität Göttingen, Göttingen
+          2014</bibl>.</note>. Neben den Überlieferungen der islamischen Traditionsliteratur
+        untersuchte Nöldeke sprachlich-stilistisch Eigenheiten des Textes und arbeitete Kriterien
+        heraus, die es erlauben sollten, den Koran in einem Entstehungszusammenhang von den
+        frühesten zu den letzten Verkündigungen zu verstehen. Er unterschied — teilweise in
+        Übereinstimmung mit der islamischen Tradition — zwischen den einzelnen Texteinheiten — von
+        der islamischen Tradition später «Sure/n” genannt —, die in Frühmekka, Mittelmekka,
+        Spätmekka oder Medina lokalisiert wurden. Nöldeke lieferte mit der Rekonstruktion der
+        Verkündigung einen ersten Kommentar zum Koran, der eine spannungsreiche
+        Entwicklungsgeschichte sichtbar macht. Richard Bell (1876–1952) und Régis Blachère
+        (1900–1973) entwickelten in der Nachfolge Nöldekes eigene Chronologien, die jedoch keine
+        vergleichbare methodisch gesicherte Grundlage bieten und so Nöldekes Chronologie nicht
+        ablösen konnten<note place="">Weitere Versuche der Eruierung der Chronologie der Koransuren
+          — teilweise diskutiert bei Nöldeke/Schwally (Nöldeke/Schwally, 1909) finden sich bei <bibl
+            Zotero_Id_1="WWNM5AHJ" Titel_1="">William Muir (1819–1905) [<hi rend="italic">The Koran,
+              Ist Composition and Teaching</hi>, London 1896]</bibl>, <bibl Zotero_Id_1="BD96BMHR"
+            Titel_1="">Hartwig Hirschfeld (1854–1934) [<hi rend="italic">New Researches into the
+              Composition and Exegesis oft he Koran</hi>, London 1902]</bibl> und Hubert Grimme
+          (1864–1942) [<bibl Zotero_Id_1="8FFYUR2H"><hi rend="italic">Mohammed, Bd. 1: Das Leben
+              nach den Quellen</hi></bibl>; <bibl Zotero_Id_1="WPR2WIJH"><hi rend="italic">Bd. 2:
+              Einleitung in den Koran. System der koranischen Theologie</hi></bibl>, Münster
+          1892–1895].</note>.</p>
+      <p>Rudi Paret (1901–1983), dessen Korankommentar<note place="">Das Projekt wurde von Paret
+          spätestens 1935 ins Auge gefasst, siehe seine Ausführungen in Rudi Paret, »Der Plan einer
+          neuen, leicht kommentierten wissenschaftlichen Koranübersetzung«, in: <bibl
+            Zotero_Id_1="RW7JZQZP" Titel_1="">Rudi Paket (ed.), <hi rend="italic">Orientalistische
+              Studien. Enno Littmann zu seinem 60. Geburtstag überreicht von Schülern aus seiner
+              Bonner und Tübinger Zeit</hi>, Leiden 1935, S. 121–130</bibl>.</note> sich vor allem
+        auf eine Paraphrase des »Inhaltlichen«, bei fast völliger Absehung der Form uns des Stils,
+        verwarf in seinem als maßgeblich erachteten Kommentar aus dem Jahr 1971, <bibl
+          Zotero_Id_1="X9T7RF7R"><hi rend="superscript">2</hi>1977</bibl>, die von Nöldeke eruierte
+        Chronologie; er behandelte alle Texteinheiten in der Reihenfolge ihres Vorkommens im Corpus
+        und nahm bei seinen Verweisen auf Parallelstellen keinerlei Rücksicht auf die zeitliche
+        Reihenfolge und damit auf das funktionale Verhältnis zwischen ihnen. Die Preisgabe wichtiger
+        Erkenntnisse, die Relation zwischen Einzeltexten betreffend, bedeutete einen nachhaltig
+        lähmenden Rückschritt in der Koranforschung. Mit John Wansbrough (1928–2002) wurde das von
+        der islamischen Tradition entwickelte, bis dahin als Grundlage erachtete historische
+        Paradigma, dem auch Nöldeke noch zu großen Teilen verpflichtet war, selbst infrage gestellt:
+        Angesichts der auffallenden Echos biblischer und postbiblischer Traditionen stellt sich — so
+        Wansbroughs These — der Koran, formgeschichtlich gelesen, als das Produkt von
+        interreligiösen Debatten dar, am ehesten vorstellbar als Auseinandersetzungen von Gelehrten
+        einer synkretistischen Gemeinde mit jüdischen und christlichen Gegnern im Mesopotamien des
+        8. Jahrhunderts. Aufgrund seiner Spätdatierung, die die Endgestalt des Koran als sekundär
+        annimmt, ist jede Spekulation zur chronologischen Abfolge von Texteinheiten hinfällig.</p>
+      <p>In der Tradition von Wansbrough und seiner Schule (insb. Patricia Crone [1945–2015] und
+        Michael Cook<note place="">Patricia Crone und Michael Cook begründeten revisionistische
+          Tendenzen in der Betrachtung der islamischen Geschichtsschreibung, die auch für die
+          Koranforschung nicht folgenlos blieb. <bibl Zotero_Id_1="VBUCK88U" Titel_1="">Patricia
+            Crone / Michael Cook, <hi rend="italic">Hagarism. The Making of the Islamic World</hi>,
+            Oxford 1977</bibl>. Die revisionistische Schule ist weiterhin vertreten durch Yehuda D.
+          Nevo (1932–192) und Judith Koren: <bibl Zotero_Id_1="639X4IXB" Titel_1="">Yehuda D. Nevo /
+            Judith Koren, <hi rend="italic">Crossroads to Islam. The Origins of the Arab Religion
+              and the Arab State</hi>, Amherst 2003</bibl>.</note>) sind auch die Arbeiten und
+        insbesondere der <bibl Zotero_Id_1="JQPASBWN">Korankommentar von Gabriel S. Reynolds</bibl>
+        zu verstehen. Unabhängig von einer Chronologie, die die Entwicklung der koranischen
+        Verkündigung nachvollzieht, liest Reynolds den Koran in enger Relation zu biblischem und
+        außerbiblischem Schrifttum, platziert die Korangenese sogar in einem »biblischem
+          Umfeld«<note place="">Siehe <bibl Zotero_Id_1="3C5UXFEV" Titel_1="">Gabriel S. Reynolds,
+              <hi rend="italic">The Qur’an and Its Biblical Subtext</hi>, New York
+          2010</bibl>.</note>, wobei er mehrere Autoren bzw. Redaktoren für wahrscheinlich hält. Der
+        von Mohammad A. Amir-Moezzi und Guillaume Dye herausgegebene Kommentar — die einzelnen
+        Surenkommentare, die von mehr als zehn Autoren (u.a. auch Gabriel S. Reynolds, aber auch
+        Karl-Friedrich Pohlmann [1941–2023]<note place="">Karl-Friedrich Pohlmann behandelt den
+          Korantext mit den Methoden der Bibelwissenschaft, ohne jedoch dabei dem spezifischen
+          Charakter der Verkündigung Rechnung zu tragen. Siehe <bibl Zotero_Id_1="TVZ8NWZ3"
+            Titel_1="">Karl-Friedrich Pohlmann, <hi rend="italic">Die Entstehung des Korans. Neue
+              Erkenntnisse aus Sicht der historisch-kritischen Bibelwissenschaft</hi>, Darmstadt
+            2012</bibl>.</note>) stammen, sind jedoch von sehr unterschiedlicher Qualität — enthält
+        Überlegungen zu Textfortschritten und versucht redaktionelle Bearbeitungen zu erweisen. Auch
+        sie gehen von einer sekundären Endgestalt des Korantextes aus.</p>
+      <p>Die anderen genannten neueren Kommentare (<bibl Zotero_Id_1="" Titel_1="">A.Th. Khoury
+          [1930–2023]</bibl>, <bibl Zotero_Id_1="JENTTEIU">S.H. Nasr</bibl>) sind im wesentlichen
+        entweder auf »problematische« Textstellen begrenzt, reichen über Wort- und Sacherklärungen
+        kaum hinaus und/ oder suchen in Rückgriff auf die islamische Exegesetradition die
+        Textbedeutung zu erschließen.</p>
+      <p><hi rend="h1">Der Korankommentar des Corpus Coranicum</hi></p>
+      <p>Der Korankommentar des Corpus Coranicum legt hingegen Wert auf eine hermeneutisch
+        konsistente, historisch und literaturwissenschaftlich ausgerichtete Diskussion des
+        Korantextes. Er beachtet den besonderen literarischen Charakter des Koran als einer aus
+        einem »Auslegungsprozess« entstandenen Schrift. Denn der Koran wird als »Mitschrift« einer
+        Gemeindebildung erkennbar gemacht. Diesen Aspekten wird Rechnung getragen durch eine
+        diachrone Textlektüre, von »Sure« zu »Sure« — nach zuvor erfolgter chronologischer
+        Rekonstruktion (wir sprechen von einer relativen Chronologie) — fortschreitend, die
+        gleichzeitig ideologische Auseinandersetzungen mit älteren Traditionen registriert.</p>
+      <p>Wir gehen davon aus, dass es sich bei dem Koran nicht nur um einen »Text«, sondern um eine
+        »Kommunikation« handelt. Der Kommentar widmet daher der in der Verkündigung reflektierten
+        Interaktion von Sprecher und Hörern, Verkünder und Gemeinde, besondere Aufmerksamkeit, da
+        diese vor allem die graduelle Konsensbildung innerhalb der Gemeinde widerspiegelt. Erst wenn
+        man den Koran als Kommunikation zwischen dem Verkünder und seiner sich sukzessiv wandelnden
+        Hörerschaft versteht, wird ein Früher oder Später relevant. Die Sprecher-Hörer-Interaktion
+        lässt sich außer an expliziten Anreden an anwesende Hörer auch an individuellen rhetorischen
+        Stilmitteln ablesen, wobei den Autorisierungsstrategien, mit denen die Verkündigung
+        durchgesetzt wird, besondere Aufmerksamkeit gilt. Vorrangig soll der Kommentar das liefern,
+        was bisher weder in der islamischen Exegese noch in westlichen Kommentaren jemals im Zentrum
+        stand: die interpretierende Deutung von Gesamtsuren als zum öffentlichen Vortrag bestimmter
+        Texte. Durch unsere Arbeit erweisen sich die mekkanische Suren als in sich schlüssige
+        Sinneinheiten der Verkündigung.</p>
+      <p>Die numerische Reihenfolge der »Suren« — der Sinneinheiten — im Codex ist dabei
+        irreführend, da die »Suren« in ihrer traditionellen Anordnung nicht die chronologische
+        Sequenz der Verkündigung abbilden, sondern eine Art »Nachlass« darstellen, die nach
+        Archivierungskriterien — grob geordnet nach abnehmender Länge von <q type="koran"
+          versstart="002:000" versend="002:286">Q 2</q>
+        (<lang xml:lang="ar-Latn">sūrat al-baqara</lang>) bis <q type="koran" versstart="112:000"
+          versend="112:004">Q 112</q> (<lang xml:lang="ar-Latn">sūrat al-iḫlāṣ</lang>) — angeordnet
+        wurden. Die Chronologie, d.h. die Abfolge der Verkündigungseinheiten, gilt es aber zu
+          rekonstruieren<note place="">Siehe zu dem Problem der Chronologie <bibl
+            Zotero_Id_1="PHS7AJKH" Titel_1="">Nicolai Sinai, »The Qurʾān as Process«, in: Angelika
+            Neuwirth / Nicolai Sinai / Michael Marx, <hi rend="italic">The Qurʾān in Context.
+              Historical and Literary Investigations into the Qurʾānic Milieu</hi>, Boston / Leiden
+            2010, S. 405–440</bibl> und <bibl Zotero_Id_1="6I96FAXT" Titel_1="">Angelika Neuwirth,
+              <hi rend="italic">Der Koran als Text der Spätantike</hi>, Ein europäischer Zugang,
+            Frankfurt am Main 2010, S. 276–331</bibl>. Zu beachten sind hier auch die medinischen
+          Einschübe, die ebenfalls von den einheimischen Exegeten erkannt wurden, über die aber
+          keine Einigkeit besteht, siehe für eine Auflistung und Auswertung der in der Tradition
+          verzeichneten Einschübe <bibl Zotero_Id_1="3RWFQBDU" Titel_1="">Tilman Nagel, <hi
+              rend="italic">Medinensische Einschübe in mekkanischen Suren</hi>, Göttingen
+            1995</bibl>.</note>, will man die Entwicklung der entstehenden Gemeinde und ihre
+        ideologischen Positionierungen zu bereits Vorhandenem herausarbeiten. Gerade weil wir von
+        einer Verflechtung von Verkündigung und Gemeindewerdung — im Sinne der Selbstaussage des
+        Koran als inspirierten Text liest — kann das Ziel des Korankommentars nur eine
+        Gesamtwahrnehmung des gesamten Koran sein, dessen Wachstumsprozess sich u.a. einem
+        »typologischen Denken« verdankt, — verstanden als das Lesen von Traditionen auf den ihnen
+        immanenten »Vorgriffscharakter« hin.</p>
+      <p><hi rend="h1">Der spätantike Charakter des Koran</hi></p>
+      <p>Durch die Einschreibung eigener Positionen zu anderen in der Zeit seiner Entstehung oft
+        heftig diskutierter theologischer Denkmuster, erweisen wir den Koran als »Text der
+        Spätantike« (<bibl Zotero_Id_1="6I96FAXT">Angelika Neuwirth, 2010a</bibl>). Dabei schließen
+        wir an die Koranarbeit der Wissenschaft des Judentums an, von Abraham Geiger (1810–1874) bis
+        Josef Horovitz (1874–1931), die gewissermaßen als Gründerväter der historisch-orientierten
+        Koranforschung gelten können. Insbesondere Abraham Geiger hat den Resonanzraum der
+        »Spätantike« aufgestoßen, indem er den Korantext mit dem jüdisch-rabbinischen Schrifttum
+        (Midrasch und Talmud) kontextualisierte und gleichzeitig eine moderne »Wissenschaftlichkeit«
+        als Schlüssel für die Koranlektüre einforderte. Wollte Geiger noch die ungetrübte
+        »lebensspendende« Kraft des Judentums in der Geschichte erweisen, war es letztlich Josef
+        Horovitz, der die Koranwissenschaft an einem eigens gegründeten Stiftungslehrstuhl in
+        Frankfurt am Main institutionalisierte<note place="">Siehe dazu <bibl Zotero_Id_1="CDRA9JNW"
+            >Gudrun Jäger, »Der jüdische Islamwissenschaftler Josef Horovitz und der Lehrstuhl für
+            semitische Philologie an der Universität Frankfurt am Main 1915–1949«, in: Jörn Kobes /
+            Jan-Otmar Hesse (eds.), <hi rend="italic">Frankfurter Wissenschaftler zwischen 1933 und
+              1945</hi>, Göttingen 2008, S. 61–79</bibl>.</note>. Der Abbruch dieser
+        Forschungstradition durch das nationalsozialistische Regime in Deutschland (1933)<note
+          place="">Im Jahr 1933 wurde das <hi rend="italic">Gesetz zur Wiederherstellung des
+            Berufsbeamtentum</hi> erlassen und verfolgte das Ziel Juden aus dem Staatsdienst zu
+          entfernen, siehe dazu <bibl Zotero_Id_1="E6ATWKN2">Michael Grüttner, »The Expulsion of
+            Academic Teaching Staff from German Universities, 1933–45«, in: <hi rend="italic"
+              >Journal of Contemporary History</hi> 57 (2022), S. 513–533</bibl>. Zu den
+          unrühmlichen Details im Zusammenhang der Orientwissenschaften siehe <bibl
+            Zotero_Id_1="2XKLKE9K">Ekkehard Ellinger, <hi rend="italic">Deutsche Orientalistik zur
+              Zeit des Nationalsozialismus</hi>, Edingen-Neckarhausen 2006</bibl>.</note> markierte
+        einen Tiefpunkt in der Geschichte der arabistischen Philologie, insbesondere der
+        Koranforschung. Horovitz’ methodologischen Ansatz verpflichtet, der den Koran auf Augenhöhe
+        mit anderen spätantiken Traditionen — seien diese jüdisch, christlich oder synkretistisch —
+        hebt, steht der Akademie-Kommentar bewusst in der Tradition der Wissenschaft des Judentums
+        und der von ihr erstmals eingeforderten ergebnisoffenen Koranwissenschaft (<bibl
+          Zotero_Id_1="PWE9KER9">Angelika Neuwirth, 2008</bibl>; <bibl Zotero_Id_1="PFKJ4Z5V"
+          >Michael Marx, 2008</bibl>; <bibl Zotero_Id_1="DNHZWNRT">Dirk Hartwig, 2009</bibl>, <bibl
+          Zotero_Id_1="NQZVTZK7" Titel_1="">2013</bibl>; <bibl Zotero_Id_1="3UUBPSD8">Susannah
+          Heschel, 2018</bibl>, <bibl Zotero_Id_1="8A55HSDI">Guy G. Stroumsa, 2020</bibl>).</p>
+      <p>Der hier vorgestellte Kommentar, der nicht zuletzt zeigen soll, dass wir mit den
+        traditionellen »Suren« Zeugnisse einer Diskursentwicklung vor uns haben: Jede »Sure« baut
+        auf früheren »Suren« auf, schließt sogar häufig explizit an eine bestimmte, früher
+        verkündete »Sure« an. Daher ist die Rekonstruktion der »Suren«folge für das Verständnis der
+        »Logik« des Verlaufs der Verkündigung unverzichtbar. Als Arbeitsgrundlage legen wir die noch
+        heute maßgebliche Surenchronologie von Theodor Nöldeke (<bibl Zotero_Id_1="2B3RP55S">Theodor
+          Nöldeke, 1860</bibl>, <bibl Zotero_Id_1="I4QW4AFU"><hi rend="superscript"
+          >2</hi>1909</bibl>) zugrunde, die das Gesamtcorpus in »Frühmekkanische Suren«,
+        »Mittelmekkanische Suren«, »Spätmekkanische Suren« und »Medinische Suren«<note place="">Zu
+          den medinischen Suren steht eine Bearbeitung nach <bibl Zotero_Id_1="4WEWN8NZ">Angelika
+            Neuwirths <hi rend="italic">SKMS</hi> (Studien zur Komposition der mekkanischen Suren,
+            Berlin / Boston 1981)</bibl> noch aus, falls dies überhaupt möglich ist. Zwei
+          Suren-Typen lassen sich dennoch ausmachen: die sogenannten »Langsuren« (Q 2–5,8–9) und die
+          Predigtsuren (Q 22, 24, 33, 47–49, 67–66), siehe dazu <bibl Zotero_Id_1="276U3Q8F"
+            >Angelika Neuwirth, »Vom Rezitationstext über die Liturgie zum Kanon. Zu Entstehung und
+            Wiederauflösung der Surenkomposition im Verlauf der Entwicklung eines islamischen
+            Kultus«, in: Stefan Wild (ed.), <hi rend="italic">The Qur’an as Text</hi>, Leiden /
+            Boston 1996, S. 67–107</bibl>.</note> einteilt.</p>
+      <p>Als <lang xml:lang="lat-Latn">textus receptus</lang> legt das Corpus Coranicum die Kairiner
+        Edition von 1924 zugrunde<note place="">Siehe dazu <bibl Zotero_Id_1="ES3YA6ZS">Gotthelf
+            Bergsträßer, »Koranlesung in Kairo«, in: <hi rend="italic">Der Islam</hi> 20 (1932), S.
+            1–42</bibl>.</note>, der wie Gotthelf Bergsträsser gezeigt hat (Gotthelf Bergsträsser,
+        1932, 1933), historisch hinreichend gesichert ist, um eine verlässliche Grundlage für die
+        Koranforschung zu bieten — zu der er aber einen kritischen Apparat herstellen wollte
+          (s.o.)<note place="">Siehe <bibl Zotero_Id_1="5D4RJQCN">Gotthelf Bersträßer, <hi
+              rend="italic">Plan eines Apparatus Criticus zum Koran</hi>, München 1930</bibl>; <bibl
+            Zotero_Id_1="7LYRIPVC">Otto Pretzl, <hi rend="italic">Die Fortführung des Apparatus
+              Criticus zum Koran</hi>, München 1934</bibl> und <bibl Zotero_Id_1="EEDL4DIQ">Arthur
+            Jeffrey, »Progress in the Study of the Qur’an Text«, in: The Muslim World 25 (1935), S.
+            4–16</bibl>. — Von Arthur Jeffrey (1892–1959) stammt auch ein substanzieller Beitrag zur
+          Erforschung des Korantextes: <bibl Zotero_Id_1="4HR2RHA3">Arthur Jeffrey, <hi
+              rend="italic">Materials for the History of the Text of the Qur’an</hi>. The Old
+            Codices, Leiden 1938</bibl>.</note> — die Kairiner Druckausgabe, gefolgt von
+        Transkription in DMG-Umschrift<note place="">Die ebendort abrufbare morphologische
+          Bestimmung folgt der digitalen Konkordanz von Rafi Talmon (1948–2004). Siehe dazu <bibl
+            Zotero_Id_1="77TJPHQJ">Judith Dror / Dudu Shaharabani / Rafi Talmon / Shuly Winter,
+            »Morphological Analysis of the Qur’an”, in: <hi rend="italic">Journal of the Association
+              for Literary and Linguistic Computing</hi> 19 (2004), S. 431–452</bibl>.</note> und
+        deutscher Übersetzung nach Rudi Paret (Rudi Paret, <bibl Zotero_Id_1="TW6JFHRW"><hi
+            rend="superscript">2</hi>1979</bibl>)<note place="">Im Zuge der Kommentierung des
+          Korantextes wird eine eigene Übersetzung angefertigt, die liegt bereits zu den früh- und
+          mittelmekkanischen Suren vor.</note> kann eigens mit Transkription und Übersetzung
+        ebenfalls digital abgerufen werden<note place="">Edition of the Qurʾān (al-Qurʾān al-karīm),
+          Cairo 1924, Image, Unicode Text, Latin Transcription, digital edition by Michael
+          Marx.</note>.</p>
+      <p><hi rend="h1">Zum Aufbau des Kommentars</hi></p>
+      <p>Dieses komplexe Programm wird in einer für jede Texteinheit (d.h. Sure) durchlaufenen
+        Sequenz von sechs Methodenschritten absolviert, wobei sich eine lockere Orientierung am
+        Psalmenkommentar von Erich Zenger (1939–2010) und Frank-Lothar Hossfeld (1942–2015)<note
+          place=""><bibl Zotero_Id_1="2U4V4DB9">Frank-Lothar Hossfeld / Erich Zenger, <hi
+              rend="italic">Die Psalmen</hi>, 3 Bde., Würzburg 1993–2012</bibl>.</note> als
+        hilfreich erwiesen hat. </p>
+      <p>1. Text, Transkription bzw. kolometrische Darstellung des arabischen Textes und
+        Übersetzung</p>
+      <p>2. Literarkritik (inkl. Versabteilungsdifferenzen)</p>
+      <p>3. Textkritik</p>
+      <p>4. Komposition (inkl. Strukturformel)</p>
+      <p>5. Kursorischer Verskommentar</p>
+      <p>6. Analyse und Deutung (inkl. Entwicklungsgeschichtlicher Einordnung)</p>
+      <p>7. Bibliographie (surenspezifisch) </p>
+      <p><hi rend="bold">[Text]</hi> Am Anfang steht eine Transkription des arabischen Textes der
+        jeweiligen Sure in »Atemeinheiten« (Kolon, pl. Kola)<note place="">Die kolometrische
+          Betrachtungsweise wurde von Eduard Norden (1868–1941) in die philologische und
+          stilistische Analyse literarischer Prosa eingeführt (siehe <bibl Zotero_Id_1="FL4BS4AT"
+            >Eduard Norden, <hi rend="italic">Agnostos Theos. Untersuchungen zur Formengeschichte
+              religiöser Rede</hi>, Leipzig 1913, S. 60–64</bibl>).</note>, wie es von Gotthelf
+        Bergsträßer (1886–1933), Wolfgang Richter (1926–2015)<note place=""><bibl
+            Zotero_Id_1="RNLCEBS2">Wolfgang Richter (ed.), <hi rend="italic">Biblia Hebraica
+              Transcripta</hi>, 16 Bde., St. Ottilien 1991–1993; online Version abrufbar unter:
+            https://www.bht.gwi.uni-muenchen.de</bibl>.</note> und Angelika Neuwirth (<bibl
+          Zotero_Id_1="">A. Neuwirth, 1980</bibl>, <bibl Zotero_Id_1="">1981</bibl>) vorgestellt
+        worden ist, jetzt auch Lutz Edzard (<bibl Zotero_Id_1="4ZMFISDR">L. Edzard, 2003</bibl>).
+        Die kolometrische Darstellung ist geeignet, denn die Texteinheiten sind als gereimter
+        Vortrag zu verstehen, und sind daher von vornherein in Verse eingeteilt, die zunächst durch
+        Reime bzw. bei längeren Versen durch syntaktische Zäsuren markiert sind<note place="">Die
+          islamische Tradition teilt den Korantext ebenfalls — unabhängig von den 114 Suren — in 30
+          Abschnitte (<lang xml:lang="ar-Latn">ǧuz</lang>, pl.
+          <lang xml:lang="ar-Latn">aǧzāʾ</lang>) bzw. 30 Zweiergruppen (= 60
+          <lang xml:lang="ar-Latn">ḥizb</lang>, pl. <lang xml:lang="ar-Latn">aḥzāb</lang>). Jedes
+          <lang xml:lang="ar-Latn">ḥizb</lang> wird noch einmal in acht Leseabschnitte
+          (<lang xml:lang="ar-Latn">maqraʾ</lang>, pl. <lang xml:lang="ar-Latn">maqraʾāt</lang>)
+          eingeteilt. So ergeben sich 240 Unterteilungen. Eine vor allem in Indo-Pakistan
+          verbreitete Tradition, teilt längeren Suren in Abschnitte, manchmal auch Perikopen
+          genannt, <lang xml:lang="ar-Latn">rakʿa</lang>, pl. <lang xml:lang="ar-Latn">rukūʿ</lang>.
+          Insgesamt ist der Koran in 558 <lang xml:lang="ar-Latn">rukūʿ</lang> eingeteilt. Diese
+          markieren häufig gleichzeitig den thematischen Wechsel innerhalb einer Sure oder längeren
+          Texteinheit.</note> — in Frühmekka entspricht ein Vers zumeist einem oder zwei Kola. Die
+        Darstellung der Verse und Kola in gegliederter Weise, dient zur Unterteilung der
+        Texteinheit. Sie ist unverzichtbar, da der poetische Charakter der Texteinheiten durch den
+        Fließtext der Korandrucke hindurch nicht mehr sichtbar ist, seine Struktur aber ein
+        wesentliches strategisches Element der Verkündigung darstellt<note place="">Zu Ästhetik des
+          Koran siehe <bibl Zotero_Id_1="L8QCYDXE">Navid Kermani, <hi rend="italic">Gott ist schön.
+              Das ästhetische Erleben des Koran</hi>, München 2000, <hi rend="superscript"
+            >4</hi>2011, insb. S. 94–231</bibl>.</note>. (Erste Versuche der kolometrischen
+        Darstellung in englischer bzw. deutscher Übersetzung unternahmen, waren David Heinrich
+        Müller [1846–1912]<note place=""><bibl Zotero_Id_1="WQF6J3X4">David Heinrich Müller, <hi
+              rend="italic">Die Propheten in ihrer ursprünglichen Form. Die Grundgesetze der
+              semitischen Poesie erschlossen und nachgewiesen in Bibel, Keilinschriften und Koran
+              〈…〉</hi>, Bd. 1: Prolegomena und Epilegomena, Wien 1896</bibl>. </note>, Arthur J.
+        Arberry [1905–1969]<note place=""><bibl Zotero_Id_1="XRT6C9LP">Arthur J. Arberry, <hi
+              rend="italic">The Koran Interpreted</hi>, London 1955</bibl>.</note>, und Hartmut
+          Bobzin<note place=""><bibl Zotero_Id_1="Q9EDU63R">Hartmut Bobzin, <hi rend="italic">Der
+              Koran. Aus dem Arabischen neu übertragen</hi>, unter Mitarbeit von Katharina Bobzin,
+            München 2010</bibl>, <bibl Zotero_Id_1="9APDNZR8"><hi rend="superscript"
+            >2</hi>2017</bibl>.</note>) Während der muslimische Leser, der den Koran mit Kantilene,
+        d.h. in liturgischem Vortrag, realisiert, den Text spontan als strukturierte, von der
+        Alltagskommunikation deutlich abgehobene Rede erkennt, bleibt der außenstehende westliche
+        Leser für die Wahrnehmung des sprachlichen Sondercharakters des Koran auf ein
+        strukturabbildendes Schriftbild angewiesen. Dieses Schriftbild macht auch die Reimwechsel
+        und damit die lautlichen Signale von »Textfortschritten« erkennbar. Die Transkription wird
+        von einer neuen Übersetzung begleitet — basierend auf zeitgenössischen Koranübersetzungen
+        von Rudi Paret (1966, <bibl Zotero_Id_1="TW6JFHRW"><hi rend="superscript">2</hi>1979</bibl>,
+          <bibl Zotero_Id_1="8L6LM74Q"><hi rend="superscript">12</hi>2014</bibl>). Adel Theodor
+        Khoury (1990–2001), Hans Zirker (<bibl Zotero_Id_1="J7GZ5X57">2003</bibl>, <bibl
+          Zotero_Id_1="T3YAK6ET"><hi rend="superscript">6</hi>2018</bibl>) und Hartmut Bobzin (<bibl
+          Zotero_Id_1="Q9EDU63R">2010</bibl>, <bibl Zotero_Id_1="9APDNZR8"><hi rend="superscript"
+            >2</hi>2017</bibl>) — , die prioritär auf literarische Qualität Anspruch erhebt, sich
+        also um die Bewahrung der poetischen Struktur bemüht.</p>
+      <p><hi rend="bold">[Literarkritik]</hi> Aus der mikrostrukturellen Erfassung des Textes
+        ergeben sich literarkritische Fragen. Hier wird der Text auf seine strukturelle
+        Einheitlichkeit, bzw. auf eventuell vorhandene Brüche (d.h. z.B. Widersprüche, Doppelungen)
+        hin, geprüft, die auf eine sekundäre Zusammensetzung deuten könnten. Hierzu zählen auch die
+        »Einschübe« — mekkanische und medinische Einschübe — in den Suren, die einen Fortschritt in
+        der Neulektüre bzw. »Revision« der Sure bedeuten<note place="">Zu den medinischen Einschüben
+          siehe <bibl Zotero_Id_1="3RWFQBDU">Tilman Nagel, <hi rend="italic">Medinische Einschübe in
+              mekkanischen Suren</hi>, Göttingen 1995</bibl>.</note> als auch zu vermutende
+        komplexere redaktionelle Bearbeitungen<note place="">Exemplarisch siehe <bibl
+            Zotero_Id_1="QIWTDSWK">Nicolai Sinai, »Processes of Literary Growth and Editorial
+            Expansion in Two Medinan Surahs”, in: Carol Bakhos / Michael Cook (eds.), <hi
+              rend="italic">Islam and Its Past. Jahiliyya, Late Antiquity, and the Qur’an</hi>,
+            Oxford 2017, S. 69–119</bibl>.</note>. Zur Literarkritik gehört auch die Diskussion der
+        in den Traditionen der großen Schulen des 8./9. Jahrhunderts (Damaskus, Kufa, Basra, Mekka
+        und Medina und zusätzlich Hims) divergierenden Versabteilungen<note place="">Siehe zu dem
+          Problem <bibl Zotero_Id_1="X2CUNMM2">Raymond K. Farrin, »The Verse Numbering Systems oft
+            he Qurʾān. A Statistical and Literary Comparision«, in: <hi rend="italic">Journal of the
+              International Qur’anic Studies Association</hi> 4 (2019), S. 3–58</bibl>.</note>. Das
+        Interesse an diesem »masoretischen Problem« hat erstmals Anton Spitaler geweckt (s. <bibl
+          Zotero_Id_1="PWGCAS53">A. Spitaler, 1935</bibl>) — die Bearbeitung war gänzlich neu und
+        verdankte sich Paul Kahle (1875–1964)<note place="">Es sei hier gesondert auf Paul Kahles
+          Werk <bibl Zotero_Id_1="ZCGK5JII"><hi rend="italic">Die Kairoer Genisa. Untersuchun‎gen
+              zur Geschichte des hebräischen Bibeltextes und seiner Übersetzungen</hi>, ‎Berlin
+            1962</bibl> verwiesen, das ebenfalls bis heute wenig beachtete Erkenntnisse ‎zur
+          Textsicherung des Korantextes beinhaltet.‎</note>, der insbesondere um eine philologische
+        Bewegung in Deutschland bemüht war (die Bergsträsser-Schule [G. Bergsträsser [1886–1933], O.
+        Pretzl [1893–1941], A. Spitaler [1910–2003]]), die sich um die einheimische Tradition bemüht
+          hat<note place=""><bibl Zotero_Id_1="T2JTE9IC">Gotthelf Bergsträsser / Otto Pretzl, <hi
+              rend="italic">ʿUṯmān Ibn-Saʿīd ad-Dānī: Kitāb at-Taisīr ‎fī qirā’āt as-sab‘ / Das
+              Lehrbuch der sieben Koranlesungen</hi>, Istanbul 1930</bibl>; ‎siehe auch <bibl
+            Zotero_Id_1="PWGCAS53">Anton Spitaler, <hi rend="italic">Die Verszählung des Koran nach
+              islamischer ‎Überlieferung. Mit einem Vorwort von Otto Pretzl</hi>, München
+            1935</bibl>.‎</note>. Die Erkenntnisse sind bereits in Neuwirths <bibl
+          Zotero_Id_1="4WEWN8NZ">Studien zur Komposition der mekkanischen Suren (=<hi rend="italic"
+            >SKMS</hi>) (A. Neuwirth, 1981, <hi rend="superscript">2</hi>2007)</bibl> weitestgehend
+        aufgearbeitet und bildet so das maßgebliche Werk für die Textanalyse. Denn nicht immer gibt
+        die kufische Tradition, die der als Basis gewählten Ḥafṣ-ʿan-ʿĀṣim-Lesung zugrunde liegt,
+        diejenige Versabteilung wieder, die aufgrund der literarischen Gestalt des Koran
+        vorauszusetzen wäre. </p>
+      <p><hi rend="bold">[Textkritik]</hi> Ebenso auf extratextuelle Evidenz greift zurück die
+        Textkritik, die die abweichenden Lesarten zusammenträgt. Sie vergleicht den generell für die
+        Transkription und Übersetzung zugrunde gelegten Ḥafṣ-ʿan-ʿĀṣim-Text mit den von anderen
+        annähernd zeitgleichen Lesern überlieferten Lesarten. Hierzu kann nicht nur auf die
+        klassische Literatur zugegriffen werden, exemplarisch das Lehrbuch der sieben Koranlesungen
+        (<lang xml:lang="ar-Latn">al-Taisīr fī qirāʾāt al-sabʿ</lang>) des al-Dānī (gest. 444/1053)
+        und moderne Zusammenstellungen (z.B.
+        <lang xml:lang="ar-Latn">al-Ḫatīb, Muʿǧam al-qirāʾāt</lang>, 11 Bde. oder al-Sharfī
+        (Charfi), <lang xml:lang="ar-Latn">al-Muṣḥaf wa-qirāʾātuhu</lang>, 5 Bde.), sondern
+        ebenfalls auf die umfangreiche Datenbank »Lesarten«<note place="">Variae Lectiones
+          Coranicae, herausgegeben durch die Berlin-‎Brandenburgische Akademie der Wissenschaften
+          durch Michael Marx; ‎https://corpuscoranicum.de/de/variants.</note>. Im Corpus Coranicum
+        wird hierbei auch den mündlich überlieferten Lesarten erstmals die materielle Evidenz, d.h.
+        die ältesten Textzeugen, gegenübergestellt, s. »Handschriften«<note place="">Manuscripta
+          Coranica, herausgegeben von der Berlin-Brandenburgischen ‎Akademie der Wissenschaften,
+          durch Michael Marx; ‎https://corpuscoranicum.de/de/manuscripts.</note>. Weiterführende
+        Gedanken zu den Lesarten hat bereits Ignaz Goldziher (1850–1921) <bibl
+          Zotero_Id_1="E7X7VVSD">(z.B. I. Goldziher 1920)</bibl> angemeldet, vgl. auch Fritz [Shlomo
+        Dov] Goitein (1900–1985) <bibl Zotero_Id_1="B3BLJKPF">(Sh.D. Goitein
+          <?oxy_comment_start author="Tobias J. Jocham" timestamp="20240308T121041+0100" comment="Habe ich mal auf 1959 geändert, okay? TJJ"?>195<?oxy_comment_end?>9)</bibl>.</p>
+      <p><hi rend="bold">[Komposition]</hi> Eine kurze Darstellung der Surenstruktur, basierend auf
+        den in <bibl Zotero_Id_1="4WEWN8NZ" Titel_1=""><hi rend="italic">SKMS</hi></bibl> eruierten
+        formalen und semantischen Textbausteinen soll die Komposition überschaubar machen. Dabei
+        wird auf die Identifikation der Textelemente mit bestimmten, für Frühmekka postulierten
+        Textsorten Wert gelegt. Dieses Kriterium erlaubt, die im Verkündigungsprozess früh
+        etablierten Textsorten in ihren später durchlaufenen Modifikationen zu verfolgen. Es
+        ermöglicht zugleich auch, die zunehmende Komplexität der Surenstrukturen einsichtig zu
+        machen, ein Entwicklungsmerkmal, das nicht zuletzt für die zu etablierende Surenchronologie
+        maßgeblich ist. Die Zusammensetzung der Suren aus Bauelementen wie Versgruppen, Gesätzen und
+        Hauptteilen wird daher — nicht nur bei Vorliegen von klaren Proportionen zwischen ihnen, wie
+        sie in vielen Suren als mnemotechnische Mittel greifbar sind — durch Angaben der Versanzahl
+        jedes Bausteins sichtbar gemacht. Der Sichbarmachung der Strukturen dient der Reim. Während
+        nämlich die Reime in der Poesie über das gesamte Gedicht hin identisch bleiben, variiert die
+        koranische Rede in den Suren die Reimschemata in der Regel entsprechend den semantisch
+        abgrenzbaren Sinneinheiten (Versgruppen und Gesätzen<note place="">Angelika Neuwirth hat den
+          Begriff »Gesätz« aus der vorgeschlagenen ‎Terminologie von <bibl Zotero_Id_1="GDE5XZQZ"
+            >Alfred Bloch (»Qasida«, in: <hi rend="italic">Asiatische Studien</hi> 2 (1948),
+            ‎S.106–132, hier: S 107, Anm. 8)</bibl>, der sich vom seinem Lehrer <bibl
+            Zotero_Id_1="WQF6J3X4">David Heinrich ‎Müller (<hi rend="italic">Die Propheten in ihrer
+              ursprünglichen Form. Die Grundsätze der ‎ursemitischen Poesie, erschlossen in Bibel,
+              Keilinschriften und Koran und in ‎ihren Wirkungen erkannt in den Chören der griech.
+              Tragödie</hi>, 2 Bde., Wien ‎‎1896)</bibl> und seiner Verwendung des Begriffs
+          »Strophe« abwendet, in die ‎Koranforschung begründet übertragen (s. <bibl
+            Zotero_Id_1="4WEWN8NZ">Angelika Neuwirth, <hi rend="italic">Studien zur ‎Komposition der
+              mekkanischen Suren</hi>, Berlin / Boston 1981, S. 177f.</bibl>).‎</note>). Damit wählt
+        sie eine Darstellungsstrategie, die geeignet ist, dem Hörer den innerhalb der Texte häufigen
+        Wechsel von Gedankengängen auch akustisch erkennbar zu machen. Die Notierung von
+        Reimstrukturen ist daher von substantieller Bedeutung für die Erkenntnis der koranischen
+        Gestaltungsabsicht.</p>
+      <p>Eine »Strukturformel«, die diese Proportionen abbildet, aus der auch die bereits in <bibl
+          Zotero_Id_1="4WEWN8NZ"><hi rend="italic">SKMS</hi></bibl> eruierten Proportionen der
+        Gesätze und Hauptteile hervorgehen, schließt daher den Abschnitt »Komposition« ab. </p>
+      <p><hi rend="bold">[Kursorischer Verskommentar]</hi> Das eigentliche Rückgrat des Projekts ist
+        der Vers-zu-Vers-Kommentar. Hier wird jeder Vers der »Sure« — in begründetem Falle auch eine
+        Versgruppe — noch einmal als Lemma aufgeführt und, wo notwendig, durch die Diskussion von
+        lexikalischen oder grammatischen Problemen erörtert. Zugleich werden gegebenenfalls
+        Intertexte aus älteren Traditionen angeführt und in ihrer koranischen Neulektüre
+        beleuchtet. Vor allem wird auf im jeweiligen Vers erkennbare Schärfungen und eventuelle
+        »Targumisierung«, d.h. einer exegetischen »Vervollständigung«, von vorher bereits
+        verkündeten Texteinheiten aufmerksam gemacht. Gerade diese Beobachtungen liefern ein starkes
+        Argument für die Historizität des Verkündigungsereignisses als Nukleus der Korangenese —
+        gegen die Annahme einer Kompilation durch anonyme Redaktoren.</p>
+      <p><hi rend="bold">[Analyse und Deutung]</hi> Die Analyse und Deutung ermöglich es nun, die
+        jeweilige Texteinheit in ihrer Gesamtheit zu betrachten. Da im Zentrum des Kommentars die
+        sich kontinuierlich erneuernden Diskurse stehen, beginnt die Deutung mit einem Versuch der
+        relativen »Datierung«, d.h. einer »entwicklungsgeschichtlichen Einordnung« der jeweiligen
+        Sure in ihren weiteren Kontext und einer Darlegung der mit ihr gegenüber den vorausgehenden
+        Texten erreichten Innovation. Die Suren sollen, soweit das möglich ist, in ihrer
+        individuellen Position im Textcorpus — nicht nur als Teil einer nicht weiter
+        chronologisierbaren Entwicklungsreihe wie bei Theodor Nöldeke —, sondern als »Etappen der
+        Verkündigung« identifiziert werden<note place="">Siehe auch<bibl Zotero_Id_1="F7GRAK9Z">
+            Nicolai Sinai, »Inner-Qur’anic Chronology«, in: Mustafa Shah / ‎Muhammad Abdel Haleem
+            (eds.), <hi rend="italic">The Oxford Handbook of Qur’anic Studies</hi>, ‎Oxford 2020, S.
+            346–361</bibl>; also <bibl Zotero_Id_1="6I96FAXT">Angelika Neuwirth, <hi rend="italic"
+              >Der Koran als Text der ‎Spätantike. Ein europäischer Zugang</hi>, Frankfurt am Main
+            2010, S. 276–331</bibl>.‎</note>. Wenn dieser Versuch auch nicht in allen Fällen zu
+        einem gänzlich gesicherten Ergebnis führen kann, so bringt er doch verblüffende neue
+        Einsichten in den inneren Zusammenhang zwischen einzelnen Suren und »Suren«folgen ans Licht.
+        Im Falle einer späteren Erweiterung der »Sure« werden beide Entwicklungsstufen, der
+        »Kerntext« und die erweiterte »Sure«, separat diskutiert. </p>
+      <p>Die folgenden Kommentare zu den Suren sind online abrufbar:</p>
+      <p>— Frühmekkanische Suren (Nicolai Sinai, unter Mitarbeit von Nora K. Schmid unter Verwendung
+        von Vorarbeiten Angelika Neuwirths)</p>
+      <p><q type="koran" versstart="093:000" versend="093:011">Q 93</q>
+        (<lang xml:lang="ar-Latn">aḍ-ḍuḥā</lang>), <q type="koran" versstart="094:000"
+          versend="094:008">94</q> (<lang xml:lang="ar-Latn">aš-šarḥ</lang>), <q type="koran"
+          versstart="095:000" versend="095:008">95</q> (<lang xml:lang="ar-Latn">aṭ-ṭīn</lang>), <q
+          type="koran" versstart="097:000" versend="097:005">97</q>
+        (<lang xml:lang="ar-Latn">al-qadr</lang>), <q type="koran" versstart="099:000"
+          versend="099:008">99</q> (<lang xml:lang="ar-Latn">az-zalzala</lang>), <q type="koran"
+          versstart="100:000" versend="100:011">100</q>
+        (<lang xml:lang="ar-Latn">al-ʿādiyāt</lang>), <q type="koran" versstart="101:000"
+          versend="101:011">101</q> (<lang xml:lang="ar-Latn">al-qāriʿa</lang>), <q type="koran"
+          versstart="102:000" versend="102:008">102</q>
+        (<lang xml:lang="ar-Latn">at-takāṯur</lang>), <q type="koran" versstart="103:000"
+          versend="103:003">103</q> (<lang xml:lang="ar-Latn">al-ʿaṣr</lang>), <q type="koran"
+          versstart="104:000" versend="104:009">104</q> (<lang xml:lang="ar-Latn">al-humaza</lang>),
+          <q type="koran" versstart="105:000" versend="105:005">105</q>
+        (<lang xml:lang="ar-Latn">al-fīl</lang>), <q type="koran" versstart="106:000"
+          versend="106:004">106</q> (<lang xml:lang="ar-Latn">Quraish</lang>), <q type="koran"
+          versstart="107:000" versend="107:007">107</q> (<lang xml:lang="ar-Latn">al-māʿūn</lang>),
+          <q type="koran" versstart="108:000" versend="108:003">108</q>
+        (<lang xml:lang="ar-Latn">al-kauṯar</lang>), <q type="koran" versstart="111:000"
+          versend="111:005">111</q> (<lang xml:lang="ar-Latn">al-masad</lang>), <q type="koran"
+          versstart="081:000" versend="081:029">81</q> (<lang xml:lang="ar-Latn">at-takwīr</lang>),
+          <q type="koran" versstart="082:000" versend="082:019">82</q>
+        (<lang xml:lang="ar-Latn">al-infiṭār</lang>), <q type="koran" versstart="084:000"
+          versend="084:025">84</q> (<lang xml:lang="ar-Latn">al-inšiqāq</lang>), <q type="koran"
+          versstart="085:000" versend="085:022">85</q> (<lang xml:lang="ar-Latn">al-burūǧ</lang>),
+          <q type="koran" versstart="086:000" versend="086:017">86</q>
+        (<lang xml:lang="ar-Latn">aṭ-ṭāriq</lang>), <q type="koran" versstart="087:000"
+          versend="087:019">87</q> (<lang xml:lang="ar-Latn">al-aʿlā</lang>), <q type="koran"
+          versstart="088:000" versend="088:026">88</q> (<lang xml:lang="ar-Latn">al-ġāšiya</lang>),
+          <q type="koran" versstart="089:000" versend="089:030">89</q>
+        (<lang xml:lang="ar-Latn">al-faǧr</lang>), <q type="koran" versstart="090:000"
+          versend="090:020">90</q> (<lang xml:lang="ar-Latn">al-balad</lang>), <q type="koran"
+          versstart="091:000" versend="091:015">91</q> (<lang xml:lang="ar-Latn">aš-šams</lang>), <q
+          type="koran" versstart="092:000" versend="092:021">92</q>
+        (<lang xml:lang="ar-Latn">al-lail</lang>), <q type="koran" versstart="096:000"
+          versend="096:019">96</q> (<lang xml:lang="ar-Latn">al-ʿalaq</lang>), <q type="koran"
+          versstart="053:000" versend="053:062">53</q> (<lang xml:lang="ar-Latn">an-naǧm</lang>), <q
+          type="koran" versstart="074:000" versend="074:056">74</q>
+        (<lang xml:lang="ar-Latn">al-muddaṯṯir</lang>), <q type="koran" versstart="075:000"
+          versend="075:040">75</q> (<lang xml:lang="ar-Latn">al-qiyāma</lang>), <q type="koran"
+          versstart="077:000" versend="077:050">77</q>
+        (<lang xml:lang="ar-Latn">al-mursalāt</lang>), <q type="koran" versstart="078:000"
+          versend="078:040">78</q> (<lang xml:lang="ar-Latn">an-nabaʾ</lang>), <q type="koran"
+          versstart="079:000" versend="079:046">79</q> (<lang xml:lang="ar-Latn">an-nāziʿāt</lang>),
+          <q type="koran" versstart="080:000" versend="080:042">80</q>
+        (<lang xml:lang="ar-Latn">ʿabasa</lang>), <q type="koran" versstart="051:000"
+          versend="051:060">51</q> (<lang xml:lang="ar-Latn">aḏ-ḏāriyāt</lang>), <q type="koran"
+          versstart="052:000" versend="052:049">52</q> (<lang xml:lang="ar-Latn">aṭ-ṭūr</lang>), <q
+          type="koran" versstart="055:000" versend="055:078">55</q>
+        (<lang xml:lang="ar-Latn">ar-raḥmān</lang>), <q type="koran" versstart="056:000"
+          versend="056:096">56</q> (<lang xml:lang="ar-Latn">al-wāqiʿah</lang>), <q type="koran"
+          versstart="068:000" versend="068:052">68</q> (<lang xml:lang="ar-Latn">al-qalam</lang>),
+          <q type="koran" versstart="079:000" versend="079:046">79</q>
+        (<lang xml:lang="ar-Latn">an-nāziʿāt</lang>), <q type="koran" versstart="073:000"
+          versend="073:020">73</q> (<lang xml:lang="ar-Latn">al-muzzammil</lang>), <q type="koran"
+          versstart="083:000" versend="083:036">83</q>
+        (<lang xml:lang="ar-Latn">al-muṭaffifīn</lang>)</p>
+      <p>(Ein abweichender Kommentar ist im Verlag der Weltreligionen erschienen: <bibl
+          Zotero_Id_1="X6J8ZZSZ">Angelika Neuwirth, <hi rend="italic">Der Koran, Bd.1:
+            Frühmekkanische Suren: Poetische Prophetie</hi>, Berlin 2011</bibl>)</p>
+      <p>— Frühmittelmekkanische Suren (Dirk Hartwig / Angelika Neuwirth, unter Mitarbeit von Ali
+        Aghaei und Tolou Khademalsharieh)</p>
+      <p><q type="koran" versstart="001:000" versend="001:007">Q 1</q>
+        (<lang xml:lang="ar-Latn">al-fātiḥa</lang>), <q type="koran" versstart="054:000"
+          versend="054:055">54</q> (<lang xml:lang="ar-Latn">al-qamar</lang>), <q type="koran"
+          versstart="037:000" versend="037:182">37</q> (<lang xml:lang="ar-Latn">aṣ-ṣaffāt</lang>),
+          <q type="koran" versstart="015:000" versend="015:099">15</q>
+        (<lang xml:lang="ar-Latn">al-Ḥiǧr</lang>), <q type="koran" versstart="050:000"
+          versend="050:045">50</q> (<lang xml:lang="ar-Latn">Qāf</lang>), <q type="koran"
+          versstart="020:000" versend="020:135">20</q> (<lang xml:lang="ar-Latn">Ṭā Hā</lang>), <q
+          type="koran" versstart="026:000" versend="026:227">26</q>
+        (<lang xml:lang="ar-Latn">aš-šuʿarāʾ</lang>), <q type="koran" versstart="071:000"
+          versend="071:028">71</q> (<lang xml:lang="ar-Latn">Nūḥ</lang>), <q type="koran"
+          versstart="044:000" versend="044:059">44</q> (<lang xml:lang="ar-Latn">ad-duḫān</lang>),
+          <q type="koran" versstart="076:000" versend="076:031">76</q>
+        (<lang xml:lang="ar-Latn">al-insān</lang>), <q type="koran" versstart="038:000"
+          versend="038:088">38</q> (<lang xml:lang="ar-Latn">Ṣād</lang>), <q type="koran"
+          versstart="019:000" versend="019:098">19</q> (<lang xml:lang="ar-Latn">Maryam</lang>)</p>
+      <p>(= <bibl Zotero_Id_1="R7C4TXP6">Angelika Neuwirth, <hi rend="italic">Der Koran, Bd. 2/1:
+            Frühmittelmekkanische Suren: Das neue Gottesvolk. Die ›Biblisierung‹ des altarabischen
+            Weltbildes</hi>, Berlin 2017</bibl>)</p>
+      <p>— Spätmittelmekkanische Suren (Dirk Hartwig / Angelika Neuwirth, unter Mitarbeit von Ali
+        Aghaei und Tolou Khademalsharieh) <q type="koran" versstart="017:000" versend="017:111">Q
+          17</q> (<lang xml:lang="ar-Latn">al-isrāʾ</lang>), <q type="koran" versstart="043:000"
+          versend="043:089">43</q> (<lang xml:lang="ar-Latn">az-zuḫruf</lang>), <q type="koran"
+          versstart="036:000" versend="036:083">36</q> (<lang xml:lang="ar-Latn">Yā Sīn</lang>), <q
+          type="koran" versstart="025:000" versend="025:077">25</q>
+        (<lang xml:lang="ar-Latn">al-Furqān</lang>), <q type="koran" versstart="023:000"
+          versend="023:118">23</q> (<lang xml:lang="ar-Latn">al-muʾminīn</lang>), <q type="koran"
+          versstart="114:000" versend="114:006">114</q> (<lang xml:lang="ar-Latn">an-nās</lang>), <q
+          type="koran" versstart="027:000" versend="027:093">27</q>
+        (<lang xml:lang="ar-Latn">an-naml</lang>), <q type="koran" versstart="072:000"
+          versend="072:028">72</q> (<lang xml:lang="ar-Latn">al-ǧinn</lang>), <q type="koran"
+          versstart="067:000" versend="067:030">67</q> (<lang xml:lang="ar-Latn">al-mulk</lang>), <q
+          type="koran" versstart="021:000" versend="021:112">21</q>
+        (<lang xml:lang="ar-Latn">al-anbiyāʾ</lang>), <q type="koran" versstart="018:000"
+          versend="018:110">18</q> (<lang xml:lang="ar-Latn">al-kahf</lang>)</p>
+      <p>(= <bibl Zotero_Id_1="955UURDN">Angelika Neuwirth / Dirk Hartwig, <hi rend="italic">Der
+            Koran, Bd. 2/2: Spätmittelmekkanische Suren: Von Mekka nach Jerusalem. Der spirituelle
+            Weg der Gemeinde heraus aus säkularer Indifferenz und apokalyptischem Pessimismus</hi>,
+          Berlin 2021</bibl>)</p>
+      <p>Die Suren der spätmekkanischen Zeit werden gerade bearbeitet. Entsprechend der nicht
+        überholten Chronologie von Nöldeke wir der Arbeitsblock folgende Suren umfassen: </p>
+      <p><q type="koran" versstart="032:000" versend="032:030">Q 32</q>
+        (<lang xml:lang="ar-Latn">as-saǧda</lang>), <q type="koran" versstart="041:000"
+          versend="041:054">41</q> (<lang xml:lang="ar-Latn">fuṣṣilat</lang>), <q type="koran"
+          versstart="045:000" versend="045:037">45</q> (<lang xml:lang="ar-Latn">al-ǧāthiya</lang>),
+          <q type="koran" versstart="016:000" versend="016:128">16</q>
+        (<lang xml:lang="ar-Latn">an-naḥl</lang>), <q type="koran" versstart="030:000"
+          versend="030:060">30</q> (<lang xml:lang="ar-Latn">ar-Rūm</lang>), <q type="koran"
+          versstart="011:000" versend="011:123">11</q> (<lang xml:lang="ar-Latn">Hūd</lang>), <q
+          type="koran" versstart="014:000" versend="014:052">14</q>
+        (<lang xml:lang="ar-Latn">Ibrāhīm</lang>), <q type="koran" versstart="012:000"
+          versend="012:111">12</q> (<lang xml:lang="ar-Latn">Yūsuf</lang>), <q type="koran"
+          versstart="040:000" versend="040:085">40</q> (<lang xml:lang="ar-Latn">Ġāfir</lang>), <q
+          type="koran" versstart="028:000" versend="028:088">28</q>
+        (<lang xml:lang="ar-Latn">al-qaṣaṣ</lang>), <q type="koran" versstart="039:000"
+          versend="039:075">39</q> (<lang xml:lang="ar-Latn">az-zumar</lang>), <q type="koran"
+          versstart="029:000" versend="029:069">29</q>
+        (<lang xml:lang="ar-Latn">al-ʿankabūt</lang>), <q type="koran" versstart="031:000"
+          versend="031:034">31</q> (<lang xml:lang="ar-Latn">Luqmān</lang>), <q type="koran"
+          versstart="042:000" versend="042:053">42</q> (<lang xml:lang="ar-Latn">aš-šūrā</lang>), <q
+          type="koran" versstart="010:000" versend="010:109">10</q>
+        (<lang xml:lang="ar-Latn">Yūnus</lang>), <q type="koran" versstart="034:000"
+          versend="034:054">34</q> (<lang xml:lang="ar-Latn">Sabaʾ</lang>), <q type="koran"
+          versstart="035:000" versend="035:045">35</q> (<lang xml:lang="ar-Latn">Fāṭir</lang>), <q
+          type="koran" versstart="007:000" versend="007:206">7</q>
+        (<lang xml:lang="ar-Latn">al-aʿrāf</lang>), <q type="koran" versstart="046:000"
+          versend="046:035">46</q> (<lang xml:lang="ar-Latn">al-aḥqāf</lang>), <q type="koran"
+          versstart="006:000" versend="006:165">6</q> (<lang xml:lang="ar-Latn">al-anʿām</lang>), <q
+          type="koran" versstart="013:000" versend="013:043">13</q>
+        (<lang xml:lang="ar-Latn">al-raʿd</lang>), <q type="koran" versstart="113:000"
+          versend="113:005">113</q> (<lang xml:lang="ar-Latn">al-falaq</lang>)</p>
+      <p>Die daran anschließende ausführlichere Beschreibung der »Sure« in ihrer Struktur und
+        Aussage (»Inhalt und Struktur«) fragt sodann nach der Kohärenz der Argumentation und der im
+        Text erkennbaren paränetischen, apologetischen oder polemischen Stoßrichtung: Auf welche
+        Herausforderung durch ältere Traditionen oder durch bestimmte Umstände im Gemeindeleben
+        antwortet sie, welchen Stand des übergreifenden Diskurses reflektiert sie? Diese Diskussion
+        kann gleichzeitig ihre Positionierung in der im Kommentar heuristisch angesetzten
+        chronologischen Sequenz der Suren untermauern. Die Beobachtungen zur
+        »Sprecher-Hörer-Interaktion« und die sich wandelnden Strategien der Autorisierung der
+        Verkündigung sowie, im Falle späterer Erweiterung, der in der Sure reflektierte Fortschritt
+        im »kanonischen Prozess« werden abschließend in einem separaten Abschnitt noch einmal
+        zusammengefasst. </p>
+      <p>Eine islamtheologische Analyse und Ausdeutung der Suren wird den Theologen und Theologinnen
+        der in Deutschland noch jungen Disziplin der Islamischen Theologie vorbehalten. Der Koran
+        ist — so steht es doch außer Frage — in erster Linie das Erbe der Muslime und Musliminnen,
+        die in der koranischen Verkündigung Gottes ewiggültiges Wort erkennen, dass es auch in
+        unserer Gegenwart zum Ertönen zu bringen gilt. Sie werden im Ringen mit den vielfältigen
+        Ergebnissen der bisherigen Forschung erst noch ihre Stimme im wissenschaftlichen und
+        gesellschaftlichen Dialog finden und eine theologische Schärfe entwickeln müssen, um dem
+        kolonialen Triumphalismus, der bisher das Forschungsgebiet weitestgehend beherrscht hat, zu
+          begegnen<note place="">Für solche Forderungen siehe
+            <?oxy_comment_start author="Tobias J. Jocham" timestamp="20240303T205548+0100" comment="Unklarer Titel!?! TJJ"?><bibl
+            Zotero_Id_1="">Parvez Manzoor, »Method against Truth. ‎Orientalism and Qur’anic
+            Studies«, in: <hi rend="italic">Muslim World Book Review</hi> 77 (1987), ‎S.
+            33ff.</bibl><?oxy_comment_end?>, und neuerdings <bibl Zotero_Id_1="3A8T6HLI">Joseph E.B.
+            Lumbard, »Decolonizing Qurʾanic ‎Studies«, in: <hi rend="italic">religions</hi> 13
+            (2022), S. 1–14</bibl>.‎</note>. Dann wird die islamische Theologie sich auch vor ihren
+        Schwesterdisziplinen — der christlichen und jüdischen Theologie — nicht wegzuducken
+        brauchen.</p>
+      <p/>
+      <p/>
+    </text>
+  </akkordeon>
+</overlay>

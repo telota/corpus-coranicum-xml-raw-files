@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:vc="http://www.w3.org/2007/XMLSchema-versioning" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" elementFormDefault="qualified" vc:minVersion="1.0" vc:maxVersion="1.1">
+    <xs:element name="Quran">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element ref="Sure"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="Sure">
+        <xs:annotation>
+            <xs:documentation source="tjj" xml:lang="de">Die Surengliederung orientiert sich an der ersten Kairiner Druckausgabe von 1924.</xs:documentation>
+        </xs:annotation>
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element maxOccurs="unbounded" ref="Hauptteil"/>
+            </xs:sequence>
+            <xs:attribute name="id" use="required" form="unqualified">
+                <xs:simpleType>
+                    <xs:restriction base="xs:integer">
+                        <xs:totalDigits value="3" fixed="true"/>
+                        <xs:minInclusive value="001"/>
+                        <xs:maxInclusive value="114"/>
+                    </xs:restriction>
+                </xs:simpleType>
+            </xs:attribute>
+            <xs:attribute name="translator" use="required" type="xs:string"/>
+            <xs:attribute name="webtauglich" type="xs:boolean" use="required"/>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="Hauptteil">
+        <xs:annotation>
+            <xs:documentation source="tjj" xml:lang="de">Die Hauptteile dienen einer weiteren Untergliederung der Suren anhand inhaltlicher, literaischer Gesichtspunkte.</xs:documentation>
+        </xs:annotation>
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element ref="Abschnitt" maxOccurs="unbounded"/>
+            </xs:sequence>
+            <xs:attribute name="id" use="required" type="xs:integer"/>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="Abschnitt">
+        <xs:annotation>
+            <xs:documentation source="tjj" xml:lang="de">Gleich den Hauptteilen dienen auch die Abschnitte einer weiteren inhaltlichen, literarischen Untergliederung der Hauptteile einer Sure.</xs:documentation>
+        </xs:annotation>
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element maxOccurs="unbounded" ref="Gesaetz"/>
+            </xs:sequence>
+            <xs:attribute name="id" use="required" type="xs:integer"/>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="Gesaetz">
+        <xs:annotation>
+            <xs:documentation source="tjj" xml:lang="de">Für die Einteilung in Gesätze zeichnet insbesodnere A. Neuwirth verantwortlich. Der Begriff "Gesätz" beschreibt eine, oft durch entsprechende Reime gekennzeichnete, Versgruppe, welche als eine poetisch-literaische Einheit - nicht unähnlich einer Strophe - in der Reimprosa verstanden werden müssen.</xs:documentation>
+        </xs:annotation>
+        <xs:complexType>
+            <xs:choice maxOccurs="unbounded">
+                <xs:element ref="Vers"/>
+                <!--     <xs:element ref="akzeptiert"/>-->
+            </xs:choice>
+            <!--      <xs:attribute name="akzeptiert" use="required" type="xs:boolean"/>-->
+            <xs:attribute name="n" type="xs:integer" use="required"/>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="Vers">
+        <xs:annotation>
+            <xs:documentation source="tjj" xml:lang="de">Die Einteilung der Verse orientiert sich an der 1924 erschienenen ersten Kairiner Druckausgabe. Die dort verwandte Zählung (kufisch) wird hier zugrundegelegt. Durch die doppelte Vergabe einer Verszahl bei unterschiedlichen Teilversen und Kola wird für die Ausgabe eine Zusammenziehung zweier Verse nach kufischer Zählung ermöglicht. Oder??? tjj</xs:documentation>
+        </xs:annotation>
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element ref="Teilvers" maxOccurs="unbounded"/>
+            </xs:sequence>
+            <!--   <xs:attribute name="akzeptiert" type="xs:boolean"/>-->
+            <xs:attribute name="n" use="required">
+                <xs:simpleType>
+                    <xs:restriction base="xs:integer">
+                        <xs:totalDigits fixed="true" value="3"/>
+                        <xs:minInclusive fixed="true" value="000"/>
+                        <xs:maxInclusive fixed="true" value="286"/>
+                        <xs:pattern value="\d{3}"/>
+                    </xs:restriction>
+                </xs:simpleType>
+            </xs:attribute>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="Teilvers">
+        <xs:annotation>
+            <xs:documentation source="tjj" xml:lang="de">Das Element Teilvers dient der Untergliederung der, insbesondere in den medinensichen Suren vorkommenden, überlangen Verse und ermöglicht die überlappende Strukturierung des Qurʾāntextes sowohl anhand der kufischen Zählung, als auch einer literaturwissenschaftlichen Verszählung (bsp. Vers 12a und 12b).</xs:documentation>
+        </xs:annotation>
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element maxOccurs="unbounded" ref="Kolon"/>
+            </xs:sequence>
+            <xs:attribute name="n" use="required">
+                <xs:simpleType>
+                    <xs:restriction base="xs:integer">
+                        <xs:pattern value="\d{3}"/>
+                    </xs:restriction>
+                </xs:simpleType>
+            </xs:attribute>
+            <xs:attribute name="reim" use="required" type="xs:string"/>
+            <xs:attribute name="reimkommentar" type="xs:string"/>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="Kolon">
+        <xs:annotation>
+            <xs:documentation source="tjj" xml:lang="de">Als Kolon bezeichnet man in der Verslehre die rhythmische Elementareinheit von einem oder mehreren Worten, welche einen gliedernde Taktung bilden.</xs:documentation>
+        </xs:annotation>
+        <xs:complexType mixed="true">
+            <xs:attribute name="Einschub" use="required" type="xs:boolean"/>
+            <xs:attribute name="lang" use="required" form="unqualified">
+                <xs:simpleType>
+                    <xs:restriction base="xs:language">
+                        <xs:length value="2"/>
+                    </xs:restriction>
+                </xs:simpleType>
+            </xs:attribute>
+            <xs:attribute name="n" use="required" type="xs:integer"/>
+        </xs:complexType>
+    </xs:element>
+    <!--<xs:element name="akzeptiert" type="xs:boolean"/>-->
+</xs:schema>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<overlay xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="Overlay.xsd" typ="TUKOverlay" webtauglich="true" title="Texte aus der Umwelt des Korans">
+ <text verfasser="tjj">
+ <p>
+ <hi rend="italic">Michael Marx, Nicolai Sinai, David Kiltz, Veronika Roth</hi>
+</p>
+ <p>
+ <hi rend="h1">Datenbank zu Überlieferungen anderen Zeugnissen der schriftlichen
+ Textüberlieferung des Korans aus den frühen Jahrhunderten</hi>
+</p>
+ <p/>
+ <p>unter Mitarbeit von</p>
+ <p>
+ <hi rend="italic">Hadiya Gurtmann, Tobias Jocham, Tolou Khadimalsharieh, Yousef Kouriyhe
+ und Jens Sauer</hi>
+</p>
+ <p/>
+ <p/>
+ </text>
+ <akkordeon>
+ <label n="1">Einleitung</label>
+ <text verfasser="tjj">
+ <!-- <p>
+ <hi rend="h1">Das Projekt einer Datenbank</hi>
+</p>-->
+ <p>In Bearbeitung.</p>
+ <p/>
+ <p/>
+ <p/>
+ </text>
+ </akkordeon>
+</overlay>

@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Quran xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="Textstruktur.xsd">
+    <Sure id="086" translator="Nicolai Sinai" webtauglich="true">
+        <Hauptteil id="0">
+            <Abschnitt id="0">
+                <Gesaetz n="0">
+                    <Vers n="000">
+                        <Teilvers n="000" reim="2n/m">
+                            <Kolon lang="ar" Einschub="false" n="0">بِسۡمِ ٱللَّهِ ٱلرَّحۡمَٰنِ ٱلرَّحِيمِ</Kolon>
+                            <Kolon lang="de" Einschub="false" n="0">Im Namen Gottes, des barmherzigen Erbarmers!</Kolon>
+                        </Teilvers>
+                    </Vers>
+                </Gesaetz>
+            </Abschnitt>
+        </Hauptteil>
+        <Hauptteil id="1">
+            <Abschnitt id="1">
+                <Gesaetz n="1">
+                    <Vers n="001">
+                        <Teilvers n="001" reim="āK3K" reimkommentar="mit vorherrschenden Explosiven">
+                            <Kolon Einschub="false" lang="ar" n="1">وَٱلسَّمَآءِ وَٱلطَّارِقِ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="1">Beim Himmel und beim Nachtgast! —</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="002">
+                        <Teilvers n="002" reim="āK3K" reimkommentar="mit vorherrschenden Explosiven">
+                            <Kolon Einschub="false" lang="ar" n="2">وَمَآ أَدۡرَىٰكَ مَا ٱلطَّارِقُ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="2">Was lässt dich wissen, was der Nachtgast ist?</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="003">
+                        <Teilvers n="003" reim="āK3K" reimkommentar="mit vorherrschenden Explosiven">
+                            <Kolon Einschub="false" lang="ar" n="3">ٱلنَّجۡمُ ٱلثَّاقِبُ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="3">Der durchdringende Stern! —</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="004">
+                        <Teilvers n="004" reim="āK3K" reimkommentar="mit vorherrschenden Explosiven">
+                            <Kolon Einschub="false" lang="ar" n="4">إِن كُلُّ نَفۡسٍۢ لَّمَّا عَلَيۡهَا حَافِظٌۭ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="4">Es gibt keine Seele, über der nicht ein Hüter ist.</Kolon>
+                        </Teilvers>
+                    </Vers>
+                </Gesaetz>
+                <Gesaetz n="2">
+                    <Vers n="005">
+                        <Teilvers n="005" reim="āK3K" reimkommentar="mit vorherrschenden Explosiven">
+                            <Kolon Einschub="false" lang="ar" n="5">فَلۡيَنظُرِ ٱلۡإِنسَٰنُ مِمَّ خُلِقَ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="5">Der Mensch möge schauen, woraus er geschaffen ist:</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="006">
+                        <Teilvers n="006" reim="āK3K" reimkommentar="mit vorherrschenden Explosiven">
+                            <Kolon Einschub="false" lang="ar" n="6">خُلِقَ مِن مَّآءٍۢ دَافِقٍۢ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="6">Er ist geschaffen aus hervorquellendem Wasser,</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="007">
+                        <Teilvers n="007" reim="āK3K" reimkommentar="mit vorherrschenden Explosiven">
+                            <Kolon Einschub="false" lang="ar" n="7">يَخۡرُجُ مِنۢ بَيۡنِ ٱلصُّلۡبِ وَٱلتَّرَآئِبِ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="7">das zwischen Lende und Brust austritt.</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="008">
+                        <Teilvers n="008" reim="āK3r">
+                            <Kolon Einschub="false" lang="ar" n="8">إِنَّهُۥ عَلَىٰ رَجۡعِهِۦ لَقَادِر</Kolon>
+                            <Kolon Einschub="false" lang="de" n="8">Er hat die Macht, ihn zurückzubringen.</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="009">
+                        <Teilvers n="009" reim="āK3r">
+                            <Kolon Einschub="false" lang="ar" n="9">يَوۡمَ تُبۡلَى ٱلسَّرَآئِرُ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="9">Am Tag, da die Herzen geprüft werden,</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="010">
+                        <Teilvers n="010" reim="āK3r">
+                            <Kolon Einschub="false" lang="ar" n="10">فَمَا لَهُۥ مِن قُوَّةٍۢ وَلَا نَاصِرٍۢ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="10">da hat er keine Kraft und keinen Helfer.</Kolon>
+                        </Teilvers>
+                    </Vers>
+                </Gesaetz>
+                <Gesaetz n="3">
+                    <Vers n="011">
+                        <Teilvers n="011" reim="3Kʿ">
+                            <Kolon Einschub="false" lang="ar" n="11">وَٱلسَّمَآءِ ذَاتِ ٱلرَّجۡعِ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="11">Beim immer wiederkehrenden Himmel,</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="012">
+                        <Teilvers n="012" reim="3Kʿ">
+                            <Kolon Einschub="false" lang="ar" n="12">وَٱلۡأَرۡضِ ذَاتِ ٱلصَّدۡعِ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="12">bei der sich spaltenden Erde!</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="013">
+                        <Teilvers n="013" reim="3Kl">
+                            <Kolon Einschub="false" lang="ar" n="13">إِنَّهُۥ لَقَوۡلٌۭ فَصۡلٌۭ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="13">Es ist ein entscheidendes Wort</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="014">
+                        <Teilvers n="014" reim="3Kl">
+                            <Kolon Einschub="false" lang="ar" n="14">وَمَا هُوَ بِٱلۡهَزۡلِ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="14">und kein Scherz!</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="015">
+                        <Teilvers n="015" reim="Kdā">
+                            <Kolon Einschub="false" lang="ar" n="15">إِنَّهُمۡ يَكِيدُونَ كَيۡدًۭا</Kolon>
+                            <Kolon Einschub="false" lang="de" n="15">Sie schmieden Pläne;</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="016">
+                        <Teilvers n="015" reim="Kdā">
+                            <Kolon Einschub="false" lang="ar" n="15">وَأَكِيدُ كَيۡدًۭا</Kolon>
+                            <Kolon Einschub="false" lang="de" n="15">auch ich schmiede Pläne!</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="017">
+                        <Teilvers n="016" reim="Kdā">
+                            <Kolon Einschub="false" lang="ar" n="16">فَمَهِّلِ ٱلۡكَٰفِرِينَ أَمۡهِلۡهُمۡ رُوَيۡدًا</Kolon>
+                            <Kolon Einschub="false" lang="de" n="16">So gewähre den Ungläubigen Aufschub, gewähre ihnen ein wenig Aufschub!</Kolon>
+                        </Teilvers>
+                    </Vers>
+                </Gesaetz>
+            </Abschnitt>
+        </Hauptteil>
+    </Sure>
+</Quran>

@@ -1,0 +1,413 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<korankommentar xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:noNamespaceSchemaLocation="Kommentar.xsd">
+ <sure id="108" webtauglich="true"/>
+ <surentitel>
+  <text versstart="000" versend="003" verfasser="tjj">
+   <p>Sure 108 — <lang xml:lang="ar-Latn">al-Kauṯar</lang> — »Die Fülle«</p>
+  </text>
+ </surentitel>
+ <autorenkurz>
+  <text versstart="000" versend="003" verfasser="tjj">
+   <p>Übersetzt und analysiert von Nicolai Sinai</p>
+  </text>
+ </autorenkurz>
+ <datierungkurz>
+  <text versstart="000" versend="003" verfasser="nisi">
+   <p>Mekka I (Gruppe I)</p>
+  </text>
+ </datierungkurz>
+ <datierung>
+  <text versstart="000" versend="003" verfasser="nisi">
+   <p>Eine Zuweisung zum Frühstadium der Korangenese, genauer zu Gruppe I der frühmekkanischen
+    Texte, liegt aufgrund der Kürze der Verse (durchschnittliche Silbenzahl: 9), der Kürze des
+    Textes insgesamt und auch angesichts seiner Nähe zu <q type="koran" versstart="093:000"
+     versend="093:011">Q 93</q> und <q type="koran" versstart="094:000" versend="094:008">94</q>
+    nahe. Inhaltlich macht <q type="koran" versstart="108:002" versend="108:002">V. 2</q> („So bete
+    zu deinem Herrn und opfere!“) eine Einordnung der Sure zu Beginn der koranischen Textgenese
+    wahrscheinlich: Will man die Sure nicht als medinensisch auffassen und auf das islamische
+    Opferfest beziehen – was aufgrund der obigen Gesichtspunkte als ausgesprochen unwahrscheinlich
+    gelten muss – so dürfte sich der Vers auf den vorislamischen mekkanischen Opferkult beziehen,
+    der in späteren Korantexten als Götzendienst verurteilt wird. Der Text wurde also zu einem
+    Zeitpunkt verkündet, zu dem sich Muḥammad noch nicht grundsätzlich von der religiösen Praxis
+    Mekkas distanziert hatte (vgl. <bibl Zotero_Id_1="X9T7RF7R">Paret, Kommentar, ad loc.</bibl>).
+    Formal und inhaltlich ist <q type="koran" versstart="108:000" versend="108:003">Q 108</q> mit <q
+     type="koran" versstart="093:001" versend="093:011">Q 93</q> und <q type="koran"
+     versstart="094:000" versend="094:008">94</q> verwandt, die ebenfalls tröstende Anreden an den
+    Verkünder darstellen, allerdings merklich länger sind und eine komplexere Binnenstruktur
+    aufweisen (vgl. insb. <q type="koran" versstart="093:000" versend="093:011">Q 93</q>:
+    Schwureinleitung, Zuspruch, Rückblick auf Gnadenerweise, ethische Folgerungen). <bibl
+     Zotero_Id_1="JM6WUWTX">Birkeland 1956</bibl> will diese drei Trostsuren zusammen mit <q
+     type="koran" versstart="105:000" versend="105:005">Q 105</q> und <q type="koran"
+     versstart="106:000" versend="106:004">106</q> an den Anfang der koranischen Textgenese stellen,
+    da er in allen fünf Suren ein gemeinsames theologisches Profil zu erkennen glaubt. Allerdings
+    erweist sich die Gruppe der von Birkeland behandelten fünf Kurzsuren bei näherer Betrachtung als
+    recht heterogen. Während <q type="koran" versstart="105:000" versend="105:005">Q 105</q> und <q
+     type="koran" versstart="106:000" versend="106:004">106</q> das Kollektiv der Quraiš in den
+    Mittelpunkt rücken und noch keine grundlegende Störung des Verhältnisses zwischen Gott und
+    Menschen erkennen lassen, steht in <q type="koran" versstart="093:000" versend="093:011">Q
+     93</q>, <q type="koran" versstart="094:000" versend="094:008">94</q>, <q type="koran"
+     versstart="108:000" versend="108:003">108</q> der individuelle Zuspruch an die Person des
+    Verkünders im Vordergrund: Gott erscheint hier nicht als Schirmherr des mekkanischen
+    Gemeinwesens, sondern als eine in die Biographie des Einzelnen eingreifende Macht. Tatsächlich
+    stehen die drei Trostsuren in erheblich größerer Kontinuität zu anderen frühmekkanischen Texten:
+     <q type="koran" versstart="093:004" versend="093:004">93:4</q> spielt auf das Jenseits und
+    damit mittelbar auch auf das Jüngste Gericht an, und Anreden des Verkünders am Surenanfang
+    finden sich auch in <q type="koran" versstart="073:000" versend="073:020">Q 73</q>, <q
+     type="koran" versstart="074:000" versend="074:056">74</q>, <q type="koran" versstart="087:000"
+     versend="087:019">87</q> und <q type="koran" versstart="096:000" versend="096:019">96</q>
+    (wobei es sich dort allerdings nicht um Trostreden, sondern um hymnische Aufrufe zum
+    Gottesdienst o. Ä. handelt). Vor diesem Hintergrund erscheint es naheliegend, Birkelands
+    Vermutung einer chronologischen Vorgängigkeit der von ihm untersuchten fünf Suren auf <q
+     type="koran" versstart="105:000" versend="105:005">Q 105</q> und <q type="koran"
+     versstart="106:000" versend="106:004">106</q> einzuschränken, die sich in ihrem Gottesbild und
+    in ihrer Haltung zum mekkanischen Gemeinwesen merklich von späteren Texten abheben (vgl. die <q
+     type="kommentar" versstart="105:000" versend="105:005">Kommentare zu Q 105</q> und <q
+     type="kommentar" versstart="106:000" versend="106:004">106</q>), und die drei Trostsuren in ein
+    späteres Stadium der frühmekkanischen Periode zu setzen. Am ehesten wäre ihre Verkündigung gegen
+    Ende von Gruppe I der frühmekkanischen Texte, also im Anschluss an die kurzen Droh- und
+    Scheltworte <q type="koran" versstart="095:000" versend="095:008">Q 95</q>, <q type="koran"
+     versstart="102:000" versend="102:008">102</q>, <q type="koran" versstart="103:000"
+     versend="103:003">103</q>, <q type="koran" versstart="104:000" versend="104:009">104</q> und <q
+     type="koran" versstart="107:000" versend="107:007">107</q> (und wohl auch <q type="koran"
+     versstart="111:000" versend="111:005">Q 111</q>) denkbar (zur Kritik an Birkeland und zur
+    Datierung der Sure s. ausführlicher <bibl Zotero_Id_1="Q9R6T8GF">Sinai 2010, 427–429</bibl>.
+    Neuwirth übernimmt im Wesentlichen die Ansicht Birkelands und stellt die von ihm behandelten
+    fünf Suren, erweitert um <q type="koran" versstart="097:000" versend="097:005">Q 97</q>, allen
+    anderen Koransuren voran (<bibl Zotero_Id_1="X6J8ZZSZ">Neuwirth, Frühmekkanische Suren,
+     45</bibl>). Sie ordnet die „noch exklusiv an ein ‚Du‘ gerichteten Suren“ <q type="koran"
+     versstart="093:000" versend="093:011">93</q>, <q type="koran" versstart="094:000"
+     versend="094:008">94</q>, <q type="koran" versstart="097:000" versend="097:005">97</q>, <q
+     type="koran" versstart="107:000" versend="107:007">107</q> und <q type="koran"
+     versstart="108:000" versend="108:003">108</q> einem „vor-kerygmatischen“ Stadium der
+    Korangenese zu, auf welches erst sekundär eschatologisch geprägte Mahn- und Drohworte wie etwa
+     <q type="koran" versstart="102:000" versend="102:008">Q 102</q> und <q type="koran"
+     versstart="107:000" versend="107:007">107</q> gefolgt seien. Ob eine solchermaßen lineare
+    Hintereinandersetzung des Materials wirklich zwangsläufig ist, lässt sich jedoch bezweifeln.
+    Schließlich wechseln sich auch in späteren Texten Du-Anreden des Verkünders mit Ihr- und
+    Sie-Anreden einer breiteren Hörerschaft ab. Entsprechend ist auch für die Frühphase der
+    koranischen Verkündigungen keineswegs auszuschließen, dass individuelle Anreden des Verkünders
+    wie <q type="koran" versstart="108:000" versend="108:003">Q 108</q> im Wesentlichen zeitgleich
+    mit ein allgemeineres Hörerkollektiv ansprechenden Texten wie <q type="koran"
+     versstart="102:000" versend="102:008">Q 102</q> und <q type="koran" versstart="107:000"
+     versend="107:007">107</q> anzusetzen sind. Die Redekonstellationen beider Surentypen sind
+    keineswegs so unvereinbar miteinander, dass sie eine Zuordnung zu zwei aufeinanderfolgenden
+    Textstadien erfordern würden, sondern ergänzen sich vielmehr: Indem <q type="koran"
+     versstart="093:000" versend="093:011">Q 93</q>, <q type="koran" versstart="094:000"
+     versend="094:008">Q 94</q>
+    <q type="koran" versstart="108:000" versend="108:003">und Q 108</q> Muhammad als Gegenstand
+    besonderer göttlicher Fürsorge und als Teilnehmer an einem intimen Zwiegespräch mit Gott
+    erscheinen lassen, statten sie ihn mit beträchtlichem Prestige aus (s. u. den <q
+     type="kommentar" versstart="108:001" versend="108:003">kursorischen Kommentar</q>) und
+    untermauern so mittelbar auch die Autorität der von diesem Verkünder zeitgleich verlautbarten
+    „kerygmatischen“ Suren. Die Verkünderanreden <q type="koran" versstart="093:000"
+     versend="093:011">Q 93</q>, <q type="koran" versstart="094:000" versend="094:008">Q 94</q>
+    <q type="koran" versstart="108:000" versend="108:003">und Q 108</q> reflektieren insofern nicht
+    nur der privaten Selbstvergewisserung dienende „‚Gespräche‘ zwischen dem noch von seiner
+    Berufungserfahrung überwältigten Propheten und seinem göttlichen Gegenüber“ (<bibl
+     Zotero_Id_1="X6J8ZZSZ">Neuwirth, Frühmekkanische Suren, 44</bibl>), sondern sie leisten vor
+    allem einen unübersehbaren Beitrag zur Autorisierung der in Suren wie <q type="koran"
+     versstart="102:000" versend="102:008">Q 102</q> artikulierten Gerichtsverkündigung, haben also
+    gerade durch die Intimität der in ihnen dargestellten Gesprächssituation eine öffentliche
+    Signifikanz.</p>
+  </text>
+ </datierung>
+ <literarkritikkurz>
+  <text versstart="000" versend="003" verfasser="nisi">
+   <p>Keine Einschübe</p>
+  </text>
+ </literarkritikkurz>
+ <literarkritik>
+  <text versstart="000" versend="003" verfasser="nisi">
+   <p>„Wie die andern mit <lang xml:lang="ar-Latn">ʾinna</lang> (〈…〉 = ‚fürwahr wir’) beginnenden
+    Suren (<q type="koran" versstart="048:000" versend="048:029">48</q>.<q type="koran"
+     versstart="071:000" versend="071:028">71</q>.<q type="koran" versstart="097:000"
+     versend="097:005">97</q>.<q type="koran" versstart="108:000" versend="108:003">108</q>) könnte
+    auch diese ihren ursprünglichen Anfang verloren haben.“ (<bibl Zotero_Id_1="RF8JH6HZ"><hi
+      rend="italic">GdQ</hi>, Bd. 1, 92–93</bibl>) Ggf. wäre dabei an eine Schwureinleitung wie in
+     <q type="koran" versstart="093:001" versend="093:003">Q 93:1–3</q> zu denken. Die Existenz von
+    immerhin vier mit <lang xml:lang="ar-Latn">ʾinna</lang> einsetzenden Suren macht den Wegfall
+    einer Einleitung in allen Fällen jedoch recht unwahrscheinlich; die Unmittelbarkeit des
+    Einsatzes wird man deshalb innerhalb der koranischen Formensprache durchaus als literarische
+    Möglichkeit akzeptieren müssen.</p>
+  </text>
+ </literarkritik>
+ <aufbauinhalt>
+  <text versstart="000" versend="003" verfasser="nisi">
+   <p>Zusammen mit <q type="koran" versstart="093:000" versend="093:011">Q 93</q> und <q
+     type="koran" versstart="094:000" versend="094:008">94</q> gehört <q type="koran"
+     versstart="108:000" versend="108:003">Sure 108</q> zu den frühmekkanischen Trostsuren, welche
+    dem Verkünder zuteil gewordene göttliche Gnadenerweise aufzählen, ihm zukünftige Erleichterung
+    verheißen und abschließend sich daraus ergebende ethisch-religiöse Verpflichtungen benennen.
+    Dieser Doppelschritt aus göttlichen Gnadenerweisen und daraus folgenden Normen – der sich
+    ebenfalls in der wohl früheren, an das Kollektiv der Quraiš und nicht an das Individuum des
+    Verkünders gerichteten <q type="koran" versstart="106:000" versend="106:004">Sure 106</q> findet
+     (<q type="koran" versstart="106:001" versend="106:002">V. 1.2</q>: Gnadenerweis Gottes
+    gegenüber den Quraiš, <q type="koran" versstart="106:003" versend="106:003">V. 3</q>:
+    Verpflichtung zur Verehrung Gottes) – erscheint in <q type="koran" versstart="108:000"
+     versend="108:003">Q 108</q> in extrem verdichteter Form (<q type="koran" versstart="108:001"
+     versend="108:001">V. 1</q> und <q type="koran" versstart="108:002" versend="108:002">V. 2</q>),
+    während er in <q type="koran" versstart="093:000" versend="093:011">Q 93</q> (<q type="koran"
+     versstart="093:001" versend="093:008">V. 1–8</q>: Schwur, Zuspruch, Rückblick auf erwiesene
+    Wohltaten; <q type="koran" versstart="093:009" versend="093:011">V. 9–11</q>: daraus folgende
+    ethische und religiöse Verpflichtungen) und <q type="koran" versstart="094:000"
+     versend="094:008">Q 94</q> (<q type="koran" versstart="094:001" versend="094:004">V. 1–4</q>:
+    Rückblick auf Gnadenerweise; <q type="koran" versstart="094:007" versend="094:008">V. 7.8</q>:
+    Verpflichtung zum Gottesdienst) jeweils als Aufriss umfangreicherer Textstücke dient. Anders als
+    in <q type="koran" versstart="093:000" versend="093:011">Q 93</q> und <q type="koran"
+     versstart="094:000" versend="094:008">94</q> folgt in der vorliegenden Sure auf die Benennung
+    einer religiösen oder ethischen Verpflichtung des Angeredeten noch eine abschließende
+    Verheißung.</p>
+  </text>
+ </aufbauinhalt>
+ <ueberblick>
+  <text versstart="000" versend="003" verfasser="tjj">
+   <p>
+    <table cols="2" rend="boxed" rows="3">
+     <head/>
+     <row>
+      <cell>
+       <hi rend="superscript"><q type="koran" versstart="108:001" versend="108:003">1–3</q></hi>
+       <hi rend="italic">3K(K)3r</hi>
+      </cell>
+      <cell>
+       <hi rend="superscript"><q type="koran" versstart="108:001" versend="108:001">1</q></hi>
+       Rückblick auf erwiesene Wohltaten (Anrede des Verkünders)</cell>
+     </row>
+     <row>
+      <cell/>
+      <cell>
+       <hi rend="superscript"><q type="koran" versstart="108:002" versend="108:002">2</q></hi>
+       liturgischer Aufruf</cell>
+     </row>
+     <row>
+      <cell/>
+      <cell>
+       <hi rend="superscript"><q type="koran" versstart="108:003" versend="108:003">3</q></hi>
+       Zuspruch (Drohwort gegen Gegner des Verkünders)</cell>
+     </row>
+    </table>
+   </p>
+  </text>
+ </ueberblick>
+ <anmerkungen>
+  <text versstart="000" versend="000" verfasser="nisi">
+   <p><lem>bi-smi llāhi r-raḥmāni r-raḥīm]</lem> Zur Basmala s. die entsprechende <q
+     type="anmerkung" versstart="093:000" versend="093:000">Anmerkung zu 93</q>; zum Gottesnamen
+    <lang xml:lang="ar-Latn">raḥmān</lang> s. die <q type="anmerkung" versstart="055:001"
+     versend="055:001">Anmerkung zu 55:1</q>.</p>
+  </text>
+  <text versstart="001" versend="001" verfasser="nisi">
+   <p><lem>ʾinnā ʾaʿṭaināka l-kauṯar]</lem> Vgl. die ebenfalls unmittelbar mit göttlicher Wir-Rede
+    einsetzende <q type="koran" versstart="097:000" versend="097:005">Sure 97</q>
+    (<lang xml:lang="ar-Latn">ʾinnā ʾanzalnāhu fī lailati l-qadr</lang>); s. a. – allerdings nicht
+    in Form einer <lang xml:lang="ar-Latn">ʾinna</lang>-Aussage, sondern als rhetorische Frage – <q
+     type="koran" versstart="094:001" versend="094:001">94:1</q>
+    (<lang xml:lang="ar-Latn">ʾa-lam našraḥ laka ṣadrak</lang>).
+    <lang xml:lang="ar-Latn">Kauṯar</lang> „ist eigentlich ein Adjektiv und bedeutet ‚viel,
+    reichlich, in Fülle’; 〈…〉 daher ist es der massenhafte Staub (Diwān der Huḏailiten 92 V. 44);
+    also hier ‚das Reichliche, die Fülle’“ (<bibl Zotero_Id_1="RF8JH6HZ"><hi rend="italic">GdQ</hi>,
+     Bd. 1, 92, Anm. 4</bibl>; vgl. <bibl Zotero_Id_1="X76RWCZT"><hi rend="italic">WKAS</hi>, s. v.
+      <hi rend="italic">k-ṯ-r</hi></bibl>, mit weiteren Belegen). <bibl Zotero_Id_1="6XDZERHX"
+     >Luxenberg (2000, 304–310)</bibl> liest <lang xml:lang="ar-Latn">kūṯar</lang> statt
+    <lang xml:lang="ar-Latn">kauṯar</lang> und betrachtet dies als Arabisierung von syr.
+    <lang xml:lang="syc-Latn">kuttārā</lang>, womit die „Tugend der Beständigkeit“ gemeint sei.
+    Tatsächlich bedeutet syr. <lang xml:lang="syc-Latn">kattar</lang> „bleiben, fortfahren, warten,
+    verharren etc.“, doch ist das Substantiv <lang xml:lang="syc-Latn">kuttārā</lang> offenbar nur
+    im temporalen Sinne von „Dauer, Frist“ und nicht in ethischen Zusammenhängen als Tugendbegriff
+    belegt (vgl. <bibl Zotero_Id_1="359HZBSF">Payne Smith 1879–1901, Bd. 1, 1859 f.</bibl>); hier
+    macht sich auf fatale Weise Luxenbergs Tendenz bemerkbar, von ihm postulierte Bedeutungen eines
+    Ausdrucks nicht durch konkrete Textbeispiele aus der vorkoranischen syrischen Literatur zu
+    belegen, sondern stattdessen lediglich auf Wörterbucheinträge zu rekurrieren. Zudem hat
+    Luxenbergs Emendation des Ausdrucks zu <lang xml:lang="ar-Latn">kūṯar</lang> zur Folge, dass der
+    erste Vers das im <lang xml:lang="lat-Latn">textus receptus</lang> vorhandene Reimschema 3KK3r
+    durchbrechen würde – zumindest in formaler Hinsicht hätte die Emendation also einen Verlust und
+    nicht einen Gewinn an Kohärenz zur Folge. Angesichts der von Nöldeke angeführten Belegstelle aus
+    der Dichtung ist deshalb an der traditionellen Übersetzung „Fülle“ festzuhalten. Hierfür spricht
+    auch ein Vergleich von <q type="koran" versstart="108:000" versend="108:003">Q 108</q> mit den
+    eng verwandten Trostsuren <q type="koran" versstart="093:000" versend="093:011">93</q> und <q
+     type="koran" versstart="094:000" versend="094:008">94</q>: Beide Texte enthalten
+    Vergegenwärtigungen von dem Verkünder zuteil gewordenen göttlichen Gnadenerweisen (<q
+     type="koran" versstart="093:006" versend="093:008">93:6–8</q>, <q type="koran"
+     versstart="094:001" versend="094:004">94:1–4</q>), die sich jeweils nicht auf die Ausstattung
+    mit abstrakten Charaktertugenden, sondern auf die Linderung und Beseitigung konkreter Notlagen
+    und Mangelzustände beziehen. Mit <q type="koran" versstart="108:001" versend="108:001">108:1</q>
+    ist auch die Verheißung in <q type="koran" versstart="093:005" versend="093:005">93:5</q>
+    (<lang xml:lang="ar-Latn">wa-la-saufa yuʿṭīka rabbuka fa-tarḍā</lang>) zu vergleichen, in der
+    ebenfalls das Verb <lang xml:lang="ar-Latn">ʾaʿṭā</lang>, „geben“, verwendet wird, und zwar
+    offensichtlich in Bezug auf materiellen Wohlstand. Die schon in der frühen islamischen Exegese
+    anzutreffende Erklärung des Ausdrucks als Name eines der Ströme des Paradieses wertet Luxenberg
+    zu recht als spätere legendarische Ausschmückung.</p>
+  </text>
+  <text versstart="002" versend="002" verfasser="nisi">
+   <p><lem>fa-ṣalli li-rabbika wa-nḥar]</lem> Die Aufforderung, der Prophet möge sich am
+    vorislamischen mekkanischen Opferkultus beteiligen, war für islamische Exegeten anstößig genug,
+    um dem Verb <lang xml:lang="ar-Latn">naḥara</lang> hier die sicherlich konstruierte Bedeutung
+    „beim Gebet die Hand zur Kehle (<lang xml:lang="ar-Latn">naḥr</lang>) heben“ zuzuschreiben (vgl.
+     <bibl Zotero_Id_1="4G9UJJKQ">Ṭabarī, ad loc., Nr. 38191 ff.</bibl>); auch die Erklärung, der
+    Vers sei auf das islamische Opferfest zu beziehen (<bibl Zotero_Id_1="4G9UJJKQ">ebd., Nr. 38195
+     f.</bibl>), wäre für einen frühmekkanischen Text anachronistisch. Tatsächlich erscheinen
+    altarabische Riten auch in einem anderen frühmekkanischen Text als verpflichtend (<q
+     type="koran" versstart="107:004" versend="107:006">107:4–6</q>; s. den folgenden Absatz). –
+    Luxenbergs Emendation von <lang xml:lang="ar-Latn">wa-nḥar</lang> zu
+    <lang xml:lang="ar-Latn">wa-nǧar</lang> mit der analog zu syr.
+    <lang xml:lang="syc-Latn">ngar</lang> unterstellten Bedeutung „verharren“ (<bibl
+     Zotero_Id_1="6XDZERHX">Luxenberg 2000, 309</bibl>) stellt einen willkürlichen Eingriff in den
+    Text dar: <lang xml:lang="ar-Latn">Naḥara</lang> im Sinne von „opfern“ ist keineswegs ein
+    ‚dunkles’ Wort, während das von Luxenberg postulierte Verb
+    <lang xml:lang="ar-Latn">naǧara</lang> = „verharren“ weder sonst im Koran noch in der
+    altarabischen Dichtung bezeugt ist. Überdies hätte für dieselbe Bedeutung und durchaus
+    reimkonform das koranisch belegte Verb <lang xml:lang="ar-Latn">ṣabara</lang> zur Verfügung
+    gestanden, so dass für die angenommene Entlehnung von syr. <lang xml:lang="syc-Latn">ngar</lang>
+    lexikalisch keinerlei Notwendigkeit bestand.</p>
+   <p>Was das Verb <lang xml:lang="ar-Latn">ṣallā</lang> betrifft, so wird es auch in <q
+     type="koran" versstart="107:004" versend="107:006">107:4–6</q> auf die vorkoranische
+    mekkanische Kultpraxis angewendet (vgl. den <q type="kommentar" versstart="107:001"
+     versend="107:007">Kommentar zu Q 107</q>, Abschnitt <q type="literarkritik" versstart="107:000"
+     versend="107:007">Literarkritik</q>). <lang xml:lang="ar-Latn">Ṣallā</lang> ist zweifellos kein
+    genuin arabisches Wort, sondern ein Denominativum zu <lang xml:lang="ar-Latn">ṣalāt</lang> (vgl.
+     <q type="koran" versstart="107:005" versend="107:005">107:5</q> und <q type="koran"
+     versstart="070:023" versend="070:023">70:23</q>.<q type="koran" versstart="070:034"
+     versend="070:034">34</q>; <q type="koran" versstart="073:000" versend="073:020">73:20</q>, wo
+    explizit zur Verrichtung des Gebets aufgerufen wird, ist ein Einschub), das sich wiederum von
+    aram. <lang xml:lang="hbo-Latn">ṣloṯā</lang> ableitet (<bibl Zotero_Id_1="Z468GCXQ">Jeffery,
+     Foreign Vocabulary, 198 f.</bibl>; vgl. auch das Verb <lang xml:lang="ar-Latn">sabbaḥa</lang>,
+    dessen koranische Verwendung im Sinne von „loben, preisen“ ebenfalls nur durch semantische
+    Interferenz des Syrischen erklärlich ist, s. die <q type="anmerkung" versstart="087:001"
+     versend="087:001">Anmerkung zu 87:1</q>). Wie Spitaler 1998, 194, betont, dürfte die
+    unmittelbare Verbindung zum Aramäischen über den Plural <lang xml:lang="ar-Latn">ṣalawāt</lang>
+    verlaufen, der aram. <lang xml:lang="hbo-Latn">ṣlauwāṯā</lang> entspricht und aus dem dann
+    sekundär der – aramäisierend geschriebene – Singular <lang xml:lang="ar-Latn">ṣalāt</lang>
+    gebildet wurde. Da das Wort schon in der vorkoranischen Dichtung nachweisbar ist, muss die
+    Entlehnung bereits in vorkoranischer Zeit stattgefunden haben (<bibl Zotero_Id_1="Z468GCXQ"
+     >Jeffery, ebd.</bibl>). Im frühmekkanischen Koran bezeichnet das Verb
+    <lang xml:lang="ar-Latn">ṣallā</lang> außer in <q type="koran" versstart="108:002"
+     versend="108:002">108:2</q> und der Kultkritik in <q type="koran" versstart="107:004"
+     versend="107:006">107:4–6</q> noch an drei weiteren Stellen eine exemplarische Tugend (<q
+     type="koran" versstart="075:031" versend="075:031">75:31</q>:
+    <lang xml:lang="ar-Latn">fa-lā ṣaddaqa wa-lā ṣallā</lang>, <q type="koran" versstart="087:015"
+     versend="087:015">87:15</q>: <lang xml:lang="ar-Latn">wa-ḏakara sma rabbihī fa-ṣallā</lang>, <q
+     type="koran" versstart="096:010" versend="096:010">96:10</q>:
+    <lang xml:lang="ar-Latn">ʿabdan ʾiḏā ṣallā</lang>). In den Gruppen IIIa und IIIb tritt die
+    Kollektivbezeichnung <lang xml:lang="ar-Latn">al-muṣallūn</lang> auf (vgl. <q type="koran"
+     versstart="074:043" versend="074:043">74:43</q>, <q type="koran" versstart="070:022"
+     versend="070:022">70:22</q>), deren Erscheinen mit demjenigen weiterer partizipial gebildeter
+    Gruppenbezeichnung wie <lang xml:lang="ar-Latn">al-kāfirūn</lang> (s. die <q type="anmerkung"
+     versstart="084:022" versend="084:022">Anmerkung zu 84:22</q>) und
+    <lang xml:lang="ar-Latn">al-muttaqūn</lang> (s. die <q type="anmerkung" versstart="092:005"
+     versend="092:005">Anmerkung zu 92:5</q>) koinzidiert.</p>
+   <p>Zum Gottestitel <lang xml:lang="ar-Latn">rabb</lang> s. die <q type="anmerkung"
+     versstart="095:008" versend="095:008">Anmerkung zu 95:8</q>.</p>
+  </text>
+  <text versstart="003" versend="003" verfasser="nisi">
+   <p><lem>ʾinna šāniʾaka huwa l-ʾabtar]</lem> Die islamische Tradition deutet <q type="koran"
+     versstart="108:003" versend="108:003">V. 3</q> als Anspielung auf eine konkrete Begebenheit:
+    Mit dem „Hasser“ (<lang xml:lang="ar-Latn">šāniʾ</lang>) sei ein bestimmter Gegner Muḥammads –
+    von allerdings umstrittener Identität – gemeint, der Muḥammad mit der Äußerung beleidigt habe,
+    er sei <lang xml:lang="ar-Latn">ʾabtar</lang> – „gestutzt“ bzw. „schwanzlos“ – im Sinne von
+    „ohne männliche Nachkommen“ (vgl. <bibl Zotero_Id_1="RF8JH6HZ"><hi rend="italic">GdQ</hi>, Bd.
+     1, 92 f.</bibl>). Gegenüber dieser für die frühe islamische Koranexegese charakteristisch
+    anekdotischen Lesart (vgl. zur selben Problematik auch die <q type="anmerkung"
+     versstart="093:003" versend="093:003">Anmerkungen zu 93:3</q>, <q type="anmerkung"
+     versstart="093:006" versend="093:008">93:6–8</q> und <q type="anmerkung" versstart="111:002"
+     versend="111:002">111:2</q>) dürfte eine unspezifischere Deutung vorzuziehen sein, der zufolge
+    „der Ausspruch […] nicht gegen eine bestimmte Person gerichtet ist, sondern gegen jeden, der den
+    Propheten etwa hassen sollte“ (<bibl Zotero_Id_1="X9T7RF7R">Paret, Kommentar, ad loc.</bibl>).
+    Für diese Einschätzung Parets spricht auch der – von Paret nicht bemerkte – textreferentielle
+    Charakter des Verses. So hat Neuwirth (<bibl Zotero_Id_1="X6J8ZZSZ">Frühmekkanische Suren,
+     108</bibl>) auf den Anklang des Begriffs <lang xml:lang="ar-Latn">šāniʾ</lang> an psalmistische
+    Klagen über Hasser hingewiesen (s. z. B. <q type="bibel" buch="Ps" versstart="009:014"
+     versend="009:014">Psalm 9:14</q>, <q type="bibel" buch="Ps" versstart="041:008"
+     versend="041:008">41:8</q>, <q type="bibel" buch="Ps" versstart="055:013" versend="055:013"
+     >55:13</q>, <q type="bibel" buch="Ps" versstart="081:016" versend="081:016">81:16</q>, <q
+     type="bibel" buch="Ps" versstart="086:017" versend="086:017">86:17</q>, <q type="bibel"
+     buch="Ps" versstart="106:010" versend="106:010">106:10</q>, <q type="bibel" buch="Ps"
+     versstart="119:085" versend="119:085">119:85</q>, <q type="bibel" buch="Ps" versstart="139:021"
+     versend="139:021">139:21</q>). Die Gestalt des „Hassers“ begegnet allerdings auch in der
+    altarabischen Dichtung (vgl. ʿAbīd b. al-Abraṣ in <bibl Zotero_Id_1="ICC5MRZC">Jones 1996, Bd.
+     2</bibl>, 38 f.: <lang xml:lang="ar-Latn">wa-kam yaṣīran šāniʾan ḥabību</lang>, „wie oft wird
+    ein Freund zu einem Hasser!“). Schließlich hat auch die dem Hasser mit dem Wort
+    <lang xml:lang="ar-Latn">ʾabtar</lang> angedrohte Entwurzelung eine textreferentielle Dimension
+    (vgl. den von Yousef Kouriyhe identifizierten Intertext <q type="bibel" buch="Ps"
+     versstart="052:007" versend="052:007">Psalm 52:7</q>: „Darum wird Gott dich verderben für
+    immer, dich packen und herausreißen aus deinem Zelt, dich entwurzeln aus dem Land der
+    Lebenden“).</p>
+  </text>
+ </anmerkungen>
+ <kommentar>
+  <text versstart="001" versend="003" verfasser="nisi">
+   <p>Islamische Kommentatoren verstehen den Text in der Regel als Verteidigung Muḥammads gegen die
+    Beschimpfung, er sei „abgeschnitten“ (d. h. ohne männliche Nachkommen). Aus textimmanenter
+    Perspektive ist eine solche historische Konkretisierung jedoch unsicher. Die Deutung des Textes
+    sollte deshalb vor allem von der typologischen Nähe zu den beiden <q type="koran"
+     versstart="094:000" versend="094:008">Suren 94</q> und <q type="koran" versstart="097:000"
+     versend="097:005">97</q> ausgehen, die ebenfalls mit göttlicher Wir-Rede einsetzen. Wie <q
+     type="koran" versstart="093:000" versend="093:011">Q 93</q> und <q type="koran"
+     versstart="094:000" versend="094:008">94</q> ist die Sure in erster Linie ein Trostspruch. <q
+     type="koran" versstart="108:001" versend="108:001">V. 1</q> vergegenwärtigt dem Angeredeten
+    einen früheren göttlichen Gnadenakt, der ähnlich wie in <q type="koran" versstart="093:000"
+     versend="093:011">Q 93</q> und <q type="koran" versstart="094:000" versend="094:008">94</q>
+    bewusst unbestimmt gelassen wird. <q type="koran" versstart="108:002" versend="108:002">V. 2</q>
+    leitet hieraus die gottesdienstliche Verpflichtung zur Teilnahme am mekkanischen Gebets- und
+    Opferkultus ab, der folglich einer durch biblische Motive inspirierten Ausdeutung offengestanden
+    haben muss. <q type="koran" versstart="108:003" versend="108:003">V. 3</q> schließt noch eine
+    Verheißung an, welche dem Angeredeten den letztendlichen Triumph über etwaige „Hasser“
+    zusichert; die diesen angedrohte „Abgeschnittenheit“ (<lang xml:lang="ar-Latn">ʾabtar</lang>)
+    steht dabei im Gegensatz zu der dem Eingangsvers zufolge dem Verkünder zuteil gewordenen Fülle.
+    Eine historische Konkretisierung des Textes ist zu seinem Verständnis folglich keineswegs
+    erforderlich.</p>
+   <p>Die drei Trostsuren <q type="koran" versstart="093:000" versend="093:011">93</q>, <q
+     type="koran" versstart="094:000" versend="094:008">94</q> und <q type="koran"
+     versstart="108:000" versend="108:003">108</q> stellen sehr wahrscheinlich die frühesten
+    Korantexte dar, die genuine Anreden an den Verkünder enthalten; Lehrfragen in der zweiten Person
+    Singular – <lang xml:lang="ar-Latn">mā ʾadrāka …</lang> – begegnen zwar bereits in <q
+     type="koran" versstart="101:002" versend="101:002">101:2</q>.<q type="koran"
+     versstart="101:010" versend="101:010">10</q> und <q type="koran" versstart="104:005"
+     versend="104:005">104:5</q> (vgl. a. die ebenfalls in der zweiten Person Singular formulierte
+    rhetorische Frage in <q type="koran" versstart="095:007" versend="095:007">95:7</q>), doch sind
+    diese für sich genommen jeweils auch als generische Hörerbezüge verstehbar, die nicht
+    notwendigerweise den Verkünder als konkretes Individuum intendieren müssen. Wie auf andere Weise
+    auch die Offenbarungsbestätigung <q type="koran" versstart="097:000" versend="097:005">Q 97</q>
+    leisten die Trostsuren damit einen wichtigen Beitrag zur Autorisierung der bis dato vorliegenden
+    koranischen Verkündigungen: Der Verkünder erscheint als eine unmittelbaren göttlichen Zuspruchs
+    würdige Gestalt, etwaige Widerstände oder Einwände gegen die von ihm vorgetragenen Texte dagegen
+    als unbegründete Anfeindungen durch missgünstige „Hasser“ (<q type="koran" versstart="108:003"
+     versend="108:003">V. 3</q>). Schilderungen derartiger Anfeindungen sowie Bekundungen des zu
+    ihrer Bewältigung befähigenden Gottvertrauens begegnen auch in zahlreichen Psalmen (dort
+    allerdings nicht als Gottesrede, sondern im Register menschlichen Gebete), zu denen, wie
+    Angelika Neuwirth herausgearbeitet hat (<bibl Zotero_Id_1="X6J8ZZSZ">Frühmekkanische Suren,
+     78–86, 90–93, 108 f., </bibl>), die drei Trostsuren eine Reihe von terminologischen Bezügen
+    enthalten; auch in struktureller Hinsicht lassen sich durchaus psalmische Korrespondenzen finden
+    (vgl. neben den jeweils in den Anmerkungen vermerkten Psalmenanklängen insb. die
+    Gegenüberstellung des Aufbaus von <q type="koran" versstart="093:000" versend="093:011">Q 93</q>
+    und <q type="bibel" buch="Ps" versstart="013:001" versend="013:007">Psalm 13</q> im <q
+     type="aufbauinhalt" versstart="093:000" versend="093:011">Kommentar zu Q 93</q>. Muḥammad
+    werden also Züge des bedrängten psalmischen Beters verliehen, doch erhält er im Unterschied zu
+    diesem eine direkte göttliche Antwort; er wird so mit beträchtlichem religiösen Prestige
+    ausgestattet.</p>
+   <p>Eine weitere Kernaussage sowohl der drei Trostsuren als auch der früheren <q type="koran"
+     versstart="105:000" versend="105:005">Suren 105</q> und <q type="koran" versstart="106:000"
+     versend="106:004">106</q> besteht darin, dass bestimmte historische Ereignisse und Zustände –
+    die sowohl der kollektiven Lebenswirklichkeit der Mekkaner (<q type="koran" versstart="105:000"
+     versend="105:005">Q 105</q> und <q type="koran" versstart="106:000" versend="106:004">106</q>)
+    als auch der individuellen Biographie Muḥammads (<q type="koran" versstart="093:000"
+     versend="093:011">Q 93</q>, <q type="koran" versstart="094:000" versend="094:008">94</q>, <q
+     type="koran" versstart="108:000" versend="108:003">108</q>) zugehören – als Wirkungen gütiger
+    Zuwendungen Gottes lesbar gemacht werden (vgl. ausführlicher und in Auseinandersetzung mit
+    Birkeland <bibl Zotero_Id_1="7ZC7PUWI">Müller 1988</bibl>). In den genannten Suren manifestiert
+    sich damit ein Umdeutungsprozess, welcher zuvor als Sphären von Kontingenz angesehene
+    Realitätsbereiche zu Wirkungsfeldern eines personalen Akteurs transformiert. Diese
+    innerweltliche Aktivität Gottes engagiert wiederum das ethische und kultische Handeln des
+    Menschen; die göttliche Aktion verlangt eine bestimmte menschliche Reaktion. Es bietet sich an,
+    dies mit der genau umgekehrten Rollenverteilung im altarabischen Opferkult zu kontrastieren:
+    Dort ist es der Mensch, von dem durch Darbringung eines Opfers oder Vollbringung einer sonstigen
+    religiösen Handlung die Initiative ausgeht, während die Gottheit reagiert – vgl. die pointierten
+    Charakterisierungen des altarabischen Polytheismus bei <bibl Zotero_Id_1="HAWEGFU2">Ammann,
+     2001, 18 und 33</bibl>: „Kultstätten sind Wunschstätten, an denen man opfert, um Gott um etwas
+    anzurufen“; „Religion ist bei den alten Arabern kein Glaubenssystem, kein Ort der Reflexion, sie
+    ist im Grunde nicht mehr als ein käuflicher Nothelfer. Der Dichter Labīd bringt den Sachverhalt
+    auf den Punkt: ‚Ich halte die Furcht und das Lob [Gottes] für das beste und gewinnbringendste
+    Geschäft, wenn man in arge Bedrängnis gerät’.“</p>
+  </text>
+ </kommentar>
+</korankommentar>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Quran xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="Textstruktur.xsd">
+    <Sure id="103" webtauglich="true" translator="Nicolai Sinai">
+        <Hauptteil id="0">
+            <Abschnitt id="0">
+                <Gesaetz n="0">
+                    <Vers n="000">
+                        <Teilvers n="000" reim="2n/m">
+                            <Kolon lang="ar" Einschub="false" n="0">بِسۡمِ ٱللَّهِ ٱلرَّحۡمَٰنِ ٱلرَّحِيمِ</Kolon>
+                            <Kolon lang="de" Einschub="false" n="0">Im Namen Gottes, des barmherzigen Erbarmers!</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="001">
+                        <Teilvers n="001" reim="3Kr">
+                            <Kolon Einschub="false" lang="ar" n="1">وَٱلۡعَصۡرِ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="1">Beim Spätnachmittag!</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="002">
+                        <Teilvers n="002" reim="3Kr">
+                            <Kolon Einschub="false" lang="ar" n="2">إِنَّ ٱلۡإِنسَٰنَ لَفِی خُسۡرٍ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="2">Der Mensch steckt im Verlust!</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="003">
+                        <Teilvers n="003" reim="3Kr">
+                            <Kolon Einschub="true" lang="ar" n="3">إِلَّا ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ</Kolon>
+                            <Kolon Einschub="true" lang="de" n="3">Außer denen, die glauben und gute Werke tun</Kolon>
+                            <Kolon Einschub="true" lang="ar" n="4">وَتَوَاصَوۡا۟ بِٱلۡحَقِّ وَتَوَاصَوۡا۟ بِٱلصَّبۡرِ</Kolon>
+                            <Kolon Einschub="true" lang="de" n="4">und einander zur Wahrheit und Geduld anhalten.</Kolon>
+                        </Teilvers>
+                    </Vers>
+                </Gesaetz>
+            </Abschnitt>
+        </Hauptteil>
+    </Sure>
+</Quran>

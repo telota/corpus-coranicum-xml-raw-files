@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Quran xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="Textstruktur.xsd">
+    <Sure id="114" translator="Angelika Neuwirth" webtauglich="true">
+        <Hauptteil id="0">
+            <Abschnitt id="0">
+                <Gesaetz n="0">
+                    <Vers n="000">
+                        <Teilvers n="000" reim="2nVm">
+                            <Kolon lang="ar" Einschub="false" n="0">بِسۡمِ ٱللَّهِ ٱلرَّحۡمَٰنِ ٱلرَّحِيمِ</Kolon>
+                            <Kolon lang="de" Einschub="false" n="0">Im Namen Gottes, des barmherzigen Erbarmers!</Kolon>
+                        </Teilvers>
+                    </Vers>
+                </Gesaetz>
+                <Gesaetz n="1">
+                    <Vers n="001">
+                        <Teilvers n="001" reim="">
+                            <Kolon Einschub="false" lang="ar" n="1">قُلۡ أَعُوذُ بِرَبِّ ٱلنَّاسِ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="1">Sprich: «Ich nehme meine Zuflucht zum Herrn der Menschen,</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="002">
+                        <Teilvers n="002" reim="">
+                            <Kolon Einschub="false" lang="ar" n="2">مَلِكِ ٱلنَّاسِ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="2">dem König der Menschen,</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="003">
+                        <Teilvers n="003" reim="">
+                            <Kolon Einschub="false" lang="ar" n="3">إِلَٰهِ ٱلنَّاسِ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="3">dem Gott der Menschen,</Kolon>
+                        </Teilvers>
+                    </Vers>
+                </Gesaetz>
+                <Gesaetz n="2">
+                    <Vers n="004">
+                        <Teilvers n="004" reim="">
+                            <Kolon Einschub="false" lang="ar" n="4">مِن شَرِّ ٱلۡوَسۡوَاسِ ٱلۡخَنَّاسِ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="4">vor dem Übel des Einflüsterers, des Verleumders,</Kolon>
+                        </Teilvers>
+                    </Vers>
+                </Gesaetz>
+                <Gesaetz n="3">
+                    <Vers n="005">
+                        <Teilvers n="005" reim="">
+                            <Kolon Einschub="false" lang="ar" n="5">ٱلَّذِی يُوَسۡوِسُ فِی صُدُورِ ٱلنَّاسِ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="5">der einflüstert in die Herzen der Menschen —</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="006">
+                        <Teilvers n="006" reim="">
+                            <Kolon Einschub="false" lang="ar" n="6">مِنَ ٱلۡجِنَّةِ وَٱلنَّاسِ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="6">sei er von den Dämonen oder den Menschen.«</Kolon>
+                        </Teilvers>
+                    </Vers>
+                </Gesaetz>
+            </Abschnitt>
+        </Hauptteil>
+    </Sure>
+</Quran>

@@ -1,0 +1,563 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<korankommentar xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:noNamespaceSchemaLocation="Kommentar.xsd">
+ <sure id="101" webtauglich="true"/>
+ <surentitel>
+  <text versstart="000" versend="011" verfasser="tjj">
+   <p>Sure 101 — <lang xml:lang="ar-Latn">al-Qāriʿa</lang> — »Die Erschütternde«</p>
+  </text>
+ </surentitel>
+ <autorenkurz>
+  <text versstart="000" versend="011" verfasser="tjj">
+   <p>Übersetzt und analysiert von Nicolai Sinai</p>
+  </text>
+ </autorenkurz>
+ <datierungkurz>
+  <text versstart="000" versend="011" verfasser="nisi">
+   <p>Mekka I (Gruppe I)</p>
+  </text>
+ </datierungkurz>
+ <datierung>
+  <text versstart="000" versend="011" verfasser="nisi">
+   <p>Die Sure gehört eng mit <q type="koran" versstart="099:000" versend="099:008">Q 99</q> und <q
+     type="koran" versstart="100:000" versend="100:011">100</q> zusammen, die ebenfalls kurze
+    Schilderungen des Jüngsten Tages darstellen (vgl. im Unterschied dazu etwa die bereits
+    zweiteiligen Suren <q type="koran" versstart="081:000" versend="081:029">81</q> und <q
+     type="koran" versstart="082:000" versend="082:019">82</q>). Inhaltlich lassen sich <q
+     type="koran" versstart="099:000" versend="099:008">Q 99</q> bis <q type="koran"
+     versstart="101:000" versend="101:011">101</q> als Entfaltungen der schon in den kurzen Droh-
+    und Scheltworten <q type="koran" versstart="095:000" versend="095:008">Q 95</q>, <q type="koran"
+     versstart="102:000" versend="102:008">102</q>, <q type="koran" versstart="103:000"
+     versend="103:003">103</q>, <q type="koran" versstart="104:000" versend="104:009">104</q>, <q
+     type="koran" versstart="107:000" versend="107:007">107</q> und <q type="koran"
+     versstart="111:000" versend="111:005">111</q> angerissenen Thematik des Jüngsten Gerichts
+    verstehen und sind damit Gruppe I zuzuordnen. Für eine etwas spätere Entstehung als die
+    genannten Suren spricht vor allem die Tatsache, dass sich <q type="koran" versstart="099:000"
+     versend="099:008">Q 99</q>, <q type="koran" versstart="100:000" versend="100:011">100</q> und
+     <q type="koran" versstart="101:000" versend="101:011">101</q> nicht nur in Versgruppen, sondern
+    bereits in sehr kurze Gesätze gliedern lassen. Die beiden in <q type="koran" versstart="101:000"
+     versend="101:011">Q 101</q> (wie auch in <q type="koran" versstart="099:000" versend="099:008"
+     >Q 99</q>) nur relativ knapp angerissenen Motive einer eschatologischen Desintegration der
+    diesseitigen Weltordnung und einer anschließenden Scheidung von Guten und Bösen werden in den
+    wohl späteren <q type="koran" versstart="081:000" versend="081:029">Suren 81</q>, <q
+     type="koran" versstart="082:000" versend="082:019">82</q> und <q type="koran"
+     versstart="092:000" versend="092:021">92</q> dann ausführlicher durchgeführt (s. u. den <q
+     type="kommentar" versstart="101:004" versend="101:009">Kommentar zu V. 4–9</q>).</p>
+   <p>Interessant ist ein Vergleich der durchschnittlichen Verslänge von <q type="koran"
+     versstart="099:000" versend="099:008">Q 99</q> (12,6 Silben), <q type="koran"
+     versstart="100:000" versend="100:011">100</q> (10 Silben) und <q type="koran"
+     versstart="101:000" versend="101:011">101</q> (8,45 Silben), deren Schwankungsbreite mehr als 4
+    Silben beträgt; gemessen an anderen Suren aus Gruppe I vergleichsweise lange Verse weist auch
+    die sicherlich sehr frühe <q type="koran" versstart="105:000" versend="105:005">Sure 105</q> auf
+    (im Durchschnitt 12 Silben). Diese für andere frühmekkanischen Surengruppen eher ungewöhnliche
+    Schwankungsbreite ist aber in erster Linie mit der Kürze der betreffenden Suren zu erklären:
+    Signifikant längere Verse als der Surendurchschnitt begegnen in allen Untergruppen der
+    frühmekkanischen Periode, fallen aber bei längeren Texten nicht annähernd so stark ins
+    Gewicht.</p>
+  </text>
+ </datierung>
+ <literarkritikkurz>
+  <text versstart="000" versend="011" verfasser="nisi">
+   <p>Keine Einschübe</p>
+  </text>
+ </literarkritikkurz>
+ <literarkritik>
+  <text versstart="000" versend="011" verfasser="nisi">
+   <p>Versteht man <q type="koran" versstart="101:009" versend="101:009">V. 9</q>
+    (<lang xml:lang="ar-Latn">fa-ʾummuhū hāwiya</lang>) mit Fischer als idiomatischen „Euphemismus
+    für einfaches <lang xml:lang="ar-Latn">halaka</lang> ‚der geht zu Grunde’“ (s. u.), so wird der
+    inhaltliche Zusammenhang zwischen <q type="koran" versstart="101:009" versend="101:009">V. 9</q>
+    und der daran anknüpfenden Lehrfrage <q type="koran" versstart="101:010" versend="101:011">V.
+     10.11</q> problematisch: Denn es erschließt sich dann nicht mehr ohne Weiteres, inwiefern einer
+    der beiden grammatisch in Frage kommenden Anknüpfungspunkte für die mit dem weiblichen
+    Personalpronomen (<lang xml:lang="ar-Latn">hiya</lang>) formulierte Lehrfrage – entweder
+    <lang xml:lang="ar-Latn">ʾumm</lang> oder <lang xml:lang="ar-Latn">hāwiya</lang> – als „heißes
+    Feuer“ paraphrasiert werden könnte. Fischer zieht daraus die Konsequenz, dass es sich bei <q
+     type="koran" versstart="101:010" versend="101:010">V. 10</q> und <q type="koran"
+     versstart="101:011" versend="101:011">11</q> um eine spätere Hinzufügung handeln müsse: Weil
+    man über die Bedeutung von <lang xml:lang="ar-Latn">fa-ʾummuhū hāwiya</lang> im Unklaren gewesen
+    sei, jedoch erkannt habe, dass der Vers dem Sünder die ewige Verdammnis androht, habe ein
+    anonymer „Qorān-Kenner“ die <q type="koran" versstart="101:010" versend="101:010">Verse 10</q>
+    und <q type="koran" versstart="101:011" versend="101:011">11</q> angefügt, „um damit auch dem
+    blödesten Auge oder Ohre die Beziehung von Vers (6) [in der Flügel-Zählung] auf die Höllenstrafe
+    klar zu machen“ (<bibl Zotero_Id_1="BXKIFVJZ" Titel_1="Eine Qorān-Interpolation">Fischer 1906,
+     53</bibl>).</p>
+   <p>Fischers Hypothese steht jedoch in verschiedener Hinsicht auf schwachen Beinen. Zum einen ist
+    die idiomatische Deutung des Verses keineswegs alternativlos; die topologische Gleichsetzung der
+    <lang xml:lang="ar-Latn">hāwiya</lang> mit dem Feuer der Hölle kann, wie weiter unten
+    ausgeführt, auch sprachlich plausibilisiert werden, wenn man die in den arabischen Lexika
+    belegte Synonymie <lang xml:lang="ar-Latn">hāwiya</lang> =
+    <lang xml:lang="ar-Latn">mahwāt</lang> bzw. <lang xml:lang="ar-Latn">huwwa</lang> beachtet (s.
+    u.). Und selbst wenn <q type="koran" versstart="101:009" versend="101:009">V. 9</q> wirklich auf
+    die Wendung <lang xml:lang="ar-Latn">hawat ʾummuhū</lang> anspielt, so könnte der Vers doch
+    immerhin eine idiomatisch-topologische Doppelbedeutung haben. <q type="koran"
+     versstart="101:010" versend="101:010">V. 10</q> würde dann das zunächst von den Hörern
+    mitassoziierte idiomatische Verständnis von <lang xml:lang="ar-Latn">hāwiya</lang> als
+    partizipialer Umschreibung von <lang xml:lang="ar-Latn">hawā</lang> aufbrechen, indem es den
+    Ausdruck mit dem „heißen Feuer“ der Hölle gleichsetzt.</p>
+  </text>
+ </literarkritik>
+ <aufbauinhalt>
+  <text versstart="000" versend="011" verfasser="nisi">
+   <p>Die monothematische Sure gehört zur Gruppe der kürzeren eschatologischen Bilder (<q
+     type="koran" versstart="099:000" versend="099:008">Q 99</q>, <q type="koran"
+     versstart="100:000" versend="100:011">100</q>, <q type="koran" versstart="101:000"
+     versend="101:011">101</q>, <q type="koran" versstart="111:000" versend="111:005">111</q>), die
+    bestimmte Elemente des Jüngsten Gerichts und/oder der anschließenden Bestrafung der Verdammten
+    ausmalen und insofern die jenseitigen Konsequenzen der in den Gerichtsansagen <q type="koran"
+     versstart="095:000" versend="095:008">Q 95</q>, <q type="koran" versstart="102:000"
+     versend="102:008">102</q>, <q type="koran" versstart="103:000" versend="103:003">103</q>, <q
+     type="koran" versstart="104:000" versend="104:009">104</q>, und <q type="koran"
+     versstart="107:000" versend="107:007">107</q> konstatierten Störung des
+    Gott-Mensch-Verhältnisses entfalten. Strukturell handelt es sich bei <q type="koran"
+     versstart="101:000" versend="101:011">Q 101</q> um einen eschatologischen Temporalsatz mit
+    Nachsatz (<q type="koran" versstart="101:004" versend="101:009">V. 4–9</q>), dem eine
+    einleitende Lehrfrage (mit ihr vorbauendem Ausruf) voran- und eine zweite Lehrfrage nachgestellt
+    ist. Die zweite, sich an die mehrdeutige <lang xml:lang="ar-Latn">hāwiya-Aussage</lang> in <q
+     type="koran" versstart="101:009" versend="101:009">V. 9</q> anschließende Lehrfrage <q
+     type="koran" versstart="101:010" versend="101:011">V. 10.11</q> tritt insbesondere aufgrund des
+    parallelistischen Aufbaus der vorangehenden Verse (Entsprechung zwischen <q type="koran"
+     versstart="101:004" versend="101:004">V. 4</q> und <q type="koran" versstart="101:005"
+     versend="101:005">5</q> sowie zwischen <q type="koran" versstart="101:006" versend="101:007">V.
+     6.7</q> und <q type="koran" versstart="101:008" versend="101:009">8.9</q>) hervor (vgl. <bibl
+     Zotero_Id_1="X6J8ZZSZ" Titel_1="Frühmekkanische Suren poetische Prophetie">Neuwirth,
+     Frühmekkanische Suren, 184</bibl>). Obwohl die Sure gemessen an ihrer Kürze eine relativ hohe
+    Anzahl von Reimwechseln enthält, zieht sich das Schema <hi rend="italic">āKiʿah</hi> (<q
+     type="koran" versstart="101:001" versend="101:003">V. 1–3</q>) bzw. <hi rend="italic"
+     >āKiyah</hi> (<q type="koran" versstart="101:007" versend="101:007">V. 7</q>.<q type="koran"
+     versstart="101:009" versend="101:011">9–11</q>) durch den gesamten Text und bindet so den im
+    Zentrum stehenden Temporalsatz mit den von außen angelagerten Lehrfragen zu einer straffen
+    Komposition zusammen. Im Mittelpunkt steht das Doppelmotiv einer eschatologischen Desintegration
+    und moralisch bestimmten Neuordnung der Welt, das <q type="koran" versstart="101:000"
+     versend="101:011">Q 101</q> mit der in etwa zeitgleich verkündeten <q type="koran"
+     versstart="099:000" versend="099:008">Sure 99</q> teilt; zu einem späteren Zeitpunkt werden die
+    beiden Themen eingehender und rhetorisch noch eindrucksvoller in den
+    <lang xml:lang="ar-Latn">ʾiḏā</lang>-Serien zu Beginn von <q type="koran" versstart="081:000"
+     versend="081:029">Q 81</q> und <q type="koran" versstart="082:000" versend="082:019">82</q> und
+    den beiden Antithesen in <q type="koran" versstart="092:000" versend="092:021">Q 92</q> (<q
+     type="koran" versstart="092:005" versend="092:011">V. 5–11</q> und <q type="koran"
+     versstart="092:014" versend="092:021">V. 14–21</q>) verhandelt.</p>
+   <p>Die oben vorgeschlagene Gliederung des Textes deckt sich partiell mit derjenigen Michel
+    Cuypers, der in der Sure eine Spiegelbildstruktur des Schemas A (<q type="koran"
+     versstart="101:001" versend="101:001">V. 1</q>), B (<q type="koran" versstart="101:002"
+     versend="101:003">V. 2.3</q>), C (<q type="koran" versstart="101:004" versend="101:005">V.
+     4.5</q>), C’ (<q type="koran" versstart="101:006" versend="101:009">V. 6–9</q>), B’ (<q
+     type="koran" versstart="101:010" versend="101:010">V. 10</q>), A’ (<q type="koran"
+     versstart="101:011" versend="101:011">V. 11</q>) erblickt, wobei er hier im Gegensatz zu
+    anderen Texten keinen Scharniervers identifiziert (<bibl Zotero_Id_1="TWPKV5E5"
+     Titel_1="Structures rhétoriques des sourates 99 à 104">Cuypers 1999, 41 ff.</bibl>).
+    Insbesondere zwischen den umfangreichsten Segmente <q type="koran" versstart="101:004"
+     versend="101:005">V. 4.5</q> und <q type="koran" versstart="101:006" versend="101:009">V.
+     6–9</q> bestehen jedoch – abgesehen von der Tatsache, dass sie sich intern jeweils in zwei
+    parallele bzw. antithetische Hälften gliedern – keinerlei Korrespondenzen, welche die Verwendung
+    der Bezeichnungen „C“ und „C’“ rechtfertigen würden.</p>
+  </text>
+ </aufbauinhalt>
+ <ueberblick>
+  <text versstart="000" versend="011" verfasser="tjj">
+   <p>
+    <table cols="2" rend="boxed" rows="4">
+     <head/>
+     <row>
+      <cell>
+       <hi rend="superscript"><q type="koran" versstart="101:001" versend="101:003">1–3</q></hi>
+       <hi rend="italic">āKiʿah</hi>
+      </cell>
+      <cell>
+       <hi rend="bold">1</hi>
+       <hi rend="superscript"><q type="koran" versstart="101:001" versend="101:003">1–3</q></hi>
+       Ausruf und Lehrfrage</cell>
+     </row>
+     <row>
+      <cell>
+       <hi rend="superscript"><q type="koran" versstart="101:004" versend="101:005">4.5</q></hi>
+       <hi rend="italic">3K(K)2K</hi> mit Spiranten</cell>
+      <cell>
+       <hi rend="bold">2</hi>
+       <hi rend="superscript"><q type="koran" versstart="101:004" versend="101:005">4.5</q></hi>
+       Antwort: eschatologischer Temporalsatz
+       (<lang xml:lang="ar-Latn">yauma</lang>-Vordersatz)</cell>
+     </row>
+     <row>
+      <cell>
+       <hi rend="superscript"><q type="koran" versstart="101:006" versend="101:008"
+         omitstart="101:007" omitend="101:007">6.8</q></hi>
+       <hi rend="italic">īnuh</hi>, <hi rend="superscript"><q type="koran" versstart="101:007"
+         versend="101:009" omitstart="101:008" omitend="101:008">7.9</q></hi>
+       <hi rend="italic">āKiyah</hi>
+      </cell>
+      <cell>
+       <hi rend="bold">3</hi>
+       <hi rend="superscript"><q type="koran" versstart="101:006" versend="101:009">6–9</q></hi>
+       eschatologischer Nachsatz: Antithese mit Verheißung (<q type="koran" versstart="101:006"
+        versend="101:007">V. 6.7</q>) und Drohwort (<q type="koran" versstart="101:008"
+        versend="101:009">V. 8.9</q>)</cell>
+     </row>
+     <row>
+      <cell>
+       <hi rend="superscript"><q type="koran" versstart="101:010" versend="101:011">10.11</q></hi>
+       <hi rend="italic">āKiyah</hi>
+      </cell>
+      <cell>
+       <hi rend="bold">4</hi>
+       <hi rend="superscript"><q type="koran" versstart="101:010" versend="101:011">10.11</q></hi>
+       erneute Lehrfrage (an <q type="koran" versstart="101:009" versend="101:009">V. 9</q>
+       anknüpfend) und Antwort</cell>
+     </row>
+    </table>
+   </p>
+   <p>Proportionen: 3+2+4+2.</p>
+  </text>
+ </ueberblick>
+ <anmerkungen>
+  <text versstart="000" versend="000" verfasser="nisi">
+   <p><lem>bi-smi llāhi r-raḥmāni r-raḥīm]</lem> Zur Basmala s. die entsprechende <q
+     type="anmerkung" versstart="093:000" versend="093:000">Anmerkung zu 93</q>; zum Gottesnamen
+    <lang xml:lang="ar-Latn">raḥmān</lang> s. die <q type="anmerkung" versstart="055:001"
+     versend="055:001">Anmerkung zu 55:1</q>.</p>
+  </text>
+  <text versstart="001" versend="003" verfasser="nisi">
+   <p>Vgl. die Einleitung der ebenfalls frühmekkanischen, jedoch später als <q type="koran"
+     versstart="101:000" versend="101:011">Q 101</q> anzusetzenden <q type="koran"
+     versstart="069:000" versend="069:052">Sure 69</q>.</p>
+   <p><lem>al-qāriʿah]</lem> Wörtlich: „die Schlagende“; vgl. noch <q type="koran"
+     versstart="069:004" versend="069:004">69:4</q>
+    (<lang xml:lang="ar-Latn">kaḏḏabat ṯamūdu wa-ʿādun bi-l-qāriʿah</lang>). Enigmatische
+    Bezeichnunge des Weltendes durch aktive Femininpartizipien begegnen auch in weiteren
+    frühmekkanischen Texten, s. <q type="koran" versstart="088:001" versend="088:001">88:1</q>
+    (<lang xml:lang="ar-Latn">al-ġāšiya</lang>), <q type="koran" versstart="080:033"
+     versend="080:033">80:33</q> (<lang xml:lang="ar-Latn">aṣ-ṣāḫḫa</lang>), <q type="koran"
+     versstart="079:034" versend="079:034">79:34</q>
+    (<lang xml:lang="ar-Latn">aṭ-ṭāmmatu l-kubrā</lang>), <q type="koran" versstart="069:001"
+     versend="069:003">69:1–3</q> (<lang xml:lang="ar-Latn">al-ḥāqqa</lang>), <q type="koran"
+     versstart="069:005" versend="069:005">69:5</q> (<lang xml:lang="ar-Latn">aṭ-ṭāġiya</lang>), <q
+     type="koran" versstart="069:015" versend="069:015">69:15</q>
+    (<lang xml:lang="ar-Latn">al-wāqiʿa</lang>), <q type="koran" versstart="056:001"
+     versend="056:001">56:1</q> (ebenfalls <lang xml:lang="ar-Latn">al-wāqiʿa</lang>) und <q
+     type="koran" versstart="053:057" versend="053:057">53:57</q>
+    (<lang xml:lang="ar-Latn">al-ʾāzifa</lang>). Solche metonymischen Umschreibungen eines
+    Substantivs durch ein Adjektiv stellen allgemein ein Charakteristikum der altarabischen Dichtung
+    dar (vgl. <bibl Zotero_Id_1="MXSTI6S9"
+     Titel_1="Altarabische Dichtkunst eine Untersuchung ihrer Struktur und Entwicklung am Be">Bauer
+     1992, 172–180</bibl>); vgl. etwa <lang xml:lang="ar-Latn">ʾabyaḍu ʾiṣlītun</lang> („ein
+    scharfes Weißes“) für „Schwert“ (<lang xml:lang="ar-Latn">aš-Šanfarā</lang>,
+    <lang xml:lang="ar-Latn">Lāmiyyat al-ʿarab</lang>, V. 11; s. <bibl Zotero_Id_1="7XTQ4U56"
+     Titel_1="Early Arabic Poetry Marāthī and ṣulūk poems">Jones 1982, 48</bibl>). Der Koran bedient
+    sich an den genannten Stellen also eines poetisch konnotierten Stilmittels, das jedoch gezielt
+    als Mittel der Enigmatisierung und damit rhetorischen Betonung des Weltendes refunktionalisiert
+    wird. Im Vergleich mit den vier frühmekkanischen
+    <lang xml:lang="ar-Latn">fāʿilāt</lang>-Schwurserien <q type="koran" versstart="100:001"
+     versend="100:005">Q 100:1–5</q> (wie die vorliegende Sure Gruppe I), <q type="koran"
+     versstart="079:001" versend="079:005">79:1–5</q>, <q type="koran" versstart="077:001"
+     versend="077:005">Q 77:1–5</q> und <q type="koran" versstart="051:001" versend="051:004"
+     >51:1–4</q>, die das hereinbrechende Weltende durch prototypische Gegenwartserfahrungen
+    (Reiterangriff und Sturm) präfigurieren, fällt auf, dass auch dort die Form des aktiven
+    Partizips femininum zur Bezeichnung der endzeitlichen Katastrophe dient (s. insb. die <q
+     type="anmerkung" versstart="100:001" versend="100:005">Anmerkungen zu 100:1–5</q> und <q
+     type="anmerkung" versstart="079:001" versend="079:005">79:1–5</q>). Das morphologisches Schema
+    <lang xml:lang="ar-Latn">fāʿila</lang> wird so innerhalb der frühmekkanischen Korantexte mit
+    präzisen semantischen Konnotationen aufgeladen.</p>
+  </text>
+  <text versstart="001" versend="001" verfasser="nisi">
+   <p>Nur die kufische Zählung setzt nach <lang xml:lang="ar-Latn">al-qāriʿah</lang> einen
+    Versschluss (<bibl Zotero_Id_1="WCNUUFAC"
+     Titel_1="Die Verszählung des Koran nach islamischer Überlieferung">Spitaler, Verszählung,
+     72</bibl>). Für diese Abteilung spricht, dass andere frühe Suren ebenfalls einen ersten kurzen
+    Vers mit dann zunehmender Verslänge enthalten (<bibl Zotero_Id_1="4WEWN8NZ"
+     Titel_1="Studien zur Komposition der mekkanischen Suren">Neuwirth, Studien, 35</bibl>).
+    Insbesondere ist die parallele Eröffnung von <q type="koran" versstart="069:000"
+     versend="069:052">Q 69</q> zu vergleichen, s. aber auch <q type="koran" versstart="052:000"
+     versend="052:049">Q 52</q>, <q type="koran" versstart="055:000" versend="055:078">55</q>, <q
+     type="koran" versstart="083:000" versend="083:036">83</q>, <q type="koran" versstart="089:000"
+     versend="089:030">89</q>, <q type="koran" versstart="093:000" versend="093:011">93</q>, <q
+     type="koran" versstart="095:000" versend="095:008">95</q> (vgl. <q type="kommentar"
+     versstart="095:000" versend="095:008">Kommentar</q>), <q type="koran" versstart="103:000"
+     versend="103:003">103</q> sowie <q type="koran" versstart="106:000" versend="106:004"
+    >106</q>.</p>
+  </text>
+  <text versstart="004" versend="005" verfasser="nisi">
+   <p><lem>yauma yakūnu n-nāsu ka-l farāši l-mabṯūṯ / wa-takūnu l-ǧibālu ka-l-ʿihni l-manfūš]</lem>
+    Vgl. <q type="koran" versstart="070:008" versend="070:010">70:8–10</q>
+    (<lang xml:lang="ar-Latn">yauma takūnu s-samāʾu ka-l-muhl / wa-takūnu l-ǧibālu ka-l-ʿihn / wa-lā yasʾalu ḥamīmun ḥamīmā</lang>).
+    Eine endzeitliche Desintegration insbesondere von Bergformationen wird frühmekkanisch noch in <q
+     type="koran" versstart="052:010" versend="052:010">52:10</q>, <q type="koran"
+     versstart="056:005" versend="056:005">56:5</q>, <q type="koran" versstart="069:014"
+     versend="069:014">69:14</q>, <q type="koran" versstart="073:014" versend="073:014">73:14</q>,
+     <q type="koran" versstart="077:010" versend="077:010">77:10</q>, <q type="koran"
+     versstart="078:020" versend="078:020">78:20</q> und <q type="koran" versstart="081:003"
+     versend="081:003">81:3</q> heraufbeschworen. Sie gehört zum Standardinventar biblischer und
+    nachbiblischer Schilderung des Weltendes, vgl. die <q type="anmerkung" versstart="081:003"
+     versend="081:003">Anmerkung zu 81:3</q>. Zugleich hängt die Rolle von Bergen in koranischen
+    Endzeitbeschreibungen sicher damit zusammen, dass die Berge auch in koranischen Aufzählungen der
+    göttlichen Schöpfungswerke (sog. <lang xml:lang="ar-Latn">ʾāyāt</lang>-Passagen) erscheinen, wo
+    sie als Garanten von Festigkeit und Stabilität fungieren (s. <q type="koran" versstart="078:006"
+     versend="078:008">78:6–8</q>:
+    <lang xml:lang="ar-Latn">ʾa-lam naǧʿali l-ʾarḍa mihāda / wa-l-ǧibāla ʾautāda / wa-ḫalaqnākum ʾazwāǧa</lang>;
+    vgl. a. <q type="koran" versstart="079:032" versend="079:032">79:32</q>, <q type="koran"
+     versstart="088:019" versend="088:019">88:19</q>). Eine vergleichbare Wertung der Berge ist, wie
+    Angelika Neuwirth hervorgehoben hat (<bibl Zotero_Id_1="X6J8ZZSZ"
+     Titel_1="Frühmekkanische Suren poetische Prophetie">Neuwirth, Frühmekkanische Suren,
+    181</bibl>), auch altarabisch bezeugt, nämlich im Eröffnungsvers eines Trauergedichts von Labīd
+    auf seinen Bruder Arbad (<lang xml:lang="ar-Latn">tabqă l-ǧibālu baʿdanā wa-l-maṣāniʿu</lang>,
+    „nach uns bleiben die Berge und die Burgen“, vgl. <bibl Zotero_Id_1="7XTQ4U56"
+     Titel_1="Early Arabic Poetry Marāthī and ṣulūk poems">Jones 1982, 81</bibl>). – Zur Erwähnung
+    von zerzauster Wolle (<lang xml:lang="ar-Latn">ʿihn</lang>) s. <bibl Zotero_Id_1="X6J8ZZSZ"
+     Titel_1="Frühmekkanische Suren poetische Prophetie">Neuwirth, Frühmekkanische Suren,
+    180</bibl>, die auf eine Überschneidung mit dem Anfangsteil der Muʿallaqa des Zuhair verweist:
+    Nach dem Aufbruch der Geliebten mit ihrer Karawane bleiben Wollflocken
+    (<lang xml:lang="ar-Latn">futāt al-ʿihn</lang>) am Boden zurück (<bibl Zotero_Id_1="AFDB8IG7"
+     Titel_1="Six early Arab poets. New Edition and Concordance">Arazi / Masalha 1999, 57, Nr.
+     94:16</bibl>).</p>
+   <p><hi rend="italic">Textkritik</hi>: Überliefert wird auch die Lesung
+    <lang xml:lang="ar-Latn">yaumu …</lang> (<bibl Zotero_Id_1="KVFTU3XN"
+     Titel_1="Muʿǧam al-qirāʾāt">Muʿǧam, ad loc.</bibl>). <q type="koran" versstart="101:004"
+     versend="101:005">V. 4.5</q> wären dann nicht als Vordersatz zu <q type="koran"
+     versstart="101:006" versend="101:009">V. 6–9</q> zu verstehen, sondern als vom Folgenden
+    unabhängiges Prädikat zu einem ungenannten Subjekt: „[Das ist] der Tag, an dem die Menschen wie
+    auffliegende Motten sein werden …“</p>
+  </text>
+  <text versstart="006" versend="009" verfasser="nisi">
+   <p><hi rend="italic">Grammatik</hi>: Die Antithese ist syntaktisch am ehesten als Nachsatz zu <q
+     type="koran" versstart="101:004" versend="101:005">V. 4.5</q> zu konstruieren.</p>
+   <p><hi rend="italic">Versabteilung</hi>: Baṣra und Damaskus ziehen <q type="koran"
+     versstart="101:006" versend="101:006">V. 6</q> und <q type="koran" versstart="101:008"
+     versend="101:008">V. 8</q> mit dem jeweils folgenden Vers zusammen (<bibl
+     Zotero_Id_1="WCNUUFAC" Titel_1="Die Verszählung des Koran nach islamischer Überlieferung"
+     >Spitaler, Verszählung, 72</bibl>). Durch diese Zählweise wird zwar ein Kreuzreim vermieden,
+    jedoch ergeben sich unverhältnismäßig lange Verse. Kreuzreime, obzwar selten, kommen im Übrigen
+    durchaus vor, vgl. <q type="koran" versstart="089:015" versend="089:016">89:15.16</q> und <q
+     type="koran" versstart="092:005" versend="092:010">92:5–10</q> (evtl. a. <q type="koran"
+     versstart="069:019" versend="069:019">69:19</q>.<q type="koran" versstart="069:025"
+     versend="069:025">25</q>), wo sie in mit <q type="koran" versstart="101:000" versend="101:011"
+     >Q 101</q> vergleichbaren Gegenüberstellungen von Bösen und Guten stehen (<bibl
+     Zotero_Id_1="4WEWN8NZ" Titel_1="Studien zur Komposition der mekkanischen Suren">Neuwirth,
+     Studien, 35</bibl>).</p>
+  </text>
+  <text versstart="007" versend="007" verfasser="nisi">
+   <p><lem>fa-huwa fī ʿīšatin rāḍiyah]</lem> Vgl. <q type="koran" versstart="069:021"
+     versend="069:021">69:21</q> (dieselbe Formulierung wie im vorliegenden Vers) sowie <q
+     type="koran" versstart="088:009" versend="088:009">88:9</q>
+    (<lang xml:lang="ar-Latn">li-saʿyihā rāḍiyah</lang>). Weitere frühmekkanische Vorkommnisse der
+    Wurzel <lang xml:lang="ar-Latn">r-ḍ-y</lang> sind <q type="koran" versstart="093:005"
+     versend="093:005">93:5</q>
+    (<lang xml:lang="ar-Latn">wa-la-saufa yuʿṭīka rabbuka fa-tarḍā</lang>), <q type="koran"
+     versstart="092:021" versend="092:021">92:21</q>
+    (<lang xml:lang="ar-Latn">wa-la-saufa yarḍā</lang>), <q type="koran" versstart="089:028"
+     versend="089:028">89:28</q>
+    (<lang xml:lang="ar-Latn">irǧiʿī ʾilā rabbiki rāḍiyatan marḍīyah</lang>) und <q type="koran"
+     versstart="053:026" versend="053:026">53:26</q>
+    (<lang xml:lang="ar-Latn">ʾillā min baʿdi ʾan yaʾḏana llāhu li-man yašāʾu wa-yarḍā</lang>). Die
+    Wurzel ist offenbar durchgängig eschatologisch konnotiert.</p>
+  </text>
+  <text versstart="009" versend="009" verfasser="nisi">
+   <p><lem>fa-ʾummuhū hāwiyah]</lem> Für den Vers existieren zwei hauptsächliche
+    Deutungsalternativen (zu weiteren Interpretationen s. u.):</p>
+   <p>1) Idiomatisch: „Seine Mutter stürzt“ = „Seine Mutter möge dem Fall preisgegeben sein“ – „eine
+    Art Euphemismus für einfaches <lang xml:lang="ar-Latn">halaka</lang> ‚der geht zu Grunde’“ (so
+     <bibl Zotero_Id_1="BXKIFVJZ" Titel_1="Eine Qorān-Interpolation">Fischer 1906, 41</bibl>).</p>
+   <p>2) Topologisch: „Seine Mutter ist ein Schlund, Abgrund“, wobei
+    <lang xml:lang="ar-Latn">hāwiya</lang> ein Synonym für <lang xml:lang="ar-Latn">mahwā</lang>
+    bzw. <lang xml:lang="ar-Latn">mahwāt</lang>, „Schlucht“, oder
+    <lang xml:lang="ar-Latn">huwwa</lang>, „Abgrund“, wäre und die Hölle bezeichnen würde; als
+    Belege für diese zweite Deutung s. insb. <bibl Zotero_Id_1="ZICMNGDD"
+     Titel_1="Kitāb Tāǧ al-luġa wa-ṣiḥāḥ al-ʿarabīya">al-Ǧauharī, Tāǧ al-luġa wa-ṣiḥāḥ al-ʿarabiyya,
+     s. v. <hi rend="italic">h-w-y</hi></bibl>:
+    <lang xml:lang="ar-Latn">wa-l-mahwā wa-l-mahwātu: mā baina l-ǧabalaini wa-naḥwu ḏālika</lang>
+    (die Synonymie von <lang xml:lang="ar-Latn">hāwiya</lang> für
+    <lang xml:lang="ar-Latn">mahwā</lang> wird im Folgenden dann nicht nur ausdrücklich
+    festgehalten, sondern auch noch durch einen Vers belegt), sowie <bibl Zotero_Id_1="PEEF36TT"
+     Titel_1="Lisān al-ʿarab">Lisān, s. v. <hi rend="italic">h-w-y</hi></bibl>.</p>
+   <p>Zugunsten der von August Fischer präferierten Deutung des Verses im Sinne des Idioms
+    <lang xml:lang="ar-Latn">hawat ʾummuhū</lang> spricht, dass diese Wendung nicht den Eindruck
+    einer koranexegetischen Konstruktion erweckt, obwohl sie auch in den wichtigsten Wörterbüchern
+    stets im Zusammenhang mit dem Koranvers angeführt wird; immerhin zitieren die Kommentare und
+    Lexika jedoch einen Belegvers aus der Dichtung. Gegen eine <hi rend="italic">ausschließlich</hi>
+    idiomatische Interpretation des Verses steht jedoch der Umstand, dass
+    <lang xml:lang="ar-Latn">hāwiya</lang> – sofern das Wort als partizipiale Umschreibung von
+    <lang xml:lang="ar-Latn">hawā</lang> verstanden wird – nicht gut Bezugspunkt der folgenden
+    Lehrfrage sein kann, obwohl koranische Lehrfragen sich ansonsten immer auf den unmittelbar
+    vorangehenden Ausdruck beziehen (vgl. <q type="koran" versstart="069:001" versend="069:003"
+     >69:1–3</q>, <q type="koran" versstart="074:026" versend="074:027">74:26.27</q>, <q
+     type="koran" versstart="077:013" versend="077:014">77:13.14</q>, <q type="koran"
+     versstart="083:007" versend="083:008">83:7.8</q>.<q type="koran" versstart="083:018"
+     versend="083:019">18.19</q>, <q type="koran" versstart="086:001" versend="086:002">86:1.2</q>,
+     <q type="koran" versstart="090:011" versend="090:012">90:11.12</q>, <q type="koran"
+     versstart="097:001" versend="097:002">97:1.2</q>, <q type="koran" versstart="104:004"
+     versend="104:005">104:4.5</q>). Fischer geht deshalb sogar so weit, <q type="koran"
+     versstart="101:010" versend="101:011">V. 10.11</q> für einen späteren Zusatz zu halten (s. o.,
+     <q type="literarkritik" versstart="101:000" versend="101:011">Literarkritik</q>). Doch dürfte
+    die Tatsache, dass eine ausschließlich idiomatische Deutung von <q type="koran"
+     versstart="101:009" versend="101:009">V. 9</q>, wie sie von Fischer vertreten wird, nicht ohne
+    eine ansonsten durch nichts nahegelegte literarkritische Zerschneidung des Textes auskommt, eher
+    für die zweite Interpretation sprechen. Parets Übersetzung von <q type="koran"
+     versstart="101:010" versend="101:010">V. 10</q> („Doch wie kannst du wissen, was das
+    bedeutet?“) ist offensichtlich bemüht, eine solche literarkritische Implikation der
+    idiomatischen Deutung zu vermeiden und versteht <lang xml:lang="ar-Latn">hiya</lang> als
+    unspezifischen Rückbezug auf die vorangehende Aussage insgesamt. Das ist nicht überzeugend:
+    Abgesehen davon, dass koranische Lehrfragen ansonsten immer an einen konkreten Ausdruck
+    anknüpfen, macht seine Interpretation auch nicht verständlich, warum der Vers – wenn er sich
+    denn auf die vorangehende Aussage als ganze und nicht auf das Stichwort
+    <lang xml:lang="ar-Latn">hāwiya</lang> bezieht – gerade das weibliche Personalpronomen
+    gebraucht.</p>
+   <p>Neben solchen immanenten Schwierigkeiten einer ausschließlich idiomatischen Erklärung des
+    Verses gibt es weitere Argumente für die zweite Alternative. Bemerkenswert ist zunächst, dass
+    die Gleichsetzung von <lang xml:lang="ar-Latn">hāwiya</lang> mit
+    <lang xml:lang="ar-Latn">mahwā</lang> bzw. <lang xml:lang="ar-Latn">mahwāt</lang> in den
+    Wörterbüchern gerade nicht im Zusammenhang mit <q type="koran" versstart="101:009"
+     versend="101:009">101:9</q> behandelt wird und insofern kein bloßes Resultat exegetischer
+    Spekulationen zu sein scheint. Der von Sells erhobene Einwand, dass „attestations for the term
+    <lang xml:lang="ar-Latn">hāwiya</lang> meaning abyss in early Arabic are tenuous“ (<bibl
+     Zotero_Id_1="G6NKA46B" Titel_1="Sound and meaning in sūrat al-Qāria">Sells 1993, 418</bibl>),
+    greift angesichts der lexikographischen Belege nicht, zumal
+    <lang xml:lang="ar-Latn">hāwiya</lang> auch aus reimlichen Gründen dem gängigeren
+    <lang xml:lang="ar-Latn">mahwā</lang> vorgezogen worden sein dürfte. Die topologische Deutung
+    von <lang xml:lang="ar-Latn">hāwiya</lang> wird überdies dadurch bestätigt, dass die Hölle auch
+    in der <q type="bibel" buch="Offb" versstart="009:001" versend="009:001">Offenbarung des
+     Johannes 9:1</q>.<q type="bibel" buch="Offb" versstart="009:011" versend="009:011">11</q> als
+    „Abgrund“ bezeichnet wird (<bibl Zotero_Id_1="VZJWDFZK"
+     Titel_1="The Book of Revelation and the Qurān is there a possible relationship?">Brady
+     1978</bibl>; vgl. <ref target="#TUK114">TUK, Nr. 114</ref>), und dass zwei ähnliche koranische
+    Lehrfragen (<q type="koran" versstart="083:007" versend="083:008">83:7.8</q> und <q type="koran"
+     versstart="083:018" versend="083:019">83:18.19</q>) ebenfalls an semantisch opake
+    Ortsbezeichnungen (<lang xml:lang="ar-Latn">siǧǧīn</lang> und
+    <lang xml:lang="ar-Latn">ʿillīyīn</lang>) anknüpfen; <lang xml:lang="ar-Latn">hāwiya</lang> ist
+    also wohl als eine – wie in <q type="koran" versstart="083:000" versend="083:036">Q 83</q>
+    absichtlich enigmatische – Ortsbezeichnung aufzufassen und nicht lediglich als partizipiale
+    Umschreibung von <lang xml:lang="ar-Latn">hawā</lang>. Doch muss eine solche Deutung des
+    Ausdrucks nicht ausschließen, dass auch ein Anklang an das Idiom
+    <lang xml:lang="ar-Latn">hawat ʾummuhū</lang> beabsichtig sein könnte: Die „Multivalenz“ (<bibl
+     Zotero_Id_1="G6NKA46B" Titel_1="Sound and meaning in sūrat al-Qāria">Sells 1993, 420</bibl>)
+    der auch idiomatisch zu verstehenden Aussage <lang xml:lang="ar-Latn">fa-ʾummuhū hāwiya</lang>,
+    die erst im folgenden Vers auf einen örtlichen Sinn festgeschrieben wird, könnte durchaus so
+    intendiert sein (vgl. in diesem Sinne auch <bibl Zotero_Id_1="X6J8ZZSZ"
+     Titel_1="Frühmekkanische Suren poetische Prophetie">Neuwirth, Frühmekkanische Suren,
+    181</bibl>).</p>
+   <p><hi rend="italic">Weitere Deutungen</hi>: Wohl auf der Grundlage der Synonymie
+    <lang xml:lang="ar-Latn">hāwiya</lang> = <lang xml:lang="ar-Latn">mahwāt</lang> scheinen manche
+    islamische Kommentatoren <lang xml:lang="ar-Latn">hāwiya</lang> einfach als einen Eigennamen für
+    die Hölle aufzufassen, indem sie nämlich <lang xml:lang="ar-Latn">hāwiya</lang> mit
+    <lang xml:lang="ar-Latn">an-nār</lang> glossieren. Als Paraphrase von <q type="koran"
+     versstart="101:009" versend="101:009">V. 9</q> ergäbe sich dann „Seine Mutter (= sein
+    Aufenthaltsort) ist die Hölle“ (<lang xml:lang="ar-Latn">mustaqarruhŭ n-nār</lang>, vgl. etwa
+     <bibl Zotero_Id_1="4G9UJJKQ" Titel_1="Ǧamiʿ al-bayān ʿan taʾwīl āy al-Qurʾān">Ṭabarī, ad
+     loc.</bibl>; s. hierzu und zu weiteren Deutungsmöglichkeiten <bibl Zotero_Id_1="KGS5VPTC"
+     Titel_1="Fa-Ummuhu Hāwiyah A Note on Sūrah 1019">Bellamy 1992</bibl>). Obwohl es sich dabei
+    aller Wahrscheinlichkeit um eine sekundäre Konstruktion handelt, ist auch diese Deutung in die
+    Wörterbücher eingegangen und wird dort in der Regel als eine eigenständige Bedeutung des
+    Ausdrucks angeführt (s. <bibl Zotero_Id_1="ZICMNGDD"
+     Titel_1="Kitāb Tāǧ al-luġa wa-ṣiḥāḥ al-ʿarabīya">al-Ǧauharī, Tāǧ al-luġa wa-ṣiḥāḥ al-ʿarabiyya,
+     s. v. <hi rend="italic">h-w-y</hi></bibl>:
+    <lang xml:lang="ar-Latn">wa-hāwiyatun: ʾismun min ʾasmāʾi n-nār …</lang>; vgl. a. <bibl
+     Zotero_Id_1="PEEF36TT" Titel_1="Lisān al-ʿarab">Lisān, s. v. <hi rend="italic"
+     >h-w-y</hi></bibl>). Alternative Erklärungen der Stelle sind von Torrey und Bellamy
+    vorgeschlagen worden. Torrey zufolge handelt es sich bei hāwiya um eine Arabisierung von hebr.
+    <lang xml:lang="hbo-Latn">hōwā</lang>, „Verderben“ (<bibl Zotero_Id_1="GBKX2PKP"
+     Titel_1="Three Difficult Passages in the Koran">Torrey 1922</bibl> ; vgl. <q type="bibel"
+     buch="Jes" versstart="047:011" versend="047:011">Jesaja 47:11</q> und <q type="bibel" buch="Ez"
+     versstart="007:026" versend="007:026">Ezechiel 7:26</q>), wobei jedoch fraglich ist, ob die
+    koranischen Hörer frühmekkanischer Zeit mit diesem in der Hebräischen Bibel lediglich an zwei
+    Stellen vorkommenden Ausdruck so vertraut waren, dass der Vers die von Torrey behauptete
+    Intertextualität hätte abrufen können. <bibl Zotero_Id_1="KGS5VPTC"
+     Titel_1="Fa-Ummuhu Hāwiyah A Note on Sūrah 1019">Bellamy 1992</bibl> plädiert dafür, den
+    <lang xml:lang="ar-Latn">rasm</lang> von <q type="koran" versstart="101:009" versend="101:009"
+     >V. 9</q> als <lang xml:lang="ar-Latn">fa-ʾummatun hāwiya</lang> („ein steiler Weg nach unten“)
+    zu emendieren. Doch selbst wenn die von ihm vertretene Variante in der islamischen
+    Lesartenliteratur belegt wäre (was nicht der Fall ist), so müsste sie doch als eine
+    <lang xml:lang="lat-Latn">lectio facilior</lang> gelten, welche den ursprünglichen Wortlaut
+    nachträglich zu glätten versucht.</p>
+  </text>
+  <text versstart="010" versend="011" verfasser="nisi">
+   <p><lem>wa-mā ʾadrāka mā hiya / nārun ḥāmiyah]</lem> Vgl. insbesondere die Lehrfrage in <q
+     type="koran" versstart="104:004" versend="104:006">104:4 ff.</q>:
+    <lang xml:lang="ar-Latn">kallā la-yunbaḏanna fĭ l-ḥuṭama / wa-mā ʾadrāka mă l-ḥuṭamah / nāru llāhi l-mūqadah</lang>.
+    Zu <lang xml:lang="ar-Latn">nār</lang> vgl. die <q type="anmerkung" versstart="111:003"
+     versend="111:003">Anmerkung zu 111:3</q>.</p>
+  </text>
+ </anmerkungen>
+ <kommentar>
+  <text versstart="001" versend="003" verfasser="nisi">
+   <p>Die Sure setzt ein mit der Interjektion <lang xml:lang="ar-Latn">al-qāriʿa</lang>, „die
+    Erschütternde!“, welche die endzeitliche Katastrophe statt mit einem lexikalisch etablierten
+    Ausdruck durch eine Neubildung der Bildungsform (<lang xml:lang="ar-Latn">fāʿila</lang>)
+    bezeichnet. Solche enigmatisierenden Substitutionen sind eine insbesondere zu Anfang
+    eschatologisch geprägter Suren effektvoll eingesetzte koranische Innovation, s. <q type="koran"
+     versstart="069:001" versend="069:001">69:1</q> und <q type="koran" versstart="088:001"
+     versend="088:001">88:1</q> (im Sureninnern vgl. a. <q type="koran" versstart="079:034"
+     versend="079:034">79:34</q> und <q type="koran" versstart="080:033" versend="080:033"
+    >80:33</q>), die aus dem in der altarabischen Dichtung häufigen Stilmittel metonymischer
+    Umschreibungen erwachsen sein könnte. Der „schockierende“ (<bibl Zotero_Id_1="X6J8ZZSZ"
+     Titel_1="Frühmekkanische Suren poetische Prophetie">Neuwirth, Frühmekkanische Suren,
+    180</bibl>) Auftakt wird durch eine zweimalige Nachfrage unterstrichen, welche das einleitende
+    Stichwort <lang xml:lang="ar-Latn">al-qāriʿa</lang> jeweils am Versende nachhallen lässt.</p>
+  </text>
+  <text versstart="004" versend="005" verfasser="nisi">
+   <p>Die Lehrfrage leitet einen eschatologischen Temporalsatz ein, der das Bild eines zerfallenden
+    Kosmos entwirft. Der Übergang von der Lehrfrage zum Temporalsatz entspricht dem auch aus anderen
+    frühmekkanischen Suren vertrauten Muster von Enigma und Auflösung (vgl. etwa die <q
+     type="kommentar" versstart="102:000" versend="102:008">Kommentare zu Q 102</q>, <q
+     type="kommentar" versstart="104:000" versend="104:009">104</q> und <q type="kommentar"
+     versstart="111:000" versend="111:005">111</q>). Wie <bibl Zotero_Id_1="G6NKA46B"
+     Titel_1="Sound and meaning in sūrat al-Qāria">Sells 1993, 410</bibl>, bemerkt, steigt in <q
+     type="koran" versstart="101:004" versend="101:005">V. 4.5</q> nach den sehr kurzen ersten drei
+    Versen die Verslänge deutlich an und geht erst in <q type="koran" versstart="101:010"
+     versend="101:011">V. 10.11</q> wieder auf die anfängliche Kürze zurück; der eschatologische
+    Temporalsatz (mit Nachsatz) in <q type="koran" versstart="101:004" versend="101:009">V. 4–9</q>
+    sticht damit deutlich als Mittelpunkt der Sure heraus.</p>
+   <p>Der Temporalsatz beginnt mit zwei eindrucksvollen Bildsetzungen: Die Orientierungslosigkeit
+    der Menschen am Jüngsten Tag wird mit durcheinanderwirbelnden Motten veranschaulicht, die
+    scheinbare Beständigkeit und Stabilität von Bergformationen – die anderswo als Zeichen der
+    göttlichen Schöpfermacht erscheinen – wird durch ihren paradoxen Vergleich mit zerzauster Wolle
+    dekonstruiert. Beide Motive veranschaulichen damit stenographisch die zwar gottgegebene, aber
+    eben nur vorläufige Vertrauenswürdigkeit und Berechenbarkeit der diesseitigen Welt. Wenn der
+    Vergleich der Berge mit <lang xml:lang="ar-Latn">ʿihn manfūš</lang>, zerflockter Wolle, mit
+    Neuwirth tatsächlich im Bezug auf einen Vers aus der Muʿallaqa des Zuhair zu verstehen ist (s.
+    o.), so ergibt sich eine intertextuelle Parallelisierung der von der eschatologischen
+    <lang xml:lang="ar-Latn">qāriʿa</lang> verwüsteten Welt mit den in zahlreichen altarabischen
+    Gedichten beschriebenen verlassenen Lagerstätten. Um die gänzliche Verlassenheit des Einzelnen
+    am Jüngsten Tag zu veranschaulichen, würde die Sure also auf eine aus der Poesie vertraute
+    paradigmatische Situation menschlicher Einsamkeit zurückzugreifen: Die in der Qaṣīdendichtung im
+    Motiv der verwehten Lagerspuren artikulierte Erfahrung einer instabilen, vom Vergehen bedrohten
+    und insofern menschliche Selbstbehauptung gefährdenden Welt würde aus der Gegenwart in die
+    eschatologische Zukunft transponiert.</p>
+  </text>
+  <text versstart="006" versend="009" verfasser="nisi">
+   <p>Auf den eschatologischen Temporalsatz <q type="koran" versstart="101:004" versend="101:005">V.
+     4.5</q> folgt ein antithetischer Nachsatz, der das Abwiegen guter Taten beim Jüngsten Gericht
+    einblendet (<q type="koran" versstart="101:006" versend="101:007">V. 6.7</q>). Die in <q
+     type="koran" versstart="101:004" versend="101:005">V. 4.5</q> umrissene Desintegration
+    bisheriger gesellschaftlicher und natürlicher Ordnungen mündet so in eine von ausschließlich
+    moralischen Gesichtspunkten diktierte Neuordnung der Welt: Gute und Böse werden, wie die
+    Antithese auch strukturell veranschaulicht, säuberlich voneinander geschieden und gemäß ihren
+    Verdiensten und Verfehlungen belohnt bzw. bestraft. Der den Mittelpunkt der Sure ausmachende
+    eschatologische Temporalsatz mit seinem Nachsatz erreicht seinen Abschluss in <q type="koran"
+     versstart="101:009" versend="101:009">V. 9</q> mit der Strafansage „Dessen Mutter ist eine
+    Schlucht“, mit der zugleich die idiomatische Nebenbedeutung „dessen Mutter ist dem Fall
+    preisgegeben“ assoziiert werden kann (s. o.). Sie fungiert aufgrund ihrer Mehrdeutigkeit als
+    retardierendes Moment und geht erst im abschließenden Verspaar <q type="koran"
+     versstart="101:010" versend="101:011">V. 10.11</q> in eine eindeutige Androhung der
+    Höllenstrafe über (vgl. <bibl Zotero_Id_1="X6J8ZZSZ"
+     Titel_1="Frühmekkanische Suren poetische Prophetie">Neuwirth, Frühmekkanische Suren,
+    183</bibl>).</p>
+  </text>
+  <text versstart="010" versend="011" verfasser="nisi">
+   <p>Erst nach einer weiteren, die Spannung steigernden Lehrfrage wird die von den Bösen zu
+    gewärtigende Strafe in einem neuen Redeanlauf zu einem unmissverständlichen Höllenbild
+    konkretisiert, das den Kulminationspunkt des gesamten Textes bildet. Wie bereits die Folge von
+    <lang xml:lang="ar-Latn">qāriʿa</lang>-Lehrfrage (<q type="koran" versstart="101:001"
+     versend="101:003">V. 1–3</q>) und eschatologischem Temporalsatz (Vordersatz: <q type="koran"
+     versstart="101:004" versend="101:005">V. 4.5</q>) zu Beginn der Sure weist damit auch der
+    Übergang zum abschließenden Verspaar das dramaturgische Muster von Rätsel und Auflösung auf. Die
+    Erweiterung eines zunächst nur rätselhaft formulierten Drohworts durch eine Lehrfrage erinnert
+    an die wohl etwas früher anzusetzende <q type="koran" versstart="104:000" versend="104:009">Sure
+     104</q>, wo ebenfalls ein enigmatischer Ausdruck (<lang xml:lang="ar-Latn">al-ḥutama</lang>, <q
+     type="koran" versstart="104:005" versend="104:005">V. 5</q>) mit dem „Feuer“
+    (<lang xml:lang="ar-Latn">nār</lang>, <q type="koran" versstart="101:011" versend="101:011"
+     >101:11</q> und <q type="koran" versstart="104:000" versend="104:009">104:6</q>) der Hölle
+    identifiziert wird; es ist nicht unwahrscheinlich, dass der kurze <q type="koran"
+     versstart="101:011" versend="101:011">Schlussvers von 101</q>,
+    <lang xml:lang="ar-Latn">nārun ḥāmiyah</lang>, im Bewusstsein der Hörer die ausführlichere
+    Beschreibung des Höllenfeuers aus <q type="koran" versstart="104:006" versend="104:009"
+     >104:6–9</q> wachrufen soll.</p>
+  </text>
+ </kommentar>
+</korankommentar>

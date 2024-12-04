@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:ns1="http://www.tei-c.org/ns/1.0"
+ xmlns:vc="http://www.w3.org/2007/XMLSchema-versioning" elementFormDefault="qualified"
+ targetNamespace="http://www.w3.org/XML/1998/namespace" vc:minVersion="1.1">
+ <xs:attribute name="lang">
+  <xs:annotation>
+   <xs:documentation>Die zur Auswahl stehenden Sprachen sind:
+ "gez-Latn" für Äthiopisch in Transcription
+ "gez-Ethi" für Äthiopisch in Originalschrift
+ "ar-Latn" für Arabisch in Transcription
+ "ar-Arab" für Arabisch in Originalschrift
+ "gr-Latn" für Griechisch in Transcription
+ "gr-Grek" für Griechisch in Originalschrift
+ "fr-Latn" für Französisch in Originalschrift
+ "hbo-Latn" für Hebräisch in Transcription
+ "hbo-Hebr" für Hebräisch in Originalschrift
+ Hier wird bei der Sprache anstatt des moderneren 'heb' [Hebräisch] der Sprachcode 'hbo' [alterthyemliches Hebräisch] verwendet.
+ "lat-Latn" für Lateinisch in Originalschrift
+ "syc-Latn" für Syrisch in Transcription 
+ "syc-Syre" für Syrisch in Estrangelo-Schrift
+ "syc-Syrj" für Syrisch in Serto-Schrift(weitere Varianten wären 'Syrc' [Syrisch], und 'Syrn' [Ostvariante])
+ Hier wird bei der Sprache anstatt des moderneren 'syr' [Syrisch] der Sprachcode 'syc' [classisches Syrisch] verwendet.
+ "pal-Latn" für Pahlavi in Transcription
+ "pal-Phli" für Pahlavi in Inschriften-Schrift
+ "pal-Phlp" für Pahlavi in Psalter-Schrift
+ "pal-Phlv" für Pahlavi in Buch-Schrift
+ Die internationalen Bezeichungen lauten: 'Phli' [Inscriptional Pahlavi], 'Phlp' [Psalter Pahlavi], 'Phlv' [Book Pahlavi])
+ "ave-Latn" für Awestisch in Transcription
+ "ave-Avst" für Awestisch in Originalschrift
+ "akk-Latn" für Akkadisch in Transcription
+ "gez-Latn" für Ge'ez in Transcription
+ "arc-Latn" für Reichsaramäisch in Transcription
+ "arc-Hebr" für Reichsaramäisch in hebräischer Transcription
+ "xsa-Latn" für Altsüdarabisch, i.e. Sabäisch in Transcription
+ "inm-Latn" für Altsüdarabisch, i.e. Minäisch in Transcription
+ "qhy-Latn-nor" für Nabatäisch, momentan als Nabatäischer Dialekt der Mittelaramäischen Sprache codiert</xs:documentation>
+  </xs:annotation>
+  <xs:simpleType>
+   <xs:restriction base="xs:NCName">
+    <xs:enumeration value="gez-Latn"/>
+    <xs:enumeration value="gez-Ethi"/>
+    <xs:enumeration value="ar-Latn"/>
+    <xs:enumeration value="ar-Arab"/>
+    <xs:enumeration value="fr-Latn"/>
+    <xs:enumeration value="gr-Latn"/>
+    <xs:enumeration value="gr-Grek"/>
+    <xs:enumeration value="hbo-Latn"/>
+    <xs:enumeration value="hbo-Hebr"/>
+    <xs:enumeration value="lat-Latn"/>
+    <xs:enumeration value="syc-Latn"/>
+    <xs:enumeration value="syc-Syre"/>
+    <xs:enumeration value="pal-Latn"/>
+    <xs:enumeration value="pal-Phli"/>
+    <xs:enumeration value="pal-Phlp"/>
+    <xs:enumeration value="pal-Phlv"/>
+    <xs:enumeration value="ave-Latn"/>
+    <xs:enumeration value="ave-Avst"/>
+    <xs:enumeration value="akk-Latn"/>
+    <xs:enumeration value="gez-Latn"/>
+    <xs:enumeration value="arc-Latn"/>
+    <xs:enumeration value="arc-Hebr"/>
+    <xs:enumeration value="xsa-Latn"/>
+    <xs:enumeration value="inm-Latn"/>
+    <xs:enumeration value="qhy-Latn-nor"/>
+   </xs:restriction>
+  </xs:simpleType>
+ </xs:attribute>
+</xs:schema>

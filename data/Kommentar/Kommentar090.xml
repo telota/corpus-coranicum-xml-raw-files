@@ -1,0 +1,694 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<korankommentar xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:noNamespaceSchemaLocation="Kommentar.xsd">
+ <sure id="90" webtauglich="true"/>
+ <surentitel>
+  <text versstart="000" versend="020" verfasser="tjj">
+   <p>Sure 90 — <lang xml:lang="ar-Latn">al-Balad</lang> — »Der Ort«</p>
+  </text>
+ </surentitel>
+ <autorenkurz>
+  <text versstart="000" versend="020" verfasser="tjj">
+   <p>Übersetzt und analysiert von Nicolai Sinai</p>
+  </text>
+ </autorenkurz>
+ <datierungkurz>
+  <text versstart="000" versend="020" verfasser="nisi">
+   <p>Mekka I (Gruppe II)</p>
+  </text>
+ </datierungkurz>
+ <datierung>
+  <text versstart="000" versend="020" verfasser="nisi">
+   <p><q type="koran" versstart="090:000" versend="090:020">Q 90</q> entspricht in Verslänge (ohne
+    die eingeschobenen <q type="koran" versstart="090:017" versend="090:020">Verse 90:17–20</q>
+    durchschnittlich 9 Silben pro Vers), Gesamtlänge und Aufbau (Gliederung in drei Gesätze, aber
+    noch nicht in aus mehreren Gesätzen bestehende Surenteile) Gruppe II der frühmekkanischen
+    Periode.</p>
+  </text>
+ </datierung>
+ <literarkritikkurz>
+  <text versstart="000" versend="060" verfasser="nisi">
+   <p>V. 17–20 Einschub</p>
+  </text>
+ </literarkritikkurz>
+ <literarkritik>
+  <text versstart="000" versend="020" verfasser="nisi">
+   <p><q type="koran" versstart="090:017" versend="090:020">90:17–20</q>, die den Tugendkatalog aus
+     <q type="koran" versstart="090:013" versend="090:016">V. 13–16</q> in eine eschatologische
+    Antithese umbiegen und in ihrer Verwendung finiter Verbformen grammatisch nicht zu den
+    vorhergehenden Infinitivkonstruktionen passen, sind verschiedentlich als späterer Zusatz
+    identifiziert worden (<bibl Zotero_Id_1="W242HJS4" Titel_1="A commentary on the Qurān">Bell,
+     Commentary, ad loc.</bibl>, vgl. <bibl Zotero_Id_1="4WEWN8NZ"
+     Titel_1="Studien zur Komposition der mekkanischen Suren">Neuwirth, Studien, 228</bibl>; s. a.
+     <bibl Zotero_Id_1="X9T7RF7R" Titel_1="Der Koran Kommentar und Konkordanz">Paret, Kommentar, ad
+     loc.</bibl>). Insbesondere <q type="koran" versstart="090:017" versend="090:017">V. 17</q>
+    fällt durch Überlänge und durch seine Ähnlichkeit mit dem wohl ebenfalls nachträglich
+    angehängten <q type="koran" versstart="103:003" versend="103:003">Vers 103:3</q> aus dem Rahmen.
+    Auf für die frühmekkanischen Korantexte uncharakteristische Weise gibt er – im Gegensatz zu dem
+    vorangehenden Tugendkatalog – keine exemplarische Illustration von gottgefälligem Verhalten,
+    sondern versucht eine definitionsähnliche Gesamtcharakterisierung der Guten. Auch der Gegensatz
+    zwischen den „Leuten der rechten Seite“ und den „Leuten der Unheil bringenden Seite“ (<q
+     type="koran" versstart="090:018" versend="090:019">V. 18.19</q>:
+    <lang xml:lang="ar-Latn">ʾaṣḥāb al-maimana</lang>,
+    <lang xml:lang="ar-Latn">ʾaṣḥāb al-mašʾama</lang>) taucht sonst nur noch in der sicherlich
+    späteren <q type="koran" versstart="056:000" versend="056:096">Sure 56</q> (vgl. insbesondere <q
+     type="koran" versstart="056:008" versend="056:009">Q 56:8.9</q>) auf. Dass in <q type="koran"
+     versstart="056:000" versend="056:096">Sure 56</q> ein späterer Rückbezug auf die vorliegende
+    Sure vorliegt, dürfte angesichts der Einschubverdächtigkeit auch von <q type="koran"
+     versstart="090:017" versend="090:017">V. 17</q> weniger wahrscheinlich sein. Die
+    phraseologische Übereinstimmung zwischen <q type="koran" versstart="090:018" versend="090:019"
+     >90:18.19</q>: <lang xml:lang="ar-Latn">ʾaṣḥāb al-maimana</lang> und <q type="koran"
+     versstart="056:008" versend="056:009">Q 56:8.9</q> legt nahe, dass die beiden Passagen in etwa
+    gleichzeitig anzusetzen sind.</p>
+  </text>
+ </literarkritik>
+ <aufbauinhalt>
+  <text versstart="000" versend="020" verfasser="nisi">
+   <p>Die Sure dürfte ursprünglich nur aus den ersten drei Gesätzen bestanden haben. Dabei umfassen
+    das zweite und dritte Gesätz jeweils sechs Verse und entsprechen sich längenmäßig. Als
+    Einleitung steht eine Schwurpassage mit <lang xml:lang="ar-Latn">ʾinsān</lang>-Spruch, die zwei
+    grundlegende göttliche Gnadenerweise benennt: den besonderen Rang Mekkas (<q type="koran"
+     versstart="090:001" versend="090:001">V. 1</q>) und die Erschaffung des Menschen (<q
+     type="koran" versstart="090:003" versend="090:004">V. 3.4</q>). Bereits in der Schwuraussage
+    klingt das thematische Zentrum der Sure an: Aus den vom Menschen empfangenen göttlichen
+    Zuwendungen ergibt sich eine Verpflichtung, die zunächst nur metaphorisch als „Mühsal“
+    beschrieben wird. Eine erste, negative Bestimmung dieser dem Menschen auferlegten „Mühsal“ gibt
+    das zweite Gesätz: Es prangert Selbstherrlichkeit und Selbstüberschätzung an und impliziert
+    durch das Aufgreifen eines dichterischen Topos, dass die kritisierten Verhaltensweisen in
+    besonderer Weise mit dem Wertekanon der altarabischen Dichtung zusammenhängen. Anhand der
+    menschlichen Sinnesorgane wird anschließend noch einmal detailliert die fundamentale Tatsache
+    der menschlichen Geschaffenheit in Erinnerung gebracht, bevor das Gesätz im Gegensatz zweier
+    „Wege“ kulminiert, vor die sich der Mensch gestellt sieht – eine topologische Versinnbildlichung
+    der ihm aufgegebenen Entscheidung zwischen gut und böse. Das dritte Gesätz schließlich gibt eine
+    positive Bestimmung der dem Menschen obliegenden Verpflichtung: In Form eines auf biblische
+    Motive zurückgreifenden Tugendkatalogs wird exemplarisch vorgeführt, dass die dem Menschen
+    auferlegte „Mühsal“ bzw. das „Erklimmen des steilen Wegs“ in moralischem Handeln, insbesondere
+    in Leistungen sozialer Solidarität besteht.</p>
+   <p>Eine anders geartete Analyse der Sure bietet <bibl Zotero_Id_1="JADDCP8K"
+     Titel_1="Structures rhétoriques des sourates 85 à 90">Cuypers 2001, 77–815</bibl>, der dem Text
+    – wie zahlreichen anderen Koransuren – einen konzentrischen Aufbau um die Lehrfrage in <q
+     type="koran" versstart="090:012" versend="090:012">V. 12</q> herum zuschreibt (zu seinem Ansatz
+    s. allgemein die kritischen Bemerkungen im Abschnitt „Zum Format des Kommentars“ der Einleitung;
+    vgl. auch den <q type="kommentar" versstart="104:000" versend="104:009">Kommentar zu Sure
+     104</q>, in der Cuypers ebenfalls eine Lehrfrage als Scharniervers identifiziert).</p>
+  </text>
+ </aufbauinhalt>
+ <ueberblick>
+  <text versstart="000" versend="020" verfasser="tjj">
+   <p>
+    <table cols="2" rend="boxed" rows="10">
+     <head/>
+     <row>
+      <cell>
+       <hi rend="superscript"><q type="koran" versstart="090:001" versend="090:004">1–4</q></hi>
+       <hi rend="italic">3(K)K3d</hi>
+      </cell>
+      <cell>
+       <hi rend="bold">1</hi>
+       <hi rend="superscript"><q type="koran" versstart="090:001" versend="090:003">1–3</q></hi>
+       Schwüre (Mekka, Zeuger, Gezeugtes) (<q type="koran" versstart="090:002" versend="090:002">V.
+        2</q> Parenthese)</cell>
+     </row>
+     <row>
+      <cell/>
+      <cell>
+       <hi rend="superscript"><q type="koran" versstart="090:004" versend="090:004">4</q></hi>
+       Schwuraussage: <lang xml:lang="ar-Latn">ʾinsān</lang>-Spruch</cell>
+     </row>
+     <row>
+      <cell>
+       <hi rend="superscript"><q type="koran" versstart="090:005" versend="090:007">5–7</q></hi>
+       <hi rend="italic">3(K)K3d</hi>
+      </cell>
+      <cell>
+       <hi rend="bold">2</hi>
+       <hi rend="superscript"><q type="koran" versstart="090:005" versend="090:007">5–7</q></hi>
+       polemische Fragen (3. P. Sg.) </cell>
+     </row>
+     <row>
+      <cell>
+       <hi rend="superscript"><q type="koran" versstart="090:008" versend="090:010">8–10</q></hi>
+       <hi rend="italic">ain</hi>
+      </cell>
+      <cell>
+       <hi rend="superscript"><q type="koran" versstart="090:008" versend="090:010">8–10</q></hi>
+       weitere polemische Fragen: Werkaffirmationen</cell>
+     </row>
+     <row>
+      <cell>
+       <hi rend="superscript"><q type="koran" versstart="090:011" versend="090:016">11–16</q></hi>
+       <hi rend="italic">3(K)K3bah</hi>
+      </cell>
+      <cell>
+       <hi rend="bold">3</hi>
+       <hi rend="superscript"><q type="koran" versstart="090:011" versend="090:011">11</q></hi>
+       Scheltwort (Forts. <lang xml:lang="ar-Latn">ʾinsān</lang>-Spruch)</cell>
+     </row>
+     <row>
+      <cell/>
+      <cell>
+       <hi rend="superscript"><q type="koran" versstart="090:012" versend="090:012">12</q></hi>
+       Lehrfrage zu <lang xml:lang="ar-Latn">ʿaqaba</lang>
+      </cell>
+     </row>
+     <row>
+      <cell/>
+      <cell>
+       <hi rend="superscript"><q type="koran" versstart="090:013" versend="090:016">13–16</q></hi>
+       Antwort: Tugendkatalog</cell>
+     </row>
+     <row>
+      <cell>
+       <hi rend="superscript"><q type="koran" versstart="090:017" versend="090:020">17–20</q></hi>
+       <hi rend="italic">3(K)K3Kah</hi>
+      </cell>
+      <cell>[<hi rend="bold">4</hi>
+       <hi rend="superscript"><q type="koran" versstart="090:017" versend="090:020">17–20</q></hi>
+       eingeschobenes Gesätz:</cell>
+     </row>
+     <row>
+      <cell/>
+      <cell>
+       <hi rend="text-indent"><hi rend="superscript"><q type="koran" versstart="090:017"
+          versend="090:018">17.18</q></hi> Antithese (Positivteil): Tugendkatalog mit Verheißung (<q
+         type="koran" versstart="090:018" versend="090:018">V. 18</q>)</hi>
+      </cell>
+     </row>
+     <row>
+      <cell/>
+      <cell>
+       <hi rend="text-indent"><hi rend="superscript"><q type="koran" versstart="090:019"
+          versend="090:020">19.20</q></hi> Antithese (Negativteil): Lasterkatalog mit Drohwort]</hi>
+      </cell>
+     </row>
+    </table>
+   </p>
+   <p>Proportionen (ohne <q type="koran" versstart="090:017" versend="090:020">V. 17–20</q>):
+    4+6(=3+3)+6.</p>
+  </text>
+ </ueberblick>
+ <anmerkungen>
+  <text versstart="000" versend="000" verfasser="nisi">
+   <p><lem>bi-smi llāhi r-raḥmāni r-raḥīm]</lem> Zur Basmala s. die entsprechende <q
+     type="anmerkung" versstart="093:000" versend="093:000">Anmerkung zu 93</q>; zum Gottesnamen
+    <lang xml:lang="ar-Latn">raḥmān</lang> s. die <q type="anmerkung" versstart="055:001"
+     versend="055:001">Anmerkung zu 55:1</q>.</p>
+  </text>
+  <text versstart="001" versend="003" verfasser="nisi">
+   <p>Zu den koranischen Schwüren im Allgemeinen sowie ihrer wahrscheinlichen, aber bis dato noch
+    nicht hinreichend untersuchten Anlehnung an ein charakteristisches Ausdrucksmittel altarabischer
+    Seher (<lang xml:lang="ar-Latn">kuhhān</lang>) s. die <q type="anmerkung" versstart="100:001"
+     versend="100:005">Anmerkung zu 100:1–5</q>; zu Aufbau und Funktion des hier vorliegenden
+    Schwurtypus s. die <q type="anmerkung" versstart="093:001" versend="093:002">Anmerkung zu
+     93:1–2</q> mit zahlreichen Parallelstellen.</p>
+  </text>
+  <text versstart="001" versend="001" verfasser="nisi">
+   <p><lem>lā ʾuqsimu bi-hāḏă l-balad]</lem> Überliefert wird auch die Lesung
+    <lang xml:lang="ar-Latn">la-ʾuqsimu</lang> (<bibl Zotero_Id_1="KVFTU3XN"
+     Titel_1="Muʿǧam al-qirāʾāt">Muʿǧam, Bd. 10, 437</bibl>); die
+    <lang xml:lang="lat-Latn">lectio difficilior</lang> ist aber sicherlich
+    <lang xml:lang="ar-Latn">lā ʾuqsimu</lang>. <lang xml:lang="ar-Latn">Lā</lang> fungiert dabei
+    nicht als Negation, sondern hat wie auch in <q type="koran" versstart="084:016"
+     versend="084:016">84:16</q>, <q type="koran" versstart="081:015" versend="081:015">81:15</q>,
+     <q type="koran" versstart="075:001" versend="075:001">75:1</q>, <q type="koran"
+     versstart="070:040" versend="070:040">70:40</q> und <q type="koran" versstart="069:038"
+     versend="069:038">69:38</q> affirmierenden Sinn (s. <bibl Zotero_Id_1="TAN4DV2Q"
+     Titel_1="Verneinungs- und Fragepartikeln und Verwandtes im Ḳurān ein Beitrag zur histor"
+     >Bergsträsser 1914, 58 f., Anm. 2</bibl>). – Vgl. die übrigen Schwüre bei Lokalitäten in <q
+     type="koran" versstart="095:002" versend="095:003">95:2–3</q> und <q type="koran"
+     versstart="052:001" versend="052:001">52:1</q>
+    <q type="koran" versstart="052:004" versend="052:004">52:4</q>: Wie im vorliegenden Vers wird an
+    beiden Stellen Mekka genannt (<q type="koran" versstart="095:003" versend="095:003">95:3</q>:
+    <lang xml:lang="ar-Latn">wa-hāḏă l-baladi l-ʾamīn</lang>, <q type="koran" versstart="052:004"
+     versend="052:004">52:4</q>: <lang xml:lang="ar-Latn">wa-l-baiti l-maʿmūr</lang>), wobei jeweils
+    – anders als hier – noch Evokationen des Bergs Sinai vorausgehen (<q type="koran"
+     versstart="095:002" versend="095:002">95:2</q>: <lang xml:lang="ar-Latn">wa-ṭūri sīnīn</lang>,
+     <q type="koran" versstart="052:001" versend="052:001">52:1</q>:
+    <lang xml:lang="ar-Latn">wa-ṭ-ṭūr</lang>). Den Sinn dieser Zusammenstellung macht das Prädikat
+    <lang xml:lang="ar-Latn">ʾamīn</lang> aus <q type="koran" versstart="095:003" versend="095:003"
+     >95:3</q> deutlich: Mekka kann aufgrund „der Sakralität seines Ḥaram (eines ‚sicheren
+    Themenos‘) neben dem vorher genannten <lang xml:lang="ar-Latn">Ṭūr Sīnīn</lang> als geheiligter
+    Ort gelten“ (<bibl Zotero_Id_1="X6J8ZZSZ" Titel_1="Frühmekkanische Suren poetische Prophetie"
+     >Neuwirth, Frühmekkanische Suren, 240</bibl>). – Ein Schwur bei der mekkanischen Kaʿba findet
+    sich auch in einem von Ibn Ḥabīb überlieferten altarabischen Orakel, s. die <q type="anmerkung"
+     versstart="093:001" versend="093:002">Anmerkung zu 93:1–2</q>.</p>
+  </text>
+  <text versstart="002" versend="002" verfasser="nisi">
+   <p><lem>ḥill]</lem> Das Wort ist mit den Lexika (<bibl Zotero_Id_1="8WQ6CTDE"
+     Titel_1="An Arabic-English lexicon derived fom the best and the most copious Eastern so">Lane,
+     Bd. 3, 619c–620a</bibl>) als Verbalsubstantiv zu <lang xml:lang="ar-Latn">ḥalla</lang>
+    aufzufassen; der Gebrauch eines Verbalsubstantivs anstelle des betreffenden Partizips ist ein
+    auch sonst gelegentlich anzutreffendes Phänomen (<bibl Zotero_Id_1="SZ3IM9DZ"
+     Titel_1="A grammar of the Arabic language">Wright, Bd. 1, 132 f.</bibl>). Zu beachten ist
+    jedoch, dass <lang xml:lang="ar-Latn">ḥill</lang> nicht zu
+    <lang xml:lang="ar-Latn">ḥalla</lang>, <lang xml:lang="ar-Latn">yaḥullu</lang>, „anhalten, sich
+    niederlassen“, sondern zu <lang xml:lang="ar-Latn">ḥalla</lang>,
+    <lang xml:lang="ar-Latn">yaḥillu</lang> mit der Bedeutung „erlaubt sein bzw. werden“ (im
+    Gegensatz zu <lang xml:lang="ar-Latn">ḥaruma</lang>) und (von Personen) „frei sein bzw. werden“
+    gehört (freundlicher Hinweis von Tilman Seidensticker). Der lexikographische Befund – der
+    allerdings auch nachkoranisch ist! – spricht damit zunächst einmal gegen Parets Übersetzung
+    „ansässig“ (vgl. auch <bibl Zotero_Id_1="X6J8ZZSZ"
+     Titel_1="Frühmekkanische Suren poetische Prophetie">Neuwirth, Frühmekkanische Suren, 238 und
+     240</bibl>, deren Verständnis des Wortes einem ähnlichen Einwand ausgesetzt ist; allerdings ist
+    Neuwirths Deutung einzelner Begrifflichkeiten fairerweise im Kontext ihrer Deutung der Sure
+    insgesamt zu betrachten, was an dieser Stelle nicht ausführlich geschehen kann). Obwohl
+    <lang xml:lang="ar-Latn">ḥalla</lang>, <lang xml:lang="ar-Latn">yaḥillu</lang> allgemein die
+    Freiheit von Verpflichtungen bezeichnen kann, ist häufig speziell die Freiheit von sakralen
+    Verpflichtungen gemeint; vgl. etwa die geläufige Kontrastierung von „heiligen“ und „profanen“
+    Monaten (<lang xml:lang="ar-Latn">šuhūr al-ḥill</lang> vs.
+    <lang xml:lang="ar-Latn">ʾašhur al-ḥurum</lang>; s. <bibl Zotero_Id_1="8WQ6CTDE"
+     Titel_1="An Arabic-English lexicon derived fom the best and the most copious Eastern so">Lane,
+     Bd. 3, 621a</bibl>).</p>
+  </text>
+  <text versstart="003" versend="003" verfasser="nisi">
+   <p><lem>wa-wālidin wa-mā walad]</lem> Zeugung und Geburt des Menschen werden in frühmekkanischer
+    Zeit noch in der früheren Schwuraussage <q type="koran" versstart="095:004" versend="095:005"
+     >95:4–5</q> (<lang xml:lang="ar-Latn">la-qad ḫalaqnă l-ʾinsāna fī ʾaḥsani taqwīm </lang> /
+    <lang xml:lang="ar-Latn">ṯumma radadnāhu ʾasfala sāfilīn</lang>) sowie in
+    <lang xml:lang="ar-Latn">ʾāyāt</lang>-Passagen wie <q type="koran" versstart="075:037"
+     versend="075:039">75:37–39</q> und Werkaffirmationen wie <q type="koran" versstart="096:001"
+     versend="096:002">96:1–2</q> thematisiert. Im Gegensatz zu diesen Parallelstellen wird die
+    Entstehung des Menschen im Mutterleib hier jedoch zunächst als Resultat eines menschlichen
+    Zeugungsaktes und nicht eines göttlichen Schöpfungsaktes beschrieben.</p>
+  </text>
+  <text versstart="004" versend="004" verfasser="nisi">
+   <p><lem>la-qad ḫalaqnă l-ʾinsāna fī kabad]</lem> Zu <lang xml:lang="ar-Latn">kabad</lang>,
+    „Bedrängnis, Mühsal, Kummer“, s. <bibl Zotero_Id_1="X76RWCZT" Titel_1="WKAS"><hi rend="italic"
+      >WKAS</hi>, s. v. <hi rend="italic">k-b-d</hi></bibl> , sowie <bibl Zotero_Id_1="8WQ6CTDE"
+     Titel_1="An Arabic-English lexicon derived fom the best and the most copious Eastern so">Lane,
+     Bd. 7, 2584b</bibl>; <lang xml:lang="ar-Latn">fī kabad</lang> hat wohl den Sinn von „zu einem
+    Dasein in Mühsal“. Vgl. auch <q type="koran" versstart="084:006" versend="084:006">84:6</q>, wo
+    ebenfalls von der das menschliche Dasein charakterisierenden Mühsal die Rede ist
+    (<lang xml:lang="ar-Latn">yā-ʾaiyuhă l-ʾinsānu ʾinnaka kādiḥun ʾilā rabbika kadḥan fa-mulāqīh</lang>).
+    Neben dieser mit dem verbalen Gebrauch der Wurzel (<lang xml:lang="ar-Latn">kabada</lang>,
+    „bedrängen“, und <lang xml:lang="ar-Latn">kābada</lang>, „ertragen, erdulden“; vgl. <bibl
+     Zotero_Id_1="X76RWCZT" Titel_1="WKAS"><hi rend="italic">WKAS</hi>, s. v. <hi rend="italic"
+      >k-b-d</hi></bibl>) übereinstimmenden Deutung finden sich in der
+    <lang xml:lang="ar-Latn">tafsīr</lang>-Literatur weitere Interpretationen: Manche Exegeten
+    wollen <lang xml:lang="ar-Latn">fī kabad</lang> als „von aufrechter Statur“ verstehen
+    (<lang xml:lang="ar-Latn">muntaṣiban bzw. fī intiṣābi l-qāmah</lang>, vgl. <bibl
+     Zotero_Id_1="4G9UJJKQ" Titel_1="Ǧamiʿ al-bayān ʿan taʾwīl āy al-Qurʾān">Ṭabarī, ad loc., Nr.
+     37269 ff.</bibl>), wieder andere deuten <lang xml:lang="ar-Latn">kabad</lang> gar als
+    Bezeichnung für den Himmel (<bibl Zotero_Id_1="4G9UJJKQ"
+     Titel_1="Ǧamiʿ al-bayān ʿan taʾwīl āy al-Qurʾān">ebd., Nr. 37277 ff.</bibl>). Solche
+    lexikalisch außerordentlich unwahrscheinlichen Paraphrasen sind wohl der Tatsache zu verdanken,
+    dass eine emphatische Aussage wie <q type="koran" versstart="090:004" versend="090:004">90:4</q>
+    dazu einlud, als konstitutiv für den Menschen angesehene Merkmale mittels fiktiver
+    Nebenbedeutungen von <lang xml:lang="ar-Latn">kabad</lang> in den Korantext zu importieren: Der
+    Kanon wird hier zur Projektionsfläche für anthropologische Reflexionen. – Die präsentische
+    Übersetzung von <lang xml:lang="ar-Latn">ḫalaqnā</lang> wurde deshalb gewählt, weil die
+    biblische Vorstellung einer urzeitlichen Erschaffung des ersten Menschen aus Erde frühmekkanisch
+    nicht explizit bezeugt ist und allgemeine Verweise auf Gottes Erschaffung des Menschen deshalb
+    eher auf die – ebenfalls als „Schöpfung“ beschriebene – Entstehung des Menschen im Mutterleib zu
+    beziehen sind (s. ausführlicher die <q type="anmerkung" versstart="096:001" versend="096:002"
+     >Anmerkung zu 96:1–2</q>; vgl. auch die – ebenfalls im Perfekt formulierte, aber präsentisch zu
+    übersetzende Anspielung auf die Erschaffung des Menschen in <q type="koran" versstart="095:004"
+     versend="095:005">95:4–5</q>:
+    <lang xml:lang="ar-Latn">la-qad ḫalaqnă l-ʾinsāna fī ʾaḥsani taqwīm</lang> /
+    <lang xml:lang="ar-Latn">ṯumma radadnāhu ʾasfala sāfilīn</lang>, wo das menschliche Altern
+    gemeint sein dürfte).</p>
+   <p>Zu weiteren negativen Aussagen über den Menschen (auch in Form einer direkten Anrede
+    desselben) s. <q type="koran" versstart="103:002" versend="103:002">103:2</q>, <q type="koran"
+     versstart="100:006" versend="100:006">100:6</q>, <q type="koran" versstart="096:006"
+     versend="096:006">96:6</q>, <q type="koran" versstart="089:015" versend="089:015">89:15</q>, <q
+     type="koran" versstart="086:005" versend="086:005">86:5</q>, <q type="koran"
+     versstart="084:006" versend="084:006">84:6</q>, <q type="koran" versstart="082:006"
+     versend="082:006">82:6</q>, <q type="koran" versstart="080:017" versend="080:017">80:17</q>, <q
+     type="koran" versstart="075:005" versend="075:005">75:5</q>, <q type="koran"
+     versstart="070:019" versend="070:019">70:19</q>. Häufig wird dabei – wie in <q type="koran"
+     versstart="086:005" versend="086:005">86:5</q>, <q type="koran" versstart="080:017"
+     versend="080:018">80:17–18</q>, <q type="koran" versstart="070:019" versend="070:019">70:19</q>
+    sowie im vorliegenden Vers <q type="koran" versstart="090:004" versend="090:004">90:4</q> – die
+    Erschaffenheit des Menschen als fundamentales Bestimmungsmerkmal in Erinnerung gebracht, das im
+    Widerspruch zu seiner konstatierten Überheblichkeit, Undankbarkeit und Unzuverlässigkeit
+    steht.</p>
+  </text>
+  <text versstart="006" versend="006" verfasser="nisi">
+   <p><lem>yaqūlu ʾahlaktu mālan lubadā]</lem> Zu <lang xml:lang="ar-Latn">lubad</lang>,
+    „übereinandergeschichtet, massenhaft“, s. <bibl Zotero_Id_1="X76RWCZT" Titel_1="WKAS">WKAS, s.
+     v. <hi rend="italic">l-b-d</hi>, Nr. 2</bibl>. Der Vers spielt auf die in der altarabischen
+    Dichtung als Tugend gewertete Verschwendungssucht des Dichter-Helden an (zum Folgenden s. <bibl
+     Zotero_Id_1="X6J8ZZSZ" Titel_1="Frühmekkanische Suren poetische Prophetie">Neuwirth,
+     Frühmekkanische Suren, 241–242</bibl>), vgl. etwa den in einem Gedicht von Taʾabbaṭa Šarran an
+    den Dichter gerichteten und offensichtlich als kleinmütig verstandenen Tadel (s. <bibl
+     Zotero_Id_1="KVZ3Q34K"
+     Titel_1="Dīwān/al-Mufaḍḍalīyāt wa-hiyā nuḫba min qaṣāʾid aš-šuʿarāʾ al-muqillīn fi ʾl-ǧāhilīya wa-awāʾil al-islām iḫtiyārhā ar-Rāwiya"
+     >Lyall 1918–1921, Bd. 1, 21</bibl> ; zitiert in <bibl Zotero_Id_1="ZB4ZXXZU"
+     Titel_1="On the art of medieval Arabic literature">Hamori 1974, 11</bibl>):
+    <lang xml:lang="ar-Latn">ʾahlakta mālan lau qaniʿta bihī</lang>, „Du hast deinen Besitz vertan,
+    hättest du ihn doch zurückbehalten!“ sowie, positiv gewendet, den folgenden Vers des ʿAntara:
+    <lang xml:lang="ar-Latn">fa-ʾiḏā šaribtu fa-ʾinnanī mustahlikun mālī</lang>, „Wann immer ich
+    trinke, dann bis zum Ruin meines Vermögens!“ (<bibl Zotero_Id_1="AFDB8IG7"
+     Titel_1="Six early Arab poets. New Edition and Concordance">Arazi / Masalha 1999, 28, Nr.
+     47:2</bibl>).</p>
+   <p>Im Gegensatz zu der hier angeprangerten ostentativen Verschwendung von Besitz, wie sie dem
+    altarabischen <lang xml:lang="ar-Latn">karam</lang>-Ideal entspricht (vgl. hierzu <bibl
+     Zotero_Id_1="GZUBHJWN"
+     Titel_1="Ich bin Labīd und das ist mein Ziel zum Problem d. Selbstbehauptung in d. altar"
+     >Müller 1981, 89–92</bibl>), wird in dem früheren Passus <q type="koran" versstart="104:002"
+     versend="104:003">104:2–3</q> eine schrankenlose Akkumulation von Besitz als scheinbarem
+    Garanten von Sicherheit, ja Unsterblichkeit kritisiert, deren Hintergrund eher eine urbane
+    Händlermentalität zu sein scheint.</p>
+  </text>
+  <text versstart="007" versend="007" verfasser="nisi">
+   <p><lem>ʾa-yaḥsabu ʾan lam yarahū ʾaḥad]</lem> Vgl. die ähnlichen Fragen in <q type="koran"
+     versstart="075:003" versend="075:003">75:3</q>
+    (<lang xml:lang="ar-Latn">ʾa-yaḥsabu l-ʾinsānu ʾallan naǧmaʿa ʿiẓāmah</lang>), <q type="koran"
+     versstart="075:036" versend="075:036">75:36</q>
+    (<lang xml:lang="ar-Latn">ʾa-yaḥsabu l-ʾinsānu ʾan yutraka sudā</lang>).</p>
+  </text>
+  <text versstart="008" versend="009" verfasser="nisi">
+   <p><lem>ʾa-lam naǧʿal lahū ʿainain / wa-lisānan wa-šafatain]</lem> Auflistungen göttlicher
+    Wohltaten begegnen wie hier häufig in Frageform, <lang xml:lang="ar-Latn">ʾa-lam</lang> + Verb,
+    „Haben wir nicht / hat er nicht …?“; vgl. die Rückblicke auf dem Verkünder erwiesene göttliche
+    Wohltaten in <q type="koran" versstart="093:006" versend="093:008">93:6–8</q> und <q
+     type="koran" versstart="094:001" versend="094:004">94:1–4</q>.</p>
+  </text>
+  <text versstart="010" versend="010" verfasser="nisi">
+   <p><lem>wa-hadaināhu n-naǧdain]</lem> Zu <lang xml:lang="ar-Latn">hadā</lang> bzw.
+    <lang xml:lang="ar-Latn">hudā</lang> vgl. die <q type="anmerkung" versstart="093:007"
+     versend="093:007">Anmerkung zu 93:7</q>. <lang xml:lang="ar-Latn">Naǧd</lang> ist eigentlich
+    „Hochland“ im Gegensatz zu <lang xml:lang="ar-Latn">ġaur</lang>, „Bodensenke“ (<bibl
+     Zotero_Id_1="8WQ6CTDE"
+     Titel_1="An Arabic-English lexicon derived fom the best and the most copious Eastern so">Lane,
+     Bd. 8, 2767b</bibl>p), bezeichnet aber auch einen „erhöhten und deutlich sichtbaren Weg“ (<bibl
+     Zotero_Id_1="PEEF36TT" Titel_1="Lisān al-ʿarab">Lisān, s. v. <hi rend="italic"
+     >n-ǧ-d</hi></bibl> : <lang xml:lang="ar-Latn">aṭ-tarīqu l-murtafiʿu l-bayyinu l-wāḍiḥ</lang>;
+    s. <bibl Zotero_Id_1="8WQ6CTDE"
+     Titel_1="An Arabic-English lexicon derived fom the best and the most copious Eastern so">Lane,
+     Bd. 8, 2767c</bibl>). Da die letztere Bedeutung mit einem Vers aus dem Dīwān des Imruʾ al-Qais
+    belegt wird (<bibl Zotero_Id_1="AFDB8IG7"
+     Titel_1="Six early Arab poets. New Edition and Concordance">Arazi / Masalha 1999,
+    117:1</bibl>), kann sie mit gewisser Wahrscheinlichkeit als authentisch gelten. Überdies heißt
+    es in <q type="koran" versstart="076:003" versend="076:003">76:3</q>:
+    <lang xml:lang="ar-Latn">ʾinnā hadaināhu s-sabīla</lang> – zweites Objekt des auch im
+    vorliegenden Vers gebrauchten Verbs <lang xml:lang="ar-Latn">hadā</lang> ist also
+    <lang xml:lang="ar-Latn">as-sabīl</lang>, „der Weg“, was dafür spricht, auch
+    <lang xml:lang="ar-Latn">naǧd</lang> in <q type="koran" versstart="090:003" versend="090:003"
+     >90:3</q> als „Weg“ und nicht als „Hochland“ zu deuten. Dafür optieren auch die islamischen
+    Exegeten, die den Dual <lang xml:lang="ar-Latn">an-naǧdain</lang> auf den Gegensatz von Gut und
+    Böse beziehen (s. z. B. <bibl Zotero_Id_1="4G9UJJKQ"
+     Titel_1="Ǧamiʿ al-bayān ʿan taʾwīl āy al-Qurʾān">Ṭabarī, ad loc.</bibl>). Problematisch daran
+    könnte scheinen, dass ja eigentlich nur der Weg der Tugend beschwerlich und insofern
+    metaphorisch als „erhöht“ darstellbar ist. Die Konnotation der Höhe tritt aber wohl hinter
+    diejenige der deutlichen Erkennbarkeit zurück, so dass <lang xml:lang="ar-Latn">naǧd</lang>
+    einfach nur „klarer Weg“ bedeutet; <lang xml:lang="ar-Latn">naǧd</lang> ist also allgemeiner als
+    <lang xml:lang="ar-Latn">ʿaqaba</lang> („Steilweg“) im folgenden Vers. Alternativ könnte man den
+    Dual mit Ahrens lediglich auf Reimzwang zurückführen (<bibl Zotero_Id_1="PI6VGT74"
+     Titel_1="Muhammed als Religionsstifter">Ahrens 1935, 33, Anm. 1</bibl>):
+    <lang xml:lang="ar-Latn">an-naǧdain</lang> stünde dann für den Weg der Tugend, nicht für den Weg
+    der Tugend und den des Lasters. Doch ergibt angesichts des binären Gegensatzes von Gut und Böse
+    ein wörtliches Verständnis des Dual guten Sinn. Für eine wörtliche Deutung spricht auch ein
+    Vergleich des Verses mit <q type="koran" versstart="091:008" versend="091:008">91:8</q>,
+    <lang xml:lang="ar-Latn">fa-ʾalhamahā fuǧūrahā wa-taqwāhā</lang>: So wie Gott der Seele Laster
+    und Gottesfurcht als zwei Existenzmöglichkeiten eingibt, so führt er den Menschen an zwei Wege,
+    <lang xml:lang="ar-Latn">an-naǧdain</lang>, heran, zwischen denen er sich dann zu entscheiden
+    hat.</p>
+  </text>
+  <text versstart="011" versend="011" verfasser="nisi">
+   <p><lem>al-ʿaqaba]</lem> „<lang xml:lang="ar-Latn">ʿAqaba</lang> bezeichnet einen unwegsamen
+    Bergpfad“ (<lang xml:lang="ar-Latn">wa-l-ʿaqabatu ṭarīqun fī l-ǧabali waʿrun</lang>; <bibl
+     Zotero_Id_1="PEEF36TT" Titel_1="Lisān al-ʿarab">Lisān, s. v. <hi rend="italic"
+     >ʿ-q-b</hi></bibl> ; vgl. <bibl Zotero_Id_1="8WQ6CTDE"
+     Titel_1="An Arabic-English lexicon derived fom the best and the most copious Eastern so">Lane,
+     Bd. 5, 2102b</bibl>). Neuwirth bezieht den Ausdruck auf eine spezifische urbane Räumlichkeit,
+    einen bestimmten Straßentypus (<bibl Zotero_Id_1="X6J8ZZSZ"
+     Titel_1="Frühmekkanische Suren poetische Prophetie">Neuwirth, Frühmekkanische Suren,
+     249–251</bibl>), was sich gut in ihre Gesamtdeutung der Sure einfügt, lexikographisch
+    allerdings nicht als gesichert gelten kann. – Die Verbildlichung des rechten Lebenswegs als
+    einer nur mühsam zu passierenden topographischen Gegebenheit erinnert an <q type="bibel"
+     buch="Mt" versstart="007:013" versend="007:014">Matthäus 7:13.14</q>, wo der rechte Lebensweg
+    als eine „enge Pforte“ veranschaulicht wird, zu der ein „schmaler Weg“ führt (vgl. <bibl
+     Zotero_Id_1="W242HJS4" Titel_1="A commentary on the Qurān">Bell, Commentary</bibl> , zu <q
+     type="koran" versstart="090:010" versend="090:010">90:10</q>, sowie <bibl
+     Zotero_Id_1="2QXJQQCR" Titel_1="Bibel und Koran eine Synopse gemeinsamer Überlieferungen">Thyen
+     2000, 218 f.</bibl>). Allerdings ist nicht ganz klar, inwiefern der in <q type="koran"
+     versstart="090:012" versend="090:016">90:12–16</q> näher bestimmte Weg der Tugend
+    beschwerlicher ist als die dem altarabischen Heldenideal entsprechende gänzliche
+    Besitzverschwendung, die in <q type="koran" versstart="090:006" versend="090:006">V. 6</q>
+    anklingt (ich verdanke diese Überlegung David Kiltz).</p>
+  </text>
+  <text versstart="013" versend="016" verfasser="nisi">
+   <p>Der Tugendkatalog ist offensichtlich biblisch geprägt (zum prophetischen Topos der gebotenen
+    Unterstützung von Waisen und Armen s. allg. die <q type="anmerkung" versstart="107:002"
+     versend="107:003">Anmerkung zu 107:2–3</q> mit weiteren koranischen Parallelstellen) und weist
+    insbesondere deutliche Anklänge an <q type="bibel" buch="Jes" versstart="058:006"
+     versend="058:007">Jesaja 58:6–7</q> auf (der entsprechende Hinweis in <bibl
+     Zotero_Id_1="X6J8ZZSZ" Titel_1="Frühmekkanische Suren poetische Prophetie">Neuwirth,
+     Frühmekkanische Suren, 244</bibl> basiert auf einer früheren Fassung des vorliegenden
+    Kommentars): „Nein, das ist ein Fasten, wie ich es liebe: die Fesseln des Unrechts zu lösen, die
+    Stricke des Jochs zu entfernen, die Versklavten freizulassen, jedes Joch zu zerbrechen [vgl. <q
+     type="koran" versstart="090:013" versend="090:013">90:13</q>], / an die Hungrigen dein Brot
+    auszuteilen [vgl. <q type="koran" versstart="090:014" versend="090:014">90:14</q>], die
+    obdachlosen Armen ins Haus aufzunehmen, wenn du einen Nackten siehst, ihn zu bekleiden [vgl. <q
+     type="koran" versstart="090:016" versend="090:016">90:16</q>] und dich deinen Verwandten nicht
+    zu entziehen [vgl. <q type="koran" versstart="090:015" versend="090:015">90:15</q>].“ Auch in
+    der Jesaja-Stelle antwortet der Tugendkatalog auf eine Frage, allerdings nicht die nach dem
+    „steilen Weg“, sondern nach einem „Fasten …, das dem Herrn gefällt“; wie im Koran steht auch in
+    der Bibelstelle die Befreiung von Sklaven am Anfang, und wie im Koran werden daraufhin u. a.
+    Arme und Verwandte als Empfänger von Hilfeleistungen hervorgehoben.</p>
+  </text>
+  <text versstart="015" versend="016" verfasser="nisi">
+   <p><lem>yatīman ḏā maqrabah / ʾau miskīnan ḏā matrabah]</lem> Waisen und Arme – die bereits in
+    der biblischen Literatur die schwächsten Glieder der Gesellschaft repräsentieren und damit in
+    besonderer Weise karitativer Zuwendung bedürftig sind – wurden bereits in <q type="koran"
+     versstart="107:002" versend="107:003">107:2–3</q>
+    (<lang xml:lang="ar-Latn">fa-ḏālika llaḏī yaduʿʿu l-yatīm / wa-lā yaḥuḍḍu ʿalā ṭaʿāmi l-miskīn</lang>)
+    zusammen genannt; sie erscheinen auch in dem ungefähr gleichzeitigen Passus <q type="koran"
+     versstart="089:017" versend="089:018">89:17–18</q>
+    (<lang xml:lang="ar-Latn">kallā bal lā tukrimūna l-yatīm / wa-lā taḥāḍḍūna ʿalā ṭaʿāmi l-miskīn</lang>).
+    Zum Typus des Armen vgl. frühmekkanisch noch die wohl späteren Stellen <q type="koran"
+     versstart="074:044" versend="074:044">74:44</q>
+    (<lang xml:lang="ar-Latn">wa-lam naku nuṭʿimu l-miskīn</lang>), <q type="koran"
+     versstart="068:024" versend="068:024">68:24</q>
+    (<lang xml:lang="ar-Latn">ʾan lā yadḫulannahă l-yauma ʿalaikum miskīn</lang>) und <q
+     type="koran" versstart="069:034" versend="069:034">69:34</q>
+    (<lang xml:lang="ar-Latn">wa-lā yaḥuḍḍu ʿalā ṭaʿāmi l-miskīn</lang>).</p>
+  </text>
+  <text versstart="017" versend="017" verfasser="nisi">
+   <p><lem>ṯumma kāna mina llaḏīna ʾāmanū wa-tawāṣau bi-ṣ-ṣabri wa-tawāṣau bi-l-marḥamah]</lem> Vgl.
+    ähnlich den wohl ebenfalls sekundären <q type="koran" versstart="103:003" versend="103:003">Vers
+     103:3</q>
+    (<lang xml:lang="ar-Latn">ʾillā llaḏīna ʾāmanū wa-ʿamilŭ ṣ-ṣāliḥāti wa-tawāṣau bi-l-ḥaqqi wa-tawāṣau bi-ṣ-ṣabr</lang>).
+    Zum Verb <lang xml:lang="ar-Latn">ʾāmana</lang> s. die <q type="anmerkung" versend="069:033"
+     versstart="069:033">Anmerkung zu 69:33</q>.</p>
+  </text>
+  <text versstart="018" versend="019" verfasser="nisi">
+   <p><lem>ʾaṣḥābu l-maimanah, ʾasḥābu l-mašʾamah]</lem> Vgl. <q type="koran" versstart="056:008"
+     versend="056:009">56:8–9</q>, wo ebenfalls die
+    <lang xml:lang="ar-Latn">ʾaṣḥāb al-maimana</lang> und die
+    <lang xml:lang="ar-Latn">ʾasḥāb al-mašʾama</lang> einander entgegengesetzt werden; später in
+    derselben Sure (<q type="koran" versstart="056:027" versend="056:027">56:27</q>.<q type="koran"
+     versstart="056:041" versend="056:041">41</q>.<q type="koran" versstart="056:090"
+     versend="056:091">90.91</q>) ist in demselben Sinn von den
+    <lang xml:lang="ar-Latn">ʾaṣḥāb al-yamīn</lang> und den
+    <lang xml:lang="ar-Latn">ʾasḥāb aš-šimāl</lang> die Rede. Vgl. auch <q type="koran"
+     versstart="074:039" versend="074:039">74:39</q>
+    (<lang xml:lang="ar-Latn">ʾillā ʾaṣḥāba l-yamīn</lang>). <bibl Zotero_Id_1="X9T7RF7R"
+     Titel_1="Der Koran Kommentar und Konkordanz">Paret (Kommentar, ad loc.)</bibl> verweist noch
+    auf Stellen wie <q type="koran" versstart="069:019" versend="069:024">69:19–24</q>, <q
+     type="koran" versstart="069:025" versend="069:037">69:25–37</q>, <q type="koran"
+     versstart="084:007" versend="084:009">84:7–9</q>, <q type="koran" versstart="084:010"
+     versend="084:015">84:10–15</q> und <q type="koran" versstart="017:071" versend="017:071"
+     >17:71</q>, wo es heißt, am Jüngsten Tag würde den Menschen ihr Tatenregister in die rechte
+    oder linke Hand gegeben werden, doch ist in der vorliegenden <q type="koran" versstart="090:000"
+     versend="090:020">Sure 90</q> und auch in <q type="koran" versstart="056:000" versend="056:096"
+     >Sure 56</q> wohl eher gemeint, dass die Seligen und Verdammten jeweils auf der rechten bzw.
+    linken Seite Gottes stehen. Die Vorstellung einer Trennung der Gerichteten in solche der Rechten
+    und solche der Linken ist ein die christliche Eschatologie beherrschendes Bild, vgl. die
+    Schilderung des Weltgerichts in <q type="bibel" buch="Mt" versstart="025:031" versend="025:046"
+     >Matthäus 25:31–46</q> (vgl. <bibl Zotero_Id_1="TI3ABIQE" Titel_1="Das koranische Paradies"
+     >Horovitz 1923, 62 f.</bibl> ; s. <ref target="#TUK33">TUK, Nr. 33</ref>): „Wenn der
+    Menschensohn in seiner Herrlichkeit kommt und alle Engel mit ihm, dann wird er sich auf den
+    Thron seiner Herrlichkeit setzen. / Und alle Völker werden vor ihm zusammengerufen werden und er
+    wird sie voneinander scheiden, wie der Hirt die Schafe von den Böcken scheidet. / Er wird die
+    Schafe zu seiner Rechten (<lang xml:lang="gr-Grek">ἐκ δεξιῶν αὐτοῦ</lang>) versammeln, die Böcke
+    aber zur Linken (<lang xml:lang="gr-Grek">ἐξ εὐωνύμων</lang> =
+    <lang xml:lang="ar-Latn">al-mašʾama</lang>).“</p>
+  </text>
+  <text versstart="019" versend="019" verfasser="nisi">
+   <p><lem>wa-llaḏīna kafarū bi-ʾāyātinā]</lem> Zu <lang xml:lang="ar-Latn">ʾāyāt</lang> vgl. die <q
+     type="anmerkung" versstart="074:016" versend="074:016">Anmerkung zu 74:16</q>, zu
+    <lang xml:lang="ar-Latn">kafara</lang> die <q type="anmerkung" versstart="084:022"
+     versend="084:022">Anmerkung zu 84:22</q>.</p>
+  </text>
+  <text versstart="020" versend="020" verfasser="nisi">
+   <p><lem>ʿalaihim nārun muʾṣadah]</lem> Vgl. <q type="koran" versstart="104:008" versend="104:008"
+     >104:8</q> (<lang xml:lang="ar-Latn">ʾinnahā ʿalaihim muʾṣadah</lang>). Zu
+    <lang xml:lang="ar-Latn">nār</lang> vgl. die <q type="anmerkung" versstart="111:003"
+     versend="111:003">Anmerkung zu 111:3</q>.</p>
+  </text>
+ </anmerkungen>
+ <kommentar>
+  <text versstart="001" versend="004" verfasser="nisi">
+   <p>Die Sure wird durch zwei Schwüre eingeleitet. Wie der frühere Passus <q type="koran"
+     versstart="095:002" versend="095:003">95:2–3</q>, der „diesen sicheren Ort“ neben den Berg
+    Sinai stellt, evoziert auch der erste Schwur von <q type="koran" versstart="090:000"
+     versend="090:020">Sure 90</q> die Stadt Mekka und ihren besonderen sakralen Status, der bereits
+    in <q type="koran" versstart="106:000" versend="106:004">Sure 106</q> als Folge göttlichen
+    Schutzes erklärt wurde. Schwer zu deuten ist der parenthetische zweite Vers („wo du frei von –
+    sakralen? – Verpflichtungen bist“): Da Mekka seine Bedeutung zu einem wesentlichen Teil seiner
+    Stellung als Pilgerzentrum verdanken dürfte (vgl. <bibl Zotero_Id_1="9IPQTE9W"
+     Titel_1="Introduction">Peters 1999, xxxvi f.</bibl>), wäre
+    <lang xml:lang="lat-Latn">prima facie</lang> eher zu erwarten gewesen, dass der einleitende
+    Schwur mit einem Verweis auf den Pilgerzustand (<lang xml:lang="ar-Latn">ʾiḥrām</lang>) und die
+    sich aus ihm ergebenden sakralen Pflichten erläutert wird als mit der <hi rend="italic"
+     >Freiheit</hi> von denselben. Offenbar soll der Vers aber gerade betonen, dass der
+    Wallfahrtsort Mekka nicht nur ein Schauplatz sakraler Vollzüge ist, sondern auch ein Ort
+    profanen menschlichen Zusammenlebens, dessen Gelingen auf die in <q type="koran"
+     versstart="090:011" versend="090:016">V. 11–16</q> exemplifizierte Bereitschaft zur
+    Unterstützung schwächerer oder hilfsbedürftiger Gesellschaftsmitglieder angewiesen ist. Das
+    Verhältnis zwischen kultischem und außerkultischem Verhalten wird auch in einem anderen frühen
+    Korantext behandelt, nämlich in <q type="koran" versstart="107:000" versend="107:007">Sure
+     107</q>, die systematisch einen Konnex zwischen religiösen Überzeugungen und Praxen einerseits
+    und der moralischen Bewährung des Einzelnen im Alltag zu etablieren versucht. Vor diesem
+    Hintergrund könnte <q type="koran" versstart="090:002" versend="090:002">V. 90:2</q> darauf
+    anspielen, dass der Einzelne auch außerhalb von Gebet und Opferkult religiös begründeten Normen
+    untersteht.</p>
+   <p>Der zweite Schwur stellt nach der Schwuraussage <q type="koran" versstart="095:004"
+     versend="090:005">95:4–5</q> eine der ersten koranischen Anspielungen auf Zeugung und Geburt
+    des Menschen dar. In späteren Texten (vgl. bereits die frühmekkanische Passage <q type="koran"
+     versstart="075:037" versend="075:039">75:37–39</q>) erscheint das Thema in der Regel als
+    Bestandteil von hymnischen Werkaffirmationen oder von
+    <lang xml:lang="ar-Latn">ʾāyāt</lang>-Polemiken. Anders als in <q type="koran"
+     versstart="095:004" versend="095:005">95:4–5</q> und späteren Passagen wird die Entstehung des
+    Menschen im Mutterleib hier zunächst nicht explizit als Resultat eines göttlichen
+    Schöpfungsaktes (<lang xml:lang="ar-Latn">ḫalaqnā</lang>, „wir haben geschaffen“), sondern als
+    Resultat eines menschlichen Zeugungsaktes beschrieben. Das Verb
+    <lang xml:lang="ar-Latn">ḫalaqa</lang> erscheint aber unmittelbar darauf im folgenden <q
+     type="koran" versstart="090:004" versend="090:004">Vers 90:4</q> („Wir haben den Menschen zu
+    einem Dasein in Mühsal erschaffen“), so dass sich eine effektvolle Perspektivenverschiebung
+    ergibt: Nicht der in <q type="koran" versstart="090:003" versend="090:003">V. 90:3</q> evozierte
+    „Erzeuger“ hat die Zeugung seiner Nachkommen bewirkt, sondern „<hi rend="italic">wir</hi> haben
+    den Menschen erschaffen“ – womit wie auch in <q type="koran" versstart="095:004"
+     versend="095:004">95:4</q> wohl nicht die urzeitliche Erschaffung Adams, sondern die Entstehung
+    und Reifung des Embryos im Mutterleib gemeint ist. Der scheinbar autonom ablaufende Prozess des
+    Zeugens und Gezeugt-Werdens wird damit der Macht Gotte unterstellt.</p>
+   <p>Zugleich charakterisiert die Schwuraussage das dem Menschen von Gott verliehene Dasein als
+    „mühselig“. Die prononcierten moralischen Ansprüche, die im Surenfortgang erhoben werden, machen
+    deutlich, dass damit nicht primär beschwerliche Lebensbedingungen – etwa eine Gefährdung des
+    Menschen durch Mangel oder Krankheit – intendiert sind, sondern die Forderung spezifisch
+    moralischer Anstrengung, welcher der Mensch aufgrund seiner Geschaffenheit unterliegt: Die
+    menschliche Existenz ist als eine durch Gott gestiftete auf moralische Bewährung hin angelegt.
+    Wie etwa auch <q type="koran" versstart="095:001" versend="095:005">95:1–5</q> und <q
+     type="koran" versstart="096:001" versend="096:005">96:1–5</q> lässt der Eröffnungspassus von <q
+     type="koran" versstart="090:000" versend="090:020">90</q> damit die beiden Themenkomplexe
+    göttliche Schöpfung einerseits und göttliche Offenbarung und Zuwendung andererseits
+    anklingen.</p>
+  </text>
+  <text versstart="005" versend="010" verfasser="nisi">
+   <p>Das zweite Gesätz, das pronominal an den <lang xml:lang="ar-Latn">ʾinsān</lang>-Spruch am Ende
+    des Einleitungsgesätzes anknüpft, gliedert sich in zwei reimlich voneinander abgesetzte
+    Dreiergruppen. Trotz des Reimwechsels steht die formale Einheit des durch das Vorherrschen
+    polemischer Fragen in der 3. Person Singular verknüpften Gesätzes nicht in Frage. Die erste
+    Gesätzhälfte ist eine an <q type="koran" versstart="104:000" versend="104:009">104</q>
+    erinnernde Besitzpolemik; sie prangert jene menschliche Haltung vermeintlicher
+    Selbstgenügsamkeit und Nicht-Angewiesenheit auf Gott an, die in anderen frühen Koransuren mit
+    dem Verb <lang xml:lang="ar-Latn">istaġnā</lang> (<q type="koran" versstart="080:005"
+     versend="080:005">80:5</q>, <q type="koran" versstart="092:008" versend="092:008">92:8</q>, <q
+     type="koran" versstart="096:007" versend="096:007">96:7</q>) bezeichnet wird. <q type="koran"
+     versstart="090:005" versend="090:005">V. 90:5</q> und <q type="koran" versstart="090:007"
+     versend="090:007">90:7</q> fragen polemisch, ob der Mensch meine, dass niemand „Gewalt über ihn
+    habe“ oder ihn „sehe“. Die beiden Verse stehen in deutlicher sprachlicher Korrespondenz: Sie
+    beginnen anaphorisch mit <lang xml:lang="ar-Latn">ʾa-yaḥsabu</lang> und tragen
+    <lang xml:lang="ar-Latn">ʾaḥad</lang> im Reim. Zwischen den beiden polemischen Fragen <q
+     type="koran" versstart="090:005" versend="090:005">V. 90:5</q> und <q type="koran"
+     versstart="090:007" versend="090:007">90:7</q> steht das Referat einer dem Menschen
+    zugeschriebenen und seine Hybris exemplarisch illustrierenden Äußerung: „Ich habe haufenweise
+    Besitz vertan!“ Der Vers invertiert einen ursprünglich positiv konnotierten Topos der
+    altarabischen Dichtung, die dem altarabischen <lang xml:lang="ar-Latn">karam</lang>-Ideal
+    entsprechende ostentative Verschwendung von Besitz. (Das positive Gegenstück hierzu, die
+    gottgefällige Umgangsweise mit Besitz, stellen dann <q type="koran" versstart="090:013"
+     versend="090:016">V. 90:13–16</q> dar.)</p>
+   <p>Der zweite, ebenfalls aus drei Versen bestehende Gesätzteil besteht aus einer
+    <lang xml:lang="ar-Latn">ʾāyāt</lang>-Polemik, die Gottes Ausstattung des Menschen mit Sehsinn,
+    Sprechwerkzeugen und moralischer Orientierung aufzählt und damit auf die bereits in <q
+     type="koran" versstart="090:004" versend="090:004">V. 90:4</q> festgehaltene Geschaffenheit des
+    Menschen zurückverweist. Der inhaltliche Kontrast zwischen der Selbstherrlichkeit des Menschen
+    und der von ihm empfangenen, jedoch verkannten Fürsorge Gottes (<q type="koran"
+     versstart="090:008" versend="090:010">V. 90:8–10</q>) wird durch den Reimwechsel zwischen <q
+     type="koran" versstart="090:007" versend="090:007">V. 90:7</q> und <q type="koran"
+     versstart="090:008" versend="090:008">90:8</q> auch literarisch akzentuiert. Am Ende des
+    Gesätzes wird erneut festgehalten, daß aus Gottes Erschaffung des Menschen eine besondere
+    Verpflichtung folgt. Nachdem sie in <q type="koran" versstart="090:004" versend="090:004">V.
+     90:4</q> zunächst unbestimmt als „Mühsal“ beschrieben worden war, wird jetzt präzisiert, dass
+    es sich um die dem Menschen aufgegebene Entscheidung zwischen „zwei Wegen“,
+    <lang xml:lang="ar-Latn">an-naǧdain</lang>, also zwischen „Gottesfurcht“ und „Laster“ (<q
+     type="koran" versstart="091:008" versend="091:008">91:8</q>) handelt. Der behauptete
+    Zusammenhang zwischen Gottes Gnadenerweisen gegenüber dem Menschen und der menschlichen
+    Verpflichtung zu einer angemessenen Reaktion hierauf wird auch durch die als Reim fungierende
+    Dualendung (<lang xml:lang="ar-Latn">ʿainain</lang>, <lang xml:lang="ar-Latn">šafatain</lang>,
+    <lang xml:lang="ar-Latn">naǧdain</lang>) unterstrichen: Wie im ersten Teil von <q type="koran"
+     versstart="091:000" versend="091:015">Sure 91</q> wird das die natürliche Welt insgesamt und
+    auch den menschlichen Mikrokosmos durchziehende Phänomen der Dualität typologisch mit dem
+    Gegensatz zwischen gut und böse verknüpft.</p>
+  </text>
+  <text versstart="011" versend="016" verfasser="nisi">
+   <p>Mit Beginn des dritten Gesätzes – das sich immer noch pronominal auf den in <q type="koran"
+     versstart="090:004" versend="090:004">V. 90:4</q> eingeführten
+    <lang xml:lang="ar-Latn">ʾinsān</lang> zurückbezieht – schlägt das zuvor von rhetorischen Fragen
+    geprägte Register des Textes in einen kategorischen Tonfall um: Der Mensch, der durch die
+    göttliche Schöpfung zur Einsicht befähigt (<q type="koran" versstart="090:008" versend="090:009"
+     >V. 90:8–9</q>) und mit der Entscheidung zwischen gut und böse konfrontiert ist (<q
+     type="koran" versstart="090:010" versend="090:010">V. 90:10</q>), wird an dem zuvor begründeten
+    moralischen Standard gemessen und mit knappen Worten abgeurteilt (<q type="koran"
+     versstart="090:011" versend="090:011">V. 90:11</q>): Sein Umgang mit den göttlichen
+    Schöpfungsgaben lässt zu wünschen übrig. Dabei verbleibt das Urteil in der topologischen
+    Bildlichkeit des vorangehenden Verses: Dem Menschen wird vorgeworfen, unter den beiden „Wegen“
+    nicht den „steilen Pfad eingeschlagen“ zu haben. Die metaphorische Darstellung des geforderten
+    Lebenswandels als Erklimmen einer Anhöhe schlägt den Bogen zurück zu der bereits in <q
+     type="koran" versstart="090:004" versend="090:004">V. 90:4</q> ausgesagten Beschwerlichkeit des
+    menschlichen Daseins. Nachdem das zweite Gesätz ein exemplarisches Negativbeispiel vorgeführt
+    hat, folgt nun – nach einer als retardierendes Moment fungierenden Lehrfrage – eine
+    abschließende Positivbestimmung des vom Menschen geforderten Lebenswandels: Anstelle einer
+    letzten Endes nur der Selbsterhöhung dienenden Besitzverschwendung wird dazu angehalten, Besitz
+    zur gezielten Fürsorge für schwächere und notleidende Mitmenschen einzusetzen – eine Fürsorge,
+    die letztlich die zuvor in Erinnerung gebrachte Fürsorge Gottes für den Menschen imitiert.</p>
+   <p>Der gesamte Tugendkatalog <q type="koran" versstart="090:013" versend="090:016">V.
+     90:13–16</q> ist biblisch geprägt und lässt sich als Adaption von <q type="bibel" buch="Jes"
+     versstart="058:005" versend="058:007">Jesaja 58:5–7</q> lesen. Allerdings haben beide Passagen
+    verschiedene thematische Kontexte: In <q type="bibel" buch="Jes" versstart="058:005"
+     versend="058:007">Jesaja 58:5–7</q> – wo im Gegensatz zum Koran nur das Volk Israel (<q
+     type="bibel" buch="Jes" versstart="058:001" versend="058:001">Jesaja 58:1</q>: „mein Volk“) und
+    nicht die gesamte Menschheit angesprochen ist – geht es vor allem um die Feststellung, dass
+    wahre Frömmigkeit sich nicht in äußerlichen kultischen Verrichtungen erschöpft. Die koranische
+    Passage dagegen stellt darauf ab, dass die dem Menschen in der Schöpfung zuteil gewordene Gnade
+    ihm eine moralische Verpflichtung auferlegt, den „steilen Pfad“ einzuschlagen. Die Anklänge an
+     <q type="bibel" buch="Jes" versstart="058:005" versend="058:007">Jesaja 58:5–7</q> sind
+    gleichwohl deutlich: Die durch die Anspielung in <q type="koran" versstart="090:006"
+     versend="090:006">V. 90:6</q> repräsentierte Dichtung und das von ihr transportierte heroische
+    Weltbild werden durch eine – vielleicht aus gottesdienstlichen Lesungen vertraute –
+    Bibel-Referenz überschrieben. Eine Bibelpassage wird damit als Bundesgenosse in der
+    Auseinandersetzung mit dem Lebensideal der zum Zeitpunkt der Koranverkündigung kanonischen
+    altarabischen Dichtung adaptiert. Trotz seiner biblischen Resonanz ist jedoch auch der
+    Tugendkatalog wiederum poetisch kodiert: „Während <lang xml:lang="ar-Latn">masġaba</lang> [<q
+     type="koran" versstart="090:014" versend="090:014">V. 90:14</q>] ein übliches Lexem ist, sind
+    die Qualifikationen der Waise und des Armen mit eigens in Analogie zu
+    <lang xml:lang="ar-Latn">masġaba</lang> gebildeten morphologischen Ableitungen
+    [<lang xml:lang="ar-Latn">ḏū maqraba</lang>, <lang xml:lang="ar-Latn">ḏū matraba</lang>]
+    ausgedrückt“, wie sie in der altarabischen Dichtung üblich sind (<bibl Zotero_Id_1="X6J8ZZSZ"
+     Titel_1="Frühmekkanische Suren poetische Prophetie">Neuwirth, Frühmekkanische Suren,
+    244</bibl>). Der biblisch inspirierte, in literarischer Hinsicht jedoch gezielt arabisierte
+    Tugendkatalog stellt damit den Kulminationspunkt der gesamten Sure dar: Er expliziert die
+    normativen Konsequenzen der in <q type="koran" versstart="090:004" versend="090:004">V. 90:4</q>
+    summarisch konstatierten und im zweiten Gesätz dann anhand der menschlichen Sinnesorgane
+    exemplarisch veranschaulichten göttlichen Zuwendung.</p>
+  </text>
+  <text versstart="017" versend="020" verfasser="nisi">
+   <p>Das wohl als Zusatz zu betrachtende Schlussgesätz <q type="koran" versstart="090:017"
+     versend="090:020">V. 90:17–20</q> lässt den Text mit einer Beschreibung des Jenseitsschicksals
+    von Seligen und Verdammten schließen; damit wird der Sure nachträglich eine Verdeutlichung der
+    eschatologischen Konsequenzen der dem Menschen offenstehenden gegensätzlichen Wege angefügt.
+    Während der Text in seiner ursprünglichen Gestalt vor allem einen moralischen Anspruch
+    formuliert, kulminiert er jetzt in einer diametralen Abgrenzung von Seligen und Verdammten: Der
+    Gegensatz zweier moralischer Wahlmöglichkeiten des Einzelnen wird in zwei entsprechende
+    Gruppenidentitäten verlängert. Dies dürfte auch eine reale Eskalation im Verhältnis zwischen
+    Anhängern und Gegnern Muḥammads reflektieren. Das sekundäre Schlussgesätz <q type="koran"
+     versstart="090:017" versend="090:020">V. 17–20</q>, welches das Reimschema von <q type="koran"
+     versstart="090:011" versend="090:016">V. 90:11–16</q> fortsetzt, fügt sich kompositorisch gut
+    in die Sure ein, da es dieselbe Verszahl wie das Anfangsgesätz <q type="koran"
+     versstart="090:001" versend="090:004">V. 1–4</q> hat, wodurch sich die chiastischen
+    Proportionen 4+6+6+4 ergeben.</p>
+  </text>
+ </kommentar>
+</korankommentar>

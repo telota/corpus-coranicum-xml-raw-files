@@ -1,0 +1,435 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Quran xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="Textstruktur.xsd">
+    <Sure id="050" translator="Angelika Neuwirth" webtauglich="true">
+        <Hauptteil id="0">
+            <Abschnitt id="0">
+                <Gesaetz n="0">
+                    <Vers n="000">
+                        <Teilvers n="000" reim="2n/m">
+                            <Kolon lang="ar" Einschub="false" n="0">بِسۡمِ ٱللَّهِ ٱلرَّحۡمَٰنِ ٱلرَّحِيمِ</Kolon>
+                            <Kolon lang="de" Einschub="false" n="0">Im Namen Gottes, des barmherzigen Erbarmers!</Kolon>
+                        </Teilvers>
+                    </Vers>
+                </Gesaetz>
+            </Abschnitt>
+        </Hauptteil>
+        <Hauptteil id="1">
+            <Abschnitt id="1">
+                <Gesaetz n="1">
+                    <Vers n="001">
+                        <Teilvers n="001" reim="3K2K, 3K(K)2K" reimkommentar="mit vorherrschenden Explosiven">
+                            <Kolon Einschub="false" lang="ar" n="1">قٓ ۚ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="1">Qāf.</Kolon>
+                            <Kolon Einschub="false" lang="ar" n="2">وَٱلۡقُرۡءَانِ ٱلۡمَجِيدِ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="2">Bei der preisenswerten Lesung!</Kolon>
+                        </Teilvers>
+                    </Vers>
+                </Gesaetz>
+                <Gesaetz n="2">
+                    <Vers n="002">
+                        <Teilvers n="002" reim="3K2K, 3K(K)2K" reimkommentar="mit vorherrschenden Explosiven">
+                            <Kolon Einschub="false" lang="ar" n="3">بَلۡ عَجِبُوٓا۟ أَن جَآءَهُم مُّنذِرٌۭ مِّنۡهُمۡ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="3">Doch nein! Sie wundern sich, daß ein Warner aus ihrer Mitte zu ihnen kam.</Kolon>
+                            <Kolon Einschub="false" lang="ar" n="4">فَقَالَ ٱلۡكَٰفِرُونَ هَٰذَا شَىۡءٌ عَجِيبٌ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="4">Die Leugner sprechen: »Ein wundersames Ding!</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="003">
+                        <Teilvers n="003" reim="3K2K, 3K(K)2K" reimkommentar="mit vorherrschenden Explosiven">
+                            <Kolon Einschub="false" lang="ar" n="5">أَءِذَا مِتۡنَا وَكُنَّا تُرَابًۭا ۖ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="5">Wenn wir tot und zu Staub geworden sind?</Kolon>
+                            <Kolon Einschub="false" lang="ar" n="6">ذَٰلِكَ رَجۡعٌۢ بَعِيدٌۭ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="6">Das wäre eine weithergeholte Rückkehr!«</Kolon>
+                        </Teilvers>
+                    </Vers>
+                </Gesaetz>
+                <Gesaetz n="3">
+                    <Vers n="004">
+                        <Teilvers n="004" reim="3K2K, 3K(K)2K" reimkommentar="mit vorherrschenden Explosiven">
+                            <Kolon Einschub="false" lang="ar" n="7">قَدۡ عَلِمۡنَا مَا تَنقُصُ ٱلۡأَرۡضُ مِنۡهُمۡ ۖ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="7">Wir wissen wohl, was die Erde von ihnen einbehält.</Kolon>
+                            <Kolon Einschub="false" lang="ar" n="8">وَعِندَنَا كِتَٰبٌ حَفِيظٌۢ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="8">Bei uns ist eine Schrift, die alles bewahrt.</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="005">
+                        <Teilvers n="005" reim="3K2K, 3K(K)2K" reimkommentar="mit vorherrschenden Explosiven">
+                            <Kolon Einschub="false" lang="ar" n="9">بَلۡ كَذَّبُوا۟ بِٱلۡحَقِّ لَمَّا جَآءَهُمۡ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="9">Doch nein! Sie erklären die Wahrheit, da sie zu ihnen kommt,</Kolon>
+                            <Kolon Einschub="false" lang="ar" n="10">فَهُمۡ فِیٓ أَمۡرٍۢ مَّرِيجٍ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="10">für Lüge und sind gänzlich in Verwirrung.</Kolon>
+                        </Teilvers>
+                    </Vers>
+                </Gesaetz>
+            </Abschnitt>
+        </Hauptteil>
+        <Hauptteil id="2">
+            <Abschnitt id="1">
+                <Gesaetz n="4">
+                    <Vers n="006">
+                        <Teilvers n="006" reim="3K2K, 3K(K)2K" reimkommentar="mit vorherrschenden Explosiven">
+                            <Kolon Einschub="false" lang="ar" n="11">أَفَلَمۡ يَنظُرُوٓا۟ إِلَى ٱلسَّمَآءِ فَوۡقَهُمۡ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="11">Sehen sie nicht, daß wir den Himmel über ihnen erhoben</Kolon>
+                            <Kolon Einschub="false" lang="ar" n="12">كَيۡفَ بَنَيۡنَٰهَا وَزَيَّنَّٰهَا</Kolon>
+                            <Kolon Einschub="false" lang="de" n="12">und geschmückt haben</Kolon>
+                            <Kolon Einschub="false" lang="ar" n="13">وَمَا لَهَا مِن فُرُوجٍۢ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="13">und er keine Brüche zeigt?</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="007">
+                        <Teilvers n="007" reim="3K2K, 3K(K)2K" reimkommentar="mit vorherrschenden Explosiven">
+                            <Kolon Einschub="false" lang="ar" n="14">وَٱلۡأَرۡضَ مَدَدۡنَٰهَا</Kolon>
+                            <Kolon Einschub="false" lang="de" n="14">Und die Erde ausgebreitet haben,</Kolon>
+                            <Kolon Einschub="false" lang="ar" n="15">وَأَلۡقَيۡنَا فِيهَا رَوَٰسِیَ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="15">festgegründete Berge darauf gesetzt</Kolon>
+                            <Kolon Einschub="false" lang="ar" n="16">وَأَنۢبَتۡنَا فِيهَا مِن كُلِّ زَوۡجٍۭ بَهِيجٍۢ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="16">und allerlei schön anzusehende Arten —</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="008">
+                        <Teilvers n="008" reim="3K2K, 3K(K)2K" reimkommentar="mit vorherrschenden Explosiven">
+                            <Kolon Einschub="false" lang="ar" n="17">تَبۡصِرَةًۭ وَذِكۡرَىٰ لِكُلِّ عَبۡدٍۢ مُّنِيبٍۢ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="17">zu Lehre und Ermahnung für alle bußfertigen Gottesdiener.</Kolon>
+                        </Teilvers>
+                    </Vers>
+                </Gesaetz>
+                <Gesaetz n="5">
+                    <Vers n="009">
+                        <Teilvers n="009" reim="3K2K, 3K(K)2K" reimkommentar="mit vorherrschenden Explosiven">
+                            <Kolon Einschub="false" lang="ar" n="18">وَنَزَّلۡنَا مِنَ ٱلسَّمَآءِ مَآءًۭ مُّبَٰرَكًۭا</Kolon>
+                            <Kolon Einschub="false" lang="de" n="18">Vom Himmel lassen wir gesegnetes Wasser herabkommen</Kolon>
+                            <Kolon Einschub="false" lang="ar" n="19">فَأَنۢبَتۡنَا بِهِۦ جَنَّٰتٍۢ وَحَبَّ ٱلۡحَصِيدِ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="19">und damit Gärten wachsen und Korn zur Ernte</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="010">
+                        <Teilvers n="010" reim="3K2K, 3K(K)2K" reimkommentar="mit vorherrschenden Explosiven">
+                            <Kolon Einschub="false" lang="ar" n="20">وَٱلنَّخۡلَ بَاسِقَٰتٍۢ لَّهَا طَلۡعٌۭ نَّضِيدٌۭ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="20">und Palmen, hochragend, mit dichtbesetzten Fruchtscheiden,‎</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="011">
+                        <Teilvers n="011" reim="3K2K, 3K(K)2K" reimkommentar="mit vorherrschenden Explosiven">
+                            <Kolon Einschub="false" lang="ar" n="21">رِّزۡقًۭا لِّلۡعِبَادِ ۖ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="21">den Gottesdienern zum Unterhalt.‎</Kolon>
+                            <Kolon Einschub="false" lang="ar" n="22">وَأَحۡيَيۡنَا بِهِۦ بَلۡدَةًۭ مَّيۡتًۭا ۚ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="22">Totes Land beleben wir damit.‎</Kolon>
+                            <Kolon Einschub="false" lang="ar" n="23">كَذَٰلِكَ ٱلۡخُرُوجُ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="23">So wird die Auferstehung sein.‎</Kolon>
+                        </Teilvers>
+                    </Vers>
+                </Gesaetz>
+                <Gesaetz n="6">
+                    <Vers n="012">
+                        <Teilvers n="012" reim="3K2K, 3K(K)2K" reimkommentar="mit vorherrschenden Explosiven">
+                            <Kolon Einschub="false" lang="ar" n="24">كَذَّبَتۡ قَبۡلَهُمۡ قَوۡمُ نُوحٍۢ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="24">Vor ihnen hat geleugnet das Volk Noahs,‎</Kolon>
+                            <Kolon Einschub="false" lang="ar" n="25">وَأَصۡحَٰبُ ٱلرَّسِّ وَثَمُودُ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="25">die Arser und die Ṯamūd</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="013">
+                        <Teilvers n="013" reim="3K2K, 3K(K)2K" reimkommentar="mit vorherrschenden Explosiven">
+                            <Kolon Einschub="false" lang="ar" n="26">وَعَادٌۭ وَفِرۡعَوۡنُ وَإِخۡوَٰنُ لُوطٍۢ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="26">und die ʿĀd, Pharao, die Brüder Lots,‎</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="014">
+                        <Teilvers n="014" reim="3K2K, 3K(K)2K" reimkommentar="mit vorherrschenden Explosiven">
+                            <Kolon Einschub="false" lang="ar" n="27">وَأَصۡحَٰبُ ٱلۡأَيۡكَةِ وَقَوۡمُ تُبَّعٍۢ ۚ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="27">die Leute von Laika und das Volk Tubba‎ʿs.</Kolon>
+                            <Kolon Einschub="false" lang="ar" n="28">كُلٌّۭ كَذَّبَ ٱلرُّسُلَ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="28">Alle haben die Gesandten der Lüge geziehen.‎</Kolon>
+                            <Kolon Einschub="false" lang="ar" n="29">فَحَقَّ وَعِيدِ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="29">Da erfüllte sich meine Drohung.‎</Kolon>
+                        </Teilvers>
+                    </Vers>
+                </Gesaetz>
+            </Abschnitt>
+            <Abschnitt id="2">
+                <Gesaetz n="7">
+                    <Vers n="015">
+                        <Teilvers n="015" reim="3(K)KāKā" reimkommentar="mit vorherrschenden Explosiven">
+                            <Kolon Einschub="false" lang="ar" n="30">أَفَعَيِينَا بِٱلۡخَلۡقِ ٱلۡأَوَّلِ ۚ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="30">Hat uns etwa die erste Schöpfung erschöpft? Aber nein!‎</Kolon>
+                            <Kolon Einschub="false" lang="ar" n="31">بَلۡ هُمۡ فِی لَبۡسٍۢ مِّنۡ خَلۡقٍۢ جَدِيدٍۢ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="31">Und doch zweifeln sie an einer neuen Schöpfung!‎</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="016">
+                        <Teilvers n="016" reim="3(K)KāKā" reimkommentar="mit vorherrschenden Explosiven">
+                            <Kolon Einschub="false" lang="ar" n="32">وَلَقَدۡ خَلَقۡنَا ٱلۡإِنسَٰنَ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="32">Wir erschufen den Menschen;‎</Kolon>
+                            <Kolon Einschub="false" lang="ar" n="33">وَنَعۡلَمُ مَا تُوَسۡوِسُ بِهِۦ نَفۡسُهُۥ ۖ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="33">wir wissen, was ihm zuflüstert seine Seele;‎</Kolon>
+                            <Kolon Einschub="false" lang="ar" n="34">وَنَحۡنُ أَقۡرَبُ إِلَيۡهِ مِنۡ حَبۡلِ ٱلۡوَرِيدِ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="34">wir sind ihm näher als seine Halsschlagader.‎</Kolon>
+                        </Teilvers>
+                    </Vers>
+                </Gesaetz>
+                <Gesaetz n="8">
+                    <Vers n="017">
+                        <Teilvers n="017" reim="3(K)KāKā" reimkommentar="mit vorherrschenden Explosiven">
+                            <Kolon Einschub="false" lang="ar" n="35">إِذۡ يَتَلَقَّى ٱلۡمُتَلَقِّيَانِ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="35">Dann, wenn sich begegnen die zwei sich Begegnenden,‎</Kolon>
+                            <Kolon Einschub="false" lang="ar" n="36">عَنِ ٱلۡيَمِينِ وَعَنِ ٱلشِّمَالِ قَعِيدٌۭ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="36">einer zur Rechten und einer zur Linken sitzend.‎</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="018">
+                        <Teilvers n="018" reim="3(K)KāKā" reimkommentar="mit vorherrschenden Explosiven">
+                            <Kolon Einschub="false" lang="ar" n="37">مَّا يَلۡفِظُ مِن قَوۡلٍ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="37">Kein Wort spricht er,‎</Kolon>
+                            <Kolon Einschub="false" lang="ar" n="38">إِلَّا لَدَيۡهِ رَقِيبٌ عَتِيدٌۭ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="38">ohne daß ein Beobachter darüber wachte, bereit für seine Aufgabe.‎</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="019">
+                        <Teilvers n="019" reim="3K2K, 3K(K)2K" reimkommentar="mit vorherrschenden Explosiven">
+                            <Kolon Einschub="false" lang="ar" n="39">وَجَآءَتۡ سَكۡرَةُ ٱلۡمَوۡتِ بِٱلۡحَقِّ ۖ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="39">Der Todesrausch bringt dann die Wahrheit,‎</Kolon>
+                            <Kolon Einschub="false" lang="ar" n="40">ذَٰلِكَ مَا كُنتَ مِنۡهُ تَحِيدُ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="40">das ist es, wovor du stets ausgewichen bist.‎</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="020">
+                        <Teilvers n="020" reim="3K2K, 3K(K)2K" reimkommentar="mit vorherrschenden Explosiven">
+                            <Kolon Einschub="false" lang="ar" n="41">وَنُفِخَ فِی ٱلصُّورِۚ ذَٰلِكَ يَوۡمُ ٱلۡوَعِيدِ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="41">Es wird in die Posaune geblasen.‎ Das ist der Tag der Drohverheißung.‎</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="021">
+                        <Teilvers n="021" reim="3K2K, 3K(K)2K" reimkommentar="mit vorherrschenden Explosiven">
+                            <Kolon Einschub="false" lang="ar" n="42">وَجَآءَتۡ كُلُّ نَفۡسٍۢ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="42">Und jede Seele kommt heran,‎</Kolon>
+                            <Kolon Einschub="false" lang="ar" n="43">مَّعَهَا سَآئِقٌۭ وَشَهِيدٌۭ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="43">mit ihr ein Treiber und ein Zeuge.‎</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="022">
+                        <Teilvers n="022" reim="3K2K, 3K(K)2K" reimkommentar="mit vorherrschenden Explosiven">
+                            <Kolon Einschub="false" lang="ar" n="44">لَّقَدۡ كُنتَ فِی غَفۡلَةٍۢ مِّنۡ هَٰذَا</Kolon>
+                            <Kolon Einschub="false" lang="de" n="44">Das hast du nicht bedacht.‎</Kolon>
+                            <Kolon Einschub="false" lang="ar" n="45">فَكَشَفۡنَا عَنكَ غِطَآءَكَ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="45">Nun aber haben wir dir die Binde abgezogen,‎</Kolon>
+                            <Kolon Einschub="false" lang="ar" n="46">فَبَصَرُكَ ٱلۡيَوۡمَ حَدِيدٌۭ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="46">so daß dein Blick heute scharf ist.‎</Kolon>
+                        </Teilvers>
+                    </Vers>
+                </Gesaetz>
+                <Gesaetz n="9">
+                    <Vers n="023">
+                        <Teilvers n="023" reim="3K2K, 3K(K)2K" reimkommentar="mit vorherrschenden Explosiven">
+                            <Kolon Einschub="false" lang="ar" n="47">وَقَالَ قَرِينُهُۥ هَٰذَا مَا لَدَىَّ عَتِيدٌ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="47">Sein Gefährte spricht: »Hier ist, was ich bereithalte!«</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="024">
+                        <Teilvers n="024" reim="3K2K, 3K(K)2K" reimkommentar="mit vorherrschenden Explosiven">
+                            <Kolon Einschub="false" lang="ar" n="48">أَلۡقِيَا فِی جَهَنَّمَ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="48">‎»Ihr beide, werft jeden hartnäckigen Leugner</Kolon>
+                            <Kolon Einschub="false" lang="ar" n="49">كُلَّ كَفَّارٍ عَنِيدٍۢ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="49">in den Höllenbrand,‎</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="025">
+                        <Teilvers n="025" reim="3K2K, 3K(K)2K" reimkommentar="mit vorherrschenden Explosiven">
+                            <Kolon Einschub="false" lang="ar" n="50">مَّنَّاعٍۢ لِّلۡخَيۡرِ مُعۡتَدٍۢ مُّرِيبٍ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="50">der Gutes vorenthält, Übertretungen begeht und Zweifel sät</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="026">
+                        <Teilvers n="026" reim="3K2K, 3K(K)2K" reimkommentar="mit vorherrschenden Explosiven">
+                            <Kolon Einschub="false" lang="ar" n="51">ٱلَّذِی جَعَلَ مَعَ ٱللَّهِ إِلَٰهًا ءَاخَرَ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="51">und Gott einen anderen Gott zur Seite stellt!‎</Kolon>
+                            <Kolon Einschub="false" lang="ar" n="52">فَأَلۡقِيَاهُ فِی ٱلۡعَذَابِ ٱلشَّدِيدِ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="52">Werft ihn in die schwere Pein!«</Kolon>
+                        </Teilvers>
+                    </Vers>
+                </Gesaetz>
+                <Gesaetz n="10">
+                    <Vers n="027">
+                        <Teilvers n="027" reim="3K2K, 3K(K)2K" reimkommentar="mit vorherrschenden Explosiven">
+                            <Kolon Einschub="false" lang="ar" n="53">قَالَ قَرِينُهُۥ رَبَّنَا مَآ أَطۡغَيۡتُهُۥ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="53">Sein Gefährte spricht: »Unser Herr! Nicht ich verführte ihn.‎</Kolon>
+                            <Kolon Einschub="false" lang="ar" n="54">وَلَٰكِن كَانَ فِی ضَلَٰلٍۭ بَعِيدٍۢ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="54">Er selbst war ganz verirrt.«</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="028">
+                        <Teilvers n="028" reim="3K2K, 3K(K)2K" reimkommentar="mit vorherrschenden Explosiven">
+                            <Kolon Einschub="false" lang="ar" n="55">قَالَ لَا تَخۡتَصِمُوا۟ لَدَىَّ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="55">Gott spricht: »Rechtet nicht vor mir!‎</Kolon>
+                            <Kolon Einschub="false" lang="ar" n="56">وَقَدۡ قَدَّمۡتُ إِلَيۡكُم بِٱلۡوَعِيدِ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="56">Ich hatte euch meine Drohverheißung vorausgeschickt.‎</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="029">
+                        <Teilvers n="029" reim="3K2K, 3K(K)2K" reimkommentar="mit vorherrschenden Explosiven">
+                            <Kolon Einschub="false" lang="ar" n="57">مَا يُبَدَّلُ ٱلۡقَوۡلُ لَدَىَّ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="57">Was ich gesprochen habe, wird nicht geändert.‎</Kolon>
+                            <Kolon Einschub="false" lang="ar" n="58">وَمَآ أَنَا۠ بِظَلَّٰمٍۢ لِّلۡعَبِيدِ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="58">Ich tue den Gottesdienern kein Unrecht.«</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="030">
+                        <Teilvers n="030" reim="3K2K, 3K(K)2K" reimkommentar="mit vorherrschenden Explosiven">
+                            <Kolon Einschub="false" lang="ar" n="59">يَوۡمَ نَقُولُ لِجَهَنَّمَ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="59">Am Tag, da wir zur Hölle sprechen:</Kolon>
+                            <Kolon Einschub="false" lang="ar" n="60">هَلِ ٱمۡتَلَأۡتِ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="60">»Bist du voll?«,‎</Kolon>
+                            <Kolon Einschub="false" lang="ar" n="61">وَتَقُولُ هَلۡ مِن مَّزِيدٍۢ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="61">und sie erwidert: »Gibt es noch mehr?«</Kolon>
+                        </Teilvers>
+                    </Vers>
+                </Gesaetz>
+            </Abschnitt>
+            <Abschnitt id="3">
+                <Gesaetz n="11">
+                    <Vers n="031">
+                        <Teilvers n="031" reim="3K2K, 3K(K)2K" reimkommentar="mit vorherrschenden Explosiven">
+                            <Kolon Einschub="false" lang="ar" n="62">وَأُزۡلِفَتِ ٱلۡجَنَّةُ لِلۡمُتَّقِينَ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="62">Den Gottesfürchtigen aber wird das Paradies nahegebracht,‎</Kolon>
+                            <Kolon Einschub="false" lang="ar" n="63">غَيۡرَ بَعِيدٍ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="63">nicht weit entfernt.‎</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="032">
+                        <Teilvers n="032" reim="3K2K, 3K(K)2K" reimkommentar="mit vorherrschenden Explosiven">
+                            <Kolon Einschub="false" lang="ar" n="64">هَٰذَا مَا تُوعَدُونَ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="64">‎»Das ist es, was euch verheißen war,‎</Kolon>
+                            <Kolon Einschub="false" lang="ar" n="65">لِكُلِّ أَوَّابٍ حَفِيظٍۢ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="65">jedem, der reumütig ist und sich zurückhält,‎</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="033">
+                        <Teilvers n="033" reim="3K2K, 3K(K)2K" reimkommentar="mit vorherrschenden Explosiven">
+                            <Kolon Einschub="false" lang="ar" n="66">مَّنۡ خَشِیَ ٱلرَّحۡمَٰنَ بِٱلۡغَيۡبِ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="66">der den Barmherzigen im Verborgenen fürchtet</Kolon>
+                            <Kolon Einschub="false" lang="ar" n="67">وَجَآءَ بِقَلۡبٍۢ مُّنِيبٍ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="67">und mit bußfertigem Herzen kommt.‎</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="034">
+                        <Teilvers n="034" reim="3K2K, 3K(K)2K" reimkommentar="mit vorherrschenden Explosiven">
+                            <Kolon Einschub="false" lang="ar" n="68">ٱدۡخُلُوهَا بِسَلَٰمٍۢ ۖ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="68">Geh ein in Frieden in das Paradies!‎</Kolon>
+                            <Kolon Einschub="false" lang="ar" n="69">ذَٰلِكَ يَوۡمُ ٱلۡخُلُودِ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="69">Das ist der Tag der Ewigkeit.«</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="035">
+                        <Teilvers n="035" reim="3K2K, 3K(K)2K" reimkommentar="mit vorherrschenden Explosiven">
+                            <Kolon Einschub="false" lang="ar" n="70">لَهُم مَّا يَشَآءُونَ فِيهَا</Kolon>
+                            <Kolon Einschub="false" lang="de" n="70">Sie haben darin, was sie wollen.‎</Kolon>
+                            <Kolon Einschub="false" lang="ar" n="71">وَلَدَيۡنَا مَزِيدٌۭ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="71">Und bei uns ist noch mehr für sie.‎</Kolon>
+                        </Teilvers>
+                    </Vers>
+                </Gesaetz>
+                <Gesaetz n="12">
+                    <Vers n="036">
+                        <Teilvers n="036" reim="3K2K, 3K(K)2K" reimkommentar="mit vorherrschenden Explosiven">
+                            <Kolon Einschub="false" lang="ar" n="72">وَكَمۡ أَهۡلَكۡنَا قَبۡلَهُم مِّن قَرۡنٍ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="72">Wie viele Generationen vor ihnen ließen wir zugrunde gehen,‎</Kolon>
+                            <Kolon Einschub="false" lang="ar" n="73">هُمۡ أَشَدُّ مِنۡهُم بَطۡشًۭا</Kolon>
+                            <Kolon Einschub="false" lang="de" n="73">die in ihrer Gewalt stärker waren,‎</Kolon>
+                            <Kolon Einschub="false" lang="ar" n="74">فَنَقَّبُوا۟ فِی ٱلۡبِلَٰدِ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="74">die das Land bis in die Tiefen absuchten:‎</Kolon>
+                            <Kolon Einschub="false" lang="ar" n="75">هَلۡ مِن مَّحِيصٍ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="75">Gibt es denn kein Entrinnen?‎</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="037">
+                        <Teilvers n="037" reim="3K2K, 3K(K)2K" reimkommentar="mit vorherrschenden Explosiven">
+                            <Kolon Einschub="false" lang="ar" n="76">إِنَّ فِی ذَٰلِكَ لَذِكۡرَىٰ لِمَن كَانَ لَهُۥ قَلۡبٌ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="76">Darin ist eine Mahnung für jeden, der Verstand hat</Kolon>
+                            <Kolon Einschub="false" lang="ar" n="77">أَوۡ أَلۡقَى ٱلسَّمۡعَ وَهُوَ شَهِيدٌۭ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="77">oder der zuhört, während er Zeuge ist.‎</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="038">
+                        <Teilvers n="038" reim="3K2K, 3K(K)2K" reimkommentar="mit vorherrschenden Explosiven">
+                            <Kolon Einschub="false" lang="ar" n="78">وَلَقَدۡ خَلَقۡنَا ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضَ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="78">Wir haben doch Himmel und Erde</Kolon>
+                            <Kolon Einschub="false" lang="ar" n="79">وَمَا بَيۡنَهُمَا فِی سِتَّةِ أَيَّامٍۢ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="79">und was zwischen ihnen in sechs Tagen geschaffen,‎</Kolon>
+                            <Kolon Einschub="false" lang="ar" n="80">وَمَا مَسَّنَا مِن لُّغُوبٍۢ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="80">ohne daß uns Ermüdung überkam.‎</Kolon>
+                        </Teilvers>
+                    </Vers>
+                </Gesaetz>
+                <Gesaetz n="13">
+                    <Vers n="039">
+                        <Teilvers n="039" reim="3K2K, 3K(K)2K" reimkommentar="mit vorherrschenden Explosiven">
+                            <Kolon Einschub="false" lang="ar" n="81">فَٱصۡبِرۡ عَلَىٰ مَا يَقُولُونَ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="81">Ertrage nun geduldig, was sie sagen!‎</Kolon>
+                            <Kolon Einschub="false" lang="ar" n="82">وَسَبِّحۡ بِحَمۡدِ رَبِّكَ قَبۡلَ طُلُوعِ ٱلشَّمۡسِ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="82">Lobpreise deinen Herrn vor dem Aufgang der Sonne</Kolon>
+                            <Kolon Einschub="false" lang="ar" n="83">وَقَبۡلَ ٱلۡغُرُوبِ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="83">und vor ihrem Untergang!‎</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="040">
+                        <Teilvers n="040" reim="3K2K, 3K(K)2K" reimkommentar="mit vorherrschenden Explosiven">
+                            <Kolon Einschub="false" lang="ar" n="84">وَمِنَ ٱلَّيۡلِ فَسَبِّحۡهُ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="84">Preise ihn des Nachts</Kolon>
+                            <Kolon Einschub="false" lang="ar" n="85">وَأَدۡبَٰرَ ٱلسُّجُودِ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="85">und nach dem Gebet.‎</Kolon>
+                        </Teilvers>
+                    </Vers>
+                </Gesaetz>
+                <Gesaetz n="14">
+                    <Vers n="041">
+                        <Teilvers n="041" reim="3K2K, 3K(K)2K" reimkommentar="mit vorherrschenden Explosiven">
+                            <Kolon Einschub="false" lang="ar" n="86">وَٱسۡتَمِعۡ يَوۡمَ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="86">Und horche auf den Tag,‎</Kolon>
+                            <Kolon Einschub="false" lang="ar" n="87">يُنَادِ ٱلۡمُنَادِ مِن مَّكَانٍۢ قَرِيبٍۢ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="87">da der Rufer aus der Nähe ruft!‎</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="042">
+                        <Teilvers n="042" reim="3K2K, 3K(K)2K" reimkommentar="mit vorherrschenden Explosiven">
+                            <Kolon Einschub="false" lang="ar" n="88">يَوۡمَ يَسۡمَعُونَ ٱلصَّيۡحَةَ بِٱلۡحَقِّ ۚ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="88">Am Tag, da sie den Schrei in Wahrheit hören.‎</Kolon>
+                            <Kolon Einschub="false" lang="ar" n="89">ذَٰلِكَ يَوۡمُ ٱلۡخُرُوجِ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="89">Das ist der Tag der Auferweckung.‎</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="043">
+                        <Teilvers n="043" reim="3K2K, 3K(K)2K" reimkommentar="mit vorherrschenden Explosiven">
+                            <Kolon Einschub="false" lang="ar" n="90">إِنَّا نَحۡنُ نُحۡىِۦ وَنُمِيتُ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="90">Wir schenken Leben und lassen sterben.‎</Kolon>
+                            <Kolon Einschub="false" lang="ar" n="91">وَإِلَيۡنَا ٱلۡمَصِيرُ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="91">Bei uns wird es enden.‎</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="044">
+                        <Teilvers n="044" reim="3K2K, 3K(K)2K" reimkommentar="mit vorherrschenden Explosiven">
+                            <Kolon Einschub="false" lang="ar" n="92">يَوۡمَ تَشَقَّقُ ٱلۡأَرۡضُ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="92">Am Tag, da die Erde sich spaltet und sie freigibt,‎</Kolon>
+                            <Kolon Einschub="false" lang="ar" n="93">عَنۡهُمۡ سِرَاعًۭا ۚ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="93">worauf sie sich eilen hervorzukommen.‎</Kolon>
+                            <Kolon Einschub="false" lang="ar" n="94">ذَٰلِكَ حَشۡرٌ عَلَيۡنَا يَسِيرٌۭ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="94">Das ist ein Versammeln, das uns leichtfällt.‎</Kolon>
+                        </Teilvers>
+                    </Vers>
+                </Gesaetz>
+                <Gesaetz n="15">
+                    <Vers n="045">
+                        <Teilvers n="045" reim="3K2K, 3K(K)2K" reimkommentar="mit vorherrschenden Explosiven">
+                            <Kolon Einschub="false" lang="ar" n="95">نَّحۡنُ أَعۡلَمُ بِمَا يَقُولُونَ ۖ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="95">Wir wissen wohl, was sie sagen.‎</Kolon>
+                            <Kolon Einschub="false" lang="ar" n="96">وَمَآ أَنتَ عَلَيۡهِم بِجَبَّارٍۢ ۖ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="96">Du aber hast keine Gewalt über sie.‎</Kolon>
+                            <Kolon Einschub="false" lang="ar" n="97">فَذَكِّرۡ بِٱلۡقُرۡءَانِ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="97">Mahne mit der Lesung alle die,‎</Kolon>
+                            <Kolon Einschub="false" lang="ar" n="98">مَن يَخَافُ وَعِيدِ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="98">die meine Drohung annehmen!‎</Kolon>
+                        </Teilvers>
+                    </Vers>
+                </Gesaetz>
+            </Abschnitt>
+        </Hauptteil>
+    </Sure>
+</Quran>

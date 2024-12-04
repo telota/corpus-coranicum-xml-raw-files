@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Quran xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="Textstruktur.xsd">
+    <Sure id="107" webtauglich="true" translator="Nicolai Sinai">
+        <Hauptteil id="0">
+            <Abschnitt id="0">
+                <Gesaetz n="0">
+                    <Vers n="000">
+                        <Teilvers n="000" reim="2n/m">
+                            <Kolon lang="ar" Einschub="false" n="0">بِسۡمِ ٱللَّهِ ٱلرَّحۡمَٰنِ ٱلرَّحِيمِ</Kolon>
+                            <Kolon lang="de" Einschub="false" n="0">Im Namen Gottes, des barmherzigen Erbarmers!</Kolon>
+                        </Teilvers>
+                    </Vers>
+                </Gesaetz>
+                <Gesaetz n="1">
+                    <Vers n="001">
+                        <Teilvers n="001" reim="2n/m">
+                            <Kolon Einschub="false" lang="ar" n="1">أَرَءَيۡتَ ٱلَّذِی يُكَذِّبُ بِٱلدِّينِ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="1">Was meinst du von dem, der das Gericht leugnet?</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="002">
+                        <Teilvers n="002" reim="2n/m">
+                            <Kolon Einschub="false" lang="ar" n="2">فَذَٰلِكَ ٱلَّذِی يَدُعُّ ٱلۡيَتِيمَ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="2">Das ist der, der die Waise wegstößt</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="003">
+                        <Teilvers n="003" reim="2n/m">
+                            <Kolon Einschub="false" lang="ar" n="3">وَلَا يَحُضُّ عَلَىٰ طَعَامِ ٱلۡمِسۡكِينِ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="3">und nicht zur Speisung des Armen anhält.</Kolon>
+                        </Teilvers>
+                    </Vers>
+                </Gesaetz>
+                <Gesaetz n="2">
+                    <Vers n="004">
+                        <Teilvers n="004" reim="2n/m">
+                            <Kolon Einschub="false" lang="ar" n="4">فَوَيۡلٌۭ لِّلۡمُصَلِّينَ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="4">Wehe den Betenden,</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="005">
+                        <Teilvers n="005" reim="2n/m">
+                            <Kolon Einschub="false" lang="ar" n="5">ٱلَّذِينَ هُمۡ عَن صَلَاتِهِمۡ سَاهُونَ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="5">die nicht auf ihr Gebet achtgeben,</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="006">
+                        <Teilvers n="006" reim="2n/m">
+                            <Kolon Einschub="false" lang="ar" n="6">ٱلَّذِينَ هُمۡ يُرَآءُونَ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="6">die nur gesehen werden wollen</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="007">
+                        <Teilvers n="006" reim="2n/m">
+                            <Kolon Einschub="false" lang="ar" n="7">وَيَمۡنَعُونَ ٱلۡمَاعُونَ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="7">und Hilfeleistung verweigern!</Kolon>
+                        </Teilvers>
+                    </Vers>
+                </Gesaetz>
+            </Abschnitt>
+        </Hauptteil>
+    </Sure>
+</Quran>

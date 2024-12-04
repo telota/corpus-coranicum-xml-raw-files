@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Quran xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="Textstruktur.xsd">
+    <Sure id="111" webtauglich="true" translator="Nicolai Sinai">
+        <Hauptteil id="0">
+            <Abschnitt id="0">
+                <Gesaetz n="0">
+                    <Vers n="000">
+                        <Teilvers n="000" reim="2nVm">
+                            <Kolon lang="ar" Einschub="false" n="0">بِسۡمِ ٱللَّهِ ٱلرَّحۡمَٰنِ ٱلرَّحِيمِ</Kolon>
+                            <Kolon lang="de" Einschub="false" n="0">Im Namen Gottes, des barmherzigen Erbarmers!</Kolon>
+                        </Teilvers>
+                    </Vers>
+                </Gesaetz>
+                <Gesaetz n="1">
+                    <Vers n="001">
+                        <Teilvers n="001" reim="3K3b(b)">
+                            <Kolon Einschub="false" lang="ar" n="1">تَبَّتۡ يَدَآ أَبِی لَهَبٍۢ وَتَبَّ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="1">Verderben sollen die Hände des Flammenmannes! Verderben soll er!</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="002">
+                        <Teilvers n="002" reim="3K3b(b)">
+                            <Kolon Einschub="false" lang="ar" n="2">مَآ أَغۡنَىٰ عَنۡهُ مَالُهُۥ وَمَا كَسَبَ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="2">Sein Besitz und seine Taten nützen ihm nichts.</Kolon>
+                        </Teilvers>
+                    </Vers>
+                </Gesaetz>
+                <Gesaetz n="2">
+                    <Vers n="003">
+                        <Teilvers n="003" reim="3K3b">
+                            <Kolon Einschub="false" lang="ar" n="3">سَيَصۡلَىٰ نَارًۭا ذَاتَ لَهَبٍۢ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="3">Er wird in flammendem Feuer schmoren</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="004">
+                        <Teilvers n="004" reim="3K3b">
+                            <Kolon Einschub="false" lang="ar" n="4">وَٱمۡرَأَتُهُۥ حَمَّالَةَ ٱلۡحَطَبِ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="4">während seine Frau — Brennholzträgerin! —</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="005">
+                        <Teilvers n="005" reim="3K3d">
+                            <Kolon Einschub="false" lang="ar" n="5">فِی جِيدِهَا حَبۡلٌۭ مِّن مَّسَدٍ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="5">um ihren Hals als Schmuck einen Strick aus Palmfasern trägt.</Kolon>
+                        </Teilvers>
+                    </Vers>
+                </Gesaetz>
+            </Abschnitt>
+        </Hauptteil>
+    </Sure>
+</Quran>

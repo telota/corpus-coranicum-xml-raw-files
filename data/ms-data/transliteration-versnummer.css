@@ -1,0 +1,95 @@
+@namespace oxy url('http://www.oxygenxml.com/extensions/author');
+
+doc {
+    display:block;
+    margin:1em;
+    font-family: tahoma; 
+}
+
+pb  {
+    display:block;
+}
+
+oxy|comment {
+    margin-top: 1em !important;
+    margin-bottom: 1em !important;
+}
+
+l {
+    display:table-row;
+    border:1px solid green;
+    padding:20px;
+}
+
+l:before {
+    display: table-cell;
+    content:" Line: " attr(n);
+    color: green;
+    font-size: 1.5em;
+}
+
+w {
+    color: purple;
+   
+}
+
+note {
+    display: none;
+}
+
+pc  {
+    display: none;
+}
+
+supplied {
+    color: gray;
+    -oxy-display-tags: none;
+}
+
+[reason~="ommited-in-original"] {
+     color: gray
+}
+
+[reason~="illigible"] {
+     color: #ffdd33;
+}
+
+hi {
+    color: red;
+    background-color: #85c1e9;
+}
+
+unclear {
+    color: blue;
+    background-color: pink;
+    -oxy-display-tags: none;
+}
+
+del {
+    color: red;
+}
+
+add {
+    color: green;
+}
+
+[subtype~="variant"] {
+     color: blue;
+     background-color:  #85c1e9;
+}
+
+w  {
+    display: table-row;
+     font-size: 3em;
+     -oxy-display-tags: none;
+     font-variant-ligatures: normal;
+     font-feature-settings: "liga" 1, "clig" 1, "calt" 1;
+}
+
+w:before  {
+    display: table-cell;
+    margin-top: 1em;
+    content: attr(n);
+    color: purple;
+    font-size: 0.5em;
+}

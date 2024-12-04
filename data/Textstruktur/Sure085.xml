@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Quran xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="Textstruktur.xsd">
+    <Sure id="085" translator="Nicolai Sinai" webtauglich="true">
+        <Hauptteil id="0">
+            <Abschnitt id="0">
+                <Gesaetz n="0">
+                    <Vers n="000">
+                        <Teilvers n="000" reim="2n/m">
+                            <Kolon lang="ar" Einschub="false" n="0">بِسۡمِ ٱللَّهِ ٱلرَّحۡمَٰنِ ٱلرَّحِيمِ</Kolon>
+                            <Kolon lang="de" Einschub="false" n="0">Im Namen Gottes, des barmherzigen Erbarmers!</Kolon>
+                        </Teilvers>
+                    </Vers>
+                </Gesaetz>
+            </Abschnitt>
+        </Hauptteil>
+        <Hauptteil id="1">
+            <Abschnitt id="1">
+                <Gesaetz n="1">
+                    <Vers n="001">
+                        <Teilvers n="001" reim="3K(K)2K" reimkommentar="mit Explosiven">
+                            <Kolon Einschub="false" lang="ar" n="1">وَٱلسَّمَآءِ ذَاتِ ٱلۡبُرُوجِ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="1">Beim Himmel mit den Sternbildern,</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="002">
+                        <Teilvers n="002" reim="3K(K)2K" reimkommentar="mit Explosiven">
+                            <Kolon Einschub="false" lang="ar" n="2">وَٱلۡيَوۡمِ ٱلۡمَوۡعُودِ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="2">beim angedrohten Tag,</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="003">
+                        <Teilvers n="003" reim="3K(K)2K" reimkommentar="mit Explosiven">
+                            <Kolon Einschub="false" lang="ar" n="3">وَشَاهِدٍۢ وَمَشۡهُودٍۢ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="3">bei einem Zeugen und etwas Bezeugtem!</Kolon>
+                        </Teilvers>
+                    </Vers>
+                </Gesaetz>
+                <Gesaetz n="2">
+                    <Vers n="004">
+                        <Teilvers n="004" reim="3K(K)2K" reimkommentar="mit Explosiven">
+                            <Kolon Einschub="false" lang="ar" n="4">قُتِلَ أَصۡحَٰبُ ٱلۡأُخۡدُودِ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="4">Tod den Leuten des Grabens,</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="005">
+                        <Teilvers n="005" reim="3K(K)2K" reimkommentar="mit Explosiven">
+                            <Kolon Einschub="false" lang="ar" n="5">ٱلنَّارِ ذَاتِ ٱلۡوَقُودِ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="5">des Feuers mit seinem Brennstoff,</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="006">
+                        <Teilvers n="006" reim="3K(K)2K" reimkommentar="mit Explosiven">
+                            <Kolon Einschub="false" lang="ar" n="6">إِذۡ هُمۡ عَلَيۡهَا قُعُودٌۭ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="6">wenn sie auf ihm sitzen</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="007">
+                        <Teilvers n="007" reim="3K(K)2K" reimkommentar="mit Explosiven">
+                            <Kolon Einschub="true" lang="ar" n="7">وَهُمۡ عَلَىٰ مَا يَفۡعَلُونَ بِٱلۡمُؤۡمِنِينَ شُهُودٌۭ</Kolon>
+                            <Kolon Einschub="true" lang="de" n="7">und bezeugen, was sie den Gläubigen antun!</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="008">
+                        <Teilvers n="008" reim="3K(K)2K" reimkommentar="mit Explosiven">
+                            <Kolon Einschub="true" lang="ar" n="8">وَمَا نَقَمُوا۟ مِنۡهُمۡ</Kolon>
+                            <Kolon Einschub="true" lang="de" n="8">Sie haben ihnen nur deshalb gegrollt,</Kolon>
+                            <Kolon Einschub="true" lang="ar" n="9">إِلَّآ أَن يُؤۡمِنُوا۟ بِٱللَّهِ ٱلۡعَزِيزِ ٱلۡحَمِيدِ</Kolon>
+                            <Kolon Einschub="true" lang="de" n="9">weil sie an Gott glaubten, den Mächtigen und Lobenswürdigen,</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="009">
+                        <Teilvers n="009" reim="3K(K)2K" reimkommentar="mit Explosiven">
+                            <Kolon Einschub="true" lang="ar" n="10">ٱلَّذِی لَهُۥ مُلۡكُ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِ ۚ</Kolon>
+                            <Kolon Einschub="true" lang="de" n="10">dem die Herrschaft über Himmel und Erde gehört;</Kolon>
+                            <Kolon Einschub="true" lang="ar" n="11">وَٱللَّهُ عَلَىٰ كُلِّ شَىۡءٍۢ شَهِيدٌ</Kolon>
+                            <Kolon Einschub="true" lang="de" n="11">Gott ist über alles Zeuge.</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="010">
+                        <Teilvers n="010" reim="3K(K)2K" reimkommentar="mit Explosiven">
+                            <Kolon Einschub="true" lang="ar" n="12">إِنَّ ٱلَّذِينَ فَتَنُوا۟ ٱلۡمُؤۡمِنِينَ وَٱلۡمُؤۡمِنَٰتِ</Kolon>
+                            <Kolon Einschub="true" lang="de" n="12">Denjenigen, welche die gläubigen Männer und Frauen auf die Probe stellen</Kolon>
+                            <Kolon Einschub="true" lang="ar" n="13">ثُمَّ لَمۡ يَتُوبُوا۟</Kolon>
+                            <Kolon Einschub="true" lang="de" n="13">und darauf nicht umkehren,</Kolon>
+                            <Kolon Einschub="true" lang="ar" n="14">فَلَهُمۡ عَذَابُ جَهَنَّمَ</Kolon>
+                            <Kolon Einschub="true" lang="de" n="14">denen wird die Höllenstrafe zuteil</Kolon>
+                            <Kolon Einschub="true" lang="ar" n="15">وَلَهُمۡ عَذَابُ ٱلۡحَرِيقِ</Kolon>
+                            <Kolon Einschub="true" lang="de" n="15">und die Strafe des Feuerbrandes.</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="011">
+                        <Teilvers n="011" reim="3K(K)2K" reimkommentar="mit Explosiven">
+                            <Kolon Einschub="true" lang="ar" n="16">إِنَّ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ</Kolon>
+                            <Kolon Einschub="true" lang="de" n="16">Denjenigen, die glauben und gute Werke tun,</Kolon>
+                            <Kolon Einschub="true" lang="ar" n="17">لَهُمۡ جَنَّٰتٌۭ تَجۡرِی مِن تَحۡتِهَا ٱلۡأَنۡهَٰرُ ۚ</Kolon>
+                            <Kolon Einschub="true" lang="de" n="17">werden Gärten zuteil, unterhalb derer Bäche fließen;</Kolon>
+                            <Kolon Einschub="true" lang="ar" n="18">ذَٰلِكَ ٱلۡفَوۡزُ ٱلۡكَبِيرُ</Kolon>
+                            <Kolon Einschub="true" lang="de" n="18">das ist der große Sieg.</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="012">
+                        <Teilvers n="012" reim="3K(K)2d">
+                            <Kolon Einschub="false" lang="ar" n="19">إِنَّ بَطۡشَ رَبِّكَ لَشَدِيدٌ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="19">Dein Herr packt heftig zu!</Kolon>
+                        </Teilvers>
+                    </Vers>
+                </Gesaetz>
+                <Gesaetz n="3">
+                    <Vers n="013">
+                        <Teilvers n="013" reim="3K(K)2d">
+                            <Kolon Einschub="false" lang="ar" n="20">إِنَّهُۥ هُوَ يُبۡدِئُ وَيُعِيدُ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="20">Er bringt hervor und holt zurück.</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="014">
+                        <Teilvers n="014" reim="3K(K)2d">
+                            <Kolon Einschub="false" lang="ar" n="21">وَهُوَ ٱلۡغَفُورُ ٱلۡوَدُودُ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="21">Er ist der Vergebende und Liebevolle,</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="015">
+                        <Teilvers n="015" reim="3K(K)2d">
+                            <Kolon Einschub="false" lang="ar" n="22">ذُو ٱلۡعَرۡشِ ٱلۡمَجِيدُ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="22">der rühmenswerte Herr des Throns,</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="016">
+                        <Teilvers n="016" reim="3K(K)2d">
+                            <Kolon Einschub="false" lang="ar" n="23">فَعَّالٌۭ لِّمَا يُرِيدُ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="23">er tut, was er will.</Kolon>
+                        </Teilvers>
+                    </Vers>
+                </Gesaetz>
+                <Gesaetz n="4">
+                    <Vers n="017">
+                        <Teilvers n="017" reim="3K(K)2d">
+                            <Kolon Einschub="false" lang="ar" n="24">هَلۡ أَتَىٰكَ حَدِيثُ ٱلۡجُنُودِ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="24">Ist die Kunde von den Heerscharen zu dir gekommen,</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="018">
+                        <Teilvers n="018" reim="3K(K)2d">
+                            <Kolon Einschub="false" lang="ar" n="25">فِرۡعَوۡنَ وَثَمُودَ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="25">von Pharao und Ṯamūd?</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="019">
+                        <Teilvers n="019" reim="3K(K)2K" reimkommentar="mit vorherrschenden Explosiven">
+                            <Kolon Einschub="false" lang="ar" n="26">بَلِ ٱلَّذِينَ كَفَرُوا۟ فِی تَكۡذِيبٍۢ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="26">Nein, die Ungläubigen sind im Leugnen befangen;</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="020">
+                        <Teilvers n="020" reim="3K(K)2K" reimkommentar="mit vorherrschenden Explosiven">
+                            <Kolon Einschub="false" lang="ar" n="27">وَٱللَّهُ مِن وَرَآئِهِم مُّحِيطٌۢ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="27">Gott aber umfasst sie von hinten!</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="021">
+                        <Teilvers n="021" reim="3K(K)2K" reimkommentar="mit vorherrschenden Explosiven">
+                            <Kolon Einschub="false" lang="ar" n="28">بَلۡ هُوَ قُرۡءَانٌۭ مَّجِيدٌۭ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="28">Nein, es ist eine rühmenswerte Lesung</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="022">
+                        <Teilvers n="022" reim="3K(K)2K" reimkommentar="mit vorherrschenden Explosiven">
+                            <Kolon Einschub="false" lang="ar" n="29">فِی لَوۡحٍۢ مَّحۡفُوظٍ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="29">auf einer wohlverwahrten Tafel.</Kolon>
+                        </Teilvers>
+                    </Vers>
+                </Gesaetz>
+            </Abschnitt>
+        </Hauptteil>
+    </Sure>
+</Quran>

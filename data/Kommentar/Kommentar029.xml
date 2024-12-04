@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<korankommentar xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="Kommentar.xsd">
+  <sure id="029" webtauglich="true"/>
+  <surentitel>
+    <text versstart="000" versend="069" verfasser="dh">
+      <p>Sure 29 — <lang xml:lang="ar-Latn">al-ʿAnkabūt</lang> — »Die Spinne«</p>
+    </text>
+  </surentitel>
+  <autorenkurz>
+    <text versstart="000" versend="069" verfasser="dh">
+      <p>Übersetzt und analysiert von Dirk Hartwig</p>
+    </text>
+  </autorenkurz>
+  <datierungkurz>
+    <text versstart="000" versend="069" verfasser="dh">
+      <p>Mekka III</p>
+    </text>
+  </datierungkurz>
+  <literarkritikkurz>
+    <text versstart="000" versend="069" verfasser="dh">
+      <p/>
+    </text>
+  </literarkritikkurz>
+  <literarkritik>
+    <text versstart="000" versend="069" verfasser="dh">
+      <p>Wird im Moment bearbeitet.</p>
+    </text>
+  </literarkritik>
+  <textkritik>
+    <text versstart="000" versend="069" verfasser="dh">
+      <p>Wird im Moment bearbeitet.</p>
+    </text>
+  </textkritik>
+  <komposition>
+    <text versstart="000" versend="069" verfasser="dh">
+      <p>
+        <table rows="49" cols="3">
+          <head/>
+          <row>
+            <cell/>
+            <cell/>
+            <cell/>
+            <cell/>
+            <cell><hi rend="bold">I Einleitung: Polemik</hi></cell>
+          </row>
+          <row>
+            <cell/>
+            <cell/>
+            <cell/>
+            <cell>[<hi rend="superscript"><q type="koran" versstart="029:001" versend="029:001"
+                  >1</q></hi></cell>
+            <cell>Siglum]</cell>
+          </row>
+          <row>
+            <cell/>
+            <cell>/</cell>
+            <cell><hi rend="bold">3</hi></cell>
+            <cell><hi rend="superscript"><q type="koran" versstart="029:002" versend="029:004"
+                  >2–4</q></hi></cell>
+            <cell>polemische Frage nach Prüfung; Prüfungen früherer</cell>
+          </row>
+          <row>
+            <cell/>
+            <cell>|</cell>
+            <cell><hi rend="bold">3</hi></cell>
+            <cell><hi rend="superscript"><q type="koran" versstart="029:005" versend="029:007"
+                  >5–7</q></hi></cell>
+            <cell>polemische Frage nach Rechenschaft über Taten, Begegnung mit Gott, und das
+              Verhältnis der beiden Gruppen (+ / -) dazu</cell>
+          </row>
+          <row>
+            <cell/>
+            <cell><hi rend="bold">12</hi></cell>
+            <cell><hi rend="bold">2</hi></cell>
+            <cell><hi rend="superscript"><q type="koran" versstart="029:008" versend="029:009"
+                  >8–9</q></hi></cell>
+            <cell>empfohlenes Verhältnis zu Eltern, wenn diese
+              <lang xml:lang="ar-Latn">mušrikūn</lang></cell>
+          </row>
+          <row>
+            <cell/>
+            <cell>|</cell>
+            <cell><hi rend="bold">2</hi></cell>
+            <cell><hi rend="superscript"><q type="koran" versstart="029:010" versend="029:011"
+                  >10–11</q></hi></cell>
+            <cell>falsche Gläubige, rechte Gläubige</cell>
+          </row>
+          <row>
+            <cell/>
+            <cell>\</cell>
+            <cell><hi rend="bold">2</hi></cell>
+            <cell><hi rend="superscript"><q type="koran" versstart="029:012" versend="029:013"
+                  >12–13</q></hi> (13 evtl. medinisch)</cell>
+            <cell>falsche Reden der Leugner an die Gläubigen</cell>
+          </row>
+          <row>
+            <cell/>
+            <cell/>
+            <cell/>
+            <cell/>
+            <cell><hi rend="bold">II Prophetenlegenden</hi></cell>
+          </row>
+          <row>
+            <cell/>
+            <cell>/</cell>
+            <cell><hi rend="bold">2</hi></cell>
+            <cell><hi rend="superscript"><q type="koran" versstart="029:014" versend="029:015"
+                  >14–15</q></hi></cell>
+            <cell><lang xml:lang="ar-Latn">Nūḥ</lang></cell>
+          </row>
+          <row>
+            <cell/>
+            <cell>|</cell>
+            <cell><hi rend="bold">12</hi></cell>
+            <cell><hi rend="superscript"><q type="koran" versstart="029:016" versend="029:027"
+                  >16–27</q></hi></cell>
+            <cell><lang xml:lang="ar-Latn">Ibrāhīm</lang>, Rede an
+              <lang xml:lang="ar-Latn">qaum</lang></cell>
+          </row>
+          <row>
+            <cell/>
+            <cell>|</cell>
+            <cell><hi rend="bold">3</hi></cell>
+            <cell><hi rend="superscript"><q type="koran" versstart="029:028" versend="029:030"
+                  >28–30</q></hi></cell>
+            <cell><lang xml:lang="ar-Latn">Lūṭ</lang>, Rede an
+              <lang xml:lang="ar-Latn">qaum</lang></cell>
+          </row>
+          <row>
+            <cell/>
+            <cell><hi rend="bold">30</hi></cell>
+            <cell><hi rend="bold">2</hi></cell>
+            <cell><hi rend="superscript"><q type="koran" versstart="029:031" versend="029:032"
+                  >31–32</q></hi></cell>
+            <cell><lang xml:lang="ar-Latn">Ibrāhīm</lang> und
+              <lang xml:lang="ar-Latn">mubašširūn</lang></cell>
+          </row>
+          <row>
+            <cell/>
+            <cell>|</cell>
+            <cell><hi rend="bold">3</hi></cell>
+            <cell><hi rend="superscript"><q type="koran" versstart="029:033" versend="029:035"
+                  >33–35</q></hi></cell>
+            <cell><lang xml:lang="ar-Latn">Lūṭ</lang> und
+              <lang xml:lang="ar-Latn">rusul</lang></cell>
+          </row>
+          <row>
+            <cell/>
+            <cell>|</cell>
+            <cell><hi rend="bold">2</hi></cell>
+            <cell><hi rend="superscript"><q type="koran" versstart="029:036" versend="029:037"
+                  >36–37</q></hi></cell>
+            <cell><lang xml:lang="ar-Latn">Madyan</lang></cell>
+          </row>
+          <row>
+            <cell/>
+            <cell>|</cell>
+            <cell><hi rend="bold">3</hi></cell>
+            <cell><hi rend="superscript"><q type="koran" versstart="029:038" versend="029:040"
+                  >38–40</q></hi></cell>
+            <cell>Evozierungen weiterer Erzählungen:
+              <lang xml:lang="ar-Latn">ʿĀd, Ṯamūd, Qārūn, Firʿaun, Hārūn</lang></cell>
+          </row>
+          <row>
+            <cell/>
+            <cell>\</cell>
+            <cell><hi rend="bold">3</hi></cell>
+            <cell><hi rend="superscript"><q type="koran" versstart="029:041" versend="029:043"
+                  >41–43</q></hi></cell>
+            <cell><lang xml:lang="ar-Latn">maṯal al-ʿankabūt</lang>, Kommentar</cell>
+          </row>
+          <row>
+            <cell/>
+            <cell/>
+            <cell/>
+            <cell/>
+            <cell><hi rend="bold">III Offenbarungsbestätigung, Polemik</hi></cell>
+          </row>
+          <row>
+            <cell/>
+            <cell>/</cell>
+            <cell><hi rend="bold">1</hi></cell>
+            <cell><hi rend="superscript"><q type="koran" versstart="029:044" versend="029:044"
+                  >44</q></hi></cell>
+            <cell><lang xml:lang="ar-Latn">ḫalq bi-l-ḥaqq</lang></cell>
+          </row>
+          <row>
+            <cell/>
+            <cell>|</cell>
+            <cell><hi rend="bold">2</hi></cell>
+            <cell><hi rend="superscript"><q type="koran" versstart="029:045" versend="029:046"
+                  >45–46</q></hi></cell>
+            <cell>Aufruf zur Rezitation, zum Gottesdienst, zum Eintreten gegen unsittliches
+              Verhalten, zur Konzilianz gegenüber
+              <lang xml:lang="ar-Latn">ahl al-kitāb</lang></cell>
+          </row>
+          <row>
+            <cell>/</cell>
+            <cell><hi rend="bold">16</hi></cell>
+            <cell><hi rend="bold">3</hi></cell>
+            <cell><hi rend="superscript"><q type="koran" versstart="029:047" versend="029:049"
+                  >47–49</q></hi></cell>
+            <cell>Offenbarungsbestätigung; Beglaubigung des <lang xml:lang="ar-Latn">kitāb</lang>
+              durch Empfänger früherer Offenbarungen; Sendungsbestätigung; Deutlichkeit der
+              <lang xml:lang="ar-Latn">āyāt</lang></cell>
+          </row>
+          <row>
+            <cell>|</cell>
+            <cell>|</cell>
+            <cell><hi rend="bold">3</hi></cell>
+            <cell><hi rend="superscript"><q type="koran" versstart="029:050" versend="029:052"
+                  >50–52</q></hi></cell>
+            <cell>Polemik um Offenbarung, empfohlene Erwiderung</cell>
+          </row>
+          <row>
+            <cell>|</cell>
+            <cell>|</cell>
+            <cell><hi rend="bold">2</hi></cell>
+            <cell><hi rend="superscript"><q type="koran" versstart="029:053" versend="029:054"
+                  >53–54</q></hi></cell>
+            <cell>Polemik um <lang xml:lang="ar-Latn">yaum</lang></cell>
+          </row>
+          <row>
+            <cell><hi rend="bold">27</hi></cell>
+            <cell>\</cell>
+            <cell><hi rend="bold">5</hi></cell>
+            <cell><hi rend="superscript"><q type="koran" versstart="029:055" versend="029:059"
+                  >55–59</q></hi></cell>
+            <cell>Eintreten der Strafe, Anrede an die Ungläubigen; Anrede an Gläubige im Diesseits,
+              Lohnverheißung</cell>
+          </row>
+          <row>
+            <cell>|</cell>
+            <cell>/</cell>
+            <cell><hi rend="bold">1</hi></cell>
+            <cell><hi rend="superscript"><q type="koran" versstart="029:060" versend="029:060"
+                  >60</q></hi></cell>
+            <cell><lang xml:lang="ar-Latn">rizq</lang> von Allāh</cell>
+          </row>
+          <row>
+            <cell>|</cell>
+            <cell>|</cell>
+            <cell><hi rend="bold">4</hi></cell>
+            <cell><hi rend="superscript"><q type="koran" versstart="029:061" versend="029:064"
+                  >61–64</q></hi></cell>
+            <cell>Frage nach Schöpfer und Spender des Regens, Antwort; Erwiderung; diesseitiges /
+              jenseitiges Leben: - / +.</cell>
+          </row>
+          <row>
+            <cell>\</cell>
+            <cell><hi rend="bold">11</hi></cell>
+            <cell><hi rend="bold">3</hi></cell>
+            <cell><hi rend="superscript"><q type="koran" versstart="029:065" versend="029:066"
+                  >65a,b–66</q></hi></cell>
+            <cell>wechselhaftes Verhalten des Menschen</cell>
+          </row>
+          <row>
+            <cell/>
+            <cell>|</cell>
+            <cell><hi rend="bold">2</hi></cell>
+            <cell><hi rend="superscript"><q type="koran" versstart="029:067" versend="029:068"
+                  >67–68</q></hi></cell>
+            <cell>Mekkas Themenos als <lang xml:lang="ar-Latn">āya</lang>; Leugner dieser
+              <lang xml:lang="ar-Latn">āya</lang>, Strafverheißung</cell>
+          </row>
+          <row>
+            <cell/>
+            <cell>\</cell>
+            <cell><hi rend="bold">1</hi></cell>
+            <cell><hi rend="superscript"><q type="koran" versstart="029:069" versend="029:069"
+                  >69</q></hi></cell>
+            <cell>Streiter für Allāh: Lohnverheißung</cell>
+          </row>
+        </table>
+      </p>
+      <p><hi rend="bold">Strukturformel/Proportionen</hi></p>
+      <p>
+        <table cols="3" rows="2">
+          <head/>
+          <row>
+            <cell>Teil I: 13 Verse</cell>
+            <cell>Teil II: 30 Verse</cell>
+            <cell>Teil III: 27 Verse</cell>
+          </row>
+          <row>
+            <cell>1 + 12(3+3+2+2+2)</cell>
+            <cell>30(2+12+3+2+3+2+3+3)</cell>
+            <cell>16(1+2+3+3+2+5) + 11(1+4+3+2+1)</cell>
+          </row>
+        </table>
+      </p>
+    </text>
+  </komposition>
+  <kommentar>
+    <text versstart="000" versend="069" verfasser="dh">
+      <p>Wird im Moment bearbeitet.</p>
+    </text>
+  </kommentar>
+  <analysedeutungkurz>
+    <text versstart="000" versend="069" verfasser="dh">
+      <p/>
+    </text>
+  </analysedeutungkurz>
+  <analysedeutung>
+    <EntwicklungsgeschichtlicheEinordnungkurz>
+      <text versstart="000" versend="069" verfasser="dh">
+        <p/>
+      </text>
+    </EntwicklungsgeschichtlicheEinordnungkurz>
+    <EntwicklungsgeschichtlicheEinordnung>
+      <text versstart="000" versend="069" verfasser="dh">
+        <p>Wird im Moment bearbeitet.</p>
+      </text>
+    </EntwicklungsgeschichtlicheEinordnung>
+    <Inhaltstrukturkurz>
+      <text versstart="000" versend="069" verfasser="dh">
+        <p/>
+      </text>
+    </Inhaltstrukturkurz>
+    <Inhaltstruktur>
+      <text versstart="000" versend="069" verfasser="dh">
+        <p>Wird im Moment bearbeitet.</p>
+      </text>
+    </Inhaltstruktur>
+    <situativitätkurz>
+      <text versstart="000" versend="069" verfasser="dh">
+        <p/>
+      </text>
+    </situativitätkurz>
+    <Situativität>
+      <text versstart="000" versend="069" verfasser="dh">
+        <p>Wird im Moment bearbeitet.</p>
+      </text>
+    </Situativität>
+  </analysedeutung>
+</korankommentar>

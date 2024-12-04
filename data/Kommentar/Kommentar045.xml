@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<korankommentar xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="Kommentar.xsd">
+  <sure id="045" webtauglich="true"/>
+  <surentitel>
+    <text versstart="000" versend="037" verfasser="dh">
+      <p>Sure 45 — <lang xml:lang="ar-Latn">al-Ǧāṯiya</lang> — »Die auf den Knien sitzt«</p>
+    </text>
+  </surentitel>
+  <autorenkurz>
+    <text versstart="000" versend="037" verfasser="dh">
+      <p>Übersetzt und analysiert von Dirk Hartwig</p>
+    </text>
+  </autorenkurz>
+  <datierungkurz>
+    <text versstart="000" versend="037" verfasser="dh">
+      <p>Mekka III</p>
+    </text>
+  </datierungkurz>
+  <literarkritikkurz>
+    <text versstart="000" versend="037" verfasser="dh">
+      <p/>
+    </text>
+  </literarkritikkurz>
+  <literarkritik>
+    <text versstart="000" versend="037" verfasser="dh">
+      <p>Wird im Moment bearbeitet.</p>
+    </text>
+  </literarkritik>
+  <textkritik>
+    <text versstart="000" versend="037" verfasser="dh">
+      <p>Wird im Moment bearbeitet.</p>
+    </text>
+  </textkritik>
+  <komposition>
+    <text versstart="000" versend="037" verfasser="dh">
+      <p>
+        <table rows="49" cols="3">
+          <head/>
+          <row>
+            <cell/>
+            <cell/>
+            <cell/>
+            <cell/>
+            <cell><hi rend="bold">I Α Einleitung: Offenbarungsbestätigung,
+                <lang xml:lang="ar-Latn">āyāt</lang></hi></cell>
+          </row>
+          <row>
+            <cell/>
+            <cell/>
+            <cell/>
+            <cell>[<hi rend="superscript"><q type="koran" versstart="045:001" versend="045:001"
+                  >1</q></hi></cell>
+            <cell>Siglum]</cell>
+          </row>
+          <row>
+            <cell>/</cell>
+            <cell><hi rend="bold">5</hi>/</cell>
+            <cell><hi rend="bold">1</hi></cell>
+            <cell><hi rend="superscript"><q type="koran" versstart="045:002" versend="045:002"
+                >2</q></hi></cell>
+            <cell><lang xml:lang="ar-Latn">tanzīl</lang>-Ankündigung, Sender</cell>
+          </row>
+          <row>
+            <cell><hi rend="bold">10</hi></cell>
+            <cell>\</cell>
+            <cell><hi rend="bold">4</hi></cell>
+            <cell><hi rend="superscript"><q type="koran" versstart="045:003" versend="045:006"
+                  >3–6</q></hi></cell>
+            <cell><lang xml:lang="ar-Latn">āyāt</lang> (in geraffter Aufzählung),
+              Schlußformel</cell>
+          </row>
+          <row>
+            <cell>|</cell>
+            <cell/>
+            <cell/>
+            <cell/>
+            <cell><hi rend="bold">Β Verurteilung der Ablehner der
+                <lang xml:lang="ar-Latn">āyāt</lang></hi></cell>
+          </row>
+          <row>
+            <cell>\</cell>
+            <cell/>
+            <cell><hi rend="bold">5</hi></cell>
+            <cell><hi rend="superscript"><q type="koran" versstart="045:007" versend="045:011"
+                  >7–11</q></hi></cell>
+            <cell>Weheruf über Ablehner, Lasterkatalog, Schlußformel</cell>
+          </row>
+          <row>
+            <cell/>
+            <cell/>
+            <cell/>
+            <cell/>
+            <cell/>
+          </row>
+          <row>
+            <cell/>
+            <cell/>
+            <cell/>
+            <cell/>
+            <cell><hi rend="bold">II Α <lang xml:lang="ar-Latn">āyāt</lang>,
+                Offenbarungsbestätigung</hi></cell>
+          </row>
+          <row>
+            <cell/>
+            <cell>/</cell>
+            <cell><hi rend="bold">4</hi></cell>
+            <cell><hi rend="superscript"><q type="koran" versstart="045:012" versend="045:015"
+                  >12–15</q></hi></cell>
+            <cell><lang xml:lang="ar-Latn">āyāt</lang>
+              (<lang xml:lang="ar-Latn">allaḏī</lang>-Prädikationen), Verheißung an Gläubige</cell>
+          </row>
+          <row>
+            <cell/>
+            <cell>|</cell>
+            <cell><hi rend="bold">5</hi></cell>
+            <cell><hi rend="superscript"><q type="koran" versstart="045:016" versend="045:020"
+                  >16–20</q></hi></cell>
+            <cell><lang xml:lang="ar-Latn">kitāb</lang> an
+              <lang xml:lang="ar-Latn">banū Isrāʾīl</lang>, Prophet als Nachfolger,
+              Schlußformel</cell>
+          </row>
+          <row>
+            <cell/>
+            <cell><hi rend="bold">24</hi></cell>
+            <cell/>
+            <cell/>
+            <cell><hi rend="bold">Β Polemik</hi></cell>
+          </row>
+          <row>
+            <cell/>
+            <cell>|</cell>
+            <cell><hi rend="bold">6</hi></cell>
+            <cell><hi rend="superscript"><q type="koran" versstart="045:021" versend="045:026"
+                  >21–26</q></hi></cell>
+            <cell>Nichtgleichheit Guter und Böser, <lang xml:lang="ar-Latn">ḫalq bi-l-ḥaqq</lang>,
+              Unglaube gegenüber Erweckung, <lang xml:lang="ar-Latn">āyāt</lang></cell>
+          </row>
+          <row>
+            <cell/>
+            <cell>\</cell>
+            <cell><hi rend="bold">9</hi></cell>
+            <cell><hi rend="superscript"><q type="koran" versstart="045:027" versend="045:035"
+                  >27–35</q></hi></cell>
+            <cell>Gerichtstag, eschatologische Szenerie, Vorgang,
+              <lang xml:lang="ar-Latn">kitāb</lang>-Befragung über Taten, Rückblende: Reaktion der
+              Ungläubigen auf Vortrag der <lang xml:lang="ar-Latn">āyāt</lang>; Anrede an sie im
+              Feuer</cell>
+          </row>
+          <row>
+            <cell/>
+            <cell/>
+            <cell><hi rend="bold">2</hi></cell>
+            <cell><hi rend="superscript"><q type="koran" versstart="045:036" versend="045:037"
+                  >36–37</q></hi></cell>
+            <cell><hi rend="bold">III Schlußruf: Lobpreis und Prädikation</hi></cell>
+          </row>
+        </table>
+      </p>
+      <p><hi rend="bold">Strukturformel/Proportionen</hi></p>
+      <p>
+        <table cols="3" rows="2">
+          <head/>
+          <row>
+            <cell>Teil I: 11 Verse</cell>
+            <cell>Teil II: 24 Verse</cell>
+            <cell>Teil III: 2 Verse</cell>
+          </row>
+          <row>
+            <cell>1 + 5(1+4) + 5</cell>
+            <cell>24(4+5+6+9+2)</cell>
+            <cell>2</cell>
+          </row>
+        </table>
+      </p>
+    </text>
+  </komposition>
+  <kommentar>
+    <text versstart="000" versend="037" verfasser="dh">
+      <p>Wird im Moment bearbeitet.</p>
+    </text>
+  </kommentar>
+  <analysedeutungkurz>
+    <text versstart="000" versend="037" verfasser="dh">
+      <p/>
+    </text>
+  </analysedeutungkurz>
+  <analysedeutung>
+    <EntwicklungsgeschichtlicheEinordnungkurz>
+      <text versstart="000" versend="037" verfasser="dh">
+        <p/>
+      </text>
+    </EntwicklungsgeschichtlicheEinordnungkurz>
+    <EntwicklungsgeschichtlicheEinordnung>
+      <text versstart="000" versend="037" verfasser="dh">
+        <p>Wird im Moment bearbeitet.</p>
+      </text>
+    </EntwicklungsgeschichtlicheEinordnung>
+    <Inhaltstrukturkurz>
+      <text versstart="000" versend="037" verfasser="dh">
+        <p/>
+      </text>
+    </Inhaltstrukturkurz>
+    <Inhaltstruktur>
+      <text versstart="000" versend="037" verfasser="dh">
+        <p>Wird im Moment bearbeitet.</p>
+      </text>
+    </Inhaltstruktur>
+    <situativitätkurz>
+      <text versstart="000" versend="037" verfasser="dh">
+        <p/>
+      </text>
+    </situativitätkurz>
+    <Situativität>
+      <text versstart="000" versend="037" verfasser="dh">
+        <p>Wird im Moment bearbeitet.</p>
+      </text>
+    </Situativität>
+  </analysedeutung>
+</korankommentar>

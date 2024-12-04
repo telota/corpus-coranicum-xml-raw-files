@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc src="1409_Doha_HC.MS.2017.0045_tei.xml" ms="1409">
+    <pb xml:id="f.1r"/><!-- Page ID: 1409,f. 1r,072:013:007-072:014:003 --><!-- Lines: 5; Valid Lines: 5 -->
+    <l n="1">
+        <note/>
+        <w n="072-013-007">ڡمں</w>
+        <pc> </pc>
+        <w n="072-013-008">ىومں </w>
+    </l>
+    <l n="2">
+        <note/><!-- Continued from last line -->
+        <w n="072-013-008">ٮرٮه</w>
+        <pc> </pc>
+        <w n="072-013-009">ڡلا</w>
+        <pc> </pc>
+        <w n="072-013-010">ىحا</w>
+    </l>
+    <l n="3">
+        <note/><!-- Continued from last line -->
+        <w n="072-013-010">ڡ</w>
+        <pc> </pc>
+        <w n="072-013-011">ٮحسا</w>
+        <pc> </pc>
+        <w n="072-013-012">و</w>
+    </l>
+    <l n="4">
+        <note/><!-- Continued from last line -->
+        <w n="072-013-012">لا</w>
+        <pc> </pc>
+        <w n="072-013-013">رهٯا</w>
+        <pc>
+            <supplied reason="omitted-in-original" source="#cairo_rasm"> </supplied>
+        </pc><!-- Vers Break: '13'-->
+        <w n="000-000-000">
+            <supplied reason="omitted-in-original" source="#cairo_rasm">۝١٣</supplied>
+        </w>
+        <pc> </pc>
+        <w n="072-014-001">واںا</w>
+    </l>
+    <l n="5">
+        <note/><!-- Continued from last line -->
+        <w n="072-014-001">مںا</w>
+        <pc> </pc>
+        <w n="072-014-002">المسلموں</w>
+        <pc> </pc>
+    </l>
+    <pb xml:id="f.1v"/><!-- Page ID: 1409,f. 1v,072:014:004-072:014:010 --><!-- Lines: 5; Valid Lines: 5 -->
+    <l n="1">
+        <note/>
+        <w n="072-014-004">ومںا</w>
+        <pc> </pc>
+        <w n="072-014-005">الٯ
+            <add type="rasm">ا</add>
+        </w>
+    </l>
+    <l n="2">
+        <note/><!-- Continued from last line -->
+        <w n="072-014-005">سطوں</w>
+        <pc> </pc>
+        <w n="072-014-006">ڡمں</w>
+        <pc> </pc>
+    </l>
+    <l n="3">
+        <note/>
+        <w n="072-014-007">اسلم</w>
+        <pc> </pc>
+        <w n="072-014-008">ڡا</w>
+    </l>
+    <l n="4">
+        <note/><!-- Continued from last line -->
+        <w n="072-014-008">ولٮک</w>
+        <pc> </pc>
+        <w n="072-014-009">ٮحر</w>
+    </l>
+    <l n="5">
+        <note/><!-- Continued from last line -->
+        <w n="072-014-009">وا</w>
+        <pc> </pc>
+        <w n="072-014-010">رسد</w>
+    </l>
+</doc>

@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<korankommentar xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:noNamespaceSchemaLocation="Kommentar.xsd">
+ <sure id="106" webtauglich="true"/>
+ <surentitel>
+  <text versstart="000" versend="004" verfasser="tjj">
+   <p>Sure 106 — <lang xml:lang="ar-Latn">Quraiš</lang> — »Quraiš«</p>
+  </text>
+ </surentitel>
+ <autorenkurz>
+  <text versstart="000" versend="004" verfasser="tjj">
+   <p>Übersetzt und analysiert von Nicolai Sinai</p>
+  </text>
+ </autorenkurz>
+ <datierungkurz>
+  <text versstart="000" versend="004" verfasser="nisi">
+   <p>Mekka I (Gruppe I)</p>
+  </text>
+ </datierungkurz>
+ <datierung>
+  <text versstart="000" versend="004" verfasser="nisi">
+   <p>Dass es sich bei Sure 106 um einen frühmekkanischen Text handelt, kann angesichts der Kürze
+    der Verse (durchschnittliche Silbenzahl pro Vers: 11) und des für viele andere frühe Suren
+    charakteristischen Gottesnamens <lang xml:lang="ar-Latn">rabb</lang> + Suffix bzw. (wie hier)
+    <lang xml:lang="lat-Latn">nomen rectum</lang> (statt des später gängigen Gottesnamens
+    <lang xml:lang="ar-Latn">Allāh</lang>) als sicher gelten; aufgrund seiner Kürze ist der Text
+    genauer Gruppe I zuzuordnen. Bemerkenswert ist jedoch, dass sich <q type="koran"
+     versstart="106:000" versend="106:004">Q 106</q> zusammen mit <q type="koran"
+     versstart="105:000" versend="105:005">Q 105</q> theologisch deutlich von den übrigen
+    frühmekkanischen Texten abhebt: Gott erscheint hier (noch?) nicht als universaler Schöpfer und
+    Richter, sondern als gütiger Schutzherr des mekkanischen Gemeinwesens (zu einer jüngst von Uri
+    Rubin vorgetragenen Neudeutung, derzufolge die Sure die Handelsaktivitäten der Quraiš nicht auf
+    göttlichen Schutz zurückführt, sondern vielmehr missbilligt, s. u. die <q type="anmerkung"
+     versstart="106:001" versend="106:001">Anmerkung zu 106:1</q>); zudem fehlt jeder Hinweis auf
+    die in den anderen frühmekkanischen Texten beschriebene massive Störung im Verhältnis zwischen
+    Gott und Mensch (vgl. nur <q type="koran" versstart="100:006" versend="100:008">Q 100:6 ff.</q>
+    oder, noch prägnanter, <q type="koran" versstart="103:001" versend="103:002">Q 103:1.2</q>). Den
+    mit späteren Texten kontrastierenden affirmativen Bezug auf die Quraiš, die in späterer Zeit nur
+    noch als <lang xml:lang="ar-Latn">allaḏīna kafarū</lang>, „die Ungläubigen“, figurieren, hat
+    bereits Richard Bell hervorgehoben (<bibl Zotero_Id_1="WMQAF468">Bell 1926, 73</bibl>). <q
+     type="koran" versstart="105:000" versend="105:005">Q 105</q> und <q type="koran"
+     versstart="106:000" versend="106:004">106</q> – deren enge Zusammengehörigkeit auch aus der
+    Überlieferung spricht, die beiden Texte hätten ursprünglich einmal eine einzige Sure gebildet
+    (s. u., Literarkritik) – gehören deshalb zweifellos zu den frühesten Korantexten und bilden
+    möglicherweise sogar den Einsatzpunkt der koranischen Textgenese überhaupt, sind also wohl zu
+    Beginn von Gruppe I der frühmekkanischen Suren anzusetzen (vgl. <bibl Zotero_Id_1="Q9R6T8GF"
+     >Sinai 2010, 425–428</bibl>). Kurze Droh- und Scheltworte wie <q type="koran"
+     versstart="095:000" versend="095:008">Q 95</q>, <q type="koran" versstart="102:000"
+     versend="102:008">102</q>, <q type="koran" versstart="103:000" versend="103:003">103</q>, <q
+     type="koran" versstart="104:000" versend="104:009">104</q>, <q type="koran" versstart="107:000"
+     versend="107:007">107</q> und <q type="koran" versstart="111:000" versend="111:005">111</q>,
+    die eine fundamentale Störung des Verhältnisses zwischen Gott und Mensch ansagen, wären dann
+    Ausdruck einer auf Q 105 und 106 folgenden theologischen Neuorientierung, mit der erstmals das
+    Kernthema der frühmekkanischen Texte (die ethisch-religiöse Unzulänglichkeit des Menschen und
+    die Realität des Jüngsten Gerichts) angeschnitten würde.</p>
+   <p>Harris Birkeland fasst <q type="koran" versstart="105:000" versend="105:005">Sure 105</q> und
+     <q type="koran" versstart="106:000" versend="106:004">106</q> mit den an den Verkünder als
+    Individuum gerichteten Trostsuren <q type="koran" versstart="093:000" versend="093:011">Q
+    93</q>, <q type="koran" versstart="094:000" versend="094:008">94</q> und <q type="koran"
+     versstart="108:000" versend="108:003">108</q> zu einer Gruppe von frühen Suren zusammen, die
+    seiner Meinung nach ein einheitliches theologisches Profil aufweisen (<bibl
+     Zotero_Id_1="JM6WUWTX">Birkeland 1956</bibl>); jedoch weisen <q type="koran"
+     versstart="105:000" versend="105:005">Q 105</q> und <q type="koran" versstart="106:000"
+     versend="106:004">106</q> einerseits und <q type="koran" versstart="093:000" versend="093:011"
+     >Q 93</q>, <q type="koran" versstart="094:000" versend="094:008">94</q> und <q type="koran"
+     versstart="108:000" versend="108:003">108</q> hinreichende Unterschiede auf, um ihre von
+    Birkeland vermutete Zusammengehörigkeit in Frage zu stellen (vgl. die Bemerkungen zur <q
+     type="datierung" versstart="105:000" versend="105:005">Datierung von Q 105</q> für eine
+    ausführlichere Auseinandersetzung mit seiner These; zu Angelika Neuwirths Übernahme von
+    Birkelands These s. die Ausführungen zur <q type="datierung" versstart="108:000"
+     versend="108:003">Datierung von Q 108</q>).</p>
+  </text>
+ </datierung>
+ <literarkritikkurz>
+  <text versstart="000" versend="004" verfasser="nisi">
+   <p>Keine Einschübe</p>
+  </text>
+ </literarkritikkurz>
+ <literarkritik>
+  <text versstart="000" versend="004" verfasser="nisi">
+   <p>Im Anschluss an manche islamischen Exegeten vertritt Peters die These, <q type="koran"
+     versstart="105:000" versend="105:005">Q 105</q> und <q type="koran" versstart="106:000"
+     versend="106:004">Q 106</q> hätten ursprünglich eine einzige Sure gebildet (<bibl
+     Zotero_Id_1="9IPQTE9W">Peters 1999, xxxv</bibl>). Dabei will Peters, der die „dangling
+    conjunction“ am Anfang von <q type="koran" versstart="106:000" versend="106:004">Sure 106</q>
+    moniert, <q type="koran" versstart="106:001" versend="106:002">106:1.2</q> offenbar nicht als
+    präpositionalen Auftakt zu <q type="koran" versstart="106:003" versend="106:004">Q 106:3.4</q>
+    konstruieren, sondern das Verspaar syntaktisch noch zu dem in <q type="koran"
+     versstart="105:002" versend="105:002">105:2</q> beginnenden Satzzusammenhang rechnen. Die von
+    ihm postulierte Satzperiode macht allerdings einen nicht weniger unnatürlichen Eindruck als die
+    sich bei einer Trennung beider Texte ergebende „dangling conjunction“. Für eine Zugehörigkeit
+    von <q type="koran" versstart="106:001" versend="106:002">106:1.2</q> zu den folgenden und nicht
+    zu den vorausgehenden Versen spricht aber vor allem der unterschiedliche Reim der beiden Suren
+     (<q type="koran" versstart="105:000" versend="105:005">Q 105</q> reimt auf 3(K)K2l, <q
+     type="koran" versstart="106:000" versend="106:004">Q 106</q> dagegen auf 3KK).</p>
+  </text>
+ </literarkritik>
+ <aufbauinhalt>
+  <text versstart="000" versend="004" verfasser="nisi">
+   <p/>
+  </text>
+ </aufbauinhalt>
+ <ueberblick>
+  <text versstart="000" versend="004" verfasser="tjj">
+   <p>
+    <table cols="2" rend="boxed" rows="2">
+     <head/>
+     <row>
+      <cell>
+       <hi rend="superscript"><q type="koran" versstart="106:001" versend="106:004">1–4</q></hi>
+       <hi rend="italic">3KK</hi>
+      </cell>
+      <cell>
+       <hi rend="bold">1</hi>
+       <hi rend="superscript"><q type="koran" versstart="106:001" versend="106:003">1–3</q></hi>
+       jussivischer Aufruf</cell>
+     </row>
+     <row>
+      <cell/>
+      <cell>
+       <hi rend="superscript"><q type="koran" versstart="106:004" versend="106:004">4</q></hi>
+       Werkaffirmationen (relativisch angeschlossen)</cell>
+     </row>
+    </table>
+   </p>
+  </text>
+ </ueberblick>
+ <anmerkungen>
+  <text versstart="000" versend="000" verfasser="nisi">
+   <p><lem>bi-smi llāhi r-raḥmāni r-raḥīm]</lem> Zur Basmala s. die entsprechende <q
+     type="anmerkung" versstart="093:000" versend="093:000">Anmerkung zu 93</q>; zum Gottesnamen
+    <lang xml:lang="ar-Latn">raḥmān</lang> s. die <q type="anmerkung" versstart="055:001"
+     versend="055:001">Anmerkung zu 55:1</q>.</p>
+  </text>
+  <text versstart="001" versend="002" verfasser="nisi">
+   <p>Im Hinblick auf den Ausdruck <lang xml:lang="ar-Latn">ʾīlāf</lang> in <q type="koran"
+     versstart="106:001" versend="106:002">V. 1 und 2</q> besteht sowohl textkritische als auch
+    semantische Unsicherheit (s. allg. <bibl Zotero_Id_1="X9T7RF7R">Paret, Kommentar, ad
+    loc.</bibl>).</p>
+   <p><hi rend="italic">Textkritik</hi>: Da das Langalif dem traditionellen
+    <lang xml:lang="ar-Latn">rasm</lang> zufolge in beiden Versen nur nachträglich in den
+    Konsonantenduktus eingetragen wurde und dasselbe auch für das
+    <lang xml:lang="ar-Latn">yāʾ</lang> in <q type="koran" versstart="106:002" versend="106:002">V.
+     2</q> gilt, welches das lange <lang xml:lang="ar-Latn">ī</lang> von
+    <lang xml:lang="ar-Latn">ʾīlāf</lang> notiert, wäre für den zweiten Vers prinzipiell auch eine
+    Lesung <lang xml:lang="ar-Latn">ʾilf</lang> zu erwägen (vgl. in diesem Sinne <bibl
+     Zotero_Id_1="KVFTU3XN">Muʿǧam, ad loc.</bibl>). Jeffery und Birkeland zufolge werden für <q
+     type="koran" versstart="106:001" versend="106:001">V. 1</q> von Ibn Masʿūd u. a. auch die
+    Variante <lang xml:lang="ar-Latn">li-yaʾlafa</lang> bzw.
+    <lang xml:lang="ar-Latn">li-taʾlafa</lang> (mit dem Konsonantenduktus
+    <lang xml:lang="ar-Latn">l-y-ʾ-l-f</lang>) tradiert (vgl. <bibl Zotero_Id_1="4HR2RHA3">Jeffery
+     1937, 112, 275</bibl> , sowie <bibl Zotero_Id_1="KVFTU3XN">Muʿǧam, ad loc.</bibl>). Birkeland
+    nimmt deshalb als ursprünglichen Wortlaut an
+    <lang xml:lang="ar-Latn">li-yaʾlafa Quraiš / ʾilfahum …</lang>, der in medinensischer Zeit zur
+    heutigen Textfassung verändert worden sei (zu seiner Deutung der Sure s. <bibl
+     Zotero_Id_1="JM6WUWTX">Birkeland 1956, 102–130</bibl>; vgl. die Kritik in <bibl
+     Zotero_Id_1="X9T7RF7R">Paret, Kommentar, ad loc.</bibl>). Rubin weist jedoch darauf hin, dass
+    die Ibn Masʿūd zugeschriebene Variante eigentlich <lang xml:lang="ar-Latn">la-yaʾlaf</lang>
+    (bzw. <lang xml:lang="ar-Latn">la-taʾlaf</lang>) mit <lang xml:lang="ar-Latn">lām al-ʾamr</lang>
+    lautet (<bibl Zotero_Id_1="VHNRU7ED">Rubin 1984, 184 f.</bibl>) und folgendermaßen zu übersetzen
+    wären: „Quraiš sollen sich [an die Verehrung Gottes] halten, / auf dieselbe Weise, wie sie sich
+    an die Winter- und Sommerreise halten.“ Rubin hat sicherlich recht damit, dass diese Lesart
+    Produkt theologischer Reflexion und somit sekundär ist (<bibl Zotero_Id_1="VHNRU7ED">Rubin,
+     ebd., 182</bibl>): „On the pure theological level, the idea that the Quran should refer to the
+    benevolence of Allāh towards Quraysh in an early Meccan sura, was entirely intolerable to
+    scholars of the first century A.H. For these scholars, Quraysh could not have possibly enjoyed
+    the benevolence of Allāh, as long as they did not embrace Islam.“ – Für die traditionelle
+    Mehrheitsversion, die zweimal <lang xml:lang="ar-Latn">ʾīlāf</lang> liest, spricht überdies,
+    dass die Wiederaufnahme eines Wortes im Folgevers ein koranisches Stilmittel ist, das auch in <q
+     type="koran" versstart="096:000" versend="096:019">Q 96</q> (<q type="koran"
+     versstart="096:001" versend="096:002">V. 1.2</q>, <q type="koran" versstart="096:004"
+     versend="096:005">V. 4.5</q>, <q type="koran" versstart="096:015" versend="096:016"
+    >V.15.16</q>), <q type="koran" versstart="087:018" versend="087:019">87:18.19</q> und <q
+     type="koran" versstart="040:036" versend="040:037">40:36.37</q> zum Einsatz kommt (s.
+    ausführlicher den <q type="kommentar" versstart="096:001" versend="096:002">Kommentar zu
+     96:1.2</q>).</p>
+   <p><hi rend="italic">Lexik</hi>: Wie <bibl Zotero_Id_1="KGVTFXG9">Crone (1987, 204–214)</bibl>
+    herausgearbeitet hat, dürfte es sich bei einem Großteil der im Zusammenhang mit <q type="koran"
+     versstart="106:001" versend="106:002">Q 106:1.2</q> überlieferten Traditionen um nachträgliche
+    exegetische Spekulationen handeln, bei denen durchweg fraglich ist, ob sie auf genuin
+    historischem Wissen über ein System von als <lang xml:lang="ar-Latn">ʾīlāf</lang> bezeichneten
+    Schutzabkommen zwischen den Quraiš und den die Handelsrouten flankierenden Beduinenstämmen
+    beruhen. Eine kontrollierbare Deutung des Ausdrucks kann deshalb nur durch Ableitung von der
+    Wurzelbedeutung versucht werden. <lang xml:lang="ar-Latn">Alifa</lang> kann sowohl „verbunden
+    sein mit“ als auch „sich gewöhnen an“ bedeuten; entsprechend kann der vierte Stamm die
+    Bedeutungen „vereinigen, verbinden“ oder aber „jdn. mit etw. verbunden sein lassen“, insb. im
+    Sinne von „jdn. an etw. (eine Sache, einen Ort) gewöhnen“, transportieren (<bibl Zotero_Id_1="8WQ6CTDE"
+     >Lane, Bd. 1, 79b–80b</bibl>). Die erste Alternative ist die in westlichen Koranübersetzungen
+    gängige (vgl. <bibl Zotero_Id_1="J6TM6UHR">Paret</bibl>: „Dass die Quraisch zusammenbringen, /
+    die Reise des Winters und Sommers zusammenbringen“). Dagegen hat Uri Rubin auf überzeugende
+    Weise dafür plädiert, auch die in der obigen Übersetzung zugrunde gelegte Alternative zu
+    erwägen, die in der islamischen Kommentarliteratur durchaus präsent ist. Dieser Deutung zufolge
+    ist Quraiš nicht Subjekt, sondern erstes Objekt von <lang xml:lang="ar-Latn">ʾīlāf</lang>;
+    wörtlich wäre zu übersetzen: „Aufgrund der Gewöhnung der Quraiš, / ihrer Gewöhnung an die
+    Winter- und Sommerreise …“. Dabei hat <lang xml:lang="ar-Latn">ʾālafa</lang> /
+    <lang xml:lang="ar-Latn">ʾīlāf</lang> aber wohl nicht nur die Bedeutung von „gewöhnen“, sondern
+    „seems to have a more specific meaning of enabling someone to resort habitually to a place under
+    complete protection“ (<bibl Zotero_Id_1="VHNRU7ED">Rubin 1984, 170</bibl>; vgl. <bibl
+     Zotero_Id_1="VHNRU7ED">175</bibl> : „This <lang xml:lang="ar-Latn">maṣdar</lang> means to
+    remove the hardships of performing something, so that it can be practised habitually, or, at
+    one’s pleasure.“).</p>
+   <p>In einem kürzlich erschienen Artikel nimmt Rubin allerdings weitgehend Abstand von dieser
+    früheren Deutung (<bibl Zotero_Id_1="XKMFCVSN">Rubin 2011</bibl>). Er geht nun davon aus, dass
+    die Erwähnung der quraišitischen Sommer- und Winterreisen nur „ in a tone of disapproval“
+    gemeint sein könne, „to deplore Quraysh whose winter and summer journey has become their chief
+    preoccupation, while ignoring the benevolence of the lord of the Kaʿba who has provided for all
+    their needs within their own <hi rend="italic">ḥaram</hi>. This means that in the eyes of the
+    Qurʾān the repeated winter and summer journey was too excessive and marked the compulsive
+    engagement of Quraysh in an improper habit that stemmed from avaricious pursuit of worldly
+    advantage outside Mecca which contradicted their religious duties.“ (<bibl
+     Zotero_Id_1="XKMFCVSN">Rubin 2011, 7</bibl>) Rubins Neudeutung zufolge manifestiert die Sure
+    also ganz und gar kein positives Verhältnis zu den Quraiš, sondern ordnet sich vielmehr in die
+    lange Reihe koranischer Anklagen gegen die Gier und Gottesvergessenheit der Mekkaner ein.
+    Problematisch hieran ist allerdings, dass ein solches Verständnis den Text inhaltlich ganz und
+    gar von <q type="koran" versstart="105:000" versend="105:005">Sure 105</q> ablöst, obwohl diese
+    ihm nicht nur stilistisch näher als alle übrigen Koranverkündigungen steht, sondern auch
+    traditionell eng mit ihm in Verbindung gebracht wird (s. o. <q type="literarkritik"
+     versstart="106:000" versend="106:004">Literarkritik</q>). Stattdessen stellt Rubin die
+    vorliegende Sure mit verschiedenen spätmekkanischen und medinensischen Stellen zusammen, die den
+    Wohlstand Mekkas seiner Ansicht nach allein von Gott und nicht von irgendwelchen menschlichen
+    Anstrengungen abhängig machen (<bibl Zotero_Id_1="XKMFCVSN">Rubin 2011, 3</bibl>) – meiner
+    Ansicht nach ein tendentiell anachronistisches Vorgehen, welches die spezifische Aussage von <q
+     type="koran" versstart="106:000" versend="106:004">Sure 106</q> an diejenige späteren
+    Koranpassagen assimiliert. Rubins Übersetzung des einleitenden
+    <lang xml:lang="ar-Latn">li</lang> als missbilligendes
+    <lang xml:lang="ar-Latn">lām li-t-taʿaǧǧub</lang> („Wonder you at the habitual preoccupation of
+    Quraysh …“) (<bibl Zotero_Id_1="XKMFCVSN">Rubin 2011, 7</bibl>) lässt sich insofern mit den
+    diesem Kommentar zugrundeliegenden chronologischen Prämissen nicht vereinbaren. Umso
+    erstaunlicher ist deshalb, dass Neuwirth – die <q type="koran" versstart="106:000"
+     versend="106:004">Q 106</q> ebenfalls zu den frühesten Koransuren rechnet und ansonsten sehr um
+    Anachronismusvermeidung bemüht ist – Rubins Neudeutung der Sure scheinbar vorbehaltlos übernimmt
+     (<bibl Zotero_Id_1="X6J8ZZSZ">Neuwirth, Frühmekkanische Suren, 118 und 120</bibl>; sie
+    übersetzt: „Wozu nur das Beharren der Quraish …“). Wenn Neuwirth zugleich daran festhält, im
+    Hinblick auf <q type="koran" versstart="105:000" versend="105:005">Q 105</q> und <q type="koran"
+     versstart="106:000" versend="106:004"> 106</q> von „kollektiv orientierten
+    Providenzversicherungen“ (<bibl Zotero_Id_1="X6J8ZZSZ">Neuwirth, Frühmekkanische Suren,
+     45</bibl>) zu sprechen (vgl. auch <bibl Zotero_Id_1="X6J8ZZSZ">ebd., 122</bibl> : „Q 106 ist
+    ein eng an Q 105 anschließender Text über göttliche Gunstbezeigungen“), so verkennt sie damit,
+    wie grundsätzlich Rubins Umdeutung des Textes einer solchen von Birkeland inspirierten
+    Charakterisierung zuwiderläuft. – Übrigens ist Rubins Gedanke, das einleitende
+    <lang xml:lang="ar-Latn">li-</lang> sei als <lang xml:lang="ar-Latn">lām li-t-taʿaǧǧub</lang>
+    aufzufassen, durchaus einleuchtend und impliziert für sich genommen noch nicht, dass die Sure
+    die quraišitischen „Winter- und Sommerreisen“ <hi rend="italic">missbilligt</hi>. Man könnte
+    also durchaus auch folgendermaßen übersetzen: „Wie die Quraiš gewöhnt sind, / an die Winter- und
+    Sommerreise gewöhnt sind! / Darum sollen sie dem Herrn dieses Hauses dienen …“. Die ersten
+    beiden Verse würden also Erstaunen über das regelmäßige Gelingen der „Winter- und Sommerreise“
+    ausdrücken und dann dazu aufrufen, Gott hierfür den ihm gebührenden Dank abzustatten.</p>
+  </text>
+  <text versstart="003" versend="003" verfasser="nisi">
+   <p><lem>fa-l-yaʿbudū rabba hāḏă l-bait]</lem> Als <lang xml:lang="ar-Latn">bait</lang> wird die
+    Kaʿba frühmekkanisch noch in <q type="koran" versstart="052:004" versend="052:004">52:4</q>
+    bezeichnet. Die Anrede Gottes als <lang xml:lang="ar-Latn">rabb hāḏă l-bait</lang> entspricht
+    dem in einer nabatäischen Inschrift für Duschara gebrauchten Gottestitel
+    <lang xml:lang="qhy-Latn-nor">mrʾ bytʾ</lang> (<bibl Zotero_Id_1="CR7R8GAX">Healey 2001,
+     92</bibl>; mündlicher Hinweis von David Kiltz). Die Parallele bestätigt die durchaus mit der
+    islamischen Tradition kongruente Ansicht, dass es sich bei der gepriesenen Gottheit um eine
+    ursprünglich im mekkanischen Lokalkult verwurzelte Schutzgottheit handelt. Zum Verhältnis des
+    Gottesnamens Allāh zu dem hier gebrauchten Titel „Herr“ vgl. die <q type="anmerkung"
+     versstart="095:008" versend="095:008">Anmerkung zu 95:8</q> Andrae weist darauf hin, „dass die
+    christlichen Dichter den Gott der <hi rend="italic">Kaʿba</hi> als den christlichen Gott
+    betrachtet haben und dass sie folglich an dem dortigen Kultus as an ihn gerichtet teilnehmen
+    konnten“; so schwört etwa ʿAdī b. Zaid in einem Atemzug „beim Herrn Mekkas“
+    (<lang xml:lang="ar-Latn">wa-rabbi Makkata</lang>) und dem Gekreuzigten (<bibl
+     Zotero_Id_1="FPHTTNUA">Andrae 1926, 39</bibl>).</p>
+  </text>
+  <text versstart="004" versend="004" verfasser="nisi">
+   <p><lem>allaḏī ʾaṭʿamahum min ǧūʿin wa-ʾāmanahum min ḫauf]</lem> Ḥimṣ, Mekka und Medina setzen
+    einen Verstrenner nach <lang xml:lang="ar-Latn">ǧūʿin</lang> (<bibl Zotero_Id_1="WCNUUFAC"
+     >Spitaler, Verszählung, 73</bibl>). Das so entstehende Versende stimmt jedoch nicht mit dem
+    Reimschema überein. Da <q type="koran" versstart="106:004" versend="106:004">V. 4</q> für einen
+    Schlussvers auch nicht übermäßig lang ist, ist eine Unterteilung von <q type="koran"
+     versstart="106:004" versend="106:004">V. 4</q> abzulehnen (<bibl Zotero_Id_1="4WEWN8NZ"
+     >Neuwirth, Studien, 36</bibl>). – Zu der Wendung
+    <lang xml:lang="ar-Latn">ʾāmanahum min ḫauf</lang> vgl. <q type="koran" versstart="095:003"
+     versend="095:003">95:3</q> (<lang xml:lang="ar-Latn">wa-hāḏă l-baladi l-ʾamīn</lang>). Das Verb
+    <lang xml:lang="ar-Latn">ʾāmana</lang> hat hier noch seine genuin arabische Bedeutung
+    „Sicherheit gewähren“, während später die aus dem Nordsemitischen entlehnte Bedeutung „glauben“
+    vorherrscht (s. die <q type="anmerkung" versstart="069:033" versend="069:033">Anmerkung zu
+     69:33</q>).</p>
+  </text>
+ </anmerkungen>
+ <kommentar>
+  <text versstart="001" versend="004" verfasser="nisi">
+   <p>Die Sure besteht nur aus einem einzigen, vier Verse umfassenden Satzzusammenhang und weist
+    einen Monoreim mit Konsonantenwechsel (<hi rend="italic">3KK</hi> mit vorherrschenden Spiranten)
+    auf. Vor dem Hintergrund von <q type="koran" versstart="106:003" versend="106:003">V. 3</q>, wo
+    Gott als „Herr dieses Hauses“ (= der mekkanischen Kaʿba) beschrieben wird, ist mit Rubin davon
+    auszugehen, dass <q type="koran" versstart="106:000" versend="106:004">Q 106</q> insgesamt auf
+    den besonderen Status abhebt, den die Quraiš als Bewohner des mekkanischen
+    <lang xml:lang="ar-Latn">ḥaram</lang> genossen und der ihnen in den Augen der übrigen Stämme
+    eine sakral begründete Unverletzlichkeit verlieh. Die Sure ist damit wie <q type="koran"
+     versstart="105:000" versend="105:005">Q 105</q> dem besonderen Schutz gewidmet, den Allāh dem
+    mekkanischen <lang xml:lang="ar-Latn">ḥaram</lang> gewährt, und hält die Quraiš zu
+    entsprechender Dankbarkeit an. <q type="koran" versstart="106:001" versend="106:002">V. 1 und
+     2</q> geben in Gestalt eines Präpositionalausdrucks den Grund des Dankes an
+    (<lang xml:lang="ar-Latn">ʾīlāf</lang> der Winter- und Sommerreise), <q type="koran"
+     versstart="106:003" versend="106:003">V. 3</q> schließt einen jussivischen Aufruf zur
+    Gottesverehrung an; dieser wird dann in <q type="koran" versstart="106:004" versend="106:004">V.
+     4</q> durch einen hymnischen Relativsatz ausgebaut und motiviert, der noch einmal Gottes
+    Gnadenerweise gegenüber den Quraiš zusammenfasst. Ein formal ähnlicher, jedoch inhaltlich ganz
+    anders gelagerter (nämlich auf Gottes universale Schöpfer- und Offenbarungsrolle abhebender)
+    Relativsatz begegnet in <q type="koran" versstart="096:001" versend="096:004">Q 96:1.4</q>.</p>
+   <p>Die Sure weist so eine syllogismusartige Zweitaktigkeit auf: <q type="koran"
+     versstart="106:001" versend="106:002">V. 1 und 2</q> beschreiben eine Tatsache, <q type="koran"
+     versstart="106:003" versend="106:004">V. 3 und 4</q> erschließen daraus die Verpflichtung der
+    Quraiš, Gott dafür den ihm gebührenden Dank abzustatten. Dieser Übergang vom Faktischen zum
+    Normativen bzw. von der literarischen Form des im Perfekt (in der dritten Person Singular oder
+    der ersten Person Plural) formulierten Berichts zur imperativischen Verhaltensanweisung lässt
+    sich ähnlich auch in <q type="koran" versstart="093:000" versend="093:011">Q 93</q> (ab <q
+     type="koran" versstart="093:009" versend="093:009">V. 9</q>) und <q type="koran"
+     versstart="094:000" versend="094:008">Q 94</q> (ab <q type="koran" versstart="094:007"
+     versend="094:007">V. 7</q>) und mit einem Jussiv anstelle des Imperativs auch in <q
+     type="koran" versstart="108:000" versend="108:003">Q 108</q> (ab <q type="koran"
+     versstart="108:001" versend="108:001">V. 1</q>) beobachten. Zur grundlegenden theologischen
+    Aussage von <q type="koran" versstart="105:000" versend="105:005">Q 105</q> und <q type="koran"
+     versstart="106:000" versend="106:004">106</q> s. a. den <q type="kommentar" versstart="105:001"
+     versend="105:005">Kommentar zu 105:1–5</q>.</p>
+   <p>Obwohl Rubin <lang xml:lang="ar-Latn">ʾīlāf</lang> in <q type="koran" versstart="106:001"
+     versend="106:002">V. 1.2</q> im Sinne von „gewöhnen an, ermöglichen“ deutet (s. o.), stellt er
+    die Historizität von als <lang xml:lang="ar-Latn">ʾīlāf</lang> bezeichneten Schutzabkommen
+    zwischen den Quraiš und den übrigen arabischen Stämmen nicht gänzlich in Frage (s. jetzt <bibl
+     Zotero_Id_1="XKMFCVSN">Rubin 2011, 27</bibl>, mit dem Hinweis, dass die Information, die
+    mekkanischen Schutzabkommen seien <lang xml:lang="ar-Latn">ʾīlāf</lang> genannt worden,
+    üblicherweise nicht in exegetischen, sondern in lexikographischen und historischen Werken zu
+    finden ist – was gegen Patricia Crones These spricht, es handele sich bei solchen
+    Überlieferungen letzten Endes nur um koranexegetische Spekulationen). Dass die Sure den
+    traditionell mit solchen Sicherheitsbündnissen assoziierten Terminus verwendet, versteht Rubin
+    als eine Art Wortspiel (<bibl Zotero_Id_1="VHNRU7ED">Rubin 1984, 171 f.</bibl>): „It is indeed
+    true that the sources occasionally apply the name <lang xml:lang="ar-Latn">ʾīlāf</lang> to these
+    pacts, but the similarity between this name and the phrase
+    ‚<lang xml:lang="ar-Latn">li-ʾīlāfi Quraysh</lang>’ does not necessarily mean that our sūra
+    deals with these agreements. On the contrary, it seems that by using the root
+    ‚<lang xml:lang="ar-Latn">a.l.f.</lang>’, the Quran intends to suggest that instead of the
+    earthly pacts with the tribes, which were seldom observed, Quraysh eventually gained divine
+    protection, a ‚godly’ <lang xml:lang="ar-Latn">ʾīlāf</lang>, which provided them for the first
+    time with a firm basis for their safety and welfare.“ Die Anerkennung des mekkanischen
+    <lang xml:lang="ar-Latn">ḥaram</lang> und seiner Stellung als wichtiges Pilgerzentrum – die sich
+    wiederum in der Einrichtung von Märkten wie ʿUkāẓ und damit auch in einer wirtschaftlichen
+    Besserstellung Mekkas niederschlug – führt Rubin dabei auf das in <q type="koran"
+     versstart="105:000" versend="105:005">Q 105</q> geschilderte Fehlschlagen des Angriffs Abrahas
+    zurück, der den Mythos von der Sakralität und Unverletzlichkeit Mekkas begründet habe (<bibl
+     Zotero_Id_1="VHNRU7ED">ebd., 176–179</bibl>); <q type="koran" versstart="105:000"
+     versend="105:005">Q 105</q> enthält damit also die Ätiologie für den in <q type="koran"
+     versstart="106:000" versend="106:004">Q 106</q> als Ausdruck göttlichen Wirkens geschilderten
+    Jetztzustand.</p>
+   <p>Während Rubin die traditionelle Erklärung der „Winter- und Sommerreise“ aus <q type="koran"
+     versstart="106:002" versend="106:002">V. 2</q> als von den Quraiš unternommene Handelsreisen zu
+    akzeptieren scheint (vgl. die in <bibl Zotero_Id_1="XKMFCVSN">Rubin 2011, 5</bibl> angeführten,
+    bedenkenswerten innerkoranischen Argumente für die Historizität mekkanischer Handelsreisen),
+    gibt <bibl Zotero_Id_1="9IPQTE9W">Peters (1999, xxxvi)</bibl> zu bedenken, dass es hierbei auch
+    um saisonale Pilgerfahrten zum mekkanischen Heiligtum gehandelt haben könnte; angesichts von
+    Crones Dekonstruktion einer mekkanischen „republique marchande“ (so die Formulierung von Henri
+    Lammens) ist dies eine durchaus erwägenswerte Vermutung (vgl. <bibl Zotero_Id_1="9IPQTE9W"
+     >Peters 1999, xxxvi f.</bibl>: „whatever the Quraysh possessed came from the cult around the
+    Kaʿba“). Für ein Verständnis der theologischen Pointe der Sure ist diese Frage jedoch
+    nachrangig; wichtig ist, dass <q type="koran" versstart="106:000" versend="106:004">Q 106</q>
+    genauso wie <q type="koran" versstart="105:000" versend="105:005">Q 105</q> den besonderen
+    Status des mekkanischen <lang xml:lang="ar-Latn">ḥaram</lang> als Resultat der gnadenvollen
+    Aktivität Gottes lesbar machen will: „Not circumstances, not human skill, not covenants
+    <lang xml:lang="lat-Latn">per se</lang>, but the Lord is the source of the favourable position
+    of Quraiš“ (<bibl Zotero_Id_1="JM6WUWTX">Birkeland 1956, 128</bibl>). Im Unterschied zu <q
+     type="koran" versstart="105:000" versend="105:005">Q 105</q> werden dabei die sich aus Gottes
+    Zuwendung ergebenden kultischen Verpflichtungen der von ihm Begünstigten explizit gemacht (vgl.
+    ähnlich die an den Verkünder gerichteten Trostsuren <q type="koran" versstart="093:000"
+     versend="093:011">Q 93</q>, <q type="koran" versstart="094:000" versend="094:008">Q 94</q> und
+     <q type="koran" versstart="108:000" versend="108:003">Q 108</q>): „Sie sollen den Herrn dieses
+    Hauses anbeten“ (<q type="koran" versstart="106:003" versend="106:003">Q 106:3</q>). Es ist
+    nicht wahrscheinlich, dass der Text seinen Hörern damit etwas ganz und gar Unerhörtes mitteilte:
+    Die Tatsache, dass Gott, das eigentliche Subjekt von <q type="koran" versstart="106:001"
+     versend="106:002">V. 1.2</q>, in der ersten Texthälfte gar nicht explizit erwähnt wird, legt
+    nahe, dass es unter den Quraiš bereits ein rudimentäres Bewusstsein davon gab, Empfänger
+    besonderer Gnadenerweise Allāhs zu sein (vgl. <bibl Zotero_Id_1="VHNRU7ED">Rubin 1984,
+     167</bibl>). Wie auch in der späteren Stelle <q type="koran" versstart="010:022"
+     versend="010:023">10:22.23</q> deutlich wird, radikalisiert der Koran hier religiöse
+    Überzeugungen, die in diffuser Form bereits gegeben waren (ohne dass man deshalb, wie <bibl
+     Zotero_Id_1="HAWEGFU2">Amman (2001)</bibl> zu recht insistiert, die koranischen Verkündigungen
+    als geschichtlich notwendige Vollendung einer sich bereits vorkoranisch abzeichnenden Tendenz
+    zum Monotheismus verstehen muss). Ein ausdrückliches Bekenntnis zum Eingottglauben ist
+    allerdings erst späteren Texten vorbehalten (gegen <bibl Zotero_Id_1="VHNRU7ED">Rubin 1984,
+     173</bibl>).</p>
+  </text>
+ </kommentar>
+</korankommentar>

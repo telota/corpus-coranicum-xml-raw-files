@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Quran xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="Textstruktur.xsd">
+    <Sure id="100" webtauglich="true" translator="Nicolai Sinai">
+        <Hauptteil id="0">
+            <Abschnitt id="0">
+                <Gesaetz n="0">
+                    <Vers n="000">
+                        <Teilvers n="000" reim="2n/m">
+                            <Kolon lang="ar" Einschub="false" n="0">بِسۡمِ ٱللَّهِ ٱلرَّحۡمَٰنِ ٱلرَّحِيمِ</Kolon>
+                            <Kolon lang="de" Einschub="false" n="0">Im Namen Gottes, des barmherzigen Erbarmers!</Kolon>
+                        </Teilvers>
+                    </Vers>
+                </Gesaetz>
+                <Gesaetz n="1">
+                    <Vers n="001">
+                        <Teilvers n="001" reim="3Kḥā">
+                            <Kolon Einschub="false" lang="ar" n="1">وَٱلۡعَٰدِيَٰتِ ضَبۡحًۭا</Kolon>
+                            <Kolon Einschub="false" lang="de" n="1">Bei den schnaubend Rennenden,</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="002">
+                        <Teilvers n="002" reim="3Kḥā">
+                            <Kolon Einschub="false" lang="ar" n="2">فَٱلۡمُورِيَٰتِ قَدۡحًۭا</Kolon>
+                            <Kolon Einschub="false" lang="de" n="2">dann Funken Schlagenden,</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="003">
+                        <Teilvers n="003" reim="3Kḥā">
+                            <Kolon Einschub="false" lang="ar" n="3">فَٱلۡمُغِيرَٰتِ صُبۡحًۭا</Kolon>
+                            <Kolon Einschub="false" lang="de" n="3">dann in der Morgendämmerung Angreifenden;</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="004">
+                        <Teilvers n="004" reim="3Kʿā">
+                            <Kolon Einschub="false" lang="ar" n="4">فَأَثَرۡنَ بِهِۦ نَقۡعًۭا</Kolon>
+                            <Kolon Einschub="false" lang="de" n="4">da wirbeln sie dann Staub auf,</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="005">
+                        <Teilvers n="005" reim="3Kʿā">
+                            <Kolon Einschub="false" lang="ar" n="5">فَوَسَطۡنَ بِهِۦ جَمۡعًا</Kolon>
+                            <Kolon Einschub="false" lang="de" n="5">da dringen sie dann mitten in die Schar!</Kolon>
+                        </Teilvers>
+                    </Vers>
+                </Gesaetz>
+                <Gesaetz n="2">
+                    <Vers n="006">
+                        <Teilvers n="006" reim="2d">
+                            <Kolon Einschub="false" lang="ar" n="6">إِنَّ ٱلۡإِنسَٰنَ لِرَبِّهِۦ لَكَنُودٌۭ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="6">Der Mensch ist undankbar gegen seinen Herrn</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="007">
+                        <Teilvers n="007" reim="2d">
+                            <Kolon Einschub="false" lang="ar" n="7">وَإِنَّهُۥ عَلَىٰ ذَٰلِكَ لَشَهِيدٌۭ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="7">und er selbst ist dafür Zeuge;</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="008">
+                        <Teilvers n="008" reim="2d">
+                            <Kolon Einschub="false" lang="ar" n="8">وَإِنَّهُۥ لِحُبِّ ٱلۡخَيۡرِ لَشَدِيدٌ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="8">heftig liebt er den Besitz.</Kolon>
+                        </Teilvers>
+                    </Vers>
+                </Gesaetz>
+                <Gesaetz n="3">
+                    <Vers n="009">
+                        <Teilvers n="009" reim="2r">
+                            <Kolon Einschub="false" lang="ar" n="9">أَفَلَا يَعۡلَمُ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="9">Weiß er denn nicht?</Kolon>
+                            <Kolon Einschub="false" lang="ar" n="10">إِذَا بُعۡثِرَ مَا فِی ٱلۡقُبُورِ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="10">Wenn freigelegt wird, was in den Gräbern ist</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="010">
+                        <Teilvers n="010" reim="2r">
+                            <Kolon Einschub="false" lang="ar" n="11">وَحُصِّلَ مَا فِی ٱلصُّدُورِ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="11">und hervorgeholt wird, was in den Herzen ist,</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="011">
+                        <Teilvers n="011" reim="2r">
+                            <Kolon Einschub="false" lang="ar" n="12">إِنَّ رَبَّهُم بِهِمۡ يَوۡمَئِذٍۢ لَّخَبِيرٌ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="12">an jenem Tag ist ihr Herr ihrer kundig!</Kolon>
+                        </Teilvers>
+                    </Vers>
+                </Gesaetz>
+            </Abschnitt>
+        </Hauptteil>
+    </Sure>
+</Quran>

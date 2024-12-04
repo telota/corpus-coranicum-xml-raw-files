@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Quran xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="Textstruktur.xsd">
+    <Sure id="096" webtauglich="true" translator="Nicolai Sinai">
+        <Hauptteil id="0">
+            <Abschnitt id="0">
+                <Gesaetz n="0">
+                    <Vers n="000">
+                        <Teilvers n="000" reim="2n/m">
+                            <Kolon lang="ar" Einschub="false" n="0">بِسۡمِ ٱللَّهِ ٱلرَّحۡمَٰنِ ٱلرَّحِيمِ</Kolon>
+                            <Kolon lang="de" Einschub="false" n="0">Im Namen Gottes, des barmherzigen Erbarmers!</Kolon>
+                        </Teilvers>
+                    </Vers>
+                </Gesaetz>
+                <Gesaetz n="1">
+                    <Vers n="001">
+                        <Teilvers n="001" reim="3K3q">
+                            <Kolon Einschub="false" lang="ar" n="1">ٱقۡرَأۡ بِٱسۡمِ رَبِّكَ ٱلَّذِی خَلَقَ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="1">Trag vor im Namen deines Herrn, der schafft,</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="002">
+                        <Teilvers n="002" reim="3K3q">
+                            <Kolon Einschub="false" lang="ar" n="2">خَلَقَ ٱلۡإِنسَٰنَ مِنۡ عَلَقٍ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="2">der den Menschen aus etwas Klebrigem schafft!</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="003">
+                        <Teilvers n="003" reim="3(K)K3m">
+                            <Kolon Einschub="false" lang="ar" n="3">ٱقۡرَأۡ وَرَبُّكَ ٱلۡأَكۡرَمُ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="3">Trag vor! Dein Herr ist der Großmütige,</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="004">
+                        <Teilvers n="004" reim="3(K)K3m">
+                            <Kolon Einschub="false" lang="ar" n="4">ٱلَّذِی عَلَّمَ بِٱلۡقَلَمِ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="4">der mit dem Schreibrohr lehrt,</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="005">
+                        <Teilvers n="005" reim="3(K)K3m">
+                            <Kolon Einschub="false" lang="ar" n="5">عَلَّمَ ٱلۡإِنسَٰنَ مَا لَمۡ يَعۡلَمۡ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="5">den Menschen lehrt, was er nicht wusste!</Kolon>
+                        </Teilvers>
+                    </Vers>
+                </Gesaetz>
+                <Gesaetz n="2">
+                    <Vers n="006">
+                        <Teilvers n="006" reim="3(K)Kā">
+                            <Kolon Einschub="false" lang="ar" n="6">كَلَّآ إِنَّ ٱلۡإِنسَٰنَ لَيَطۡغَىٰۤ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="6">Doch nein! Der Mensch ist aufsässig,</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="007">
+                        <Teilvers n="007" reim="3(K)Kā">
+                            <Kolon Einschub="false" lang="ar" n="7">أَن رَّءَاهُ ٱسۡتَغۡنَىٰۤ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="7">weil er meint, sich selbst zu genügen!</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="008">
+                        <Teilvers n="008" reim="3(K)Kā">
+                            <Kolon Einschub="false" lang="ar" n="8">إِنَّ إِلَىٰ رَبِّكَ ٱلرُّجۡعَىٰۤ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="8">Doch zu deinem Herrn führt die Rückkehr!</Kolon>
+                        </Teilvers>
+                    </Vers>
+                </Gesaetz>
+                <Gesaetz n="3">
+                    <Vers n="009">
+                        <Teilvers n="009" reim="3(K)Kā">
+                            <Kolon Einschub="false" lang="ar" n="9">أَرَءَيۡتَ ٱلَّذِی يَنۡهَىٰ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="9">Was meinst du von dem, der hindert</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="010">
+                        <Teilvers n="010" reim="3(K)Kā">
+                            <Kolon Einschub="false" lang="ar" n="10">عَبۡدًا إِذَا صَلَّىٰۤ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="10">einen Diener, wenn er betet?</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="011">
+                        <Teilvers n="011" reim="3(K)Kā">
+                            <Kolon Einschub="false" lang="ar" n="11">أَرَءَيۡتَ إِن كَانَ عَلَى ٱلۡهُدَىٰۤ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="11">Was meinst du: Dass er rechtgeleitet ist</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="012">
+                        <Teilvers n="012" reim="3(K)Kā">
+                            <Kolon Einschub="false" lang="ar" n="12">أَوۡ أَمَرَ بِٱلتَّقۡوَىٰۤ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="12">oder Gottesfurcht gebietet?</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="013">
+                        <Teilvers n="013" reim="3(K)Kā">
+                            <Kolon Einschub="false" lang="ar" n="13">أَرَءَيۡتَ إِن كَذَّبَ وَتَوَلَّىٰۤ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="13">Was meinst du: Dass er leugnet und sich abwendet?</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="014">
+                        <Teilvers n="014" reim="3(K)Kā">
+                            <Kolon Einschub="false" lang="ar" n="14">أَلَمۡ يَعۡلَم بِأَنَّ ٱللَّهَ يَرَىٰ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="14">Weiß er denn nicht, dass Gott sieht?</Kolon>
+                        </Teilvers>
+                    </Vers>
+                </Gesaetz>
+                <Gesaetz n="4">
+                    <Vers n="015">
+                        <Teilvers n="015" reim="āKiyah">
+                            <Kolon Einschub="false" lang="ar" n="15">كَلَّا لَىِٕن لَّمۡ يَنتَهِ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="15">Doch nein! Wenn er nicht ablässt,</Kolon>
+                            <Kolon Einschub="false" lang="ar" n="16">لَنَسۡفَعًۢا بِٱلنَّاصِيَةِ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="16">so packen wir ihn am Schopf,</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="016">
+                        <Teilvers n="016" reim="āKiyah">
+                            <Kolon Einschub="false" lang="ar" n="17">نَاصِيَةٍۢ كَٰذِبَةٍ خَاطِئَةٍۢ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="17">einem lügnerischen und sündigen Schopf.</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="017">
+                        <Teilvers n="017" reim="āKiyah">
+                            <Kolon Einschub="false" lang="ar" n="18">فَلۡيَدۡعُ نَادِيَهُۥ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="18">Mag er doch seine Kumpane herbeirufen —</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="018">
+                        <Teilvers n="018" reim="āKiyah">
+                            <Kolon Einschub="false" lang="ar" n="19">سَنَدۡعُ ٱلزَّبَانِيَةَ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="19">wir werden die Höllendämonen rufen!</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="019">
+                        <Teilvers n="019" reim="arib">
+                            <Kolon Einschub="false" lang="ar" n="20">كَلَّا لَا تُطِعۡهُ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="20">Nein, gehorche ihm nicht!</Kolon>
+                            <Kolon Einschub="false" lang="ar" n="21">وَٱسۡجُدۡ وَٱقۡتَرِبۡ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="21">Wirf dich nieder und nahe dich!</Kolon>
+                        </Teilvers>
+                    </Vers>
+                </Gesaetz>
+            </Abschnitt>
+        </Hauptteil>
+    </Sure>
+</Quran>

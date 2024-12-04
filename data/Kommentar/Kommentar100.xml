@@ -1,0 +1,472 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<korankommentar xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:noNamespaceSchemaLocation="Kommentar.xsd">
+ <sure id="100" webtauglich="true"/>
+ <surentitel>
+  <text versstart="000" versend="011" verfasser="tjj">
+   <p>Sure 100 — <lang xml:lang="ar-Latn">al-ʿĀdiyāt</lang> — »Die Rennenden«</p>
+  </text>
+ </surentitel>
+ <autorenkurz>
+  <text versstart="000" versend="011" verfasser="tjj">
+   <p>Übersetzt und analysiert von Nicolai Sinai</p>
+  </text>
+ </autorenkurz>
+ <datierungkurz>
+  <text versstart="000" versend="011" verfasser="nisi">
+   <p>Mekka I (Gruppe I)</p>
+  </text>
+ </datierungkurz>
+ <datierung>
+  <text versstart="000" versend="011" verfasser="nisi">
+   <p><q type="koran" versstart="100:000" versend="100:011">Sure 100</q> gehört eng mit <q
+     type="koran" versstart="099:000" versend="099:008">Q 99</q> und <q type="koran"
+     versstart="101:000" versend="101:011">101</q> zusammen, die gleichfalls kurze eschatologische
+    Schilderungen von relativ geringer struktureller Komplexität darstellen (vgl. im Unterschied
+    dazu etwa die bereits zweiteiligen <q type="koran" versstart="081:000" versend="081:029">Suren
+     81</q> und <q type="koran" versstart="082:000" versend="082:019">82</q>) und die sich z. T. in
+    ihrem Motivbestand überschneiden (so ist <q type="koran" versstart="099:000" versend="099:008">Q
+     99</q> und <q type="koran" versstart="100:000" versend="100:011">Q 100</q> etwa das Motiv einer
+    eschatologischen Entleerung der Erde gemeinsam, s. u. den <q type="kommentar"
+     versstart="100:009" versend="100:011">Kommentar zu V. 9–11</q>; zur relativ großen
+    Schwankungsbreite in der Verslänge der drei Suren vgl. den <q type="kommentar"
+     versstart="101:000" versend="101:011">Kommentar zu Q 101</q>). Die drei Suren lassen sich am
+    ehesten als Entfaltungen der in den kurzen, nur aus kleinen Versgruppen bestehenden Droh- und
+    Scheltworte <q type="koran" versstart="095:000" versend="095:008">Q 95</q>, <q type="koran"
+     versstart="102:000" versend="102:008">102</q>, <q type="koran" versstart="103:000"
+     versend="103:003">103</q>, <q type="koran" versstart="104:000" versend="104:009">104</q>, <q
+     type="koran" versstart="107:000" versend="107:007">107</q> und <q type="koran"
+     versstart="111:000" versend="111:005">111</q> der angerissenen Thematik des Jüngsten Gerichts
+    verstehen und sind folglich Gruppe I zuzuordnen. <q type="koran" versstart="099:000"
+     versend="099:008">Q 99</q>, <q type="koran" versstart="100:000" versend="100:011">100</q> und
+     <q type="koran" versstart="101:000" versend="101:011">101</q> dürften dabei etwas später als
+    diese Suren anzusetzen sein. Hierfür spricht einerseits die Tatsache, dass <q type="koran"
+     versstart="099:000" versend="099:008">Q 99</q> bis <q type="koran" versstart="101:000"
+     versend="101:011">101</q> bereits aus kurzen Gesätzen und nicht nur aus Versgruppen bestehen.
+    Andererseits ist der Aufbau von <q type="koran" versstart="100:001" versend="100:008"
+     >100:1–8</q> analog zu <q type="koran" versstart="103:000" versend="103:003">Sure 103</q>; geht
+    man von der Hypothese einer graduellen strukturellen Ausdifferenzierung der frühmekkanischen
+    Suren aus, so dürfte <q type="koran" versstart="100:000" versend="100:011">Q 100</q> der spätere
+    Text von beiden sein (s. u., <q type="aufbauinhalt" versstart="100:000" versend="100:011">Aufbau
+     und Inhalt</q>). Erwähnenswert ist, dass die Sure zugleich auch strukturelle Bezüge zu späteren
+    Korantexten aufweist: Eine an <q type="koran" versstart="100:000" versend="100:011">Q 100</q>
+    erinnernde Kombination von Schwurabschnitt (<q type="koran" versstart="100:001"
+     versend="100:003">V. 1 ff.</q>) und eschatologischem Temporalsatz (mit Nachsatz) (<q
+     type="koran" versstart="100:009" versend="100:011">V. 9–11</q>) liegt auch dem Aufbau von <q
+     type="koran" versstart="075:000" versend="075:040">Q 75</q>, <q type="koran"
+     versstart="081:000" versend="081:029">81</q> und <q type="koran" versstart="084:000"
+     versend="084:025">84</q> zugrunde, wobei letztere beiden Suren die Reihenfolge dieser
+    Strukturelemente umkehren.</p>
+  </text>
+ </datierung>
+ <literarkritikkurz>
+  <text versstart="000" versend="011" verfasser="nisi">
+   <p>Keine Einschübe</p>
+  </text>
+ </literarkritikkurz>
+ <literarkritik>
+  <text versstart="000" versend="011" verfasser="nisi">
+   <p>Die Sure ist als Einheit zu betrachten, sie bietet keine stilistische oder inhaltliche
+    Handhabe für literarkritische Scheidungen.</p>
+  </text>
+ </literarkritik>
+ <aufbauinhalt>
+  <text versstart="000" versend="011" verfasser="nisi">
+   <p>Die Sure besteht aus einer Schwurserie mit paränetisch erweiterter Aussage und angeschlossenem
+    eschatologischen Temporalsatz (mit Nachsatz). Der Text weist zwar insgesamt vier verschiedene
+    Reime auf, doch unterscheiden sich die Ausgänge von <q type="koran" versstart="100:001"
+     versend="100:005">V. 1–5</q> (<hi rend="italic">3Kḥā</hi>, <hi rend="italic">3Kʿā</hi>)
+    einerseits und <q type="koran" versstart="100:006" versend="100:011">V. 6–11</q> (<hi
+     rend="italic">3K2d</hi>, <hi rend="italic">3K2r</hi>) andererseits jeweils nur in ihren
+    Konsonanten; sie lassen sich damit als ein Fall von „Reimabwandlung“ charakterisieren (<bibl
+     Zotero_Id_1="4WEWN8NZ" Titel_1="Studien zur Komposition der mekkanischen Suren">Neuwirth,
+     Studien, 99 f.</bibl>). Die Hauptzäsur der Sure liegt demnach zwischen <q type="koran"
+     versstart="100:005" versend="100:005">V. 5</q> und <q type="koran" versstart="100:006"
+     versend="100:006">6</q>, also zwischen Schwur und als Schwuraussage fungierendem, rügendem
+    <lang xml:lang="ar-Latn">ʾinsān</lang>-Spruch. Diese beiden Elemente finden sich auch in der
+    kürzeren <q type="koran" versstart="103:000" versend="103:003">Sure 103</q> (<q type="koran"
+     versstart="103:001" versend="103:001">V. 1</q>: Schwur, <q type="koran" versstart="103:002"
+     versend="103:002">V. 2</q>: <lang xml:lang="ar-Latn">ʾinsān</lang>-Spruch), die ebenso wie der
+    vorliegende Text zu Gruppe I der frühmekkanischen Verkündigungen gehört:</p>
+   <p>
+    <table rend="boxed" rows="5" cols="2">
+     <head/>
+     <row>
+      <cell>
+       <q type="koran" versstart="103:000" versend="103:003">Q 103</q> (<q type="koran"
+        versstart="103:003" versend="103:003">V. 3</q> ist späterer Einschub):</cell>
+      <cell>
+       <q type="koran" versstart="100:000" versend="100:011">Q 100</q>:</cell>
+     </row>
+     <row>
+      <cell>
+       <hi rend="superscript"><q type="koran" versstart="103:001" versend="103:001">1</q></hi>
+       Schwur</cell>
+      <cell>
+       <hi rend="superscript"><q type="koran" versstart="100:001" versend="100:003">1–3</q></hi>
+       Schwurserie</cell>
+     </row>
+     <row>
+      <cell/>
+      <cell>
+       <hi rend="superscript"><q type="koran" versstart="100:004" versend="100:005">4.5</q></hi>
+       Fortführung der Schwurserie</cell>
+     </row>
+     <row>
+      <cell>
+       <hi rend="superscript"><q type="koran" versstart="103:002" versend="103:002">2</q></hi>
+       <lang xml:lang="ar-Latn">ʾinsān</lang>-Spruch (eingliedrig)</cell>
+      <cell>
+       <hi rend="superscript"><q type="koran" versstart="100:006" versend="100:008">6–8</q></hi>
+       <lang xml:lang="ar-Latn">ʾinsān</lang>-Spruch (dreigliedrig)</cell>
+     </row>
+     <row>
+      <cell/>
+      <cell>
+       <hi rend="superscript"><q type="koran" versstart="100:009" versend="100:011">9–11</q></hi>
+       eschatologischer Temporalsatz mit Nachsatz</cell>
+     </row>
+    </table>
+   </p>
+   <p><q type="koran" versstart="100:000" versend="100:011">Q 100</q> erweitert diese
+    Aufeinanderfolge von Schwur und Schwuraussage noch um einen abschließenden eschatologischen
+    Temporalsatz (mit Nachsatz), baut den einleitenden Schwur zu einer Schwurserie mit zwei
+    syndetisch angeschlossenen Verbalsätzen aus und erweitert die in <q type="koran"
+     versstart="103:000" versend="103:003">Q 103</q> eingliedrige Rüge zu einer dreigliedrigen.
+    Wahrscheinlich deutet die höhere strukturelle Komplexität von <q type="koran"
+     versstart="100:000" versend="100:011">Sure 100</q> darauf hin, dass es sich bei ihr um den
+    späteren Text handelt. – Inhaltlich kreist der Text um das verschlüsselt (<q type="koran"
+     versstart="100:001" versend="100:005">V. 1–5</q>) oder explizit (<q type="koran"
+     versstart="100:009" versend="100:011">V. 9–11</q>) thematisierte Jüngste Gericht; die in der
+    Mitte stehende Rüge (<q type="koran" versstart="100:006" versend="100:008">V. 6–8</q>)
+    verdeutlicht das dieses Gericht erforderlich machende menschliche Fehlverhalten.</p>
+  </text>
+ </aufbauinhalt>
+ <ueberblick>
+  <text versstart="000" versend="011" verfasser="tjj">
+   <p>
+    <table cols="2" rend="boxed" rows="4">
+     <head/>
+     <row>
+      <cell>
+       <hi rend="superscript"><q type="koran" versstart="100:001" versend="100:003">1–3</q></hi>
+       <hi rend="italic">3Kḥā</hi>
+      </cell>
+      <cell>
+       <hi rend="bold">1</hi>
+       <hi rend="superscript"><q type="koran" versstart="100:001" versend="100:003">1–3</q></hi>
+       Schwur (<lang xml:lang="ar-Latn">fāʿilāt</lang>-Serie)</cell>
+     </row>
+     <row>
+      <cell>
+       <hi rend="superscript"><q type="koran" versstart="100:004" versend="100:005">4.5</q></hi>
+       <hi rend="italic">3Kʿā</hi>
+      </cell>
+      <cell>
+       <hi rend="superscript"><q type="koran" versstart="100:004" versend="100:005">4.5</q></hi>
+       satzwertige Fortführung</cell>
+     </row>
+     <row>
+      <cell>
+       <hi rend="superscript"><q type="koran" versstart="100:006" versend="100:008">6–8</q></hi>
+       <hi rend="italic">2d</hi>
+      </cell>
+      <cell>
+       <hi rend="bold">2</hi>
+       <hi rend="superscript"><q type="koran" versstart="100:006" versend="100:008">6–8</q></hi>
+       Schwuraussage: <lang xml:lang="ar-Latn">ʾinsān</lang>-Spruch</cell>
+     </row>
+     <row>
+      <cell>
+       <hi rend="superscript"><q type="koran" versstart="100:009" versend="100:011">9–11</q></hi>
+       <hi rend="italic">2r</hi>
+      </cell>
+      <cell>3 <hi rend="superscript"><q type="koran" versstart="100:009" versend="100:011"
+        >9–11</q></hi> Frage, eschatologischer Temporalsatz(<lang xml:lang="ar-Latn">ʾiḏā</lang>)
+       mit Nachsatz (theologische Prädikation)</cell>
+     </row>
+    </table>
+   </p>
+   <p>Proportionen: 5+3+3.</p>
+  </text>
+ </ueberblick>
+ <anmerkungen>
+  <text versstart="000" versend="000" verfasser="nisi">
+   <p><lem>bi-smi llāhi r-raḥmāni r-raḥīm]</lem> Zur Basmala s. die entsprechende <q
+     type="anmerkung" versstart="093:000" versend="093:000">Anmerkung zu 93</q>; zum Gottesnamen
+    <lang xml:lang="ar-Latn">raḥmān</lang> s. die <q type="anmerkung" versstart="055:001"
+     versend="055:001">Anmerkung zu 55:1</q>.</p>
+  </text>
+  <text versstart="001" versend="005" verfasser="nisi">
+   <p>Der Passus stellt zusammen mit <q type="koran" versstart="103:001" versend="103:001"
+    >103:1</q>, <q type="koran" versstart="095:001" versend="095:003">95:1–3</q> und <q type="koran"
+     versstart="093:001" versend="093:002">93:1.2</q> (ebenfalls Gruppe I der frühmekkanischen
+    Texte) eine der frühesten koranischen Schwurpassagen dar (zu den koranischen Schwüren s. <bibl
+     Zotero_Id_1="3A44PMK9"
+     Titel_1="Untersuchungen zu den Schwüren im Koran unter besonderer Berücksichtigung ihrer "
+     >Kandil 1996, 16–158</bibl>, wo ausführlich sowohl die westliche Forschungsgeschichte als auch
+    islamische Deutungsansätze vorgestellt werden, sowie die nach wie vor grundlegende Bearbeitung
+    in <bibl Zotero_Id_1="8BMDDSSC"
+     Titel_1="Der Horizont der Offenbarung zur Relevanz der einleitenden Schwurserien für die"
+     >Neuwirth, „Horizont“</bibl>; eine vollständige Auflistung der relevanten Stellen findet sich
+    im Textsorten-Register). Obwohl üblicherweise vorausgesetzt wird, dass die koranischen Schwüre
+    ein charakteristisches Ausdrucksmittel altarabischer Seher
+    (<lang xml:lang="ar-Latn">kuhhān</lang>) aufgreifen, steht eine detaillierte Sammlung,
+    Authentizitätsprüfung und literaturwissenschaftliche Analyse der in der islamischen Literatur
+    überlieferten <lang xml:lang="ar-Latn">kuhhān</lang>-Sprüche noch aus (vgl. die bislang
+    ausführlichste Erörterung des Verhältnisses von koranischen Schwüren und
+    <lang xml:lang="ar-Latn">kuhhān</lang>-Sprüchen in <bibl Zotero_Id_1="3A44PMK9"
+     Titel_1="Untersuchungen zu den Schwüren im Koran unter besonderer Berücksichtigung ihrer "
+     >Kandil 1996, 162–181</bibl>; vgl. a. <bibl Zotero_Id_1="MC299B53"
+     Titel_1="Der historische Muhammad im Spiegel des Koran Prophetentypus zwischen Seher und"
+     >Neuwirth 1993</bibl> und <bibl Zotero_Id_1="HS38H4D6"
+     Titel_1="Arabia and the Arabs from the Bronze Age to the coming of Islam">Hoyland 2001,
+     220–222</bibl> ; zum altarabischen Orakelwesen s. umfassend <bibl Zotero_Id_1="TDTP6DUU"
+     Titel_1="La divination arabe études religieuses sociologiques et folkloriques sur le mi">Fahd
+     1966</bibl> und knapper <bibl Zotero_Id_1="7VF4E8VD" Titel_1="Early Arabic Prose">Serjeant
+     1983, 122–127</bibl>). Innerkoranisch lassen sich zwei distinkte Typen von Schwüren
+    unterscheiden. Die erste Kategorie besteht aus solchen Schwüren, deren Gegenstände ausdrücklich
+    benannt werden und die zumeist – wie schon in den frühen Suren <q type="koran"
+     versstart="091:001" versend="091:008">91:1–8</q> und <q type="koran" versstart="092:001"
+     versend="092:003">92:1–3</q> (Gruppe II) – ‚akkumulative’ Serien bilden, die eine Reihe
+    separater, oft zu komplementären Paaren kombinierte Einzelphänomene (Sonne und Macht, Nacht und
+    Tag etc.) auflisten (s. hierzu die <q type="anmerkung" versstart="093:001" versend="093:002"
+     >Anmerkung zu 93:1.2</q>). Die zweite Kategorie, zu der auch der vorliegende Passus zählt,
+    besteht aus Serien von aktiven Partizipien femininum Plural, sog.
+    <lang xml:lang="ar-Latn">fāʿilāt</lang>-Serien, wie sie sich noch zu Beginn von <q type="koran"
+     versstart="079:000" versend="079:046">Q 79</q>, <q type="koran" versstart="077:000"
+     versend="077:050">77</q>, <q type="koran" versstart="051:000" versend="051:060">51</q> und <q
+     type="koran" versstart="037:000" versend="037:182">37</q> finden (zu den altarabischen Sehern
+    zugeschriebenen <lang xml:lang="ar-Latn">fāʿilāt</lang>-Schwüren s. <bibl Zotero_Id_1="3A44PMK9"
+     Titel_1="Untersuchungen zu den Schwüren im Koran unter besonderer Berücksichtigung ihrer "
+     >Kandil 1996, 162–166</bibl>). Wie Neuwirth in einer ausführlichen Analyse der einschlägigen
+    Passagen herausgearbeitet hat (<bibl Zotero_Id_1="8BMDDSSC"
+     Titel_1="Der Horizont der Offenbarung zur Relevanz der einleitenden Schwurserien für die"
+     >„Horizont“, 6 ff.</bibl>), skizzieren <lang xml:lang="ar-Latn">fāʿilāt</lang>-Serien in
+    enigmatischer Umschreibung verschiedene Stadien eines einzigen Geschehensablaufs (signalisiert
+    durch Progress-<lang xml:lang="ar-Latn">fa</lang>, s. <q type="koran" versstart="100:002"
+     versend="100:003">100:2.3</q>, <q type="koran" versstart="051:002" versend="051:004"
+     >51:2.3.4</q>, <q type="koran" versstart="077:002" versend="077:002">77:2</q>.<q type="koran"
+     versstart="077:004" versend="077:005">4.5</q>, <q type="koran" versstart="079:003"
+     versend="079:004">79:3.4</q>), der als eine aus der diesseitigen Erfahrung genommene
+    prototypische Veranschaulichung des <lang xml:lang="gr-Latn">eschaton</lang> fungiert. Ihre
+    morphologische Gestalt – Partizip femininum Plural – verweist innerkoranischer Konvention
+    zufolge auf unheilvolle und bedrohliche Erscheinungen (s. <bibl Zotero_Id_1="X6J8ZZSZ"
+     Titel_1="Frühmekkanische Suren poetische Prophetie">Neuwirth, Frühmekkanische Suren,
+    168</bibl>), vgl. etwa die – wie die <lang xml:lang="ar-Latn">fāʿilāt</lang>-Schwüre bereits ab
+    Gruppe I belegte – Bezeichnung des Weltendes durch aktive Partizipien femininum, beispielsweise
+    <lang xml:lang="ar-Latn">al-qāriʿa</lang>, <lang xml:lang="ar-Latn">al-wāqiʿa</lang> oder
+    <lang xml:lang="ar-Latn">al-ġāšiya</lang> (Stellenangaben in der <q type="anmerkung"
+     versstart="101:001" versend="101:003">Anmerkung zu 101:1–3</q>). Wie in solchen partizipialen
+    Umschreibungen des Jüngsten Tages wird auch in
+    <lang xml:lang="ar-Latn">fāʿilāt</lang>-Schwurserien der intendierte Gegenstand selbst nicht
+    genannt, sondern lediglich durch Eigenschaften charakterisiert, woraus sich eine gewisse Nähe zu
+    den für die altarabische Dichtung charakteristischen metonymischen Umschreibungen ergibt (etwa
+    „das scharfe Weiße“ für „Schwert“; s. zu diesem Stilmittel ausführlich <bibl
+     Zotero_Id_1="MXSTI6S9"
+     Titel_1="Altarabische Dichtkunst eine Untersuchung ihrer Struktur und Entwicklung am Be">Bauer
+     1992, 172–180</bibl>). Die Erwähnung von „Laufen“ und „Funkenschlagen“ in <q type="koran"
+     versstart="100:001" versend="100:002">V. 1.2</q> macht wahrscheinlich, dass im vorliegenden
+    Fall wie in dem späteren Passus <q type="koran" versstart="079:001" versend="079:005">79:1–5</q>
+    eine angreifende (vgl. <q type="koran" versstart="100:003" versend="100:005">V. 3–5</q>)
+    Reiterschar intendiert ist (s. die Analyse in <bibl Zotero_Id_1="8BMDDSSC"
+     Titel_1="Der Horizont der Offenbarung zur Relevanz der einleitenden Schwurserien für die"
+     >Neuwirth, „Horizont“, 6–8</bibl> sowie jetzt <bibl Zotero_Id_1="X6J8ZZSZ"
+     Titel_1="Frühmekkanische Suren poetische Prophetie">Neuwirth, Frühmekkanische Suren,
+    169</bibl>). Eine teilweise ähnliche Beschreibung einer heranrückenden Kriegerschar findet sich
+    im Buch Jesaja, wo sie den drohenden Untergang Judas versinnbildlicht (<q type="bibel"
+     buch="Jes" versstart="005:026" versend="005:030">Jesaja 5:26–30</q>, s. dazu <bibl
+     Zotero_Id_1="X6J8ZZSZ" Titel_1="Frühmekkanische Suren poetische Prophetie">Neuwirth,
+     Frühmekkanische Suren, 170</bibl>), doch sind die Berührungspunkte wohl zu lose, um von einer
+    bewussten Anspielung zu sprechen.</p>
+   <p>Wie <q type="koran" versstart="100:001" versend="100:005">100:1–5</q> lassen sich auch die
+    übrigen drei frühmekkanischen <lang xml:lang="ar-Latn">fāʿilāt</lang>-Serien als prototypische
+    Vergegenwärtigungen des Weltendes anhand konkreter Gegenwartserfahrungen deuten (<q type="koran"
+     versstart="051:001" versend="051:004">51:1–4</q> und <q type="koran" versstart="077:001"
+     versend="077:005">77:1–5</q> beschreiben anders als <q type="koran" versstart="100:001"
+     versend="100:005">100:1–5</q> und <q type="koran" versstart="079:001" versend="079:005"
+     >79:1–5</q>keine Reiterschar, sondern einen heraufziehenden Sturm). Die spätere
+    (mittelmekkanische) Passage <q type="koran" versstart="037:001" versend="037:003">37:1–3</q>
+    fällt hingegen insofern aus dem Rahmen, als sie sicherlich auf Engel zu beziehen ist und damit
+    kein Phänomen innerweltlicher Erfahrung mehr beschreibt.</p>
+  </text>
+  <text versstart="004" versend="004" verfasser="nisi">
+   <p><lem>fa-ʾaṯarna bihī naqʿā]</lem>
+    <lang xml:lang="ar-Latn">Bihī</lang> (auch im nächsten Vers) lässt sich plausibel als Bezugnahme
+    auf den Ort des Geschehens auffassen (vgl. <bibl Zotero_Id_1="4G9UJJKQ"
+     Titel_1="Ǧamiʿ al-bayān ʿan taʾwīl āy al-Qurʾān">Ṭabarī, ad loc.</bibl>:
+    <lang xml:lang="ar-Latn">wa-l-hāʾu fī qaulihī bihī kināyatu smi l-mauḍiʿ</lang>).
+    <lang xml:lang="ar-Latn">Naqʿ</lang> wird in der islamischen Exegese üblicherweise mit
+    <lang xml:lang="ar-Latn">ġubār</lang> bzw. <lang xml:lang="ar-Latn">turāb</lang>, „Staub“
+    gleichgesetzt (vgl. <bibl Zotero_Id_1="4G9UJJKQ" Titel_1="">Ṭabarī, ad loc.</bibl>), doch steht
+    diese Erklärung in den arabischen Lexika etwas isoliert da; u. U. wäre vielleicht die vom <bibl
+     Zotero_Id_1="PEEF36TT" Titel_1="Lisān al-ʿarab">Lisān</bibl> gegebene Erläuterung im Sinne von
+    „angesammeltem Wasser“
+    (<lang xml:lang="ar-Latn">an-naqʿu l-māʾu n-nāqiʿu ʾay al-muǧtamiʿ</lang>) vorzuziehen.</p>
+  </text>
+  <text versstart="005" versend="005" verfasser="nisi">
+   <p><lem>fa-wasaṭna bihī ǧamʿā]</lem>
+    <lang xml:lang="ar-Latn">Wasaṭa l-qaum</lang>: „He sat (or was, or became) in the middle, or
+    midst, of the people, or company of men” (<bibl Zotero_Id_1="8WQ6CTDE"
+     Titel_1="An Arabic-English lexicon derived fom the best and the most copious Eastern so">Lane,
+     Bd. 8, 2940c</bibl>).</p>
+  </text>
+  <text versstart="006" versend="006" verfasser="nisi">
+   <p><lem>kanūd]</lem> Zu <lang xml:lang="ar-Latn">kanūd</lang> s. <bibl Zotero_Id_1="X76RWCZT"
+     Titel_1="WKAS"><hi rend="italic">WKAS</hi>, s. v. k-n-d</bibl> . Zum hier implizierten Gedanken
+    der Undankbarkeit vgl. frühmekkanisch auch <q type="koran" versstart="080:017" versend="080:017"
+     >80:17</q>.</p>
+  </text>
+  <text versstart="007" versend="007" verfasser="nisi">
+   <p><lem>wa-ʾinnahū ʿalā ḏālika la-šahīd]</lem> Vgl. inhaltlich den späteren (zu Gruppe IIIa
+    gehörigen) Vers <q type="koran" versstart="075:014" versend="075:014">75:14</q>
+    (<lang xml:lang="ar-Latn">bali l-ʾinsānu ʿalā nafsihī baṣīrah</lang>).</p>
+  </text>
+  <text versstart="008" versend="008" verfasser="nisi">
+   <p><lem>wa-ʾinnahū li-ḥubbi l-ḫairi la-šadīd]</lem> Zur Liebe zum Besitz und zum Diesseits
+    allgemein s. frühmekkanisch <q type="koran" versstart="089:020" versend="089:020">89:20</q>
+    (<lang xml:lang="ar-Latn">wa-tuḥibbūna l-māla ḥubban ǧammān</lang>), <q type="koran"
+     versstart="076:008" versend="076:008">76:8</q>
+    (<lang xml:lang="ar-Latn">wa-yuṭʿimūna ṭ-ṭaʿāma ʿalā ḥubbihī miskīnan wa-yatīman wa-ʾasīrā</lang>),
+     <q type="koran" versstart="075:020" versend="075:020">75:20</q>
+    (<lang xml:lang="ar-Latn">kallā bal tuḥibbūna l-ʿāǧilah</lang>).</p>
+  </text>
+  <text versstart="009" versend="010" verfasser="nisi">
+   <p>Zu beiden Versen existieren auch aktivische Lesarten (<bibl Zotero_Id_1="KVFTU3XN"
+     Titel_1="Muʿǧam al-qirāʾāt">Muʿǧam, ad loc.</bibl>):
+    <lang xml:lang="ar-Latn">… ʾiḏā baʿṯara mā fĭ l-qubūr / wa-ḥaṣṣala mā fĭ ṣ-ṣudūr</lang>.</p>
+  </text>
+  <text versstart="009" versend="009" verfasser="nisi">
+   <p><lem>ʾa-fa-lā yaʿlamu]</lem> Eine ähnliche rhetorische Frage nach der eigentlich vom Menschen
+    zu erwartenden Einsicht begegnet – wohl später – in <q type="koran" versstart="096:014"
+     versend="096:014">96:14</q>
+    (<lang xml:lang="ar-Latn">ʾa-lam yaʿlam bi-ʾanna llāha yarā</lang>); das damit suggerierte
+    Nichtwissen (oder Nichtwissenwollen) des Menschen kontrastiert dort mit einem ihm zuvor von Gott
+    mitgeteilten Wissen (<q type="koran" versstart="096:005" versend="096:005">V. 5</q>:
+    <lang xml:lang="ar-Latn">ʿallama l-ʾinsāna mā lam yaʿlam</lang>).</p>
+   <p><lem>ʾiḏā buʿṯira mā fĭ l-qubūr]</lem> Vgl. <q type="koran" versstart="082:004"
+     versend="082:004">82:4</q> (<lang xml:lang="ar-Latn">wa-ʾiḏă l-qubūru buʿṯirat</lang>). Das
+    Motiv einer eschatologischen Entleerung der Erde begegnet in anderer Formulierung auch in <q
+     type="koran" versstart="099:002" versend="099:002">99:2</q>.<q type="koran" versstart="099:006"
+     versend="099:006">6</q>
+    (<lang xml:lang="ar-Latn">wa-ʾaḫraǧati l-ʾarḍu ʾaṯqālahă / yaumaʾiḏin yaṣduru n-nāsu ʾaštātan …</lang>)
+    und <q type="koran" versstart="084:004" versend="084:004">84:4</q>
+    (<lang xml:lang="ar-Latn">wa-ʾalqat mā fihā wa-taḫallat</lang>); vgl. auch den
+    mittelmekkanischen Vers <q type="koran" versstart="050:044" versend="050:044">50:44</q>
+    (<lang xml:lang="ar-Latn">yauma tašaqqaqu l-ʾarḍu ʿanhum sirāʿan ḏālika ḥašrun ʿalainā yasīr</lang>).
+    Alle vier Stellen berühren sich eng mit einem Gedicht Jakobs von Sarūg, das Yousef Kouriyhe
+    ausfindig gemacht hat (Text in <bibl Zotero_Id_1="UTTD2FRN"
+     Titel_1="Homiliae Selectae Mar-Jacobi Sarugensis">Bedjan 1906, 849</bibl>, Übersetzung von
+    David Kiltz; s. <bibl Zotero_Id_1="UTTD2FRN" Titel_1="Homiliae Selectae Mar-Jacobi Sarugensis"
+     >TUK, Nr. 539</bibl>): „Dann, aus der Stille, treffen die Erde Wehen, so dass sie niederkniet
+    und verborgene Missetäter gebiert, mit denen sie schwanger war. Die gesamte Erde wimmert vor
+    Schmerzen wie eine Gebärende in ihren Wehen, da sie ununterbrochen in ihr Begrabene
+    hervorbringt. Gräber speien ihre Toten hervor wie Quellen. Die Felsen zersplittern, um Platz für
+    die Mächte zu machen.“ Dass die Erde am Jüngsten Tag die Toten ausspeit, lehrt bereits die <q
+     type="bibel" buch="Offb" versstart="020:013" versend="020:013">Offenbarung des Johannes
+     20:13</q>: „Und das Meer gab die Toten heraus, die in ihm waren; und der Tod und die Unterwelt
+    gaben ihre Toten heraus, die in ihnen waren. Sie wurden gerichtet, jeder nach seinen
+    Werken.“</p>
+  </text>
+  <text versstart="010" versend="010" verfasser="nisi">
+   <p><lem>wa-ḥuṣṣila mā fĭ ṣ-ṣudūr]</lem> Wörtl.: „… was in den Brüsten ist“. Als
+    neutestamentlichen Intertext vgl. den 2. Clemensbrief 16:3: „Dann werden offenbar sein die
+    geheimen und sichtbaren Taten der Menschen.“</p>
+  </text>
+  <text versstart="011" versend="011" verfasser="nisi">
+   <p><lem>yaumaʾiḏin]</lem> Vgl. die <q type="anmerkung" versstart="102:008" versend="102:008"
+     >Anmerkung zu 102:8</q>.</p>
+  </text>
+ </anmerkungen>
+ <kommentar>
+  <text versstart="001" versend="005" verfasser="nisi">
+   <p>Der Surenbeginn adaptiert die altarabische Textsorte des Seherschwurs, über den wir freilich
+    nur aus islamischen Quellen informiert sind (vgl. zu einem Textbeispiel <bibl
+     Zotero_Id_1="MC299B53"
+     Titel_1="Der historische Muhammad im Spiegel des Koran Prophetentypus zwischen Seher und"
+     >Neuwirth 1993, 96 f.</bibl>). Als charakteristische Form ‚mantischer’, d. h. übernatürlich
+    inspirierter Rede dienen Schwüre wohl zunächst einmal dazu, den koranischen Offenbarungsanspruch
+    auf eine in altarabischen Kontexten vertraute Weise zu markieren. Die magisch-orakelhafte
+    Funktion solcher Schwüre ist im Koran nicht mehr zentral: Es geht nicht um die Vorhersage
+    innerweltlicher Einzelereignisse, sondern um eine Veranschaulichung des alle Menschen
+    gleichermaßen erwartenden Jüngsten Tages; die durch die Textsorte Schwur mit ihren enigmatischen
+    Verschlüsselungen erzeugte rhetorische Spannung wird damit in ihrer koranischen Verwendung einer
+    eschatologischen Botschaft dienstbar gemacht. Konkret stellt die <q type="koran"
+     versstart="100:000" versend="100:011">Q 100</q> einleitende Schwurserie (in <q type="koran"
+     versstart="100:004" versend="100:005">V. 4.5</q> mit satzwertiger Fortführung) einen in der
+    Morgendämmerung angreifenden Reitertrupp in verschiedenen Bewegungsstadien dar (s. o., <q
+     type="anmerkung" versstart="100:000" versend="100:011">Anmerkungen</q>). Dass die Angegriffenen
+    aus dem Schlaf gerissen werden, lässt sich mit Neuwirth als Sinnbild „der am Jüngsten Tag
+    plötzlich aus ihrem Todesschlaf Erweckten“ verstehen (<bibl Zotero_Id_1="X6J8ZZSZ"
+     Titel_1="Frühmekkanische Suren poetische Prophetie">Neuwirth, Frühmekkanische Suren,
+    174</bibl>). Eine ähnliche Transposition eines aus der Lebenswelt bzw. der altarabischen
+    Dichtung vertrauten Phänomens in die eschatologische Zukunft findet sich auch in <q type="koran"
+     versstart="101:005" versend="101:005">101:5</q>, s. die <q type="anmerkung" versstart="101:004"
+     versend="101:005">Anmerkung</q> und den <q type="kommentar" versstart="101:004"
+     versend="101:005">kursorischen Kommentar</q> dazu). „Was dann geschieht, bleibt ungesagt –
+    anders als im literarischen Vorbild des altarabischen Seherschwurs, auf den eine Auflösung des
+    Schwurrätsels unmittelbar folgt“ (<bibl Zotero_Id_1="X6J8ZZSZ"
+     Titel_1="Frühmekkanische Suren poetische Prophetie">Neuwirth, Frühmekkanische Suren, 174</bibl>
+    ; s. <bibl Zotero_Id_1="MC299B53"
+     Titel_1="Der historische Muhammad im Spiegel des Koran Prophetentypus zwischen Seher und"
+     >Neuwirth 1993</bibl>). Diese Auflösung erfolgt erst am Schluss der Sure (<q type="koran"
+     versstart="100:009" versend="100:011">V. 9–11</q>) durch einen ausdrücklichen Verweis auf den
+    Jüngsten Tag.</p>
+  </text>
+  <text versstart="006" versend="008" verfasser="nisi">
+   <p>Die eschatologische Auflösung der enigmatischen Schwureinleitung wird durch einen – später zum
+    Topos werdenden – <lang xml:lang="ar-Latn">ʾinsān</lang>-Spruch retardiert (vgl. <bibl
+     Zotero_Id_1="MC299B53"
+     Titel_1="Der historische Muhammad im Spiegel des Koran Prophetentypus zwischen Seher und"
+     >Neuwirth 1993, 100</bibl>), der die menschliche Besitzgier rügt. Sprachlich stehen <q
+     type="koran" versstart="100:006" versend="100:008">V. 6–8</q>, welche die strukturelle Mitte
+    der Sure bilden, in deutlichem Kontrast zur dynamischen Aufgewühltheit von <q type="koran"
+     versstart="100:001" versend="100:005">V. 1–5</q> und <q type="koran" versstart="100:009"
+     versend="100:011">V. 9–11</q>: Sie stellen die einzigen Nominalsätze der Sure dar, die sonst
+    aus Verbalsätzen und Partizipialformen (in <q type="koran" versstart="100:001" versend="100:003"
+     >V. 1–3</q>) besteht. Inhaltlich werden dem Menschen eine öffentlich „Bezeugung“ von Undank
+    gegen Gott (<q type="koran" versstart="100:006" versend="100:007">V. 6–7</q>) sowie Besitzgier
+     (<q type="koran" versstart="100:008" versend="100:008">V. 8</q>) vorgeworfen. Neuwirth sieht
+    hierin exemplarische Stellvertreter für den anthropozentrischen Wertekanon der vorislamischen
+    Zeit (<bibl Zotero_Id_1="X6J8ZZSZ" Titel_1="Frühmekkanische Suren poetische Prophetie">Neuwirth,
+     Frühmekkanische Suren, 174 f.</bibl>), doch kritisiert der Text nicht ausdrücklich bestimmte
+    altarabische Tugenden.</p>
+  </text>
+  <text versstart="009" versend="011" verfasser="nisi">
+   <p><q type="koran" versstart="100:009" versend="100:009">V. 9</q> knüpft mit einer rhetorischen
+    Frage (<lang xml:lang="ar-Latn">ʾa-fa-lā yaʿlamu</lang>) an die zuvor konstatierten moralischen
+    Defizite des Menschen an: Ein Beharren auf den verurteilten Verhaltensweisen erscheint
+    angesichts der Möglichkeit, um die Realität eines unausweichlichen Endgerichts zu „wissen“,
+    geradezu irrational. Die Sequenz aus einer Anklage menschlichen Fehlverhaltens (<q type="koran"
+     versstart="100:006" versend="100:008">Q 100:6–8</q>) und dem Aufweis der daraus folgenden
+    eschatologischen Konsequenzen (<q type="koran" versstart="100:009" versend="100:011">Q
+     100:9–11</q>) findet sich in anderer literarischer Gestalt auch in <q type="koran"
+     versstart="104:000" versend="104:009">Q 104</q> und erinnert an die Grundform
+    alttestamentlicher Unheilsprophezeiungen (s. den <q type="kommentar" versstart="104:000"
+     versend="104:009">Kommentar zu Q 104</q>). Zugleich entschlüsselt die Schlusspassage mit ihren
+    eindeutig eschatologischen Signalen (Entleerung der Gräber, also Auferweckung der Toten, in <q
+     type="koran" versstart="100:009" versend="100:009">V. 9</q>, Verweis auf „jenen Tag“, also den
+    Tag des Jüngsten Gerichts in<q type="koran" versstart="100:011" versend="100:011">V. 11</q>) den
+    Sinn des in der Schwureinleitung entfalteten Rätselbildes: Die attackierende Reiterscharf
+    fungiert als „ein aus der sozialen Erfahrung genommenes ‚verständliches‘ Bild für die der
+    Erfahrung noch entzogenen einzelnen Phasen der Gerichtsvorbereitung“ (vgl. <bibl
+     Zotero_Id_1="MC299B53"
+     Titel_1="Der historische Muhammad im Spiegel des Koran Prophetentypus zwischen Seher und"
+     >Neuwirth 1993, 7</bibl>). <q type="koran" versstart="100:009" versend="100:011">V. 9–11</q>
+    haben insofern den Charakter einer Rätsel-Auflösung. Die Sure weist damit die auch für die in
+    der islamischen Literatur überlieferten <lang xml:lang="ar-Latn">kāhin</lang>-Sprüche
+    charakteristische Zweitaktigkeit von enigmatisch chiffrierter Rede und anschließender
+    Dechiffrierung auf (vgl. <bibl Zotero_Id_1="MC299B53"
+     Titel_1="Der historische Muhammad im Spiegel des Koran Prophetentypus zwischen Seher und"
+     >Neuwirth 1993</bibl>). Zugleich lässt sich die Schlusspassage, wie Neuwirth unterstreicht
+     (<bibl Zotero_Id_1="X6J8ZZSZ" Titel_1="Frühmekkanische Suren poetische Prophetie">Neuwirth,
+     Frühmekkanische Suren, 175</bibl>), als Abschluss der Schwurserie verstehen: Denn „die
+    Schwurserie hatte das Bild da enden lassen, wo der eigentliche Überfall begann (<q type="koran"
+     versstart="100:005" versend="100:005">V. 5</q>:
+    <lang xml:lang="ar-Latn">fa-wasaṭna bihī ǧamʿā</lang>, „dringen in der Scharen Mitte“), dessen
+    Wirkung aber nicht ausgeführt“, während V. <q type="koran" versstart="100:009" versend="100:011"
+     >9–11</q> ein weiteres Bild entwerfen, das „eine heftige Erschütterung, einen alles
+    umstürzenden Angriff als bereits stattgefunden voraussetzt“.</p>
+  </text>
+ </kommentar>
+</korankommentar>

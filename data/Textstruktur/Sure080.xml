@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Quran xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="Textstruktur.xsd">
+    <Sure id="080" translator="Nicolai Sinai" webtauglich="true">
+        <Hauptteil id="0">
+            <Abschnitt id="0">
+                <Gesaetz n="0">
+                    <Vers n="000">
+                        <Teilvers n="000" reim="2n/m">
+                            <Kolon lang="ar" Einschub="false" n="0">بِسۡمِ ٱللَّهِ ٱلرَّحۡمَٰنِ ٱلرَّحِيمِ</Kolon>
+                            <Kolon lang="de" Einschub="false" n="0">Im Namen Gottes, des barmherzigen Erbarmers!</Kolon>
+                        </Teilvers>
+                    </Vers>
+                </Gesaetz>
+            </Abschnitt>
+        </Hauptteil>
+        <Hauptteil id="1">
+            <Abschnitt id="1">
+                <Gesaetz n="1">
+                    <Vers n="001">
+                        <Teilvers n="001" reim="3KKā">
+                            <Kolon Einschub="false" lang="ar" n="1">عَبَسَ وَتَوَلَّىٰۤ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="1">Er runzelte die Stirn und wandte sich ab</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="002">
+                        <Teilvers n="002" reim="3KKā">
+                            <Kolon Einschub="false" lang="ar" n="2">أَن جَآءَهُ ٱلۡأَعۡمَىٰ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="2">darüber, dass der Blinde zu ihm kam.</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="003">
+                        <Teilvers n="003" reim="3KKā">
+                            <Kolon Einschub="false" lang="ar" n="3">وَمَا يُدۡرِيكَ لَعَلَّهُۥ يَزَّكَّىٰۤ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="3">Wer weiß, vielleicht läutert er sich,</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="004">
+                        <Teilvers n="004" reim="3KKā">
+                            <Kolon Einschub="false" lang="ar" n="4">أَوۡ يَذَّكَّرُ فَتَنفَعَهُ ٱلذِّكۡرَىٰۤ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="4">oder er lässt sich mahnen, so dass die Mahnung ihm nützt?</Kolon>
+                        </Teilvers>
+                    </Vers>
+                </Gesaetz>
+                <Gesaetz n="2">
+                    <Vers n="005">
+                        <Teilvers n="005" reim="3KKā">
+                            <Kolon Einschub="false" lang="ar" n="5">أَمَّا مَنِ ٱسۡتَغۡنَىٰ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="5">Jemandem, der an sich selbst genug hat,</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="006">
+                        <Teilvers n="006" reim="3KKā">
+                            <Kolon Einschub="false" lang="ar" n="6">فَأَنتَ لَهُۥ تَصَدَّىٰ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="6">dem kommst du entgegen,</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="007">
+                        <Teilvers n="007" reim="3KKā">
+                            <Kolon Einschub="false" lang="ar" n="7">وَمَا عَلَيۡكَ أَلَّا يَزَّكَّىٰ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="7">obgleich du keinen Schaden davon hast, dass er sich nicht läutern will.</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="008">
+                        <Teilvers n="008" reim="3KKā">
+                            <Kolon Einschub="false" lang="ar" n="8">وَأَمَّا مَن جَآءَكَ يَسۡعَىٰ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="8">Auf jemanden aber, der eilfertig zu dir kommt</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="009">
+                        <Teilvers n="009" reim="3KKā">
+                            <Kolon Einschub="false" lang="ar" n="9">وَهُوَ يَخۡشَىٰ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="9">und dabei furchtsam ist,</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="010">
+                        <Teilvers n="010" reim="3KKā">
+                            <Kolon Einschub="false" lang="ar" n="10">فَأَنتَ عَنۡهُ تَلَهَّىٰ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="10">auf den achtest du nicht.</Kolon>
+                        </Teilvers>
+                    </Vers>
+                </Gesaetz>
+                <Gesaetz n="3">
+                    <Vers n="011">
+                        <Teilvers n="011" reim="3(K)K3Kah" reimkommentar="(Nomina) mit Sonoren">
+                            <Kolon Einschub="false" lang="ar" n="11">كَلَّآ إِنَّهَا تَذۡكِرَةٌۭ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="11">Nein, es ist eine Mahnung —</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="012">
+                        <Teilvers n="012" reim="3(K)K3Kah" reimkommentar="(Nomina) mit Sonoren">
+                            <Kolon Einschub="false" lang="ar" n="12">فَمَن شَآءَ ذَكَرَهُۥ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="12">wer will, der bedenkt sie —</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="013">
+                        <Teilvers n="013" reim="3(K)K3Kah" reimkommentar="(Nomina) mit Sonoren">
+                            <Kolon Einschub="false" lang="ar" n="13">فِی صُحُفٍۢ مُّكَرَّمَةٍۢ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="13">auf geehrten Blättern,</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="014">
+                        <Teilvers n="014" reim="3(K)K3Kah" reimkommentar="(Nomina) mit Sonoren">
+                            <Kolon Einschub="false" lang="ar" n="14">مَّرۡفُوعَةٍۢ مُّطَهَّرَةٍۭ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="14">erhöhten und reinen,</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="015">
+                        <Teilvers n="015" reim="3(K)K3Kah" reimkommentar="(Nomina) mit Sonoren">
+                            <Kolon Einschub="false" lang="ar" n="15">بِأَيۡدِی سَفَرَةٍۢ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="15">in den Händen von Schreibern,</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="016">
+                        <Teilvers n="016" reim="3(K)K3Kah" reimkommentar="(Nomina) mit Sonoren">
+                            <Kolon Einschub="false" lang="ar" n="16">كِرَامٍۭ بَرَرَةٍۢ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="16">edlen und rechtschaffenen.</Kolon>
+                        </Teilvers>
+                    </Vers>
+                </Gesaetz>
+            </Abschnitt>
+        </Hauptteil>
+        <Hauptteil id="2">
+            <Abschnitt id="1">
+                <Gesaetz n="4">
+                    <Vers n="017">
+                        <Teilvers n="017" reim="3(K)K3ah" reimkommentar="(Verben) mit vorherrschenden Sonoren">
+                            <Kolon Einschub="false" lang="ar" n="17">قُتِلَ ٱلۡإِنسَٰنُ مَآ أَكۡفَرَهُۥ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="17">Tod dem Menschen! Wie undankbar ist er!</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="018">
+                        <Teilvers n="018" reim="3(K)K3ah" reimkommentar="(Verben) mit vorherrschenden Sonoren">
+                            <Kolon Einschub="false" lang="ar" n="18">مِنۡ أَىِّ شَىۡءٍ خَلَقَهُۥ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="18">Woraus schafft er ihn denn?</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="019">
+                        <Teilvers n="019" reim="3(K)K3ah" reimkommentar="(Verben) mit vorherrschenden Sonoren">
+                            <Kolon Einschub="false" lang="ar" n="19">مِن نُّطۡفَةٍ خَلَقَهُۥ فَقَدَّرَهُۥ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="19">Aus einem Tropfen schafft er ihn und setzt ihm sein Maß;</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="020">
+                        <Teilvers n="020" reim="3(K)K3ah" reimkommentar="(Verben) mit vorherrschenden Sonoren">
+                            <Kolon Einschub="false" lang="ar" n="20">ثُمَّ ٱلسَّبِيلَ يَسَّرَهُۥ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="20">dann macht er ihm den Weg leicht;</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="021">
+                        <Teilvers n="021" reim="3(K)K3ah" reimkommentar="(Verben) mit vorherrschenden Sonoren">
+                            <Kolon Einschub="false" lang="ar" n="21">ثُمَّ أَمَاتَهُۥ فَأَقۡبَرَهُۥ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="21">dann lässt er ihn sterben und bringt ihn ins Grab;</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="022">
+                        <Teilvers n="022" reim="3(K)K3ah" reimkommentar="(Verben) mit vorherrschenden Sonoren">
+                            <Kolon Einschub="false" lang="ar" n="22">ثُمَّ إِذَا شَآءَ أَنشَرَهُۥ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="22">wenn er dann will, so erweckt er ihn auf.</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="023">
+                        <Teilvers n="023" reim="3(K)K3ah" reimkommentar="(Verben) mit vorherrschenden Sonoren">
+                            <Kolon Einschub="false" lang="ar" n="23">كَلَّا لَمَّا يَقۡضِ مَآ أَمَرَهُۥ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="23">Doch nein, er hat nicht ausgeführt, was er ihm geboten hat!</Kolon>
+                        </Teilvers>
+                    </Vers>
+                </Gesaetz>
+                <Gesaetz n="5">
+                    <Vers n="024">
+                        <Teilvers n="024" reim="āmih(ī)">
+                            <Kolon Einschub="false" lang="ar" n="24">فَلۡيَنظُرِ ٱلۡإِنسَٰنُ إِلَىٰ طَعَامِهِۦٓ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="24">Der Mensch möge auf seine Nahrung schauen:</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="025">
+                        <Teilvers n="025" reim="3(K)Kā" reimkommentar="mit vorherrschenden Explosiven (davon 25–27 3GGā)">
+                            <Kolon Einschub="false" lang="ar" n="25">أَنَّا صَبَبۡنَا ٱلۡمَآءَ صَبًّۭا</Kolon>
+                            <Kolon Einschub="false" lang="de" n="25">dass wir das Wasser ausgießen,</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="026">
+                        <Teilvers n="026" reim="3(K)Kā" reimkommentar="mit vorherrschenden Explosiven (davon 25–27 3GGā)">
+                            <Kolon Einschub="false" lang="ar" n="26">ثُمَّ شَقَقۡنَا ٱلۡأَرۡضَ شَقًّۭا</Kolon>
+                            <Kolon Einschub="false" lang="de" n="26">hierauf die Erde spalten,</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="027">
+                        <Teilvers n="027" reim="3(K)Kā" reimkommentar="mit vorherrschenden Explosiven (davon 25–27 3GGā)">
+                            <Kolon Einschub="false" lang="ar" n="27">فَأَنۢبَتۡنَا فِيهَا حَبًّۭا</Kolon>
+                            <Kolon Einschub="false" lang="de" n="27">und Korn auf ihr wachsen lassen,</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="028">
+                        <Teilvers n="028" reim="3(K)Kā" reimkommentar="mit vorherrschenden Explosiven (davon 25–27 3GGā)">
+                            <Kolon Einschub="false" lang="ar" n="28">وَعِنَبًۭا وَقَضۡبًۭا</Kolon>
+                            <Kolon Einschub="false" lang="de" n="28">Weintrauben und Schnittgewächs,</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="029">
+                        <Teilvers n="029" reim="3(K)Kā" reimkommentar="mit vorherrschenden Explosiven (davon 25–27 3GGā)">
+                            <Kolon Einschub="false" lang="ar" n="29">وَزَيۡتُونًۭا وَنَخۡلًۭا</Kolon>
+                            <Kolon Einschub="false" lang="de" n="29">Oliven und Palmen,</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="030">
+                        <Teilvers n="030" reim="3(K)Kā" reimkommentar="mit vorherrschenden Explosiven (davon 25–27 3GGā)">
+                            <Kolon Einschub="false" lang="ar" n="30">وَحَدَآئِقَ غُلۡبًۭا</Kolon>
+                            <Kolon Einschub="false" lang="de" n="30">dicht bewachsene Gärten,</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="031">
+                        <Teilvers n="031" reim="3(K)Kā" reimkommentar="mit vorherrschenden Explosiven (davon 25–27 3GGā)">
+                            <Kolon Einschub="false" lang="ar" n="31">وَفَٰكِهَةًۭ وَأَبًّۭا</Kolon>
+                            <Kolon Einschub="false" lang="de" n="31">Früchte und Bodenertrag</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="032">
+                        <Teilvers n="032" reim="āmikum">
+                            <Kolon Einschub="false" lang="ar" n="32">مَّتَٰعًۭا لَّكُمۡ وَلِأَنۡعَٰمِكُمۡ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="32">zum Nutzen für euch und euer Vieh.</Kolon>
+                        </Teilvers>
+                    </Vers>
+                </Gesaetz>
+            </Abschnitt>
+        </Hauptteil>
+        <Hauptteil id="3">
+            <Abschnitt id="1">
+                <Gesaetz n="6">
+                    <Vers n="033">
+                        <Teilvers n="033" reim="3KKā">
+                            <Kolon Einschub="false" lang="ar" n="33">فَإِذَا جَآءَتِ ٱلصَّآخَّةُ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="33">Und wenn der Lärm kommt,</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="034">
+                        <Teilvers n="034" reim="3(K)Kih">
+                            <Kolon Einschub="false" lang="ar" n="34">يَوۡمَ يَفِرُّ ٱلۡمَرۡءُ مِنۡ أَخِيهِ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="34">am Tag, da ein Mann vor seinem Bruder flieht,</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="035">
+                        <Teilvers n="035" reim="3(K)Kih">
+                            <Kolon Einschub="false" lang="ar" n="35">وَأُمِّهِۦ وَأَبِيهِ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="35">vor seiner Mutter und seinem Vater,</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="036">
+                        <Teilvers n="036" reim="3(K)Kih">
+                            <Kolon Einschub="false" lang="ar" n="36">وَصَٰحِبَتِهِۦ وَبَنِيهِ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="36">vor seiner Frau und seinen Söhnen,</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="037">
+                        <Teilvers n="037" reim="3(K)Kih">
+                            <Kolon Einschub="false" lang="ar" n="37">لِكُلِّ ٱمۡرِئٍۢ مِّنۡهُمۡ يَوۡمَئِذٍۢ شَأۡنٌۭ يُغۡنِيهِ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="37">an jenem Tag hat jeder vollauf mit seiner eigenen Sache zu tun.</Kolon>
+                        </Teilvers>
+                    </Vers>
+                </Gesaetz>
+                <Gesaetz n="7">
+                    <Vers n="038">
+                        <Teilvers n="038" reim="3(K)K3rah">
+                            <Kolon Einschub="false" lang="ar" n="38">وُجُوهٌۭ يَوۡمَئِذٍۢ مُّسۡفِرَةٌۭ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="38">Manche Gesichter sind an jenem Tag strahlend,</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="039">
+                        <Teilvers n="039" reim="3(K)K3rah">
+                            <Kolon Einschub="false" lang="ar" n="39">ضَاحِكَةٌۭ مُّسۡتَبۡشِرَةٌۭ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="39">lachend und froh;</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="040">
+                        <Teilvers n="040" reim="3(K)K3rah">
+                            <Kolon Einschub="false" lang="ar" n="40">وَوُجُوهٌۭ يَوۡمَئِذٍ عَلَيۡهَا غَبَرَةٌۭ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="40">auf manchen Gesichtern liegt an jenem Tag Staub</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="041">
+                        <Teilvers n="041" reim="3(K)K3rah">
+                            <Kolon Einschub="false" lang="ar" n="41">تَرۡهَقُهَا قَتَرَةٌ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="41">und Schmutz bedeckt sie;</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="042">
+                        <Teilvers n="042" reim="3(K)K3rah">
+                            <Kolon Einschub="false" lang="ar" n="42">أُو۟لَٰٓئِكَ هُمُ ٱلۡكَفَرَةُ ٱلۡفَجَرَةُ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="42">das sind die Ungläubigen und Sünder.</Kolon>
+                        </Teilvers>
+                    </Vers>
+                </Gesaetz>
+            </Abschnitt>
+        </Hauptteil>
+    </Sure>
+</Quran>

@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Quran xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="Textstruktur.xsd">
+    <Sure id="088" translator="Nicolai Sinai" webtauglich="true">
+        <Hauptteil id="0">
+            <Abschnitt id="0">
+                <Gesaetz n="0">
+                    <Vers n="000">
+                        <Teilvers n="000" reim="2n/m">
+                            <Kolon lang="ar" Einschub="false" n="0">بِسۡمِ ٱللَّهِ ٱلرَّحۡمَٰنِ ٱلرَّحِيمِ</Kolon>
+                            <Kolon lang="de" Einschub="false" n="0">Im Namen Gottes, des barmherzigen Erbarmers!</Kolon>
+                        </Teilvers>
+                    </Vers>
+                </Gesaetz>
+            </Abschnitt>
+        </Hauptteil>
+        <Hauptteil id="1">
+            <Abschnitt id="1">
+                <Gesaetz n="1">
+                    <Vers n="001">
+                        <Teilvers n="001" reim="āKiKah">
+                            <Kolon Einschub="false" lang="ar" n="1">هَلۡ أَتَىٰكَ حَدِيثُ ٱلۡغَٰشِيَةِ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="1">Ist die Kunde von der Bedeckenden zu dir gekommen?</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="002">
+                        <Teilvers n="002" reim="āKiKah">
+                            <Kolon Einschub="false" lang="ar" n="2">وُجُوهٌۭ يَوۡمَئِذٍ خَٰشِعَةٌ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="2">Manche Gesichter sind an jenem Tag demütig,</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="003">
+                        <Teilvers n="003" reim="āKiKah">
+                            <Kolon Einschub="false" lang="ar" n="3">عَامِلَةٌۭ نَّاصِبَةٌۭ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="3">plagen und mühen sich;</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="004">
+                        <Teilvers n="004" reim="āKiKah">
+                            <Kolon Einschub="false" lang="ar" n="4">تَصۡلَىٰ نَارًا حَامِيَةًۭ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="4">sie brennen in heißem Feuer</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="005">
+                        <Teilvers n="005" reim="āKiKah">
+                            <Kolon Einschub="false" lang="ar" n="5">تُسۡقَىٰ مِنۡ عَيۡنٍ ءَانِيَةٍۢ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="5">und werden aus einer kochend heißen Quelle getränkt;</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="006">
+                        <Teilvers n="006" reim="3(K)K2ʿ">
+                            <Kolon Einschub="false" lang="ar" n="6">لَّيۡسَ لَهُمۡ طَعَامٌ إِلَّا مِن ضَرِيعٍۢ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="6">sie bekommen nichts zu essen außer Dornsträuchern,</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="007">
+                        <Teilvers n="007" reim="3(K)K2ʿ">
+                            <Kolon Einschub="false" lang="ar" n="7">لَّا يُسۡمِنُ وَلَا يُغۡنِی مِن جُوعٍۢ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="7">die nicht nähren und nicht den Hunger stillen.</Kolon>
+                        </Teilvers>
+                    </Vers>
+                </Gesaetz>
+                <Gesaetz n="2">
+                    <Vers n="008">
+                        <Teilvers n="008" reim="āKiKah">
+                            <Kolon Einschub="false" lang="ar" n="8">وُجُوهٌۭ يَوۡمَئِذٍۢ نَّاعِمَةٌۭ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="8">Manche Gesichter sind an jenem Tag fröhlich,</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="009">
+                        <Teilvers n="009" reim="āKiKah">
+                            <Kolon Einschub="false" lang="ar" n="9">لِّسَعۡيِهَا رَاضِيَةٌۭ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="9">zufrieden mit ihrem Streben;</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="010">
+                        <Teilvers n="010" reim="āKiKah">
+                            <Kolon Einschub="false" lang="ar" n="10">فِی جَنَّةٍ عَالِيَةٍۢ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="10">sie befinden sich in einem hohen Garten,</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="011">
+                        <Teilvers n="011" reim="āKiKah">
+                            <Kolon Einschub="false" lang="ar" n="11">لَّا تَسۡمَعُ فِيهَا لَٰغِيَةًۭ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="11">in dem sie kein Geschwätz hören;</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="012">
+                        <Teilvers n="012" reim="āKiKah">
+                            <Kolon Einschub="false" lang="ar" n="12">فِيهَا عَيۡنٌۭ جَارِيَةٌۭ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="12">darin gibt es eine fließende Quelle,</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="013">
+                        <Teilvers n="013" reim="2Kah">
+                            <Kolon Einschub="false" lang="ar" n="13">فِيهَا سُرُرٌۭ مَّرۡفُوعَةٌۭ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="13">darin gibt es erhöhte Ruhebetten,</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="014">
+                        <Teilvers n="014" reim="2Kah">
+                            <Kolon Einschub="false" lang="ar" n="14">وَأَكۡوَابٌۭ مَّوۡضُوعَةٌۭ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="14">bereitgestellte Becher,</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="015">
+                        <Teilvers n="015" reim="2Kah">
+                            <Kolon Einschub="false" lang="ar" n="15">وَنَمَارِقُ مَصۡفُوفَةٌۭ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="15">aufgereihte Kissen</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="016">
+                        <Teilvers n="016" reim="2Kah">
+                            <Kolon Einschub="false" lang="ar" n="16">وَزَرَابِیُّ مَبۡثُوثَةٌ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="16">und ausgebreitete Teppiche.</Kolon>
+                        </Teilvers>
+                    </Vers>
+                </Gesaetz>
+            </Abschnitt>
+        </Hauptteil>
+        <Hauptteil id="2">
+            <Abschnitt id="1">
+                <Gesaetz n="3">
+                    <Vers n="017">
+                        <Teilvers n="017" reim="3K3Kat">
+                            <Kolon Einschub="false" lang="ar" n="17">أَفَلَا يَنظُرُونَ إِلَى ٱلۡإِبِلِ كَيۡفَ خُلِقَتۡ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="17">Schauen sie denn nicht auf die Kamele, wie sie geschaffen sind,</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="018">
+                        <Teilvers n="018" reim="3K3Kat">
+                            <Kolon Einschub="false" lang="ar" n="18">وَإِلَى ٱلسَّمَآءِ كَيۡفَ رُفِعَتۡ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="18">auf den Himmel, wie er emporgehoben worden ist,</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="019">
+                        <Teilvers n="019" reim="3K3Kat">
+                            <Kolon Einschub="false" lang="ar" n="19">وَإِلَى ٱلۡجِبَالِ كَيۡفَ نُصِبَتۡ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="19">auf die Berge, wie sie aufgestellt worden sind,</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="020">
+                        <Teilvers n="020" reim="3K3Kat">
+                            <Kolon Einschub="false" lang="ar" n="20">وَإِلَى ٱلۡأَرۡضِ كَيۡفَ سُطِحَتۡ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="20">und auf die Erde, wie sie ausgebreitet worden ist?</Kolon>
+                        </Teilvers>
+                    </Vers>
+                </Gesaetz>
+            </Abschnitt>
+        </Hauptteil>
+        <Hauptteil id="3">
+            <Abschnitt id="1">
+                <Gesaetz n="4">
+                    <Vers n="021">
+                        <Teilvers n="021" reim="3(K)K3r">
+                            <Kolon Einschub="false" lang="ar" n="21">فَذَكِّرۡ إِنَّمَآ أَنتَ مُذَكِّرٌۭ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="21">So mahne! Du bist nur ein Mahner,</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="022">
+                        <Teilvers n="022" reim="3(K)K3r">
+                            <Kolon Einschub="false" lang="ar" n="22">لَّسۡتَ عَلَيۡهِم بِمُصَۣيۡطِرٍ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="22">du hast keine Gewalt über sie.</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="023">
+                        <Teilvers n="023" reim="3(K)K3r">
+                            <Kolon Einschub="false" lang="ar" n="23">إِلَّا مَن تَوَلَّىٰ وَكَفَرَ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="23">Der aber, der sich abkehrt und ungläubig ist,</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="024">
+                        <Teilvers n="024" reim="3(K)K3r">
+                            <Kolon Einschub="false" lang="ar" n="24">فَيُعَذِّبُهُ ٱللَّهُ ٱلۡعَذَابَ ٱلۡأَكۡبَرَ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="24">über ihn verhängt Gott die schwere Strafe.</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="025">
+                        <Teilvers n="025" reim="āK3hum">
+                            <Kolon Einschub="false" lang="ar" n="25">إِنَّ إِلَيۡنَآ إِيَابَهُمۡ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="25">Zu uns kehren sie zurück,</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="026">
+                        <Teilvers n="026" reim="āK3hum">
+                            <Kolon Einschub="false" lang="ar" n="26">ثُمَّ إِنَّ عَلَيۡنَا حِسَابَهُم</Kolon>
+                            <Kolon Einschub="false" lang="de" n="26">und uns obliegt es dann, mit ihnen abzurechnen.</Kolon>
+                        </Teilvers>
+                    </Vers>
+                </Gesaetz>
+            </Abschnitt>
+        </Hauptteil>
+    </Sure>
+</Quran>

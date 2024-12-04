@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc src="CodArab42,fol1v_SC.docx" ms="516">
+    <pb xml:id="f.1v"/>
+<!-- Page ID: 516,f. 1v,001:001:001-001:005:003 -->
+<!-- Lines: 5; Valid Lines: 5 -->
+    <l n="1">
+        <note/>
+        <w n="001-001-001">ٮسم</w>
+        <pc> </pc>
+        <w n="001-001-002">الله</w>
+        <pc> </pc>
+        <w n="001-001-003">الرحمں</w>
+        <pc> </pc>
+        <w n="001-001-004">الرحٮم</w>
+        <pc> </pc>
+	<!-- Vers Break: '1'-->
+        <w n="000-000-000">
+            <supplied reason="illigible" source="#cairo_rasm">۝</supplied>١</w>
+        <pc> </pc>
+        <w n="001-002-001">الحمد</w>
+        <pc> </pc>
+        <w n="001-002-002">لله</w>
+        <pc> </pc>
+    </l>
+    <l n="2">
+        <note/>
+        <w n="001-002-003">رب</w>
+        <pc> </pc>
+        <w n="001-002-004">العالمٮں</w>
+        <pc> </pc>
+	<!-- Vers Break: '2'-->
+        <w n="000-000-000">
+            <supplied reason="illigible" source="#cairo_rasm">۝</supplied>٢</w>
+        <pc> </pc>
+    </l>
+    <l n="3">
+        <note/>
+        <w n="001-003-001">
+            <hi rend="4_-_multiple_modification">صٮعه</hi>
+        </w>
+        <pc>
+            <hi rend="4_-_multiple_modification"> </hi>
+        </pc>
+        <w n="001-003-002">
+            <hi rend="4_-_multiple_modification">الحسں</hi>
+        </w>
+        <pc>
+            <hi rend="4_-_multiple_modification"> </hi>
+        </pc>
+        <w n="001-003-003" type="unclear">
+            <hi rend="4_-_multiple_modification">ٮں</hi>
+        </w>
+        <pc>
+            <hi rend="4_-_multiple_modification"> </hi>
+        </pc>
+    </l>
+    <l n="4">
+        <note/>
+        <w n="001-003-004" type="unclear">الرحمں</w>
+        <pc> </pc>
+        <w n="001-003-005" type="unclear">الرحٮم</w>
+        <pc> </pc>
+	<!-- Vers Break: '3'-->
+        <w n="000-000-000">
+            <supplied reason="illigible" source="#cairo_rasm">۝</supplied>٣</w>
+        <pc> </pc>
+        <w n="001-004-001">ملک</w>
+        <pc> </pc>
+        <w n="001-004-002">ٮوم</w>
+        <pc> </pc>
+        <w n="001-004-003">الدٮں</w>
+        <pc> </pc>
+	<!-- Vers Break: '4'-->
+        <w n="000-000-000">
+            <supplied reason="illigible" source="#cairo_rasm">۝</supplied>٤</w>
+        <pc> </pc>
+    </l>
+    <l n="5">
+        <note/>
+        <w n="001-005-001">اٮاک</w>
+        <pc> </pc>
+        <w n="001-005-002">ٮعٮد</w>
+        <pc> </pc>
+        <w n="001-005-003">واٮاک</w>
+        <pc> </pc>
+    </l>
+</doc>

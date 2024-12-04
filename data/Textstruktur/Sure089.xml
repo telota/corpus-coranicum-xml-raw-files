@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Quran xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="Textstruktur.xsd">
+    <Sure id="089" translator="Nicolai Sinai" webtauglich="true">
+        <Hauptteil id="0">
+            <Abschnitt id="0">
+                <Gesaetz n="0">
+                    <Vers n="000">
+                        <Teilvers n="000" reim="2n/m">
+                            <Kolon lang="ar" Einschub="false" n="0">بِسۡمِ ٱللَّهِ ٱلرَّحۡمَٰنِ ٱلرَّحِيمِ</Kolon>
+                            <Kolon lang="de" Einschub="false" n="0">Im Namen Gottes, des barmherzigen Erbarmers!</Kolon>
+                        </Teilvers>
+                    </Vers>
+                </Gesaetz>
+            </Abschnitt>
+        </Hauptteil>
+        <Hauptteil id="1">
+            <Abschnitt id="1">
+                <Gesaetz n="1">
+                    <Vers n="001">
+                        <Teilvers n="001" reim="3Kr">
+                            <Kolon Einschub="false" lang="ar" n="1">وَٱلۡفَجۡرِ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="1">Beim Tagesanbruch</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="002">
+                        <Teilvers n="002" reim="3Kr">
+                            <Kolon Einschub="false" lang="ar" n="2">وَلَيَالٍ عَشۡرٍۢ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="2">und bei zehn Nächten!</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="003">
+                        <Teilvers n="003" reim="3Kr">
+                            <Kolon Einschub="false" lang="ar" n="3">وَٱلشَّفۡعِ وَٱلۡوَتۡرِ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="3">Beim Geraden und Ungeraden!</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="004">
+                        <Teilvers n="004" reim="3Kr">
+                            <Kolon Einschub="false" lang="ar" n="4">وَٱلَّيۡلِ إِذَا يَسۡرِ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="4">Bei der Nacht, wenn sie ihren Lauf nimmt!</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="005">
+                        <Teilvers n="005" reim="3Kr">
+                            <Kolon Einschub="false" lang="ar" n="5">هَلۡ فِی ذَٰلِكَ قَسَمٌۭ لِّذِی حِجۡرٍ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="5">Liegt darin nicht ein Schwur für Verständige?</Kolon>
+                        </Teilvers>
+                    </Vers>
+                </Gesaetz>
+            </Abschnitt>
+        </Hauptteil>
+        <Hauptteil id="2">
+            <Abschnitt id="1">
+                <Gesaetz n="2">
+                    <Vers n="006">
+                        <Teilvers n="006" reim="3(K)KāK" reimkommentar="mit Explosiven">
+                            <Kolon Einschub="false" lang="ar" n="6">أَلَمۡ تَرَ كَيۡفَ فَعَلَ رَبُّكَ بِعَادٍ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="6">Hast du nicht gesehen, wie dein Herr an den ʿĀd gehandelt hat,</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="007">
+                        <Teilvers n="007" reim="3(K)KāK" reimkommentar="mit Explosiven">
+                            <Kolon Einschub="false" lang="ar" n="7">إِرَمَ ذَاتِ ٱلۡعِمَادِ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="7">an Iram mit der Säule,</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="008">
+                        <Teilvers n="008" reim="3(K)KāK" reimkommentar="mit Explosiven">
+                            <Kolon Einschub="false" lang="ar" n="8">ٱلَّتِی لَمۡ يُخۡلَقۡ مِثۡلُهَا فِی ٱلۡبِلَٰدِ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="8">wie sonst keine Stadt im Lande geschaffen wurde,</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="009">
+                        <Teilvers n="009" reim="3(K)KāK" reimkommentar="mit Explosiven">
+                            <Kolon Einschub="false" lang="ar" n="9">وَثَمُودَ ٱلَّذِينَ جَابُوا۟ ٱلصَّخۡرَ بِٱلۡوَادِ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="9">und an den Ṯamūd, die im Tal den Fels aushöhlten,</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="010">
+                        <Teilvers n="010" reim="3(K)KāK" reimkommentar="mit Explosiven">
+                            <Kolon Einschub="false" lang="ar" n="10">وَفِرۡعَوۡنَ ذِی ٱلۡأَوۡتَادِ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="10">und an Pharao, dem mit den Pfählen,</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="011">
+                        <Teilvers n="011" reim="3(K)KāK" reimkommentar="mit Explosiven">
+                            <Kolon Einschub="false" lang="ar" n="11">ٱلَّذِينَ طَغَوۡا۟ فِی ٱلۡبِلَٰدِ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="11">die im Lande aufsässig waren</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="012">
+                        <Teilvers n="012" reim="3(K)KāK" reimkommentar="mit Explosiven">
+                            <Kolon Einschub="false" lang="ar" n="12">فَأَكۡثَرُوا۟ فِيهَا ٱلۡفَسَادَ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="12">und viel Unheil darin angerichtet haben,</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="013">
+                        <Teilvers n="013" reim="3(K)KāK" reimkommentar="mit Explosiven">
+                            <Kolon Einschub="false" lang="ar" n="13">فَصَبَّ عَلَيۡهِمۡ رَبُّكَ سَوۡطَ عَذَابٍ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="13">so dass dein Herr eine Strafgeißel über sie ausgoss?</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="014">
+                        <Teilvers n="014" reim="3(K)KāK" reimkommentar="mit Explosiven">
+                            <Kolon Einschub="false" lang="ar" n="14">إِنَّ رَبَّكَ لَبِٱلۡمِرۡصَادِ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="14">Dein Herr liegt auf der Lauer.</Kolon>
+                        </Teilvers>
+                    </Vers>
+                </Gesaetz>
+            </Abschnitt>
+        </Hauptteil>
+        <Hauptteil id="3">
+            <Abschnitt id="1">
+                <Gesaetz n="3">
+                    <Vers n="015">
+                        <Teilvers n="015" reim="akramanī / ahānanī">
+                            <Kolon Einschub="true" lang="ar" n="15">فَأَمَّا ٱلۡإِنسَٰنُ إِذَا مَا ٱبۡتَلَىٰهُ رَبُّهُۥ</Kolon>
+                            <Kolon Einschub="true" lang="de" n="15">Wenn Gott den Menschen prüft</Kolon>
+                            <Kolon Einschub="true" lang="ar" n="16">فَأَكۡرَمَهُۥ وَنَعَّمَهُۥ</Kolon>
+                            <Kolon Einschub="true" lang="de" n="16">und großmütig und gnädig gegen ihn ist,</Kolon>
+                            <Kolon Einschub="true" lang="ar" n="17">فَيَقُولُ رَبِّیٓ أَكۡرَمَنِ</Kolon>
+                            <Kolon Einschub="true" lang="de" n="17">so sagt er: »Mein Herr war großmütig gegen mich.«</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="016">
+                        <Teilvers n="016" reim="akramanī / ahānanī">
+                            <Kolon Einschub="true" lang="ar" n="18">وَأَمَّآ إِذَا مَا ٱبۡتَلَىٰهُ</Kolon>
+                            <Kolon Einschub="true" lang="de" n="18">Wenn Gott ihn aber prüft</Kolon>
+                            <Kolon Einschub="true" lang="ar" n="19">فَقَدَرَ عَلَيۡهِ رِزۡقَهُۥ</Kolon>
+                            <Kolon Einschub="true" lang="de" n="19">und ihm seinen täglichen Unterhalt knapp abmisst,</Kolon>
+                            <Kolon Einschub="true" lang="ar" n="20">فَيَقُولُ رَبِّیٓ أَهَٰنَنِ</Kolon>
+                            <Kolon Einschub="true" lang="de" n="20">so sagt er: »Mein Herr hat mich erniedrigt.«</Kolon>
+                        </Teilvers>
+                    </Vers>
+                </Gesaetz>
+                <Gesaetz n="4">
+                    <Vers n="017">
+                        <Teilvers n="017" reim="2n/m">
+                            <Kolon Einschub="false" lang="ar" n="21">كَلَّا بَل لَّا تُكۡرِمُونَ ٱلۡيَتِيمَ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="21">Nein! Ihr seid nicht großmütig gegen die Waisen,</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="018">
+                        <Teilvers n="018" reim="2n/m">
+                            <Kolon Einschub="false" lang="ar" n="22">وَلَا تَحَٰٓضُّونَ عَلَىٰ طَعَامِ ٱلۡمِسۡكِينِ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="22">haltet euch untereinander nicht zur Speisung des Armen an,</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="019">
+                        <Teilvers n="019" reim="3GGā">
+                            <Kolon Einschub="false" lang="ar" n="23">وَتَأۡكُلُونَ ٱلتُّرَاثَ أَكۡلًۭا لَّمًّۭا</Kolon>
+                            <Kolon Einschub="false" lang="de" n="23">verzehrt die gesamte Erbschaft</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="020">
+                        <Teilvers n="020" reim="3GGā">
+                            <Kolon Einschub="false" lang="ar" n="24">وَتُحِبُّونَ ٱلۡمَالَ حُبًّۭا جَمًّۭا</Kolon>
+                            <Kolon Einschub="false" lang="de" n="24">und liebt den Besitz über alle Maßen!</Kolon>
+                        </Teilvers>
+                    </Vers>
+                </Gesaetz>
+                <Gesaetz n="5">
+                    <Vers n="021">
+                        <Teilvers n="021" reim="3GGā">
+                            <Kolon Einschub="false" lang="ar" n="25">كَلَّآ إِذَا دُكَّتِ ٱلۡأَرۡضُ دَكًّۭا دَكًّۭا</Kolon>
+                            <Kolon Einschub="false" lang="de" n="25">Nein! Wenn die Erde Stück um Stück zerstoßen wird</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="022">
+                        <Teilvers n="022" reim="3GGā">
+                            <Kolon Einschub="false" lang="ar" n="26">وَجَآءَ رَبُّكَ وَٱلۡمَلَكُ صَفًّۭا صَفًّۭا</Kolon>
+                            <Kolon Einschub="false" lang="de" n="26">und dein Herr und die Engel in Reihen kommen</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="023">
+                        <Teilvers n="023" reim="ḏikrā / ḥayātī">
+                            <Kolon Einschub="true" lang="ar" n="27">وَجِا۟ىٓءَ يَوۡمَئِذٍۭ بِجَهَنَّمَ ۚ</Kolon>
+                            <Kolon Einschub="true" lang="de" n="27">und an jenem Tag die Hölle herbeigebracht wird —</Kolon>
+                            <Kolon Einschub="true" lang="ar" n="28">يَوۡمَئِذٍۢ يَتَذَكَّرُ ٱلۡإِنسَٰنُ</Kolon>
+                            <Kolon Einschub="true" lang="de" n="28">an jenem Tag lässt sich der Mensch mahnen.</Kolon>
+                            <Kolon Einschub="true" lang="ar" n="29">وَأَنَّىٰ لَهُ ٱلذِّكۡرَىٰ</Kolon>
+                            <Kolon Einschub="true" lang="de" n="29">Doch was soll ihm dann die Mahnung?</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="024">
+                        <Teilvers n="024" reim="ḏikrā / ḥayātī">
+                            <Kolon Einschub="true" lang="ar" n="30">يَقُولُ يَٰلَيۡتَنِی قَدَّمۡتُ لِحَيَاتِی</Kolon>
+                            <Kolon Einschub="true" lang="de" n="30">Er sagt: »Hätte ich doch nur für mein Leben vorgesorgt!«</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="025">
+                        <Teilvers n="025" reim="aḥad">
+                            <Kolon Einschub="false" lang="ar" n="31">فَيَوۡمَئِذٍۢ لَّا يُعَذِّبُ عَذَابَهُۥٓ أَحَدٌۭ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="31">An jenem Tag straft niemand so hart wie dein Herr,</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="026">
+                        <Teilvers n="026" reim="aḥad">
+                            <Kolon Einschub="false" lang="ar" n="32">وَلَا يُوثِقُ وَثَاقَهُۥٓ أَحَدٌۭ</Kolon>
+                            <Kolon Einschub="false" lang="de" n="32">und niemand bindet so fest wie er.</Kolon>
+                        </Teilvers>
+                    </Vers>
+                </Gesaetz>
+                <Gesaetz n="6">
+                    <Vers n="027">
+                        <Teilvers n="027" reim="-innah / -īyah">
+                            <Kolon Einschub="true" lang="ar" n="33">يَٰٓأَيَّتُهَا ٱلنَّفۡسُ ٱلۡمُطۡمَئِنَّةُ</Kolon>
+                            <Kolon Einschub="true" lang="de" n="33">»Du vertrauende Seele!</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="028">
+                        <Teilvers n="028" reim="-innah / -īyah">
+                            <Kolon Einschub="true" lang="ar" n="34">ٱرۡجِعِیٓ إِلَىٰ رَبِّكِ رَاضِيَةًۭ مَّرۡضِيَّةًۭ</Kolon>
+                            <Kolon Einschub="true" lang="de" n="34">Kehre zufrieden und wohlgefällig zu deinem Herrn zurück;</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="029">
+                        <Teilvers n="029" reim="ʿibādī / ǧannatī">
+                            <Kolon Einschub="true" lang="ar" n="35">فَٱدۡخُلِی فِی عِبَٰدِی</Kolon>
+                            <Kolon Einschub="true" lang="de" n="35">tritt ein in den Kreis meiner Diener,</Kolon>
+                        </Teilvers>
+                    </Vers>
+                    <Vers n="030">
+                        <Teilvers n="030" reim="ʿibādī / ǧannatī">
+                            <Kolon Einschub="true" lang="ar" n="36">وَٱدۡخُلِی جَنَّتِی</Kolon>
+                            <Kolon Einschub="true" lang="de" n="36">tritt ein in meinen Garten!«</Kolon>
+                        </Teilvers>
+                    </Vers>
+                </Gesaetz>
+            </Abschnitt>
+        </Hauptteil>
+    </Sure>
+</Quran>

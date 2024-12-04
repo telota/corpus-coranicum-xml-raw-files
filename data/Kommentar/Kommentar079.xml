@@ -1,0 +1,1029 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<korankommentar xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:noNamespaceSchemaLocation="Kommentar.xsd">
+ <sure id="079" webtauglich="true"/>
+ <surentitel>
+  <text versstart="000" versend="046" verfasser="tjj">
+   <p>Sure 79 — <lang xml:lang="ar-Latn">an-Nāziʿāt</lang> — »Die Zerrenden«</p>
+  </text>
+ </surentitel>
+ <autorenkurz>
+  <text versstart="000" versend="046" verfasser="tjj">
+   <p>Übersetzt und analysiert von Nicolai Sinai</p>
+  </text>
+ </autorenkurz>
+ <datierungkurz>
+  <text versstart="000" versend="046" verfasser="nisi">
+   <p>Mekka I (Gruppe IIIa)</p>
+  </text>
+ </datierungkurz>
+ <datierung>
+  <text versstart="000" versend="046" verfasser="nisi">
+   <p>Die bereits dreiteilige Sure entspricht mit einer Länge von 45 Versen und einer
+    durchschnittlichen Verslänge von 10,9 Silben (ohne Berücksichtigung des eingeschobenen <q
+     type="koran" versend="079:033" versstart="079:033">Verses 33</q>, s. u.) in jeder Hinsicht dem
+    Normaltypus von Gruppe IIIa. Eine literarische Nähe besteht inbesondere zu der – ebenfalls zu
+    Gruppe IIIa zählenden – <q type="koran" versstart="077:000" versend="077:050">Sure 77</q>, die
+    ebenfalls von einer enigmatischen <lang xml:lang="ar-Latn">fāʿilāt</lang>-Serie mit sich
+    anschließender eschatologischer Temporalsatzserie eingeleitet wird.</p>
+  </text>
+ </datierung>
+ <literarkritikkurz>
+  <text versstart="000" versend="046" verfasser="nisi">
+   <p>V. 33 Einschub</p>
+  </text>
+ </literarkritikkurz>
+ <literarkritik>
+  <text versstart="000" versend="046" verfasser="nisi">
+   <p><q type="koran" versstart="079:033" versend="079:033">Vers 33</q> ist wahrscheinlich aus <q
+     type="koran" versstart="080:032" versend="080:032">Q 80:32</q> eingedrungen. In <q type="koran"
+     versstart="079:000" versend="079:046">Q 79</q> fällt er nicht nur dem Reim nach, sondern auch
+    inhaltlich aus dem Rahmen (s. <bibl Zotero_Id_1="4WEWN8NZ"
+     Titel_1="Studien zur Komposition der mekkanischen Suren">Neuwirth, Studien, 30 und 219</bibl>
+    sowie <bibl Zotero_Id_1="X6J8ZZSZ" Titel_1="Frühmekkanische Suren poetische Prophetie">Neuwirth,
+     Frühmekkanische Suren, 397</bibl>): „Während er in <q type="koran" versstart="080:032"
+     versend="080:032">Q 80:32</q> die kompositorische Funktion erfüllt, ein ganz unter den Aspekt
+    der Nahrung (<q type="koran" versstart="080:024" versend="080:024">V. 24</q>!) gestelltes
+    <lang xml:lang="ar-Latn">ʾāyāt</lang>-Gesätz durch Angabe des Zweckes der erwähnten Wohltaten
+    abzuschließen und darüber hinaus mit dem Anfangsvers des Gesätzes (<q type="koran"
+     versstart="080:024" versend="080:024">V. 24</q>) die Figur einer Reiminklusion bildet, steht er
+    in <q type="koran" versstart="079:000" versend="079:046">Q 79</q> außerhalb jedes Zusammenhangs.
+    Das Gesätz, dessen Schluss er bildet, ist in keinem besonderen Maße auf Nahrung bezogen (so nur
+     <q type="koran" versstart="079:031" versend="079:031">V. 31</q>), sondern hat die Funktion, in
+    Fortführung der Straflegende die Übermacht Gottes gegenüber dem Menschen zu zeigen (<q
+     type="koran" versstart="079:024" versend="079:027">V. 24–27</q>). Darüber hinaus wirkt der Vers
+    unmittelbar nach der kosmologischen Aussage in <q type="koran" versstart="079:032"
+     versend="079:032">V. 32:</q>
+    <lang xml:lang="ar-Latn">wa-l-ǧibāla ʾarsāhā</lang> (‚und gründete die Berge fest‘) wenig
+    passend.“ Gegen diese Argumentation ließe sich allenfalls einwenden, dass der Vers u. U. gar
+    nicht primär an <q type="koran" versstart="079:032" versend="079:032">V. 32</q>, sondern an <q
+     type="koran" versstart="079:031" versend="079:031">V. 31</q> anknüpft und seine Position nur
+    der Tatsache verdankt, dass ansonsten das Verspaar <q type="koran" versstart="079:031"
+     versend="079:032">V. 31.32</q> aufgesprengt würde. Auch damit ist jedoch noch nicht die
+    reimliche Sonderstellung des Verses erklärt.</p>
+   <p>Will man mit Neuwirth <q type="koran" versstart="079:040" versend="079:040">V. 40</q>
+    (<lang xml:lang="ar-Latn">wa-ʾammā man ḫāfa maqāma rabbihī wa-nahă n-nafsa ʿani l-hawā</lang>)
+    analog zu <q type="koran" versstart="079:037" versend="079:038">V. 37.38</q>
+    (<lang xml:lang="ar-Latn">fa-ʾammā man ṭaġā / wa-ʾāṯara l-ḥayāta d-dunyā</lang>) in zwei Verse
+    teilen (s. die <q type="anmerkung" versstart="079:040" versend="079:040">Anmerkung zu V.
+    40</q>), so ist es erforderlich, die Genitivverbindung
+    <lang xml:lang="ar-Latn">maqāma rabbihī</lang> als nachträglichen Zusatz aufzufassen, da die
+    erste Vershälfte andernfalls keinen Reim mit der Umgebung aufwiese (<bibl Zotero_Id_1="4WEWN8NZ"
+     Titel_1="Studien zur Komposition der mekkanischen Suren">Neuwirth, Studien, 30</bibl>). Gegen
+    das Vorliegen eines Einschubs spricht allerdings <q type="koran" versstart="055:046"
+     versend="055:046">55:46</q>
+    (<lang xml:lang="ar-Latn">wa-li-man ḫāfa maqāma rabbihī ǧannatān</lang>), wo das Verb
+    <lang xml:lang="ar-Latn">ḫāfa</lang> ebenfalls das Akkusativobjekt
+    <lang xml:lang="ar-Latn">maqāma rabbihī</lang> regiert; hinzu kommt, das es sich im Koran bei
+    späteren Zusätzen üblicherweise um ganze Verse und nicht lediglich um Versteile handelt. Da die
+    Ausscheidung von <lang xml:lang="ar-Latn">maqāma rabbihī</lang> folglich auf eher unsicheren
+    Füßen steht, empfiehlt es sich, aus Gründen textkritischer Vorsicht an der traditionellen
+    Gestalt von <q type="koran" versstart="079:040" versend="079:040">V. 40</q> festzuhalten.</p>
+   <p>Zu Bells Analyse der Sure, die den Text auf für ihn charakteristische Weise als Pastiche
+    sekundär zusammengefügter Fragmente auffasst, s. die Zusammenfassung und kritische Diskussion
+    bei <bibl Zotero_Id_1="5XJHJQDH"
+     Titel_1="Discovering the Qur'ān: a contemporary approach to a veiled text">Robinson 2003, 86 f.
+     und 177–188</bibl>, wo auch die ebenfalls spekulativ anmutende literarkritische Analyse von
+     <bibl Zotero_Id_1="VMUJ5QH6"
+     Titel_1="Le Coran Aux sources de la parole oraculaire. Structures rythmiques des sourate"
+     >Crapon de Caprona 1981, 407–420</bibl> erörtert wird.</p>
+  </text>
+ </literarkritik>
+ <aufbauinhalt>
+  <text versstart="000" versend="046" verfasser="nisi">
+   <p>Die Sure ist dreiteilig. Ohne den wohl nachträglich eingedrungenen <q type="koran"
+     versstart="079:033" versend="079:033">Vers 33</q> (s. o., <q type="literarkritik"
+     versend="079:000" versstart="079:046">Literarkritik</q>) und unter Berücksichtigung des
+    Versendes nach <q type="koran" versstart="079:040" versend="079:040">40</q>a (s. o.,
+    Anmerkungen) ergeben sich klare Proportionen: Die beiden Gesätze des Anfangs- und Schlussteils
+    stehen längenmäßig in chiastischer Entsprechung, während sich der Mittelteil aus drei
+    Sechsergruppen zusammensetzt. Mit der Positionierung der Straflegende in den Mittelteil der Sure
+    bildet <q type="koran" versstart="079:000" versend="079:046">Q 79</q> ein frühes Beispiel für
+    das später übliche Modell der dreiteiligen Suren, die eine biblische Erzählung ins Zentrum
+    stellen und von einem variabel gestalteten Anfangsteil und einem durch eine Prophetenanrede bzw.
+    Offenbarungsbestätigung gefüllten Schlussteil umrahmt sind (<bibl Zotero_Id_1="X6J8ZZSZ"
+     Titel_1="Frühmekkanische Suren poetische Prophetie">Neuwirth, Frühmekkanische Suren,
+    411</bibl>). In frühmekkanischer Zeit begegnet ein mit <q type="koran" versstart="079:000"
+     versend="079:046">Q 79</q> vergleichbares Aufbauschema sonst noch in <q type="koran"
+     versstart="051:000" versend="051:060">Q 51</q> und <q type="koran" versstart="068:000"
+     versend="068:052">68</q>: eine in zwei symmetrische Hälften zerfallende Erzählung
+    (Doppelstrophe) – die hier und in <q type="koran" versstart="051:000" versend="051:060">Q 51</q>
+    noch durch zusätzliche Anspielungen auf Straflegenden bzw. durch
+    Schöpfungs-<lang xml:lang="ar-Latn">ʾāyāt</lang> ausgebaut wird – steht zwischen zwei sich
+    entsprechenden und aufeinander Bezug nehmenden Rahmenteilen (s. <bibl Zotero_Id_1="4WEWN8NZ"
+     Titel_1="Studien zur Komposition der mekkanischen Suren">Neuwirth, Studien, 218 f.</bibl>). Die
+    eschatologisch geprägten Rahmenteile von <q type="koran" versstart="079:000" versend="079:046">Q
+     79</q> stehen überdies in sachlichem Bezug zur Straferzählung des Mittelteils. Die einzelnen
+    Gesätze der Sure sind durch jeweils eigene Reimschemata markiert; nur zwischen dem dritten und
+    vierten Gesätz findet sich kein Reimwechsel. Zum Reimprofil s. ausführlicher <bibl
+     Zotero_Id_1="5XJHJQDH"
+     Titel_1="Discovering the Qur'ān: a contemporary approach to a veiled text">Robinson 2003, 185
+     ff.</bibl>
+   </p>
+   <p>Thematisches Zentrum der Sure ist das Weltende und insbesondere die unvorhersehbare
+    Plötzlichkeit seines Eintretens. Die einleitende Schwurserie präfiguriert die Endzeitkatastrophe
+    durch einen ebenso unvermittelt hereinbrechenden Reiterüberfall (<q type="koran"
+     versstart="079:001" versend="079:005">V. 1–5</q>), wobei im zweiten Gesätz dann ausdrücklich
+    die Rede vom Jüngsten Gericht ist. Diese Gerichtsbotschaft stößt jedoch auf einen ungläubigen
+    Kommentar (<q type="koran" versstart="079:010" versend="079:012">V. 10 ff.</q>). Der zweite Teil
+    unterbricht die eschatologische Darstellung deshalb zunächst und hält den koranischen Gegnern
+    eine Art historischen „Spiegel“ vor (<bibl Zotero_Id_1="X6J8ZZSZ"
+     Titel_1="Frühmekkanische Suren poetische Prophetie">Neuwirth, Frühmekkanische Suren,
+    409</bibl>): Anhand des anmaßenden Verhaltens von Pharao veranschaulicht die Erzählung im
+    dritten und vierten Gesätz die fatalen Folgen von „Leugnen“ und „Sich-Widersetzen“ (<q
+     type="koran" versstart="079:021" versend="079:021">V. 21</q>) (s. zum inhaltlichen Zusammenhang
+    der Moses-Episode mit dem Vorangehenden auch <bibl Zotero_Id_1="5XJHJQDH"
+     Titel_1="Discovering the Qur'ān: a contemporary approach to a veiled text">Robinson 2003,
+     184</bibl>). Das fünfte Gesätz fügt diesem historischen Argument eine hymnische Bekräftigung
+    der sich in der Schöpfung erweisenden göttlichen Macht an (<q type="koran" versstart="079:027"
+     versend="079:032">V. 27–32</q>). Der dritte Teil kehrt erneut zur Darstellung der
+    eschatologischen Geschehnisse zurück: Nachdem das Hereinbrechen des Weltendes und die angstvolle
+    Erwartung der zu richtenden Menschen bereits in den ersten beiden Gesätzen thematisiert wurden,
+    folgt nun der Gerichtsakt selbst, der die Menschen dem „Höllenbrand“ (<q type="koran"
+     versstart="079:036" versend="079:036">V. 36</q>) oder dem Paradies (<q type="koran"
+     versstart="079:041" versend="079:041">V. 41</q>) zuweist. Das Schlussgesätz (<q type="koran"
+     versstart="079:042" versend="079:046">V. 42–46</q>) stellt klar, dass der Verkünder nicht zu
+    einer präzisen zeitlichen Ankündigung der im Mittelpunkt der Sure stehenden endzeitlichen
+    Ereignisse ermächtigt ist, wie sie offenbar von seinen Hörern eingefordert wird (<q type="koran"
+     versstart="079:042" versend="079:042">V. 42</q>); sein Unvermögen zu einer solchen Vorhersage
+    stellt deshalb kein Gegenargument gegen die Richtigkeit der koranischen Gerichtsbotschaft
+    dar.</p>
+  </text>
+ </aufbauinhalt>
+ <ueberblick>
+  <text versstart="000" versend="046" verfasser="tjj">
+   <p>
+    <table cols="2" rend="boxed" rows="23">
+     <head/>
+     <row>
+      <cell/>
+      <cell>
+       <hi rend="bold">I Schwüre, Eschatologie</hi>
+      </cell>
+     </row>
+     <row>
+      <cell>
+       <hi rend="superscript"><q type="koran" versstart="079:001" versend="079:005">1–5</q></hi>
+       <hi rend="italic">3KKā</hi> (in <q type="koran" versstart="079:015" versend="079:015">V.
+        15</q> variiert zu 2Kā)(zumeist Explosive)</cell>
+      <cell>
+       <hi rend="bold">1</hi>
+       <hi rend="superscript"><q type="koran" versstart="079:001" versend="079:005">1–5</q></hi>
+       Schwur (<lang xml:lang="ar-Latn">fāʿilāt</lang>-Serie)</cell>
+     </row>
+     <row>
+      <cell>
+       <hi rend="superscript"><q type="koran" versstart="079:006" versend="079:014">6–14</q></hi>
+       <hi rend="italic">āKiKah</hi>
+      </cell>
+      <cell>
+       <hi rend="bold">2</hi>
+       <hi rend="superscript"><q type="koran" versstart="079:006" versend="079:007">6.7</q></hi>
+       eschatologischer Temporalsatz (<lang xml:lang="ar-Latn">yauma</lang>-Nachsatz)</cell>
+     </row>
+     <row>
+      <cell/>
+      <cell>
+       <hi rend="superscript"><q type="koran" versstart="079:008" versend="079:009">8.9</q></hi>
+       eschatologischer Nachsatz</cell>
+     </row>
+     <row>
+      <cell/>
+      <cell>
+       <hi rend="superscript"><q type="koran" versstart="079:010" versend="079:012">10–12</q></hi>
+       gegnerische Einwände</cell>
+     </row>
+     <row>
+      <cell/>
+      <cell>
+       <hi rend="superscript"><q type="koran" versstart="079:013" versend="079:014">13.14</q></hi>
+       Warnspruch</cell>
+     </row>
+     <row>
+      <cell/>
+      <cell/>
+     </row>
+     <row>
+      <cell/>
+      <cell>
+       <hi rend="bold">II Straflegende, Lehren aus der Schöpfung</hi>
+      </cell>
+     </row>
+     <row>
+      <cell>
+       <hi rend="superscript"><q type="koran" versstart="079:015" versend="079:026">15–26</q></hi>
+       <hi rend="italic">3(K)Kā</hi>
+      </cell>
+      <cell>
+       <hi rend="bold">3</hi>
+       <hi rend="superscript"><q type="koran" versstart="079:015" versend="079:015">15</q></hi>
+       Lehrfrage</cell>
+     </row>
+     <row>
+      <cell/>
+      <cell>
+       <hi rend="superscript"><q type="koran" versstart="079:016" versend="079:020">16–20</q></hi>
+       Straflegende: Sendung Moses zu Pharao (mit <lang xml:lang="ar-Latn">qul</lang>-Anweisung in
+        <q type="koran" versstart="079:018" versend="079:018">V. 18</q>)</cell>
+     </row>
+     <row>
+      <cell/>
+      <cell>
+       <hi rend="bold">4</hi>
+       <hi rend="superscript"><q type="koran" versstart="079:021" versend="079:025">21–25</q></hi>
+       Forts. Straflegende: Pharaos Ablehnung der Sendung und Bestrafung</cell>
+     </row>
+     <row>
+      <cell/>
+      <cell>
+       <hi rend="superscript"><q type="koran" versstart="079:026" versend="079:026">26</q></hi>
+       selbstreferentieller Kommentar</cell>
+     </row>
+     <row>
+      <cell>
+       <hi rend="superscript"><q type="koran" versstart="079:027" versend="079:032">27–32</q></hi>
+       <hi rend="italic">āhā</hi>
+      </cell>
+      <cell>
+       <hi rend="bold">5</hi>
+       <hi rend="superscript"><q type="koran" versstart="079:027" versend="079:032">27–32</q></hi>
+       polemische Frage, Werkaffirmationen</cell>
+     </row>
+     <row>
+      <cell>
+       <hi rend="superscript"><q type="koran" versstart="079:033" versend="079:033">33</q></hi>
+       <hi rend="italic">āmikum</hi>
+      </cell>
+      <cell>[<hi rend="superscript"><q type="koran" versstart="079:033" versend="079:033"
+        >33</q></hi> Zusatz]</cell>
+     </row>
+     <row>
+      <cell/>
+      <cell/>
+     </row>
+     <row>
+      <cell/>
+      <cell>
+       <hi rend="bold">III Eschatologie, Anrede des Verkünders</hi>
+      </cell>
+     </row>
+     <row>
+      <cell>
+       <hi rend="superscript"><q type="koran" versstart="079:034" versend="079:041">34–41</q></hi>
+       <hi rend="italic">3(K)Kā</hi>
+      </cell>
+      <cell>
+       <hi rend="bold">6</hi>
+       <hi rend="superscript"><q type="koran" versstart="079:034" versend="079:034">34</q></hi>
+       eschatologischer Temporalsatz (<lang xml:lang="ar-Latn">ʾiḏā</lang>-Vordersatz)</cell>
+     </row>
+     <row>
+      <cell/>
+      <cell>
+       <hi rend="superscript"><q type="koran" versstart="079:035" versend="079:036">35.36</q></hi>
+       eschatologische Temporalsatz (<lang xml:lang="ar-Latn">yauma</lang>-Vordersatz)</cell>
+     </row>
+     <row>
+      <cell/>
+      <cell>
+       <hi rend="superscript"><q type="koran" versstart="079:037" versend="079:041">37–41</q></hi>
+       eschatologischer Nachsatz (Antithese: <q type="koran" versstart="079:037" versend="079:039"
+        >V. 37–39</q>: Negativteil, <q type="koran" versstart="079:040" versend="079:041">V.
+        40a.40b.41</q>: Positivteil)</cell>
+     </row>
+     <row>
+      <cell>
+       <hi rend="superscript"><q type="koran" versstart="079:042" versend="079:046">42–46</q></hi>
+       <hi rend="italic">āhā</hi>
+      </cell>
+      <cell>
+       <hi rend="bold">7</hi>
+       <hi rend="superscript"><q type="koran" versstart="079:042" versend="079:042">42</q></hi>
+       gegnerische Frage</cell>
+     </row>
+     <row>
+      <cell/>
+      <cell>
+       <hi rend="superscript"><q type="koran" versstart="079:043" versend="079:044">43.44</q></hi>
+       Entgegnung: polemische Frage (<q type="koran" versstart="079:043" versend="079:043">V.
+       43</q>) und theologische Prädikation (<q type="koran" versstart="079:044" versend="079:044"
+        >V. 44</q>)</cell>
+     </row>
+     <row>
+      <cell/>
+      <cell>
+       <hi rend="italic"><q type="koran" versstart="079:045" versend="079:045">45</q></hi>
+       Verkünderprädikation</cell>
+     </row>
+     <row>
+      <cell/>
+      <cell>
+       <hi rend="superscript"><q type="koran" versstart="079:046" versend="079:046">46</q></hi>
+       eschatologischer Temporalsatz (<lang xml:lang="ar-Latn">yauma</lang>) mit Nachsatz </cell>
+     </row>
+    </table>
+   </p>
+   <p>Proportionen (ohne <q type="koran" versstart="079:033" versend="079:033">V. 33</q>):</p>
+   <p>
+    <table cols="3" rend="boxed" rows="2">
+     <head/>
+     <row>
+      <cell>Teil I: 14 Verse</cell>
+      <cell>Teil II: 18 Verse</cell>
+      <cell>Teil III: 13 Verse</cell>
+     </row>
+     <row>
+      <cell>5+9</cell>
+      <cell>6+6+6</cell>
+      <cell>8+5</cell>
+     </row>
+    </table>
+   </p>
+  </text>
+ </ueberblick>
+ <anmerkungen>
+  <text versstart="000" versend="000" verfasser="nisi">
+   <p><lem>bi-smi llāhi r-raḥmāni r-raḥīm]</lem> Zur Basmala s. die entsprechende <q
+     type="anmerkung" versstart="093:000" versend="093:011">Anmerkung zu 93</q>; zum Gottesnamen
+    <lang xml:lang="ar-Latn">raḥmān</lang> s. die <q type="anmerkung" versstart="055:001"
+     versend="055:001">Anmerkung zu 55:1</q>.</p>
+  </text>
+  <text versstart="001" versend="005" verfasser="nisi">
+   <p>Obwohl die fünf durch feminine Pluralpartizipien evozierten Erscheinungen „bewusst
+    verschlüsselt belassen“ (<bibl Zotero_Id_1="X6J8ZZSZ"
+     Titel_1="Frühmekkanische Suren poetische Prophetie">Neuwirth, Frühmekkanische Suren,
+    401</bibl>) werden, lassen sich im Vergleich mit den übrigen frühkoranischen
+    <lang xml:lang="ar-Latn">fāʿilāt</lang>-Schwurserien <q type="koran" versstart="100:001"
+     versend="100:005">Q 100:1–5</q> und – entfernter verwandt – <q type="koran" versstart="077:001"
+     versend="077:005">Q 77:1–5</q> und <q type="koran" versstart="051:001" versend="051:004"
+     >51:1–4</q> immerhin zwei relativ sichere allgemeine Feststellungen treffen (zu allen diesen
+    Passagen s. <bibl Zotero_Id_1="8BMDDSSC"
+     Titel_1="Der Horizont der Offenbarung zur Relevanz der einleitenden Schwurserien für die"
+     >Neuwirth, „Horizont“</bibl>; s. a. die <q type="anmerkung" versstart="100:001"
+     versend="100:005">Anmerkung zu 100:1–5</q> mit grundsätzlichen Hinweisen zu den koranischen
+    Schwüren sowie ihrer wahrscheinlichen, aber bis dato noch nicht hinreichend untersuchten
+    Anlehnung an ein charakteristisches Ausdrucksmittel altarabischer Seher). Erstens dürfte es bei
+    den nur metonymisch umschriebenen Phänomenen um Präfigurationen des Jüngsten Tages handeln
+     (<bibl Zotero_Id_1="X6J8ZZSZ" Titel_1="Frühmekkanische Suren poetische Prophetie">Neuwirth,
+     Frühmekkanische Suren, 401</bibl>), zumal das Schema <lang xml:lang="ar-Latn">fāʿila</lang>
+    auch sonst für Bezeichnungen des Weltendes reserviert ist (vgl. die <q type="anmerkung"
+     versstart="100:001" versend="100:003">Anmerkung zu 101:1–3</q> zu Bezeichnungen wie
+    <lang xml:lang="ar-Latn">al-wāqiʿa</lang> oder <lang xml:lang="ar-Latn">al-ġāšiya</lang>).
+    Zweitens scheint jede der genannten Schwurserien nur verschiedene Stadien eines
+    zusammenhängenden Geschehensablaufs zu schildern und nicht, wie andere Schwurserien (vgl. etwa
+     <q type="koran" versstart="091:001" versend="091:008">91:1–8</q> oder <q type="koran"
+     versstart="092:001" versend="092:003">92:1–3</q>), verschiedene Entitäten oder Phänomene
+    nebeneinanderzustellen (<bibl Zotero_Id_1="X6J8ZZSZ"
+     Titel_1="Frühmekkanische Suren poetische Prophetie">Neuwirth, Frühmekkanische Suren,
+    401</bibl>). Dass es sich bei den <lang xml:lang="ar-Latn">fāʿilāt</lang>-Serien um einen
+    kontinuierlichen Bewegungsablauf bzw. ein „Tableau“ (<bibl Zotero_Id_1="8BMDDSSC"
+     Titel_1="Der Horizont der Offenbarung zur Relevanz der einleitenden Schwurserien für die"
+     >Neuwirth, „Horizont“, 6 ff.</bibl>) und nicht um eine Reihung von Einzelphänomenen handelt,
+    wird dabei insbesondere durch das in <q type="koran" versstart="100:002" versend="100:003">Q
+     100:2.3</q>, <q type="koran" versstart="051:002" versend="051:004">51:2.3.4</q>, <q
+     type="koran" versstart="077:002" versend="077:002">77:2</q>.<q type="koran" versstart="077:004"
+     versend="077:005">4.5</q>, <q type="koran" versstart="079:003" versend="079:004">79:3.4</q>
+    stehende Progress-<lang xml:lang="ar-Latn">fa</lang> signalisiert.</p>
+   <p>Was die konkrete Identität der in der vorlieglenden
+    <lang xml:lang="ar-Latn">fāʿilāt</lang>-Serie beschriebenen Phänomene betrifft, so wird in der
+    islamische Koranexegese u. a. eine Deutung der Passage auf Engel diskutiert. Doch lassen sich,
+    wie Neuwirth hervorhebt, die Verben <lang xml:lang="ar-Latn">nazaʿa</lang>,
+    <lang xml:lang="ar-Latn">našaṭa</lang>, <lang xml:lang="ar-Latn">sabaḥa</lang> und
+    <lang xml:lang="ar-Latn">sabaqa</lang> eher mit Pferden als mit Engeln in Verbindung bringen
+     (<bibl Zotero_Id_1="X6J8ZZSZ" Titel_1="Frühmekkanische Suren poetische Prophetie">Neuwirth,
+     Frühmekkanische Suren, 401</bibl>; s. auch die folgenden Anmerkungen zu den einzelnen Versen
+    der Passage) – auch wenn die spätere (mittelmekkanische)
+    <lang xml:lang="ar-Latn">fāʿilāt</lang>-Serie <q type="koran" versstart="037:001"
+     versend="037:003">37:1–3</q> sicherlich auf Engel zu beziehen ist und damit anders als die vier
+    frühmekkanischen <lang xml:lang="ar-Latn">fāʿilāt</lang>-Passagen kein Phänomen innerweltlicher
+    Erfahrung mehr beschreibt. Für eine solche Deutung spricht auch die Analogie der Schwurpassage
+    mit der Einleitung von <q type="koran" versstart="100:000" versend="100:011">Q 100</q>: Wie
+    letztere zeichnet auch die vorliegende Sure das Bild einer sich bedrohlich nähernden Reiterschar
+    und übersetzt so das unvermittelte Hereinbrechen des Jüngsten Tages in eine den Hörern des
+    Textes vertraute innerweltliche Erfahrung. Darüberhinaus fällt auf, dass einer der folgenden
+    eschatologischen Temporalsätze, nämlich <q type="koran" versstart="079:007" versend="079:007">V.
+     7</q>, einen pferdespezifischen Begriff, nämlich den des hinter einem Reiter auf dem Pferd
+    sitzenden „Nachreiters“ (<lang xml:lang="ar-Latn">rādifa</lang>) gebraucht (<bibl
+     Zotero_Id_1="X6J8ZZSZ" Titel_1="Frühmekkanische Suren poetische Prophetie">Neuwirth,
+     Frühmekkanische Suren, 402</bibl>).</p>
+  </text>
+  <text versstart="001" versend="001" verfasser="nisi">
+   <p><lem>wa-n-nāziʿāti ġarqā]</lem>
+    <lang xml:lang="ar-Latn">Ġarqā</lang> in <q type="koran" versstart="079:001" versend="079:001"
+     >V. 1</q> ist am ehesten mit den islamischen Kommentatoren im Sinne von
+    <lang xml:lang="ar-Latn">ʾiġrāq</lang> zu verstehen.
+    <lang xml:lang="ar-Latn">ʾaġraqa fī šaiʾin</lang> bedeutet „in einer Sache maßlos sein,
+    übertreiben etc.“ (zum Zusammenhang mit der Grundbedeutung
+    <lang xml:lang="ar-Latn">ġ-r-q</lang>, „ertrinken“, s. <bibl Zotero_Id_1="8WQ6CTDE"
+     Titel_1="An Arabic-English lexicon derived fom the best and the most copious Eastern so">Lane,
+     Bd. 6, 2250c</bibl>), so dass <lang xml:lang="ar-Latn">ʾiġrāqan</lang> mit „heftig“ o. Ä.
+    wiedergegeben werden kann. Dagegen erwägt <bibl Zotero_Id_1="X9T7RF7R"
+     Titel_1="Der Koran Kommentar und Konkordanz">Paret (Kommentar, ad loc.)</bibl> in Analogie zu
+     <q type="koran" versstart="077:001" versend="077:001">77:1</q> eine Emendation zu
+    <lang xml:lang="ar-Latn">ʿurfā</lang>.</p>
+  </text>
+  <text versstart="003" versend="003" verfasser="nisi">
+   <p><lem>wa-s-sābiḥāti sabḥā]</lem> Wörtlich: „Bei den Schwimmenden“. Die Bezeichnung
+    dahineilender Tiere mit dem Partizip von <lang xml:lang="ar-Latn">sabaḥa</lang> begegnet auch in
+    der Dichtung, vgl. die im Register von <bibl Zotero_Id_1="AFDB8IG7"
+     Titel_1="Six early Arab poets. New Edition and Concordance">Arazi / Masalha (Hg.), 1999,
+     559</bibl>, aufgeführten Belege.</p>
+  </text>
+  <text versstart="006" versend="006" verfasser="nisi">
+   <p><lem>yauma tarǧufu r-rāǧifah]</lem> Vgl. <q type="koran" versstart="099:001" versend="099:001"
+     >99:1</q> (<lang xml:lang="ar-Latn">ʾiḏā zulzilati l-ʾarḍu zilzālahā</lang>), <q type="koran"
+     versstart="073:014" versend="073:014">73:14</q>
+    (<lang xml:lang="ar-Latn">yauma tarǧufu l-ʾarḍu wa-l-ǧibālu wa-kānati l-ǧibālu kaṯīban mahīlā</lang>)
+    und <q type="koran" versstart="056:004" versend="056:006">56:4–6</q>
+    (<lang xml:lang="ar-Latn">ʾiḏā ruǧǧati l-ʾarḍu raǧǧā / wa-bussati l-ǧibālu bassā / fa-kānat habāʾan munbaṯā</lang>).
+    S. die in der <q type="anmerkung" versstart="099:001" versend="099:001">Anmerkung zu 99:1</q>
+    zitierten Intertexte.</p>
+  </text>
+  <text versstart="008" versend="008" verfasser="nisi">
+   <p><lem>yaumaʾiḏin]</lem> Zu <lang xml:lang="ar-Latn">yaumaʾiḏin</lang> vgl. die <q
+     type="anmerkung" versstart="102:008" versend="102:008">Anmerkung zu 102:8</q>.</p>
+  </text>
+  <text versstart="009" versend="009" verfasser="nisi">
+   <p><lem>ʾabṣāruhā ḫāšiʿah]</lem> Wörtl.: „deren Blicke gesenkt sind“ (das sich auf die „Herzen“
+    aus <q type="koran" versstart="079:008" versend="079:008">V. 8</q> zurückbeziehende Pronomen
+    dürfte eigentlich die Besitzer derselben meinen). Vgl. <q type="koran" versstart="068:043"
+     versend="068:043">68:43</q>
+    (<lang xml:lang="ar-Latn">ḫāšiʿatan ʾabṣāruhum tarhaquhum ḏillatun wa-qad kānū yudʿauna ʾilă s-suǧūdi wa-hum sālimūn</lang>),
+     <q type="koran" versstart="070:044" versend="070:044">70:44</q>
+    (<lang xml:lang="ar-Latn">ḫāšiʿatan ʾabṣāruhum tarhaquhum ḏillatun ḏālika l-yaumu llaḏī kānū yūʿadūn</lang>)
+    und <q type="koran" versstart="088:002" versend="088:002">88:2</q>
+    (<lang xml:lang="ar-Latn">wuǧūhun yaumaʾiḏin ḫāšiʿah</lang>).</p>
+  </text>
+  <text versstart="010" versend="010" verfasser="nisi">
+   <p><lem>ʾa-ʾinnā la-mardūdūna fĭ l-ḥāfirah]</lem> Vgl. <q type="koran" versstart="075:003"
+     versend="075:003">75:3</q>
+    (<lang xml:lang="ar-Latn">ʾa-yaḥsabu l-ʾinsānu ʾa-lan naǧmaʿa ʿiẓāmah</lang>) und <q
+     type="koran" versstart="056:047" versend="056:047">56:47</q>
+    (<lang xml:lang="ar-Latn">wa-kānū yaqūlūna ʾa-ʾiḏā mitnā wa-kunnā turāban wa-ʿiẓāman ʾa-ʾinnā la-mabʿūṯūn</lang>).
+    <lang xml:lang="ar-Latn">Ḥāfira</lang> ist den Lexika zufolge „umgegrabene“ bzw. (durch Hufe)
+    „aufgewühlte Erde“ (<lang xml:lang="ar-Latn">al-ʾarḍ al-maḥfūra</lang>; vgl. <bibl
+     Zotero_Id_1="PEEF36TT" Titel_1="Lisān al-ʿarab">Lisān, s. v. <hi rend="italic"
+     >ḥ-f-r</hi></bibl>, sowie <bibl Zotero_Id_1="8WQ6CTDE"
+     Titel_1="An Arabic-English lexicon derived fom the best and the most copious Eastern so">Lane,
+     Bd. 2, 601a</bibl>). Zamaḫšarī erklärt den Vers mit Verweis auf den Ausdruck
+    <lang xml:lang="ar-Latn">raǧaʿa fulānun fī</lang> (Ṭabarī: <lang xml:lang="ar-Latn">ʿalā</lang>)
+    <lang xml:lang="ar-Latn">ḥāfiratihī</lang>, „in den eigenen Fußspuren (eigentl. Hufspuren)
+    umkehren“, d. h. „auf demselben Weg umkehren, den man gekommen ist“. In der koranischen Wendung
+    würde dieser Erklärung zufolge dann für <lang xml:lang="ar-Latn">raǧaʿa</lang> („zurückkehren“)
+    <lang xml:lang="ar-Latn">rudda</lang> („zurückgebracht werden“) eintreten. Die islamischen
+    Kommentare verkürzen diese Rekonstruktion dann häufig zu der knappen Paraphrase
+    <lang xml:lang="ar-Latn">al-ḥāfira</lang> = „früherer Zustand“ o. Ä. (Zamaḫšarī:
+    <lang xml:lang="ar-Latn">al-ḥāla al-ʾūlā</lang>), die ihrerseits wieder als eine Bedeutung von
+    <lang xml:lang="ar-Latn">ḥāfira</lang> in die Lexikographie eingegangen ist. Eine alternative
+    Erklärung, die ohne komplizierte lexikographische Ableitungen auskommt, bestünde darin,
+    <lang xml:lang="ar-Latn">al-ḥāfira</lang>, „umgegrabene Erde“, als reimlich motivierte
+    Umschreibung von „Grab“ o. ä. zu verstehen: „Sollen wir etwa zurückgebracht werden, wenn wir
+    bereits im Grabe sind?“</p>
+  </text>
+  <text versstart="012" versend="012" verfasser="nisi">
+   <p><lem>qālū tilka ʾiḏan karratun ḫāsirah]</lem> Vgl. <q type="koran" versstart="103:002"
+     versend="103:002">103:2</q> (<lang xml:lang="ar-Latn">ʾinna l-ʾinsāna la-fī ḫusr</lang>) sowie
+    die <q type="anmerkung" versstart="103:002" versend="103:002">Anmerkung dazu</q>.</p>
+  </text>
+  <text versstart="013" versend="013" verfasser="nisi">
+   <p><lem>fa-ʾinnamā hiya zaǧratun wāḥidah]</lem> Tor Andrae vermutet in Anlehnung an islamische
+    Exegeten, mit dem – in Mekka II (vgl. <q type="koran" versstart="050:042" versend="050:042"
+     >50:42</q>) auch als <lang xml:lang="ar-Latn">ṣaiḥa</lang> bezeichneten – „Schrei“ könne die im
+     <q type="bibel" buch="1Thess" versend="004:016" versstart="004:016">1. Brief an die
+     Thessalonicher 4:16</q> erwähnte „Posaune Gottes“ gemeint sein, welche die Auferweckung der
+    Toten einleitet (<bibl Zotero_Id_1="FPHTTNUA"
+     Titel_1="Der Ursprung des Islams und das Christentum">Andrae 1926, 64</bibl>). Das ist
+    allerdings zumindest insofern unwahrscheinlich, als andere Koranstellen – vgl. frühmekkanisch <q
+     type="koran" versstart="069:013" versend="069:013">69:13</q>, <q type="koran"
+     versstart="074:008" versend="074:008">74:8</q> und <q type="koran" versstart="078:018"
+     versend="078:018">78:18</q> – durchaus präzise davon sprechen, dass am Jüngsten Tag „in die
+    Posaune gestoßen“ (<lang xml:lang="ar-Latn">yunfaḫu fĭ ṣ-ṣūri</lang> o. Ä.) wird. Näher als <q
+     type="bibel" buch="1Thess" versend="004:016" versstart="004:016">1 Thessalonicher 4:16</q>
+    steht dem vorliegenden Koranvers deshalb ein von Yousef Kouriyhe identifiziertes
+    eschatologisches Gedicht Jakobs von Sarūg (um 421–521), in dem u. a. von einer „Stimme“ die Rede
+    ist, die am Jüngsten Tag die Erde erbeben lässt (<bibl Zotero_Id_1="7PN3SGMN"
+     Titel_1="Homiliae Selectae Mar-Jacobi Sarugensis">Bedjan 1910, 853 f.</bibl>; vgl.
+    ausführlicher <ref target="#TUK533">TUK, Nr. 533</ref>).</p>
+  </text>
+  <text versstart="014" versend="014" verfasser="nisi">
+   <p><lem>fa-ʾiḏā hum bi-s-sāhirah]</lem>
+    <lang xml:lang="ar-Latn">Bi-s-sāhira</lang> fungiert wohl als reimbedingte Umschreibung von
+    <lang xml:lang="ar-Latn">sāhirūn</lang>; hierfür sprechen auch <q type="koran"
+     versstart="006:044" versend="006:044">Q 6:44</q>, <q type="koran" versstart="007:201"
+     versend="007:201">7:201</q>, <q type="koran" versstart="036:029" versend="036:029">36:29</q>.<q
+     type="koran" versstart="036:037" versend="036:037">37</q>.<q type="koran" versstart="036:053"
+     versend="036:053">53</q>, wo auf <lang xml:lang="ar-Latn">fa-ʾiḏā hum</lang> jeweils ein
+    Partizip mask. Pl. folgt (<bibl Zotero_Id_1="9S76QVVE"
+     Titel_1="Untersuchungen zur Reimprosa im Koran">Müller 1969, 13–16</bibl>; vgl. <bibl
+     Zotero_Id_1="X9T7RF7R" Titel_1="Der Koran Kommentar und Konkordanz">Paret,
+    Kommentar</bibl>).</p>
+  </text>
+  <text versstart="015" versend="026" verfasser="nisi">
+   <p>Zu Moses und Pharao vgl. die früheren Reminiszenzen in <q type="koran" versstart="085:017"
+     versend="085:018">85:17.18</q>
+    (<lang xml:lang="ar-Latn">hal ʾatāka ḥadīṯu l-ǧunūd / firʿauna wa-ṯamūd</lang>) und <q
+     type="koran" versstart="089:010" versend="089:010">89:10</q>
+    (<lang xml:lang="ar-Latn">wa-firʿauna ḏĭ l-ʾautād</lang>) sowie die späteren Erwähnungen in
+    Gruppe IIIb: <q type="koran" versstart="073:015" versend="073:016">73:15.16</q>
+    (<lang xml:lang="ar-Latn">ʾinnā ʾarsalnā ʾilaikum rasūlan šāhidan ʿalaikum ka-mā ʾarsalnā ʾilā firʿauna rasūlā / fa-ʿaṣā firʿaunu r-rasūla fa-ʾaḫaḏnāhu ʾaḫḏan wabīlā</lang>),
+     <q type="koran" versstart="069:009" versend="069:010">69:9.10</q>
+    (<lang xml:lang="ar-Latn">wa-ǧāʾa firʾaunu wa-man qablahū wa-l-muʾtafikātu bi-l-ḫāṭiʾah / fa-ʿaṣau rasūla rabbihim fa-ʾaḫaḏahum ʾaḫḏatan rābiyah</lang>)
+    und <q type="koran" versstart="051:038" versend="051:040">51:38–40</q>
+    (<lang xml:lang="ar-Latn">wa-fī mūsā ʾiḏ ʾarsalnāhu ʾilā firʿauna bi-sulṭānin mubīn / fa-tawallā bi-ruknihī wa-qāla sāḥirun ʾau maǧnūn / fa-ʾaḫaḏnāhu wa-ǧunūdahū fa-nabaḏnāhum fĭ-l-yammi wa-huwa mulīm</lang>).
+    Auffällig ist, dass Pharao in <q type="koran" versstart="085:017" versend="085:018">85:17.18</q>
+    und <q type="koran" versstart="089:010" versend="089:010">89:10</q> ohne Moses als göttlich
+    authorisierten Antagonisten auftritt; auch in <q type="koran" versstart="073:015"
+     versend="073:016">73:15.16</q> ist nur von einem anonymen „Gesandten“
+    (<lang xml:lang="ar-Latn">rasūl</lang>) die Rede. In der vorliegenden Sure aus der Gruppe IIIa
+    erscheint Moses dagegen als zentraler Akteur der Pharao-Erzählung. Dennoch wird Moses bereits in
+    Gruppe II namentlich genannt, allerdings nicht im Zusammenhang mit der Pharao-Geschichte,
+    sondern in Verbindung mit göttlichen „Schriften“, vgl. <q type="koran" versstart="087:018"
+     versend="087:019">87:18.19</q>
+    (<lang xml:lang="ar-Latn">ʾinna hāḏā la-fĭ ṣ-ṣuḥufi l-ʾūlā / ṣuḥufi ʾibrāhīma wa-mūsā</lang>). –
+    Zu den koranischen Moses-Erzählungen s. allg. <bibl Zotero_Id_1="PIXAWGDK"
+     Titel_1="Erzählen als Kanonischer Prozeß die Mose-Erzählung im Wandel der koranischen Ge"
+     >Neuwirth 2002</bibl>.</p>
+  </text>
+  <text versstart="015" versend="015" verfasser="nisi">
+   <p><lem>hal ʾatāka ḥadīṯu mūsā]</lem> Vgl. <q type="koran" versstart="088:001" versend="088:001"
+     >88:1</q> (<lang xml:lang="ar-Latn">hal ʾatāka ḥadīṯu l-ġāšiyah</lang>), <q type="koran"
+     versstart="085:017" versend="085:018">85:17 f.</q>
+    (<lang xml:lang="ar-Latn">hal ʾatāka ḥadīṯu l-ǧunūd / firʿauna wa-ṯamūd</lang>) und <q
+     type="koran" versstart="051:024" versend="051:024">51:24</q>
+    (<lang xml:lang="ar-Latn">hal ʾatāka ḥadīṯu ḍaifi ʾibrāhīma l-mukramīn</lang>). Zum Gebrauch von
+    <lang xml:lang="ar-Latn">ḥadīṯ</lang> s. auch die <q type="anmerkung" versstart="077:050"
+     versend="077:050">Anmerkung zu 77:50</q>.</p>
+  </text>
+  <text versstart="016" versend="016" verfasser="nisi">
+   <p><lem>ṭuwā]</lem> Zu dem Ausdruck existieren verschiedene Lesevarianten wie
+    <lang xml:lang="ar-Latn">ṭiwan</lang> oder <lang xml:lang="ar-Latn">ṭāwi</lang> (<bibl
+     Zotero_Id_1="KVFTU3XN" Titel_1="Muʿǧam al-qirāʾāt">Muʿǧam, ad loc.</bibl>). Zur Bedeutung s.
+     <bibl Zotero_Id_1="TJNE7TP3" Titel_1="Koranische Untersuchungen">Horovitz, Untersuchungen,
+     125</bibl>: „Die Bedeutung des als Reimwort gebrauchten ṭuwan ist nicht festzustellen“. <bibl
+     Zotero_Id_1="W242HJS4" Titel_1="A commentary on the Qurān">Bell (Commentary, ad loc.)</bibl>
+    erklärt den Ausdruck plausibel als Abwandlung von syr. <lang xml:lang="syc-Latn">ṭūrā</lang> (=
+    Berg Sinai), wobei diese wohl nicht Ergebnis einer Verschreibung, sondern eher einer Angleichung
+    von <lang xml:lang="syc-Latn">ṭūrā</lang> an den Reim zu erklären ist (<bibl
+     Zotero_Id_1="X6J8ZZSZ" Titel_1="Frühmekkanische Suren poetische Prophetie">Neuwirth,
+     Frühmekkanische Suren, 404</bibl>).</p>
+  </text>
+  <text versstart="017" versend="018" verfasser="nisi">
+   <p>Neuwirth weist darauf hin, dass „die direkte Rede der Handlungsanweisung ‚Geh und sprich‘ [<q
+     type="koran" versstart="079:017" versend="079:018">V. 17.18</q>] und ihre Ausführung … im Text
+    zusammen“ fallen (<bibl Zotero_Id_1="X6J8ZZSZ"
+     Titel_1="Frühmekkanische Suren poetische Prophetie">Neuwirth, Frühmekkanische Suren,
+    405</bibl>).</p>
+  </text>
+  <text versstart="017" versend="017" verfasser="nisi">
+   <p><lem>ʾinnahū ṭaġā]</lem> Zur Wurzel <lang xml:lang="ar-Latn">ṭ-ġ-w/y</lang> s. die <q
+     type="anmerkung" versstart="096:006" versend="096:006">Anmerkung zu 96:6</q>.</p>
+  </text>
+  <text versstart="018" versend="018" verfasser="nisi">
+   <p><lem>fa-qul hal laka ʾilā ʾan tazakkā]</lem> Bedeutet wohl wie
+    <lang xml:lang="ar-Latn">hal laka fī</lang> „Möchtest du nicht …?“ Vgl. <q type="koran"
+     versstart="080:003" versend="080:003">80:3</q>
+    (<lang xml:lang="ar-Latn">wa-mā yudrīka laʿallahū yazzakkā</lang>) sowie <q type="koran"
+     versstart="080:007" versend="080:007">80:7</q>
+    (<lang xml:lang="ar-Latn">wa-mā ʿalaika ʾallā yazzakkā</lang>). Zu den Verben
+    <lang xml:lang="ar-Latn">zakkā</lang> bzw. <lang xml:lang="ar-Latn">tazakkā</lang> vgl. die <q
+     type="anmerkung" versstart="091:009" versend="091:009">Anmerkung zu 91:9</q>. Zur
+    frühmekkanischen Verwendung von durch <lang xml:lang="ar-Latn">qul</lang> eingeleiteten
+    Redeaufforderungen s. die <q type="anmerkung" versstart="052:031" versend="052:031">Anmerkungen
+     zu 52:31</q> und <q type="anmerkung" versstart="056:049" versend="056:049">56:49</q>.</p>
+  </text>
+  <text versstart="019" versend="019" verfasser="nisi">
+   <p><lem>wa-ʾahdiyaka ʾilā rabbika]</lem> Zum Gottestitel <lang xml:lang="ar-Latn">rabb</lang> s.
+    die <q type="anmerkung" versstart="095:008" versend="095:008">Anmerkung zu 95:8</q>, zu
+    <lang xml:lang="ar-Latn">hadā</lang> bzw. <lang xml:lang="ar-Latn">hudā</lang> s. die <q
+     type="anmerkung" versstart="093:007" versend="093:007">Anmerkung zu 93:7</q>.</p>
+  </text>
+  <text versstart="020" versend="020" verfasser="nisi">
+   <p><lem>fa-ʾarāhu l-ʾāyata l-kubrā]</lem> Der Begriff des göttlichen „Zeichens“ ist bereits in
+    der biblischen Mose-Erzählung prominent (<q type="bibel" buch="Ex" versend="003:012"
+     versstart="003:012">Exodus 3:12</q>, <q type="bibel" buch="Ex" versend="004:008"
+     versstart="004:009">4:8.9</q>, <q type="bibel" buch="Ex" versend="004:017" versstart="004:017"
+     >4:17</q>). Innerkoranisch vgl. insb. <q type="koran" versstart="053:018" versend="053:018"
+     >53:18</q>, wo es über Muḥammad heißt:
+    <lang xml:lang="ar-Latn">la-qad raʾā min ʾāyāti rabbihi l-kubrā</lang>. In Anbetracht dieser in
+    etwa zeitgleichen Parallele ist wohl gemeint, dass Gott Moses „das große Zeichen“ – bei dem es
+    sich um die in <q type="bibel" buch="Ex" versend="007:008" versstart="007:013">Exodus 7:8–13</q>
+    geschilderten Zauberkunststücke handelt – sehen ließ, nicht, dass Moses es Pharao zeigte. Dafür
+    spricht auch die Verwendung derselben Formulierung in der späteren Moses-Erzählung aus <q
+     type="koran" versstart="020:023" versend="020:023">Sure 20 (V. 23)</q>, wo sie unmittelbar
+    einer koranischen Nacherzählung der Wunderzeichen aus <q type="bibel" buch="Ex"
+     versend="007:001" versstart="007:029">Exodus 7</q> folgt (<q type="koran" versstart="020:017"
+     versend="020:022">20:17–22</q>). Zum frühmekkanischen Gebrauch von
+    <lang xml:lang="ar-Latn">ʾāya</lang> allg. s. die <q type="anmerkung" versstart="074:016"
+     versend="074:016">Anmerkung zu 74:16</q>.</p>
+  </text>
+  <text versstart="021" versend="022" verfasser="nisi">
+   <p><lem>fa-kaḏḏaba wa-ʿaṣā / ṯumma ʾadbara yasʿā]</lem> Die Vorwürfe des „Leugnens“ (des Jüngsten
+    Gerichts) und „Abwendens“ werden auch in <q type="koran" versstart="096:013" versend="096:013"
+     >96:13</q> (<lang xml:lang="ar-Latn">ʾa-raʾaita ʾin kaḏḏaba wa-tawallā</lang>), <q type="koran"
+     versstart="092:016" versend="092:016">92:16</q>
+    (<lang xml:lang="ar-Latn">allaḏī kaḏḏaba wa-tawallā</lang>) und <q type="koran"
+     versstart="075:032" versend="075:032">75:32</q>
+    (<lang xml:lang="ar-Latn">wa-lākin kaḏḏaba wa-tawallā</lang>) miteinander kombiniert. Zu den
+    verschiedenen Gebrauchsweisen von <lang xml:lang="ar-Latn">kaḏḏaba</lang> vgl. a. die <q
+     type="anmerkung" versstart="095:007" versend="095:007">Anmerkungen zu 95:7</q> und <q
+     type="anmerkung" versstart="073:011" versend="073:011">73:11</q>. Zu
+    <lang xml:lang="ar-Latn">ʾadbara</lang> vgl. die <q type="anmerkung" versstart="088:023"
+     versend="088:023">Anmerkung zu 88:23</q>.</p>
+  </text>
+  <text versstart="024" versend="024" verfasser="nisi">
+   <p><lem>fa-qāla ʾanā rabbukumu l-ʾaʿlā]</lem> S. die <q type="anmerkung" versstart="087:001"
+     versend="087:001">Anmerkung zu 87:1</q>.</p>
+  </text>
+  <text versstart="025" versend="025" verfasser="nisi">
+   <p><lem>fa-ʾaḫaḏahu llāhu]</lem> Zum Gottesnamen <lang xml:lang="ar-Latn">Allāh</lang> vgl. die
+     <q type="anmerkung" versstart="095:008" versend="095:008">Anmerkung zu 95:8</q>.</p>
+   <p><lem>al-ʾāḫirati wa-l-ʾūlā]</lem> Vgl. <q type="koran" versstart="093:004" versend="093:004"
+     >93:4</q> (<lang xml:lang="ar-Latn">wa-la-l-ʾāḫiratu ḫairun laka mina l-ʾūlā</lang>), <q
+     type="koran" versstart="092:013" versend="092:013">92:13</q>
+    (<lang xml:lang="ar-Latn">wa-ʾinnā lanā la-l-ʾāḫirata wa-l-ʾūlā</lang>) und <q type="koran"
+     versstart="053:025" versend="053:025">53:25</q>
+    (<lang xml:lang="ar-Latn">fa-li-llāhi l-ʾāḫiratu wa-l-ʾūlā</lang>). Vgl. auch die <q
+     type="anmerkung" versstart="093:004" versend="093:004">Anmerkung zu 93:4</q>.</p>
+  </text>
+  <text versstart="027" versend="028" verfasser="nisi">
+   <p><lem>ʾa-antum ʾašaddu ḫalqan ʾami s-samāʾu banāhā / rafaʿa samkahā fa-sawwāhā]</lem> Vgl. <q
+     type="koran" versstart="091:005" versend="091:006">91:5.6</q> und die <q type="anmerkung"
+     versstart="091:005" versend="091:006">Anmerkung dazu</q> (mit weiteren Parallelstellen). Vgl.
+    außerdem <q type="koran" versstart="088:018" versend="088:018">88:18</q>
+    (<lang xml:lang="ar-Latn">wa-ʾilă s-samāʾi kaifa rufiʿat</lang>), <q type="koran"
+     versstart="055:007" versend="055:007">55:7</q>
+    (<lang xml:lang="ar-Latn">wa-s-samāʾa rafaʿahā wa-waḍaʿa l-mīzān</lang>) und <q type="koran"
+     versstart="052:005" versend="052:005">52:5</q>
+    (<lang xml:lang="ar-Latn">wa-s-saqfĭ l-marfūʿ</lang>).</p>
+  </text>
+  <text versstart="030" versend="030" verfasser="nisi">
+   <p><lem>wa-l-ʾarḍa baʿda ḏālika daḥāhā]</lem> Vgl. die <q type="anmerkung" versstart="091:005"
+     versend="091:006">Anmerkung zu 91:5.6</q>. Vgl. außerdem <q type="koran" versstart="088:020"
+     versend="088:020">88:20</q> (<lang xml:lang="ar-Latn">wa-ʾilă l-ʾarḍi kaifa suṭiḥat</lang>), <q
+     type="koran" versstart="078:006" versend="078:007">78:6.7</q>
+    (<lang xml:lang="ar-Latn">ʾa-lam naǧʿali l-ʾarḍa mihādā / wa-l-ǧibāla ʾautādā</lang>), <q
+     type="koran" versstart="055:010" versend="055:010">55:10</q>
+    (<lang xml:lang="ar-Latn">wa-l-ʾarḍa waḍaʿahā li-l-ʾanām</lang>) und <q type="koran"
+     versstart="051:048" versend="051:048">51:48</q>
+    (<lang xml:lang="ar-Latn">wa-l-ʾarḍa farašnāhā fa-niʿma l-māhidūn</lang>). Gottes „Ausbreiten“
+    der Erde wird auch in einem Umayya ibn abī ṣ-Ṣalt zugeschriebenen Fragment mit dem Verb
+    <lang xml:lang="ar-Latn">daḥā</lang> beschrieben:
+    <lang xml:lang="ar-Latn">dārun daḥāhā ṯumma ʾaʿmaranā bihim / wa-ʾaqāma bi-l-ʾuḫrā allatī hiya ʾamǧad</lang>,
+    „Er breitete eine Wohnstätte aus und siedelte uns unter ihnen an, er selbst aber bezog die
+    andere, ruhmvollere Wohnung“ (Text und Übersetzung in <bibl Zotero_Id_1="IBVSAHTC"
+     Titel_1="Umajja ibn Abi ṣ Ṣalt die unter seinem Namen überlieferten Gedichtfragmente"
+     >Schulthess 1911, 63, 121</bibl>; vgl. <ref target="#TUK579">TUK, Nr. 579</ref>).</p>
+  </text>
+  <text versstart="031" versend="031" verfasser="nisi">
+   <p><lem>ʾaḫraǧa minhā māʾahā wa-marʿāhā]</lem> Vgl. <q type="koran" versstart="087:004"
+     versend="087:004">87:4</q> (<lang xml:lang="ar-Latn">wa-llaḏī ʾaḫraǧa l-marʿā</lang>) und <q
+     type="koran" versstart="077:027" versend="077:027">77:27</q>
+    (<lang xml:lang="ar-Latn">wa-ǧaʿalnā fīhā rawāsiya šāmiḫātin wa-ʾasqainākum māʾan furātā</lang>).</p>
+  </text>
+  <text versstart="032" versend="032" verfasser="nisi">
+   <p><lem>wa-l-ǧibāla ʾarsāhā]</lem> Obwohl es stilistisch sicher glatter wäre,
+    <lang xml:lang="ar-Latn">ʾarsā</lang> mit „gründen“ wiederzugeben, hat die obige Übersetzung den
+    Vorzug, die Überschneidung mit <q type="koran" versstart="079:042" versend="079:042">V. 42</q>
+    (<lang xml:lang="ar-Latn">yasʾalūnaka ʿani s-sāʿati ʾayyāna mursāhā</lang>) sichtbar zu machen,
+    wo ein von <lang xml:lang="ar-Latn">ʾarsā</lang> abgeleitetes Partizip verwendet wird; s. zur
+    Wurzel <lang xml:lang="ar-Latn">r-s-y</lang> noch <q type="koran" versstart="077:027"
+     versend="077:027">77:27</q>
+    (<lang xml:lang="ar-Latn">wa-ǧaʿalnā fīhā rawāsiya šāmiḫātin</lang>). Sachlich vgl. <q
+     type="koran" versstart="078:006" versend="078:007">78:6.7</q>
+    (<lang xml:lang="ar-Latn">ʾa-lam naǧʿali l-ʾarḍa mihādā / wa-l-ǧibāla ʾautādā</lang>) mit <q
+     type="koran" versstart="078:007" versend="078:007">Anmerkung</q>.</p>
+  </text>
+  <text versstart="033" versend="033" verfasser="nisi">
+   <p><lem>matāʿan lakum wa-li-ʾanʿāmikum]</lem> Vgl. <q type="koran" versstart="080:032"
+     versend="080:032">80:32</q> (<lang xml:lang="ar-Latn">matāʿan lakum wa-li-ʾanʿāmikum</lang>).
+    Der Versschluss reimt nicht auf die Umgebung. Wohl deshalb ziehen Baṣra und aš-Šām <q
+     type="koran" versstart="079:033" versend="079:033">V. 33</q> und <q type="koran"
+     versstart="079:034" versend="079:034">V. 34</q> zusammen (<bibl Zotero_Id_1="WCNUUFAC"
+     Titel_1="Die Verszählung des Koran nach islamischer Überlieferung">Spitaler, Verszählung,
+     67</bibl>). Zur Frage, ob der Vers sekundär in die Sure eingedrungen sein könnte, s. o., <q
+     type="literarkritik" versend="079:046" versstart="079:000">Literarkritik</q>.</p>
+  </text>
+  <text versstart="034" versend="034" verfasser="nisi">
+   <p><lem>fa-ʾiḏā ǧāʾati ṭ-ṭāmmatu l-kubrā]</lem> Das Verb <lang xml:lang="ar-Latn">ṭamma</lang>
+    bedeutet „ansteigen“ (von Wasser, z. B. <lang xml:lang="ar-Latn">ṭamma sailu l-wādī</lang>; s.
+     <bibl Zotero_Id_1="8WQ6CTDE"
+     Titel_1="An Arabic-English lexicon derived fom the best and the most copious Eastern so">Lane,
+     Bd. 5, 1877a</bibl>). Als innerkoranische Parallele s. insb. <q type="koran"
+     versstart="080:033" versend="080:033">80:33</q>
+    (<lang xml:lang="ar-Latn">fa-ʾiḏā ǧāʾati ṣ-ṣāḫḫah</lang>). Enigmatische Bezeichnungen des
+    Weltendes mit aktiven Partizipien femininum begegnen noch in weiteren frühmekkanischen Texten,
+    vgl. <q type="koran" versstart="101:001" versend="101:003">101:1–3</q>
+    (<lang xml:lang="ar-Latn">al-qāriʿa</lang>), <q type="koran" versstart="088:001"
+     versend="088:001">88:1</q> (<lang xml:lang="ar-Latn">al-ġāšiya</lang>), <q type="koran"
+     versstart="069:001" versend="069:003">69:1–3</q> (<lang xml:lang="ar-Latn">al-ḥāqqa</lang>), <q
+     type="koran" versstart="069:004" versend="069:004">69:4</q>
+    (<lang xml:lang="ar-Latn">al-qāriʿa</lang>), <q type="koran" versstart="069:005"
+     versend="069:005">69:5</q> (<lang xml:lang="ar-Latn">aṭ-ṭāġiya</lang>) und <q type="koran"
+     versstart="069:015" versend="069:015">69:15</q> (<lang xml:lang="ar-Latn">al-wāqiʿah</lang>),
+     <q type="koran" versstart="056:001" versend="056:001">56:1</q> (wie in <q type="koran"
+     versstart="079:034" versend="079:034">79:34</q> und <q type="koran" versstart="080:033"
+     versend="080:033">80:33</q> in einem Temporalsatz:
+    <lang xml:lang="ar-Latn">ʾiḏā waqaʿati l-wāqiʿah</lang>) und <q type="koran" versstart="053:057"
+     versend="053:057">53:57</q> (<lang xml:lang="ar-Latn">al-ʾāzifa</lang>). Solche metonymischen
+    Umschreibungen eines Substantivs durch ein Adjektiv stellen allgemein ein Charakteristikum der
+    altarabischen Dichtung dar, s. die <q type="anmerkung" versstart="101:001" versend="101:003"
+     >Anmerkung zu 101:1–3</q>. Im Vergleich mit den
+    <lang xml:lang="ar-Latn">fāʿilāt</lang>-Schwurserien wie zu Beginn der Sure (vgl. sonst noch <q
+     type="koran" versstart="100:001" versend="100:005">Q 100:1–5</q>, <q type="koran"
+     versstart="077:001" versend="077:005">Q 77:1–5</q> und <q type="koran" versstart="051:001"
+     versend="051:004">51:1–4</q>), die das hereinbrechende Weltende durch prototypische
+    Gegenwartserfahrungen (Reiterangriff und Sturm) präfigurieren, fällt auf, dass die Form des
+    aktiven Partizips femininum auch dort zur Bezeichnung der endzeitlichen Katastrophe dient (s.
+    insb. die <q type="anmerkung" versstart="100:001" versend="100:005">Anmerkungen zu 100:1–5</q>
+    und <q type="anmerkung" versstart="079:001" versend="079:005">79:1–5</q>). Das morphologische
+    Schema <lang xml:lang="ar-Latn">fāʿila</lang> wird so innerhalb der frühmekkanischen Korantexte
+    mit der Konnotation apokalyptischen Unheils aufgeladen.</p>
+  </text>
+  <text versstart="036" versend="036" verfasser="nisi">
+   <p><lem>wa-burrizati l-ǧaḥīmu li-man yarā]</lem> Zu <lang xml:lang="ar-Latn">ǧaḥīm</lang> vgl.
+    die <q type="anmerkung" versstart="102:006" versend="102:006">Anmerkung zu 102:6</q>.</p>
+  </text>
+  <text versstart="037" versend="038" verfasser="nisi">
+   <p>Mekka und Medina setzen nach <q type="koran" versstart="079:037" versend="079:037">V. 37</q>
+    trotz Reim keinen Versschluss an (<bibl Zotero_Id_1="WCNUUFAC"
+     Titel_1="Die Verszählung des Koran nach islamischer Überlieferung">Spitaler, Verszählung,
+     68</bibl>). Der Grund hierfür ist wohl, dass die zu <q type="koran" versstart="079:037"
+     versend="079:037">V. 37</q> parallele erste Hälfte von <q type="koran" versstart="079:040"
+     versend="079:040">V. 40</q> in der überlieferten Textgestalt –
+    <lang xml:lang="ar-Latn">wa-ʾammā man ḫāfa maqāma rabbihī</lang> – nicht mit einem Reim schließt
+    und deshalb ebenfalls nicht als selbstständiger Vers aufgefasst wird. Verslänge und Struktur
+    erfordern jedoch eine Zäsur innerhalb des doppeltlangen Verses <q type="koran"
+     versstart="079:040" versend="079:040">40</q> (s. die <q type="anmerkung" versstart="079:040"
+     versend="079:040">Anmerkung zu V. 40</q>), so dass nicht etwa <q type="koran"
+     versstart="079:037" versend="079:038">V. 37.38</q> in Analogie zu <q type="koran"
+     versstart="079:040" versend="079:040">V. 40</q> zusammenzuziehen sind, sondern umgekehrt <q
+     type="koran" versstart="079:040" versend="079:040">V. 40</q> in Analogie zu <q type="koran"
+     versstart="079:037" versend="079:038">V. 37.38</q> zu unterteilen ist. Dies belegen auch <q
+     type="koran" versstart="092:005" versend="092:005">92:5</q>.<q type="koran" versstart="092:008"
+     versend="092:008">8</q>, <q type="koran" versstart="084:007" versend="084:007">84:7</q>.<q
+     type="koran" versstart="084:010" versend="084:010">10</q> und <q type="koran"
+     versstart="080:005" versend="080:005">80:5</q>.<q type="koran" versstart="080:008"
+     versend="080:008">8</q>, wo eine ähnliche <lang xml:lang="ar-Latn">fa-ʾammā</lang>-Formulierung
+    jeweils als eigenständiger Vers gewertet wird.</p>
+  </text>
+  <text versstart="038" versend="038" verfasser="nisi">
+   <p><lem>wa-ʾāṯara l-ḥayāta d-dunyā]</lem> Vgl. <q type="koran" versstart="087:016"
+     versend="087:016">87:16</q> (<lang xml:lang="ar-Latn">bal tuʾṯirūna l-ḥayāta d-dunyā</lang>).
+    Zu <lang xml:lang="ar-Latn">ad-dunyā</lang> vgl. die <q type="anmerkung" versstart="093:004"
+     versend="093:004">Anmerkung zu 93:4</q>.</p>
+  </text>
+  <text versstart="039" versend="039" verfasser="nisi">
+   <p><lem>fa-ʾinna l-ǧaḥīma hiya l-maʾwā]</lem> Zu <lang xml:lang="ar-Latn">ǧaḥīm</lang> vgl. die
+     <q type="anmerkung" versstart="102:006" versend="102:006">Anmerkung zu 102:6</q>.</p>
+  </text>
+  <text versstart="040" versend="041" verfasser="nisi">
+   <p><lem>wa-ʾammā man ḫāfa maqāma rabbihī wa-nahă n-nafsa ʿani l-hawā / fa-ʾinna l-ǧannata hiya l-maʾwā]</lem>
+    Vgl. <q type="koran" versstart="055:046" versend="055:046">55:46</q>
+    (<lang xml:lang="ar-Latn">wa-li-man ḫāfa maqāma rabbihī ǧannatān</lang>), wo dem, der „den
+    <lang xml:lang="ar-Latn">maqām</lang> seines Herrn gefürchtet hat“, ebenfalls das Paradies
+    (<lang xml:lang="ar-Latn">ǧanna</lang>) zugesagt wird. <lang xml:lang="ar-Latn">Maqām</lang> ist
+    im Arabischen wörtlich „Standort“. Wie Hubert Grimme erkannt hat, entspricht die Wendung dem
+    sabäischen <lang xml:lang="xsa-Latn">m-q-m r-b-k</lang>, „Macht Gottes“ (<bibl
+     Zotero_Id_1="KGW9DBJS" Titel_1="Jewish proper names and derivatives in the Koran">Horovitz
+     1925, 219 f.</bibl>). Es könnte sich hier also um den seltenen Fall einer koranischer Übernahme
+    religiöser Terminologie aus dem Südarabischen handeln. Andererseits erscheint derselbe Ausdruck
+    bezogen auf die Engel auch in <q type="koran" versstart="037:164" versend="037:164">37:164</q>
+    (<lang xml:lang="ar-Latn">wa-mā minnā ʾillā lahū maqāmun maʿlūm</lang>), wo zweifellos
+    „Standort“ im Sinne von „Rang“ gemeint ist. Zu <lang xml:lang="ar-Latn">ǧanna</lang> vgl. die <q
+     type="anmerkung" versstart="081:013" versend="081:013">Anmerkung zu 81:13</q>.</p>
+   <p><hi rend="italic">Versabteilung</hi>: Da <q type="koran" versstart="079:040" versend="079:040"
+     >V. 40</q> genau analog zu <q type="koran" versstart="079:037" versend="079:038">V. 37.38</q>
+    (<lang xml:lang="ar-Latn">fa-ʾammā man ṭaġā / wa-ʾāṯara l-ḥayāta d-dunyā</lang>) gebaut ist,
+    plädiert Neuwirth für eine Unterteilung von <q type="koran" versstart="079:040"
+     versend="079:040">V. 40</q> vor der Konjunktion <lang xml:lang="ar-Latn">wa-</lang> (<bibl
+     Zotero_Id_1="4WEWN8NZ" Titel_1="Studien zur Komposition der mekkanischen Suren">Studien,
+     30</bibl>). Eine Unterteilung von <q type="koran" versstart="079:040" versend="079:040">V.
+     40</q> setzt allerdings voraus, dass man <lang xml:lang="ar-Latn">maqāma rabbihī</lang> als
+    sekundär hinzugesetztes Interpretament ausscheidet, da sich nur so ein zumindest nährungsweiser
+    Reim auf die Umgebung ergibt: <lang xml:lang="ar-Latn">ḫāfa</lang>, evtl.
+    <lang xml:lang="ar-Latn">ḫāfā</lang> „mit poetischer Pausa“ (Neuwirth). Angesichts der Tatsache,
+    dass die Kombination von <lang xml:lang="ar-Latn">ḫāfa</lang> mit
+    <lang xml:lang="ar-Latn">maqāma rabbihī</lang> frühmekkanisch auch noch von <q type="koran"
+     versstart="055:046" versend="055:046">55:46</q> belegt wird, erscheint diese literarkritische
+    Entscheidung jedoch eher problematisch; überdies handelt es sich bei koranischen Einschüben
+    üblicherweise um ganze Verse (s. o., <q type="literarkritik" versstart="079:000"
+     versend="079:046">Literarkritik</q>).</p>
+  </text>
+  <text versstart="042" versend="042" verfasser="nisi">
+   <p><lem>yasʾalūnaka ʿani s-sāʿati ʾayyāna mursāhā]</lem> Herausfordernde Fragen nach dem
+    Zeitpunkt des Jüngsten Gerichts begegnen in ähnlicher Diktion in <q type="koran"
+     versstart="075:006" versend="075:006">75:6</q>
+    (<lang xml:lang="ar-Latn">yasʾalu ʾayyāna yaumu l-qiyāma</lang>; wie die vorliegende Sure Gruppe
+    IIIa) und <q type="koran" versstart="051:012" versend="051:012">51:12</q>
+    (<lang xml:lang="ar-Latn">yasʾalūna ʾayyāna yaumu d-dīn</lang>; IIIb); sprachlich weniger
+    nahestehend sind die Anspielungen auf vergleichbare Rückfragen in <q type="koran"
+     versstart="078:001" versend="078:002">78:1.2</q>
+    (<lang xml:lang="ar-Latn">ʿamma yatasāʾalūn / ʿani n-nabaʾi l-ʿaẓīm</lang>; IIIa) und <q
+     type="koran" versstart="070:001" versend="070:001">70:1</q>
+    (<lang xml:lang="ar-Latn">saʾala sāʾilun bi-ʿaḏābin wāqiʿ</lang>; IIIb); zu späteren
+    Parallelstellen s. <bibl Zotero_Id_1="X9T7RF7R" Titel_1="Der Koran Kommentar und Konkordanz"
+     >Paret, Kommentar, zu 10:48</bibl>. Zu <lang xml:lang="ar-Latn">mursā</lang> s. a. die <q
+     type="anmerkung" versstart="079:032" versend="079:032">Anmerkung zu V. 32</q>. Der in späteren
+    Texten häufige Begriff der „Stunde“ als Bezeichnung für dien Zeitpunkt des Weltendes erscheint
+    hier zum ersten Mal. Es handelt sich um einen etablierten Ausdruck jüdisch-christlicher
+    Eschatologie (vgl. <q type="bibel" buch="Mt" versstart="024:036" versend="024:036">Matthäus
+     24:36</q> oder <q type="bibel" buch="Offb" versstart="014:007" versend="014:007">Offenbarung
+     14:7</q>; Hinweis von Hannelies Koloska).</p>
+  </text>
+  <text versstart="043" versend="043" verfasser="nisi">
+   <p><lem>fī-ma ʾanta min ḏikrāhā]</lem> Zu <lang xml:lang="ar-Latn">ḏikrā</lang> und den übrigen
+    Ableitungen der Wurzel <lang xml:lang="ar-Latn">ḏ-k-r</lang> s. allg. die <q type="anmerkung"
+     versstart="073:019" versend="073:019">Anmerkung zu 73:19</q> mit umfassenden Belegen; zu
+    <lang xml:lang="ar-Latn">ḏikrā</lang> s. a. die <q type="anmerkung" versstart="077:005"
+     versend="077:005">Anmerkung zu 77:5</q>. Anders als an Stellen wie <q type="koran"
+     versstart="087:009" versend="087:009">87:9</q>
+    (<lang xml:lang="ar-Latn">fa-ḏakkir ʾin nafaʿati ḏ-ḏikrā</lang>) kann
+    <lang xml:lang="ar-Latn">ḏikrā</lang> – morphologisch ein Verbalsubstantiv zu
+    <lang xml:lang="ar-Latn">ḏakara</lang> (vgl. <bibl Zotero_Id_1="8WQ6CTDE"
+     Titel_1="An Arabic-English lexicon derived fom the best and the most copious Eastern so">Lane,
+     Bd. 3, 968b</bibl>) – hier nicht einfach das mahnende In-Erinnerung-Rufen des Weltendes meinen,
+    denn der Vers besagt ja gerade, dass der Verkünder <hi rend="italic">nicht</hi> zum
+    <lang xml:lang="ar-Latn">ḏikrā</lang> der Stunde befugt ist. Gemeint ist deshalb offensichtlich
+    die präzise ‚Nennung’ bzw. Ankündigung der Stunde. Dass dem koranischen Verkünder hier die
+    Kompetenz zur genauen Voraussage des Jüngsten Tages abgesprochen wird, deckt sich mit anderen
+    Stellen, die ihm lediglich die Rolle eines „Mahners“ oder „Warners“ zuschreiben, s. den
+    übernächsten <q type="koran" versstart="079:045" versend="079:045">Vers 45</q> sowie die <q
+     type="anmerkung" versstart="079:045" versend="079:045">Anmerkung dazu</q> mit weiteren
+    Belegen.</p>
+  </text>
+  <text versstart="044" versend="044" verfasser="nisi">
+   <p><lem>ʾilā rabbika muntahāhā]</lem> Vgl. <q type="koran" versstart="053:042" versend="053:042"
+     >53:42</q> (<lang xml:lang="ar-Latn">wa-ʾanna ʾilā rabbika l-muntahā</lang>).</p>
+  </text>
+  <text versstart="045" versend="045" verfasser="nisi">
+   <p><lem>ʾinnamā ʾanta munḏiru man yaḫšāhā]</lem> Vgl. <q type="koran" versstart="051:050"
+     versend="051:050">51:50</q>
+    (<lang xml:lang="ar-Latn">fa-firrū ʾilă llāhi ʾinnī lakum minhu naḏīrun mubīn</lang>; s. a. den
+    folgenden <q type="koran" versstart="051:051" versend="051:051">Vers 51:51</q>). Zur Wurzel
+    <lang xml:lang="ar-Latn">n-ḏ-r</lang> s. allg. die <q type="anmerkung" versstart="074:036"
+     versend="074:036">Anmerkung zu 74:36</q> mit weiteren Stellenangaben.</p>
+  </text>
+  <text versstart="046" versend="046" verfasser="nisi">
+   <p><lem>lam yalbaṯū ʾillā ʿašiyyatan ʾau ḍuḥāhā]</lem> Crapon de Caprona will
+    <lang xml:lang="ar-Latn">ʿašiyyatan</lang> zu <lang xml:lang="ar-Latn">ghašyatahā</lang>
+    emendieren (vgl. seine Analyse der Sure in <bibl Zotero_Id_1="VMUJ5QH6"
+     Titel_1="Le Coran Aux sources de la parole oraculaire. Structures rythmiques des sourate"
+     >Crapon de Caprona 2003, 407–420</bibl>), was jedoch von Robinson zu Recht zurückgewiesen wird
+     (<bibl Zotero_Id_1="5XJHJQDH"
+     Titel_1="Discovering the Qur'ān: a contemporary approach to a veiled text">Robinson 2003, 188
+     und 316, Anm. 3</bibl>). Sachlich erklärt sich die Aussage, wie Tor Andrae gezeigt hat, aus der
+    insbesondere im dyophysitischen (nestorianischen) Christentum prominenten Lehre vom
+    Seelenschlaf, also der Vorstellung, dass die Verstorbenen die Zeit zwischen ihrem Ableben und
+    dem Jüngsten Tag in einem Zustand der Bewusstlosigkeit verbringen: Die Zeit zwischen Tod und
+    Gericht erscheint den Auferstandenen selbst nur einen kurzen Augenblick gedauert zu haben, auch
+    wenn aus objektiver Sicht Jahrhunderte vergangen sein mögen (<bibl Zotero_Id_1="FPHTTNUA"
+     Titel_1="Der Ursprung des Islams und das Christentum">Andrae 1926, 153–163</bibl>; s. auch die
+     <q type="anmerkung" versstart="075:030" versend="075:030">Anmerkung zu 75:30</q>).</p>
+  </text>
+ </anmerkungen>
+ <kommentar>
+  <text versstart="001" versend="005" verfasser="nisi">
+   <p>Die Schwurserie zu Beginn des ersten Teils (<q type="koran" versstart="079:001"
+     versend="079:005">V. 1–5</q>) skizziert wie <q type="koran" versstart="100:000"
+     versend="100:011">Q 100</q> einen Reiterüberfall, dessen Plötzlichkeit das Hereinbrechen des
+    Weltendes veranschaulichen soll. Auffällig am Einleitungsgesätz ist die klangliche Entsprechung
+    von <lang xml:lang="ar-Latn">nazaʿa</lang> / <lang xml:lang="ar-Latn">našiṭa</lang> (<q
+     type="koran" versstart="079:001" versend="079:002">V. 1.2</q>) und
+    <lang xml:lang="ar-Latn">sabaḥa</lang> / <lang xml:lang="ar-Latn">sabiqa</lang> (<q type="koran"
+     versstart="079:003" versend="079:004">V. 3.4</q>), die der Passage zusammen mit dem strengen
+    Parallelismus der ersten vier Verse Tempo und Dichte verleihen.</p>
+  </text>
+  <text versstart="006" versend="014" verfasser="nisi">
+   <p>Das zweite Gesätz blendet in die eschatologische Zukunft über: Dem endzeitlichen Erbeben der
+    Erde korrespondiert psychologisch das heftige Schlagen der Herzen der Auferstandenen. Dennoch
+    beharren die lediglich pronominal („sie“) eingeführten Hörer darauf, die Realität einer
+    Auferweckung der Toten zu leugnen (die wörtlichen Zitate in <q type="koran" versstart="079:010"
+     versend="079:012">V. 10–12</q> ergeben im Kontext des Jüngsten Tages keinen Sinn, sondern sind
+    in die Gegegenwart zu setzen, vgl. <bibl Zotero_Id_1="X6J8ZZSZ"
+     Titel_1="Frühmekkanische Suren poetische Prophetie">Neuwirth, Frühmekkanische Suren,
+    409</bibl>). Das zweite Gesätz endet mit einem wiederum eschatologischen Warnspruch, der – ganz
+    im Einklang mit der im ersten Gesätz entworfenen <lang xml:lang="ar-Latn">ġazwa</lang>-Szene –
+    die Unvorhersehbarkeit und Plötzlichkeit der Wiedererweckung bekräftigt: „Und doch wird es nur
+    ein einziger Aufschrei sein / und schon sie sind geweckt zu hellem Wachen.“ (<q type="koran"
+     versstart="079:013" versend="079:014">V. 13.14</q>). Die Zweifel der Gegner in <q type="koran"
+     versstart="079:010" versend="079:012">V. 10–12</q>, die im Kontext der alltäglichen
+    menschlichen Lebenswelt durchaus bedenkenswert erscheinen mögen, werden so durch geschickte
+    literarische Montage – nämlich indem sie von endzeitlichen Vorblenden umrahmt werden, welche die
+    schockierende Wirkung des unvermittelt hereinbrechenden Jüngsten Tages auf die Auferweckten
+    betonen – neutralisiert. Mit dieser Funktionalisierung eschatologischer Referenzen als
+    Gegengewicht zu skeptischen Einwänden seitens der Hörer mag es zu tun haben, dass der Abschnitt
+    – anders als in der ebenfalls den niedergeschlagenen Blick der Auferweckten thematisierenden und
+    etwas früher (Gruppe II) zu datierenden <q type="koran" versstart="088:000" versend="088:026"
+     >Sure 88</q> – kein positives Gegenbild (vgl. <q type="koran" versstart="088:008"
+     versend="088:016">88:8 ff.</q>) enthält.</p>
+  </text>
+  <text versstart="015" versend="026" verfasser="nisi">
+   <p>Die ersten beiden Gesätze des Mittelteils (<q type="koran" versstart="079:015"
+     versend="079:033">V. 15–33</q>) sind einer Straflegende gewidmet (<q type="koran"
+     versstart="079:015" versend="079:026">V. 15–26</q>); sie wird durch eine auch zu Beginn anderer
+    Straflegenden auftretende stereotype Frageformel (<q type="koran" versstart="079:015"
+     versend="079:015">V. 15</q>: <lang xml:lang="ar-Latn">hal ʾatāka ḥadīṯu mūsā</lang>; vgl. <q
+     type="koran" versstart="085:017" versend="085:018">85:17 f.</q>, <q type="koran"
+     versstart="088:001" versend="088:001">88:1</q>, <q type="koran" versstart="051:024"
+     versend="051:024">51:24</q>) eingeleitet. Obwohl Moses – der hier erstmals eine tragende Rolle
+    in der Pharao-Erzählung erhält – in göttlichem Auftrag vor Pharao erscheint und diesem ein nicht
+    näher beschriebenes Wunderzeichen präsentiert (drittes Gesätz), leugnet Pharao und bezeichnet
+    sich sogar selbst gotteslästerlich als „höchsten Herrn“ seiner Untertanen; er ist dafür sowohl
+    im Diesseits als auch im Jenseits göttlicher Strafe verfallen (viertes Gesätz). Im Unterschied
+    zur biblischen Exoduserzählung fällt auf, dass Moses’ Auftreten am ägyptischen Hof hier allein
+    auf die Bekehrung Pharaos abzielt, nicht auf die in der Bibel im Zentrum stehende Befreiung der
+    Israeliten aus dem ägyptischen Frondienst. Wie andere biblische Propheten, etwa Noah, wird Moses
+    damit auf eine Weise präsentiert, welche die typologische Entsprechung aller früheren Gesandten
+    betont: Die ihnen gemeinsame Funktion besteht darin, ihre jeweiligen Adressaten diskursiv, durch
+    Verkündigung und Predigt, zum Glauben an Gottes Macht und die Realität des Gerichts zu bewegen
+    und nicht darin, als zentrale Akteure bestimmter Episoden einer sukzessiven Heilsgeschichte
+    (etwa die Erneuerung der Schöpfung nach der Sintflut oder den Auszug der Israeliten aus Ägypten)
+    zu handeln. Daraus ergibt sich zugleich eine Parallelisierung der prophetischen Funktion Moses’
+    mit derjenigen Muḥammads, die auch in der in etwa zeitgleichen <q type="koran"
+     versstart="053:000" versend="053:062">Sure 53</q> betont wird (s. <q type="koran"
+     versstart="053:018" versend="053:018">Q 53:18</q> mit <q type="anmerkung" versstart="053:018"
+     versend="053:018">Anmerkung</q>, wo die in <q type="koran" versstart="079:020"
+     versend="079:020">79:20</q> stehende Formulierung „er [Gott] ließ ihn [Moses] das große Zeichen
+    sehen“ auf Muḥammad bezogen wird). – Die Berufung Moses am Dornbusch (<q type="koran"
+     versstart="079:016" versend="079:019">V. 16–19</q>) erscheint in frühmekkanischer Periode nur
+    hier.</p>
+  </text>
+  <text versstart="027" versend="033" verfasser="nisi">
+   <p>Auf die Moses-Erzählung folgt ein polemischer <lang xml:lang="ar-Latn">ʾāyāt</lang>-Abschnitt
+     (<q type="koran" versstart="079:027" versend="079:033">V. 27–33</q>), der mit einer
+    argumentativen Anrede an die Hörer (<q type="koran" versstart="079:027" versend="079:027">V.
+     27</q>: „Wart ihr denn schwerer zu erschaffen oder der Himmel, den er baute …?“) jetzt direkt
+    auf den <q type="koran" versstart="079:010" versend="079:012">V. 10–12</q> referierten Zweifel
+    an der eschatologischen Auferstehung reagiert. Es folgt ein Hymnus über Gottes Erschaffung und
+    Ausstattung des Kosmos (<q type="koran" versstart="079:027" versend="079:029">V. 27–29</q>
+    Himmel, <q type="koran" versstart="079:030" versend="079:032">V. 30–32</q> Erde).</p>
+  </text>
+  <text versstart="034" versend="041" verfasser="nisi">
+   <p>Teil III (<q type="koran" versstart="079:034" versend="079:046">V. 34–46</q>) kehrt zurück zu
+    den im ersten Teil der Sure geschilderten Ereignissen der Endzeit: Während dort das
+    Hereinbrechen des Weltendes und die angstvolle Reaktion des Menschen darauf geschildert wurde,
+    folgt nun die Aburteilung der Menschen und ihre Bestrafung bzw. Belohnung. Wie das zweite Gesätz
+    von Teil I setzt auch Teil III mit einem eschatologischen Temporalsatz ein, der aus zwei
+    aufeinanderfolgenden Vordersätzen (<q type="koran" versstart="079:034" versend="079:034">V.
+     34</q>: <lang xml:lang="ar-Latn">ʾiḏā</lang>, <q type="koran" versstart="079:035"
+     versend="079:036">V. 35.36</q>: <lang xml:lang="ar-Latn">yauma</lang>) gebildet ist.
+    Bemerkenswert ist dabei, dass die Einsicht des Menschen in seine Lage (<q type="koran"
+     versstart="079:035" versend="079:035">V. 35</q>:
+    <lang xml:lang="ar-Latn">yauma yataḏakkaru l-ʾinsānu mā saʿā</lang>) wie auch die
+    Gerichtsvorbereitung (<q type="koran" versstart="079:036" versend="079:036">V. 36</q>:
+    <lang xml:lang="ar-Latn">wa-burrizati l-ǧaḥīmu li-man yarā</lang>) sonst üblicherweise Inhalt
+    des mit <lang xml:lang="ar-Latn">yaumaʾiḏin</lang> eingeleiteten Nachsatzes sind (<bibl
+     Zotero_Id_1="X6J8ZZSZ" Titel_1="Frühmekkanische Suren poetische Prophetie">Neuwirth,
+     Frühmekkanische Suren, 406</bibl>).</p>
+  </text>
+  <text versstart="042" versend="046" verfasser="nisi">
+   <p>Der Text endet wie viele spätere Suren mit einer Anrede des Verkünders. Die
+    literaturgeschichtliche Keimzelle solcher Prophetenanreden dürfte in den die <q type="koran"
+     versstart="093:000" versend="093:011">Trostsuren 93</q> (<q type="koran" versstart="093:009"
+     versend="093:011">V. 9–11</q>), <q type="koran" versstart="094:000" versend="094:008">94</q>
+     (<q type="koran" versstart="094:007" versend="094:008">V. 7.8</q>) und <q type="koran"
+     versstart="108:000" versend="108:003">108</q> (<q type="koran" versstart="108:002"
+     versend="108:002">V. 2</q>) abschließenden Imperativen liegen, die Muḥammad zu wohltätigem
+    Handeln gegenüber Waisen und Bettlern sowie zum Dank gegenüber Gott und zur Verkündigung der von
+    diesem empfangenen Wohltaten auffordern. Bereits dort lässt sich eine doppelte
+    Autorisierungswirkung solcher Aufrufe feststellen: Einerseits unterstreichen sie, dass die
+    Korantexte als unmittelbare Gottesrede anzusehen sind, andererseits betonen sie die
+    herausgehobene Stellung des Verkünders, dem eine individuelle Anrede seitens der Gottheit zuteil
+    wird. Es handelt sich also um eine literarische Form mit weitreichenden prophetologischen
+    Implikationen, die in Gruppe II der frühmekkanischen Suren als wirkungsvolles Mittel der
+    Auseinandersetzung mit Gegnern refunktionalisiert wird – was formal daran erkennbar ist, dass
+    derartige Verkünderanreden jetzt Objektausdrücke der dritten Person Plural enthalten (vgl. <q
+     type="koran" versstart="087:017" versend="087:017">87:17</q>: „So gewähre den Ungläubigen
+    Aufschub, gewähre ihnen ein wenig Aufschub!“, <q type="koran" versstart="084:024"
+     versend="084:024">84:24</q>: „So verkünde ihnen eine schmerzhafte Strafe!“ und <q type="koran"
+     versstart="088:021" versend="088:024">88:21–24</q>: „So mahne! Du bist ein Mahner, / du hast
+    keine Gewalt über sie.“; s. a. <q type="koran" versstart="096:019" versend="096:019">96:19</q>,
+    wo von einem prototypischen Widersacher im Singular die Rede ist: „Nein, gehorche ihm nicht!
+    Knie nieder und nahe dich!“). In diese Tendenz einer zunehmenden polemischen Indienstnahme der
+    literarischen Form der Verkünderanrede gehört auch die vorliegende, zu Gruppe IIIa zählende
+    Passage <q type="koran" versstart="079:042" versend="079:046">79:42–46</q>, die erstmals einen
+    direkten Einwand der Gegner – nämlich die spöttische Frage nach dem genauen Zeitpunkt des
+    Weltendes in <q type="koran" versstart="079:042" versend="079:042">V. 42</q> – wiedergibt. In
+    seiner Wortwahl verweist er auf <q type="koran" versstart="079:032" versend="079:032">V. 32</q>
+    zurück: Der selbe Gott, der die Berge gegründet hat, ist es auch, der den Zeitpunkt des
+    Weltendes festgelegt hat (<bibl Zotero_Id_1="5XJHJQDH"
+     Titel_1="Discovering the Qur'ān: a contemporary approach to a veiled text">Robinson 2003,
+     187</bibl>). Innerhalb von <q type="koran" versstart="079:000" versend="079:046">Q 79</q> waren
+    die Gegner bereits in <q type="koran" versstart="079:010" versend="079:012">V. 10–12</q> mit
+    einem zweifelnden Kommentar über die angedrohte Auferstehung der Toten zu Wort gekommen; das
+    Schlussgesätz nimmt damit das in <q type="koran" versstart="079:010" versend="079:010">V. 10</q>
+    begonnene und dann dem gesamten zweiten Surenteil unterliegende Streitgespräch wieder auf. Gegen
+    den an den Verkünder herangetragenen Anspruch auf chronologisch präzise apokalyptische
+    Voraussagen (<q type="koran" versstart="079:043" versend="079:043">V. 43</q>) wird noch einmal
+    seine spezifische Rolle als Warner klargestellt (<q type="koran" versstart="079:045"
+     versend="079:045">V. 45</q>), die nicht die Kompetenz zu einer genauen zeitlichen Ankündigung
+    des Weltendes umfasst (<q type="koran" versstart="079:044" versend="079:044">V. 44</q>).</p>
+   <p>Der abschließende eschatologische Temporalsatz (<q type="koran" versstart="079:046"
+     versend="079:046">V. 46</q>: „Am Tag, da sie sie erblicken, wird es sein, als hätten sie nur
+    einen Abend verweilt oder den darauffolgenden Morgen“) betont erneut die Plötzlichkeit, mit der
+    das Weltende eintreten wird und greift damit einen zentralen Gedanken des ersten Surenteils auf
+     (<bibl Zotero_Id_1="X6J8ZZSZ" Titel_1="Frühmekkanische Suren poetische Prophetie">Neuwirth,
+     Frühmekkanische Suren, 403</bibl>).</p>
+  </text>
+ </kommentar>
+</korankommentar>

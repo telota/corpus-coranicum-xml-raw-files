@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<korankommentar xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:noNamespaceSchemaLocation="Kommentar.xsd">
+ <sure id="104" webtauglich="true"/>
+ <surentitel>
+  <text versstart="000" versend="009" verfasser="tjj">
+   <p>Sure 104 — <lang xml:lang="ar-Latn">al-Humaza</lang> — »Der Verleumder«</p>
+  </text>
+ </surentitel>
+ <autorenkurz>
+  <text versstart="000" versend="009" verfasser="tjj">
+   <p>Übersetzt und analysiert von Nicolai Sinai</p>
+  </text>
+ </autorenkurz>
+ <datierungkurz>
+  <text versstart="000" versend="009" verfasser="nisi">
+   <p>Mekka I (Gruppe I)</p>
+  </text>
+ </datierungkurz>
+ <datierung>
+  <text versstart="000" versend="009" verfasser="nisi">
+   <p>Die frühmekkanische Sure (durchschnittliche Verslänge: 8,9 Silben) gehört genauer zu Gruppe I
+    der frühmekkanischen Texte, und zwar zum <hi rend="italic">cluster</hi> der kurzen, aus kleinen
+    Versgruppen aufgebauten Droh- und Scheltworte (<q type="koran" versstart="095:000"
+     versend="095:008">95</q>, <q type="koran" versstart="102:000" versend="102:008">102</q>, <q
+     type="koran" versstart="103:000" versend="103:003">103</q>, <q type="koran" versstart="107:000"
+     versend="107:007">107</q> und wohl auch noch <q type="koran" versstart="111:000"
+     versend="111:005">Q 111</q>), die chronologisch nach <q type="koran" versstart="105:000"
+     versend="105:005">Q 105</q> und <q type="koran" versstart="106:000" versend="106:004">Q 106</q>
+    und vor detaillierteren Ausmalungen des Jüngsten Gerichts wie <q type="koran"
+     versstart="100:000" versend="100:011">Q 100</q> und <q type="koran" versstart="101:000"
+     versend="101:011">101</q> anzusetzen sind (vgl. die Einleitung zu <q type="koran"
+     versstart="105:000" versend="105:005">Q 105</q>). Die Grundstruktur des Textes wird in der
+    späteren <q type="koran" versstart="083:000" versend="083:036">Sure 83</q> – die sich mit einer
+    durchschnittlichen Verslänge von 12,6 Silben und einer Gesamtlänge von immerhin 36 Versen Gruppe
+    IIIb der frühmekkanischen Suren zuordnen lässt – aufgegriffen und weiter ausdifferenziert.</p>
+  </text>
+ </datierung>
+ <literarkritikkurz>
+  <text versstart="000" versend="009" verfasser="nisi">
+   <p>Keine Einschübe</p>
+  </text>
+ </literarkritikkurz>
+ <literarkritik>
+  <text versstart="000" versend="009" verfasser="nisi">
+   <p>Die Sure ist eine Einheit, für literarkritische Scheidungen besteht weder stilistisch noch
+    inhaltlich Anlass.</p>
+  </text>
+ </literarkritik>
+ <aufbauinhalt>
+  <text versstart="000" versend="009" verfasser="nisi">
+   <p>Der Text gliedert sich in zwei Gesätze, von denen das zweite mit einer Lehrfrage (<q
+     type="koran" versstart="104:005" versend="104:005">V. 5</q>) an die das erste Gesätz
+    abschließende Drohung anknüpft. Dabei ist die auf <q type="koran" versstart="104:005"
+     versend="104:005">V. 5</q> folgende Antwort (<q type="koran" versstart="104:006"
+     versend="104:009">V. 6–9</q>) mit vier Versen genauso lang wie das Anfangsgesätz. Auch reimlich
+    sind <q type="koran" versstart="104:006" versend="104:009">V. 6–9</q> besonders eng miteinander
+    verknüpft, insofern sie im Gegensatz zu den vorherigen Versen mit ihrem teilweisen Wechsel des
+    Reimkonsonanten in der Schlusssilbe durchgängig <lang xml:lang="ar-Latn">d</lang> aufweisen. –
+    Analog zum Aufbau alttestamentlicher Prophetensprüche (vgl. <bibl Zotero_Id_1="ZVSXIGXX"
+     Titel_1="Einleitung in das Alte Testament">Zenger 2004, 422</bibl>) lässt sich die Sure
+    inhaltlich in „Gegenwartskritik“ (<q type="koran" versstart="104:001" versend="104:003">V.
+     1–3</q>) und „Zukunftsaussage“ (<q type="koran" versstart="104:004" versend="104:004">V. 4</q>,
+    weiter entfaltet in <q type="koran" versstart="104:005" versend="104:009">V. 5–9</q>) gliedern,
+    was übrigens auch für <q type="koran" versstart="102:000" versend="102:008">Q 102</q> (s. ebd.)
+    gilt. Die „Zukunftsaussage“ setzt dem in <q type="koran" versstart="104:001" versend="104:003"
+     >V. 1–3</q> skizzierten Bild eines klug rechnenden und sich in der Welt behauptenden Kaufmanns
+    den alle innerweltliche Vorsorge zunichte machenden bzw. „zertrümmernden“ Höllenbrand entgegen.
+    Die zweiteilige Komposition der Sure (<q type="koran" versstart="104:001" versend="104:004">V.
+     1–4</q> vs. <q type="koran" versstart="104:006" versend="104:009">V. 6–9</q>, mit <q
+     type="koran" versstart="104:005" versend="104:005">V. 5</q> als Verbindungsstück) spiegelt so
+    den Gegensatz zwischen rationaler, auf diesseitige Sicherheit abzielender menschlicher Planung
+    einerseits und der ausschließlich nach moralischen Maßstäben erfolgenden göttlichen Vergeltung
+    andererseits. – Michel Cuypers versteht den Text als Ringkomposition um <q type="koran"
+     versstart="104:005" versend="104:005">V. 5</q> herum, wobei sich <q type="koran"
+     versstart="104:001" versend="104:004">V. 1–4</q> und <q type="koran" versstart="104:005"
+     versend="104:009">V. 5–9</q> seiner Meinung nach spiegelbildlich entsprechen (<bibl
+     Zotero_Id_1="TWPKV5E5" Titel_1="Structures rhétoriques des sourates 99 à 104">Cuypers 1999,
+     49–51</bibl>). Es ist jedoch fraglich, ob die von ihm herausgearbeiteten Korrespondenzen – etwa
+    der Gebrauch von Relativpronomina in <q type="koran" versstart="104:002" versend="104:002">V.
+     2</q> und <q type="koran" versstart="104:007" versend="104:007">V. 7</q> oder der Präposition
+    <lang xml:lang="ar-Latn">fī</lang> in <q type="koran" versstart="104:004" versend="104:004">V.
+     4</q> und <q type="koran" versstart="104:009" versend="104:009">V. 9</q> – tatsächlich eine
+    genuin spiegelbildliche Strukturierung des Textes leisten, auch wenn die internen Assonanzen in
+     <q type="koran" versstart="104:001" versend="104:001">V. 1</q>
+    (<lang xml:lang="ar-Latn">humaza lumaza</lang>) und <q type="koran" versstart="104:009"
+     versend="104:009">V. 9</q> (<lang xml:lang="ar-Latn">ʿamadin mumaddada</lang>) vielleicht einen
+    Rahmungseffekt erzeugen. Fraglich scheint mir aber vor allem, ob sich die Lehrfrage in <q
+     type="koran" versstart="104:005" versend="104:005">V. 5</q> wirklich als formaler und
+    inhaltlicher Mittelpunkt (Cuypers: „membre central“) der Sure beschreiben lässt: Koranische
+    Lehrfragen, die sich auch sonst häufig auf enigmatische Ausdrücke beziehen, bauen rhetorische
+    Spannung auf, die sich erst in der folgenden Bestimmung des Fragegegenstandes löst; mit einer
+    funktionsharmonischen Metapher könnte man sagen, dass sie den Charakter von Dominantakkorden
+    haben. Die Sure hat insofern ein Achtergewicht, ihr Klimax liegt in <q type="koran"
+     versstart="104:006" versend="104:009">V. 6–9</q>.</p>
+   <p>Strukturell ist ein Vergleich des Textes mit der z. T. aus ähnlichen literarischen Komponenten
+    zusammengesetzten <q type="koran" versstart="083:000" versend="083:036">Sure 83</q> von
+    Interesse: Beide beginnen mit einem Wehspruch mit Lasterkatalog (<q type="koran"
+     versstart="104:001" versend="104:002">104:1.2</q>, <q type="koran" versstart="083:001"
+     versend="083:003">83:1–3</q>), auf den eine an die Getadelten gerichtete polemische Frage folgt
+     (<q type="koran" versstart="104:003" versend="104:003">104:3</q>, <q type="koran"
+     versstart="083:004" versend="083:006">83:4–6</q>); hieran schließt sich in beiden Fällen ein
+    durch <lang xml:lang="ar-Latn">kallā</lang> eingeleiteter Aufruf an (<q type="koran"
+     versstart="104:004" versend="104:004">104:4</q>, <q type="koran" versstart="083:007"
+     versend="083:007">83:7</q>), der jeweils einen enigmatischen Ausdruck (<q type="koran"
+     versstart="104:004" versend="104:004">104:4</q>: <lang xml:lang="ar-Latn">al-ḥuṭama</lang>, <q
+     type="koran" versstart="083:007" versend="083:007">83:7</q>:
+    <lang xml:lang="ar-Latn">siǧǧīn</lang>) enthält, welcher direkt im Anschluss zum Gegenstand
+    einer Lehrfrage (<q type="koran" versstart="104:005" versend="104:005">104:5</q>, <q
+     type="koran" versstart="083:008" versend="083:008">83:8</q>) gemacht wird; schließlich besteht
+    in beiden Suren der unmittelbar darauffolgende Vers aus einem Substantiv mit Attribut (<q
+     type="koran" versstart="104:006" versend="104:006">104:6</q>:
+    <lang xml:lang="ar-Latn">nāru llāhi l-mūqadah</lang>, <q type="koran" versstart="083:009"
+     versend="083:009">83:9</q>: <lang xml:lang="ar-Latn">kitābun marqūm</lang>). <q type="koran"
+     versstart="083:000" versend="083:036">Sure 83</q>, unter stilistischem Gesichtspunkt eindeutig
+    der spätere Text, differenziert diesen Grundaufbau von <q type="koran" versstart="104:000"
+     versend="104:009">Q 104</q> dann weiter aus, indem sie das Lehrfragen-Gesätz zu einer
+    symmetrischen Gegenüberstellung von Seligen und Verdammten ausgestaltet: Der
+    <lang xml:lang="ar-Latn">kallā</lang>-Ausruf in <q type="koran" versstart="083:007"
+     versend="083:007">V. 7</q> bildet die erste Hälfte einer Antithese, deren zweiter Teil ab <q
+     type="koran" versstart="083:018" versend="083:018">V. 18</q> ebenfalls mit einer
+    <lang xml:lang="ar-Latn">kallā</lang>-Interjektion beginnt, an die wie zuvor an <q type="koran"
+     versstart="083:007" versend="083:007">V. 7</q> ebenfalls eine Lehrfrage anknüpft.</p>
+  </text>
+ </aufbauinhalt>
+ <ueberblick>
+  <text versstart="000" versend="009" verfasser="tjj">
+   <p>
+    <table cols="2" rend="boxed" rows="5">
+     <head/>
+     <row>
+      <cell>
+       <hi rend="superscript"><q type="koran" versstart="104:001" versend="104:009">1–9</q></hi>
+       <hi rend="italic">3K(K)3Kah</hi> (in <q type="koran" versstart="104:006" versend="104:006">V.
+        6</q> variiert zu <hi rend="italic">2K3dah</hi>) mit vorherrschenden Explosiven</cell>
+      <cell>
+       <hi rend="bold">1</hi>
+       <hi rend="superscript"><q type="koran" versstart="104:001" versend="104:002">1.2</q></hi>
+       Wehspruch mit kurzem Lasterkatalog</cell>
+     </row>
+     <row>
+      <cell/>
+      <cell>
+       <hi rend="superscript"><q type="koran" versstart="104:003" versend="104:003">3</q></hi>
+       Scheltwort</cell>
+     </row>
+     <row>
+      <cell/>
+      <cell>
+       <hi rend="superscript"><q type="koran" versstart="104:004" versend="104:004">4</q></hi>
+       Drohwort</cell>
+     </row>
+     <row>
+      <cell/>
+      <cell>
+       <hi rend="bold">2</hi>
+       <hi rend="superscript"><q type="koran" versstart="104:005" versend="104:005">5</q></hi>
+       Lehrfrage nach der <lang xml:lang="ar-Latn">ḥuṭama</lang>
+      </cell>
+     </row>
+     <row>
+      <cell/>
+      <cell>
+       <hi rend="superscript"><q type="koran" versstart="104:006" versend="104:009">6–9</q></hi>
+       Antwort: Höllenbeschreibung</cell>
+     </row>
+    </table>
+   </p>
+   <p>Proportionen: 4+5.</p>
+  </text>
+ </ueberblick>
+ <anmerkungen>
+  <text versstart="000" versend="000" verfasser="nisi">
+   <p><lem>bi-smi llāhi r-raḥmāni r-raḥīm]</lem> Zur Basmala s. die entsprechende <q
+     type="anmerkung" versstart="093:000" versend="093:000">Anmerkung zu 93</q>; zum Gottesnamen
+    <lang xml:lang="ar-Latn">raḥmān</lang> s. die <q type="anmerkung" versstart="055:001"
+     versend="055:001">Anmerkung zu 55:1</q>.</p>
+  </text>
+  <text versstart="001" versend="003" verfasser="nisi">
+   <p>Durch <lang xml:lang="ar-Latn">wail</lang> eingeleitete Wehsprüche mit folgendem Lasterkatalog
+    finden sich sonst noch in <q type="koran" versstart="107:004" versend="107:007">107:4–7</q>, <q
+     type="koran" versstart="083:001" versend="083:003">83:1–3</q>, <q type="koran"
+     versstart="083:010" versend="083:011">83:10.11</q> und <q type="koran" versstart="052:011"
+     versend="052:012">52:11.12</q> (vgl. noch den abschließenden Wehspruch in <q type="koran"
+     versstart="051:060" versend="051:060">51:60</q>). Besonders nahe steht der vorliegenden Sure
+    der Passus <q type="koran" versstart="083:001" versend="083:006">83:1–6</q>
+    (<lang xml:lang="ar-Latn">wailun li-l-muṭaffifīn / allaḏīna ʾiḏă ktālu ʿală n-nāsi yastaufūn / wa-ʾiḏā kālūhum ʾau wazanūhum yuḫsirūn / ʾa-lā yaẓunnū ʾulāʾika ʾannahum mabʿuṯūn …</lang>):
+    Inhaltlich geht es dort ebenfalls um die Akkumulation von Besitz, und strukturell weist die
+    Passage die weitere Gemeinsamkeit mit <q type="koran" versstart="104:000" versend="104:009">Q
+     104</q> auf, dass nach dem Wehspruch eine rhetorische Frage an die Getadelten folgt. –
+    Wehsprüche als grundlegende Form prophetischer Rede begegnen bereits in der Hebräischen Bibel
+    (vgl. etwa <q type="bibel" buch="Mi" versstart="002:001" versend="002:003">Micha 2:1–3</q>).</p>
+  </text>
+  <text versstart="001" versend="001" verfasser="nisi">
+   <p><lem>kulli humazatin lumazah]</lem> Bei dem Bildungsschema
+    <lang xml:lang="ar-Latn">fuʿala</lang> mit einem Emphase ausdrückenden
+    <lang xml:lang="ar-Latn">tāʾ marbūṭa</lang> (<lang xml:lang="ar-Latn">li-l-mubālaġa</lang>)
+    handelt es sich um ein auch sonst belegtes Intensivum für menschliches Verhalten, vgl. die
+    Beispiele bei <bibl Zotero_Id_1="SZ3IM9DZ">Wright, Bd. 1, 139</bibl>:
+    <lang xml:lang="ar-Latn">suʾala</lang>, <lang xml:lang="ar-Latn">ḍuḥaka</lang>,
+    <lang xml:lang="ar-Latn">quwala</lang> etc. Die beiden zugrunde liegenden Wurzeln erscheinen
+    auch an anderer Stelle im Koran: Die Wurzel <lang xml:lang="ar-Latn">h-m-z</lang> tritt noch in
+     <q type="koran" versstart="068:011" versend="068:011">68:11</q>
+    (<lang xml:lang="ar-Latn">hammāzin maššāʾin bi-namīm</lang>) und <q type="koran"
+     versstart="023:097" versend="023:097">23:97</q>
+    (<lang xml:lang="ar-Latn">hamazāt aš-šayāṭīn</lang>) auf; insbesondere aus der ersten Stelle, wo
+    der Intensivform <lang xml:lang="ar-Latn">hammāz</lang> die wohl synonyme Wendung „der mit
+    Verleumdungen umhergeht“ (<lang xml:lang="ar-Latn">maššāʾin bi-namīm</lang>) folgt, lässt sich
+    die Übersetzung <lang xml:lang="ar-Latn">humaza = „Verleumder“</lang> begründen. Die zweite
+    Wurzel, <lang xml:lang="ar-Latn">l-m-z</lang>, ist in der Konstruktion
+    <lang xml:lang="ar-Latn">lamaza</lang> + Obj. + <lang xml:lang="ar-Latn">fī …</lang> koranisch
+    sogar mehrfach belegt, nämlich in <q type="koran" versstart="009:058" versend="009:058">9:58</q>
+    (<lang xml:lang="ar-Latn">man yalmizuka fĭ ṣ-ṣadaqāt</lang>), <q type="koran"
+     versstart="009:079" versend="009:079">9:79</q> (ähnlich) und <q type="koran"
+     versstart="049:011" versend="049:011">49:11</q> (wo <lang xml:lang="ar-Latn">lamaza</lang>
+    zumindest teilweise synonym mit <lang xml:lang="ar-Latn">saḫira</lang> und
+    <lang xml:lang="ar-Latn">tanābara</lang> sein muss); die aus dem koranischen Gebrauch zu
+    erschließende Bedeutung „üble Nachrede über jdn. verbreiten“ o. ä. (vgl. <bibl
+     Zotero_Id_1="H2WXXJ93" Titel_1="Wörterbuch der klassischen arabischen Sprache"><hi
+      rend="italic">WKAS</hi>, s. v. <hi rend="italic">l-m-z</hi></bibl>: „hinterrücks über j-n
+    reden, j-n (heimlich) verleumden, über j-n herziehen, lästern“) deckt sich offenbar weitgehend
+    mit <lang xml:lang="ar-Latn">h-m-z</lang>, so dass <lang xml:lang="ar-Latn">humaza</lang> und
+    <lang xml:lang="ar-Latn">lumaza</lang> als Synonyma zu betrachten sind.</p>
+  </text>
+  <text versstart="002" versend="002" verfasser="nisi">
+   <p><lem>allaḏī ǧamaʿa mālan wa-ʿaddadah]</lem> Da es sich um ein aspektuelles Perfekt handeln
+    dürfte (vgl. die <q type="anmerkung" versstart="096:001" versend="096:002">Anmerkung zu
+     96:1.2</q>), wurde mit dem deutschen Präsens übersetzt.</p>
+  </text>
+  <text versstart="003" versend="003" verfasser="nisi">
+   <p><lem>yaḥsabu]</lem> Auf der Grundlage eines Vergleichs der vier weiteren frühmekkanischen
+    Vorkommnisse von <lang xml:lang="ar-Latn">yaḥsabu</lang> (<q type="koran" versstart="075:003"
+     versend="075:003">75:3</q>.<q type="koran" versstart="075:036" versend="075:036">36</q>, <q
+     type="koran" versstart="090:005" versend="090:005">90:5</q>.<q type="koran" versstart="090:007"
+     versend="090:007">7</q>), in denen dem Wort stets die Fragepartikel
+    <lang xml:lang="ar-Latn">ʾa</lang>- vorausgeht, und insbesondere mit <q type="koran"
+     versstart="083:001" versend="083:006">83:1–6</q> (wo auf einen <q type="koran"
+     versstart="104:001" versend="104:001">104:1</q> analogen Wehspruch eine durch
+    <lang xml:lang="ar-Latn">ʾa-lā yaẓunnu</lang> eingeleitete polemische Frage folgt), hat Neuwirth
+    dafür argumentiert, <lang xml:lang="ar-Latn">yaḥsabu</lang> in <q type="koran"
+     versstart="104:004" versend="104:004">104:4</q> zu <lang xml:lang="ar-Latn">ʾa-yaḥsabu</lang>
+    zu emendieren (<bibl Zotero_Id_1="4WEWN8NZ"
+     Titel_1="Studien zur Komposition der mekkanischen Suren">Neuwirth, Studien, 233 f.</bibl>). In
+    ihrer jüngsten Veröffentlichung scheint sie jedoch von der Forderung nach einer regelrechten
+    Emendation wieder Abstand zu nehmen (<bibl Zotero_Id_1="X6J8ZZSZ"
+     Titel_1="Frühmekkanische Suren poetische Prophetie">Neuwirth, Frühmekkanische Suren,
+    148</bibl>).</p>
+   <p><lem>ʾanna mālahū ʾaḫladah]</lem> Das Streben nach „Ewigkeit“ bzw. „Unsterblichkeit“
+    (<lang xml:lang="ar-Latn">ḫuld</lang>) ist ein Motiv der altarabischen Dichtung, s. allg. <bibl
+     Zotero_Id_1="GZUBHJWN"
+     Titel_1="Ich bin Labīd und das ist mein Ziel zum Problem d. Selbstbehauptung in d. altar"
+     >Müller 1981, 97 ff.</bibl>. Neuwirth verweist auf einen Vers aus der Muʿallaqa Ṭarafas (V.
+    54):
+    <lang xml:lang="ar-Latn">ʾa-lā ʾayyuhā ḏă z-zāǧirī ʾaḥḍura l-waġā / wa-ʾan ʾašhada l-laḏḏāti hal ʾanta muḫlidi?</lang>
+     (<bibl Zotero_Id_1="UIC8IJC4"
+     Titel_1="The Divans of the six ancient Arabic poets Ennābiga Antara Tharafa Zuhair ">Ahlwardt
+     1870, 57</bibl> ; vgl. die Übersetzung in <bibl Zotero_Id_1="ZB4ZXXZU"
+     Titel_1="On the art of medieval Arabic literature">Hamori 1974, 9</bibl>: „O you who reproach
+    me because I am found in the midst of war as well as of pleasure, can you make me endure
+    forever?“), s. <bibl Zotero_Id_1="X6J8ZZSZ" Titel_1="Frühmekkanische Suren poetische Prophetie"
+     >Neuwirth, Frühmekkanische Suren, 148</bibl>.</p>
+  </text>
+  <text versstart="004" versend="004" verfasser="nisi">
+   <p><lem>al-ḥuṭamah]</lem> Die Tatsache, dass der lexikalisch sonst nicht belegte Ausdruck
+    <lang xml:lang="ar-Latn">al-ḥuṭama</lang> Anlass für eine Lehrfrage bietet, macht deutlich, dass
+    auch von den unmittelbar durch den Text angesprochenen Hörern nicht erwartet wurde, dass ihnen
+    der Ausdruck ohne weiteres verständlich war; die teilweise Unklarheit des Wortes dürfte also
+    durchaus als rhetorischer Effekt intendiert sein (ähnliches gilt etwa auch für die Bezeichnung
+    der Hölle als <lang xml:lang="ar-Latn">saqar</lang> in <q type="koran" versstart="074:026"
+     versend="074:027">74:26.27</q>). Wie bei den Worten <lang xml:lang="ar-Latn">humaza</lang> und
+    <lang xml:lang="ar-Latn">lumaza</lang> handelt es sich auch hier um eine Verbindung der
+    ungewöhnlichen Form <lang xml:lang="ar-Latn">fuʿala</lang> mit einer semantisch
+    unproblematischen und andernorts im Koran belegten Wurzel, nämlich
+    <lang xml:lang="ar-Latn">ḥ-ṭ-m</lang>, „zerschlagen, zerschmettern“ (vgl. <q type="koran"
+     versstart="027:018" versend="027:018">27:18</q>: <lang xml:lang="ar-Latn">yaḥṭimu</lang>; vgl.
+    a. <q type="koran" versstart="039:021" versend="039:021">39:21</q>, <q type="koran"
+     versstart="056:065" versend="056:065">56:65</q> und <q type="koran" versstart="057:020"
+     versend="057:020">57:20</q> mit <lang xml:lang="ar-Latn">ḥuṭām</lang>). Insofern Adjektive der
+    Form <lang xml:lang="ar-Latn">fuʿala</lang> üblicherweise Intensiva menschlicher
+    Verhaltensweisen darstellen (vgl. die <q type="koran" versstart="104:001" versend="104:001"
+     >Anmerkung zu V. 1</q>), impliziert die Bezeichnung der Hölle als
+    <lang xml:lang="ar-Latn">al-ḥuṭama</lang> eine Personifikation. – Überliefert wird auch die
+    Lesung <lang xml:lang="ar-Latn">al-ḥāṭima</lang> (vgl. <bibl Zotero_Id_1="KVFTU3XN"
+     Titel_1="Muʿǧam al-qirāʾāt">Muʿǧam, ad loc.</bibl>); doch auch wenn Partizipien im Koran häufig
+    als Bezeichnungen für den Jüngsten Tag stehen, so ist <lang xml:lang="ar-Latn">al-ḥuṭama</lang>
+    aufgrund seiner morphologischen Entsprechung zu <q type="koran" versstart="104:001"
+     versend="104:009">V. 1</q> doch vorzuziehen. – Der morphologische Rückbezug von <q type="koran"
+     versstart="104:004" versend="104:004">V. 4</q> auf den Eröffnungsvers ist mit <q type="koran"
+     versstart="101:000" versend="101:011">Q 101</q> zu vergleichen: Dort verweist das zentrale
+    Stichwort <lang xml:lang="ar-Latn">hāwiya</lang> aus <q type="koran" versstart="101:011"
+     versend="101:011">V. 11</q> (<lang xml:lang="ar-Latn">fa-ʾummuhū hāwiya</lang>) ebenfalls
+    morphologisch auf die als Partizip Aktiv gebildete Bezeichnung des Weltendes als
+    <lang xml:lang="ar-Latn">qāriʿa</lang> in <q type="koran" versstart="101:001" versend="101:002"
+     >V. 1.2</q> zurück (<bibl Zotero_Id_1="X6J8ZZSZ"
+     Titel_1="Frühmekkanische Suren poetische Prophetie">Neuwirth, Frühmekkanische Suren,
+    149</bibl>).</p>
+  </text>
+  <text versstart="006" versend="006" verfasser="nisi">
+   <p><lem>nāru llāhi l-mūqadah]</lem> Zu <lang xml:lang="ar-Latn">nār</lang> vgl. die <q
+     type="anmerkung" versstart="111:003" versend="111:003">Anmerkung zu 111:3</q>, zum Gottesnamen
+    <lang xml:lang="ar-Latn">Allāh</lang> die <q type="anmerkung" versstart="095:008"
+     versend="095:008">Anmerkung zu 95:8</q>. Neuwirth ist der Ansicht, bei dem hier genannten
+    „Feuer Gottes“ sei „noch nicht an die später so oft fokussierte Hölle als kollektiven Strafort
+    gedacht“ (<bibl Zotero_Id_1="X6J8ZZSZ" Titel_1="Frühmekkanische Suren poetische Prophetie"
+     >Neuwirth, Frühmekkanische Suren, 151</bibl>; vgl. die nochmalige Wiederholung dieser These
+     <bibl Zotero_Id_1="X6J8ZZSZ" Titel_1="Frühmekkanische Suren poetische Prophetie">ebd.,
+     153</bibl>) und bestreitet, dass der Text eschatologisch zu verstehen sei (<bibl
+     Zotero_Id_1="X6J8ZZSZ" Titel_1="Frühmekkanische Suren poetische Prophetie">ebd., 172</bibl> ,
+    wo es über <q type="koran" versstart="100:000" versend="100:011">Sure 100</q>heißt, diese sei
+    „nicht mehr wie Q 104 rein polemisch, sondern gleichzeitig bereits eschatologisch geprägt“). Das
+    ist allerdings wenig plausibel: Dass es sich beim „Feuer Gottes“ um ein <hi rend="italic"
+     >jenseitiges</hi> Feuer handelt, ist meines Erachtens kaum sinnvoll in Abrede stellen, zumal
+    Neuwirth selbst etwas später von einer „eher poetisch geprägte[n] Imagination des endzeitlichen
+    Feuers“ (<bibl Zotero_Id_1="X6J8ZZSZ" Titel_1="Frühmekkanische Suren poetische Prophetie"
+     >Neuwirth, Frühmekkanische Suren, 151</bibl>) und sogar von einer „Androhung jenseitiger
+    Strafe“ (<bibl Zotero_Id_1="X6J8ZZSZ" Titel_1="Frühmekkanische Suren poetische Prophetie"
+     >Neuwirth, Frühmekkanische Suren, 152</bibl>) spricht; und dass das „Feuer Gottes“ Instrument
+    einer <hi rend="italic">kollektiven</hi>, d. h. nicht nur einem einzelnen zugedachten Bestrafung
+    ist, ergibt sich sowohl aus dem Anfangsvers („Wehe <hi rend="italic">einem jeden</hi> Verleumder
+    und Schmähredner!“) als auch aus dem Plural „Herzen“ in <q type="koran" versstart="101:007"
+     versend="101:007">V. 7</q>.</p>
+  </text>
+  <text versstart="007" versend="007" verfasser="nisi">
+   <p><lem>taṭṭaliʿu ʿală l-ʾafʾidah]</lem> Das Verb <lang xml:lang="ar-Latn">iṭṭalaʿa</lang> ist
+    VIII. Stamm von <lang xml:lang="ar-Latn">ṭalaʿa</lang>, „auf-, emporsteigen“.
+    <lang xml:lang="ar-Latn">Iṭṭalaʿa ʿalā</lang> bedeutet den Lexika zufolge „von oben herabblicken
+    auf“ bzw. „von oben umfassend im Blick haben“, und davon abgeleitet dann auch allg. „von einer
+    Sache Kenntnis erlangen“ o. Ä.; im vorliegenden Kontext steht wohl vor allem die Konnotation des
+    Umfassens im Vordergrund. Zum semantischen Feld von <lang xml:lang="ar-Latn">fuʾād</lang>,
+    „Herz“, s. <bibl Zotero_Id_1="XJSBMSQE" Titel_1="Altarabisch Herz und sein Wortfeld"
+     >Seidensticker 1992</bibl>; vgl. auch die im Kontext einer Visionsschilderung stehende
+    Erwähnung des „Herzens“ in <q type="koran" versstart="053:011" versend="053:011">53:11</q>
+    (<lang xml:lang="ar-Latn">mā kaḏaba l-fuʾādu mā raʾā</lang>).</p>
+  </text>
+  <text versstart="008" versend="008" verfasser="nisi">
+   <p><lem>muʾṣada]</lem> Vgl. <q type="koran" versstart="090:020" versend="090:020">90:20</q>
+    (<lang xml:lang="ar-Latn">ʿalaihim nārun muʾṣada</lang>).</p>
+  </text>
+ </anmerkungen>
+ <kommentar>
+  <text versstart="001" versend="004" verfasser="nisi">
+   <p>Der einleitende Wehspruch mit Lasterkatalog (<q type="koran" versstart="104:001"
+     versend="104:002">V. 1.2</q>) sowie das anschließende Scheltwort entwerfen das Charakterporträt
+    eines prototypischen Sünders. Hervorstechendes Merkmal desselben ist ein unbegründetes Vertrauen
+    auf die „Unvergänglichkeit verleihende“ (<lang xml:lang="ar-Latn">ʾaḫlada</lang>, <q
+     type="koran" versstart="104:003" versend="104:003">V. 3</q>) Macht des Geldes, welches offenbar
+    eine mit unsolidarischem Sozialverhalten (<q type="koran" versstart="104:001" versend="104:001"
+     >V. 1</q>) einhergehende schrankenlose Kapitalakkumulation motiviert (<q type="koran"
+     versstart="104:002" versend="104:002">V. 2</q>). Das kritisierte Verhalten bildet damit das
+    genaue Gegenteil der in <q type="koran" versstart="090:006" versend="090:006">90:6</q>
+    angeprangerten ostentativen Besitz<hi rend="italic">verschwendung</hi>, die eher dem heroischen
+    Ideal der altarabischen Dichtung entspricht. So gegensätzlich beide Handlungsweisen jedoch
+    zunächst scheinen mögen, so liegt ihnen aus koranischer Perspektive doch gleichermaßen die
+    illusorische Vorstellung zugrunde, der Mensch könne sich aus eigener Kraft „Unvergänglichkeit“
+    (<lang xml:lang="ar-Latn">ḫuld</lang>) sichern. Dieser Haltung setzt <q type="koran"
+     versstart="104:004" versend="104:004">V. 4</q> die Androhung jenseitiger Bestrafung entgegen:
+    Das Handeln des Getadelten hat gerade nicht seine Unsterblichkeit zur Folge, sondern zieht im
+    Gegenteil seine „Zertrümmerung“ (<lang xml:lang="ar-Latn">ḥ-ṭ-m</lang>) in der Hölle nach sich.
+    Dabei verweist die überraschende Bezeichnung der Hölle mittels der üblicherweise auf Personen
+    angewandten Bildungsform <lang xml:lang="ar-Latn">fuʿala</lang> auf <q type="koran"
+     versstart="104:001" versend="104:001">V. 1</q> zurück, wo dieselbe morphologische Form zur
+    Beschreibung negativer Verhaltensweisen des Verdammten gebraucht wird: Während er im Diesseits
+    durch sein verleumderisches Verhalten andere schädigt, wird er im Jenseits als Strafe dafür
+    selbst geschädigt (vgl. <bibl Zotero_Id_1="TWPKV5E5"
+     Titel_1="Structures rhétoriques des sourates 99 à 104">Cuypers 1999, 50</bibl>, der im
+    Anschluss an Rāzī dieselbe Beobachtung macht). Der Text unterstreicht damit auf sprachlicher
+    Ebene die Korrespondenz zwischen der von den Missetätern zu gewärtigenden Vergeltung und ihrem
+    eigenen früheren Tun.</p>
+  </text>
+  <text versstart="005" versend="009" verfasser="nisi">
+   <p>Wie auch in anderen frühen Suren vollzieht sich die Ankündigung der auf die angeprangerten
+    Laster folgenden Strafe in zwei sich steigernden rhetorischen Schritten (vgl. zu einer ähnlichen
+    rhetorischen Struktur die Analyse von <q type="koran" versstart="111:000" versend="111:005">Q
+     111</q> mit weiteren Verweisen): Auf eine erste, mit dem Gebrauch von
+    <lang xml:lang="ar-Latn">ḥuṭama</lang> noch unbestimmt formulierte Strafankündigung in <q
+     type="koran" versstart="104:004" versend="104:004">V. 4</q> folgt ein diese konkretisierendes
+    eschatologisches Bild, welches dem Hörer das am Ende des ersten Gesätzes zunächst noch
+    unbestimmt gelassene Jenseitsschicksal der „Verleumder und Tadler“ in drastischer Deutlichkeit
+    vor Augen führt: Die Verdammten fallen einem sie gänzlich verschlingenden (<q type="koran"
+     versstart="104:007" versend="104:007">V. 7</q>: <lang xml:lang="ar-Latn">taṭṭaliʿu ʿalā</lang>)
+    und sie restlos bedeckenden (<q type="koran" versstart="104:008" versend="104:008">V. 8</q>:
+    <lang xml:lang="ar-Latn">ʾinnahā ʿalaihim muʾṣadah</lang>) Höllenbrand anheim. Der Vergleich des
+    auflodernden Höllenfeuers mit aufragenden Säulen lässt ein der altarabischen Dichtung verwandtes
+    Interesse an poetischer Deskription erkennen.</p>
+  </text>
+ </kommentar>
+</korankommentar>
